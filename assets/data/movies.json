@@ -1,0 +1,466 @@
+[
+	{
+		"name"    : "American Made",
+		"year"    : "2017",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 3,
+			"plot"       : 10,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 2,
+			"genre"      : 8,
+			"references" : 2,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Anchorman",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 6,
+			"nostalgia"  : 10,
+			"plot"       : 8.8,
+			"music"      : 4,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Dodgeball",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 5,
+			"nostalgia"  : 9,
+			"plot"       : 7,
+			"music"      : 4,
+			"rewatch"    : 9,
+			"characters" : 7,
+			"genre"      : 10,
+			"references" : 9,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Elf",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 6,
+			"nostalgia"  : 8,
+			"plot"       : 8,
+			"music"      : 8.4,
+			"rewatch"    : 10,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Ferris Bueller's Day Off",
+		"year"    : "1986",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 4,
+			"nostalgia"  : 4,
+			"plot"       : 7,
+			"music"      : 8,
+			"rewatch"    : 8,
+			"characters" : 5,
+			"genre"      : 8,
+			"references" : 10,
+			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Sorcerer's Stone",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 6,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Chamber of Secrets",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 7,
+			"characters" : 9.6,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Prisoner of Azkaban",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 10,
+			"rewatch"    : 7,
+			"characters" : 9.2,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.8
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Goblet of Fire",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 8,
+			"characters" : 9.4,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Order of the Phoenix",
+		"year"    : "2007",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 9,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Half-Blood Prince",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 9,
+			"plot"       : 9,
+			"music"      : 10,
+			"rewatch"    : 6.4,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.6
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Deathly Hallows 1",
+		"year"    : "2010",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 8,
+			"music"      : 10,
+			"rewatch"    : 7,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.8
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Deathly Hallows 2",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 7,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Pacific Rim",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 6,
+			"rewatch"    : 2,
+			"characters" : 2,
+			"genre"      : 6,
+			"references" : 1,
+			"bias"       : 3
+		}
+	},
+	{
+		"name"    : "Pinocchio",
+		"year"    : "1940",
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 10,
+			"nostalgia"  : 2,
+			"plot"       : 6,
+			"music"      : 8,
+			"rewatch"    : 3,
+			"characters" : 7,
+			"genre"      : 5,
+			"references" : 8,
+			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Scary Movie 3",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 7,
+			"nostalgia"  : 8,
+			"plot"       : 5,
+			"music"      : 7,
+			"rewatch"    : 10,
+			"characters" : 5,
+			"genre"      : 9,
+			"references" : 10,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Spaceballs",
+		"year"    : "1987",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 8,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 6,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Star Wars Episode I: The Phantom Menace",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 7,
+			"plot"       : 8,
+			"music"      : 10,
+			"rewatch"    : 5,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Star Wars Episode II: Attack of the Clones",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 9,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Star Wars Episode III: Revenge of the Sith",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 9,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 6.6,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Star Wars Episode IV: A New Hope",
+		"year"    : "1977",
+		"ratings" : {
+			"humor"      : 4.6,
+			"visuals"    : 10,
+			"nostalgia"  : 8,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.6
+		}
+	},
+	{
+		"name"    : "Star Wars Episode V: The Empire Strikes Back",
+		"year"    : "1980",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 10,
+			"nostalgia"  : 6,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 5,
+			"characters" : 8,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.3
+		}
+	},
+	{
+		"name"    : "Star Wars Episode VI: Return of the Jedi",
+		"year"    : "1983",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 10,
+			"nostalgia"  : 7,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 6,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.7
+		}
+	},
+	{
+		"name"    : "Star Wars Episode VII: The Force Awakens",
+		"year"    : "2015",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 10,
+			"nostalgia"  : 7,
+			"plot"       : 7,
+			"music"      : 10,
+			"rewatch"    : 8,
+			"characters" : 7.6,
+			"genre"      : 10,
+			"references" : 9.5,
+			"bias"       : 9.4
+		}
+	},
+	{
+		"name"    : "Star Wars Episode VIII: The Last Jedi",
+		"year"    : "2017",
+		"ratings" : {
+			"humor"      : 7.4,
+			"visuals"    : 10,
+			"nostalgia"  : 6.6,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 6,
+			"characters" : 8,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9.8
+		}
+	},
+	{
+		"name"    : "Star Wars Rogue One",
+		"year"    : "2016",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 6,
+			"plot"       : 7,
+			"music"      : 7,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 8,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Interview",
+		"year"    : "2014",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 8,
+			"music"      : 10,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 9,
+			"references" : 8,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "This Is The End",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 6,
+			"nostalgia"  : 7,
+			"plot"       : 8,
+			"music"      : 10,
+			"rewatch"    : 8.4,
+			"characters" : 8,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Tropic Thunder",
+		"year"    : "2008",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 6,
+			"nostalgia"  : 6,
+			"plot"       : 8,
+			"music"      : 8,
+			"rewatch"    : 10,
+			"characters" : 4,
+			"genre"      : 7,
+			"references" : 9,
+			"bias"       : 7.5
+		}
+	}
+]

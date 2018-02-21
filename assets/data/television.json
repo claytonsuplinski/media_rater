@@ -1,0 +1,34 @@
+[
+	{
+		"name"    : "Seinfeld",
+		"year"    : "1989",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 7,
+			"nostalgia"  : 9,
+			"plot"       : 10,
+			"music"      : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 9,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 10
+		}
+	}
+]

@@ -1,0 +1,82 @@
+[
+	{
+		"name"    : "Diddy Kong Racing",
+		"year"    : "1997",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 6,
+			"plot"        : 7,
+			"content"     : 10,
+			"mechanics"   : 9,
+			"reliability" : 10,
+			"replay"      : 10,
+			"soundtrack"  : 9.5,
+			"nostalgia"   : 10,
+			"bias"        : 9.5
+		}
+	},
+	{
+		"name"    : "Kingdom Hearts",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 10,
+			"plot"        : 10,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 10,
+			"replay"      : 8,
+			"soundtrack"  : 10,
+			"nostalgia"   : 10,
+			"bias"        : 10
+		}
+	},
+	{
+		"name"    : "Kingdom Hearts II",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 10,
+			"plot"        : 10,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 10,
+			"replay"      : 8,
+			"soundtrack"  : 10,
+			"nostalgia"   : 10,
+			"bias"        : 9.9
+		}
+	},
+	{
+		"name"    : "Mario Kart 64",
+		"year"    : "1996",
+		"ratings" : {
+			"visuals"     : 4,
+			"characters"  : 10,
+			"plot"        : 1,
+			"content"     : 8,
+			"mechanics"   : 7,
+			"reliability" : 9,
+			"replay"      : 8,
+			"soundtrack"  : 8,
+			"nostalgia"   : 6,
+			"bias"        : 4
+		}
+	},
+	{
+		"name"    : "Star Wars Battlefront II",
+		"year"    : "2005",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 10,
+			"plot"        : 7,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 8,
+			"replay"      : 10,
+			"soundtrack"  : 10,
+			"nostalgia"   : 10,
+			"bias"        : 9
+		}
+	}
+]

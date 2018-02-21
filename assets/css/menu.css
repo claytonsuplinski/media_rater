@@ -1,0 +1,67 @@
+#menu{
+	position:fixed;
+	top:0;
+	left:0;
+	width:20%;
+	height:100%;
+	background:#222;
+	color:#ffe;
+	font-family:'Lobster Two';
+	overflow:auto;
+	
+	-webkit-transition:left 1s;
+	        transition:left 1s;
+}
+
+#menu.collapsed{
+	left:-20%;
+}
+
+#menu .logo{
+	width:50%;
+	background:linear-gradient(#6cbcff, #102d45);
+	border-radius:100%;
+	border:0.5vw solid #a73a47;
+	margin:1vw auto;
+	box-shadow:0.1vw 0.1vw 1vw -0.1vw red;
+}
+
+#menu .logo img{
+	width:80%;
+	margin:10%;
+	filter:sepia(0.5);
+}
+
+#menu .title{
+	width:100%;
+	text-align:center;
+	font-size:2.5vw;
+	color:#ffffa6;
+	text-shadow:0 0 1vw #ffffaf;
+}
+
+#menu .title hr{
+	margin-top:1vw;
+	margin-bottom:1vw;
+	border-color:#424242;
+}
+
+#menu .options{
+}
+
+#menu .option{
+	font-size:1.5vw;
+	color:#ceceff;
+	padding:0.5vw 5vw;
+	cursor:pointer;
+	
+	transition:0.3s color;
+}
+
+#menu .option:hover{
+	color:#fff;
+}
+
+#menu .option.active{
+	color:#ffa3a3;
+}	

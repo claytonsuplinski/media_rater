@@ -12,7 +12,23 @@
 			"replay"      : 10,
 			"soundtrack"  : 9.5,
 			"nostalgia"   : 10,
-			"bias"        : 9.5
+			"bias"        : 9
+		}
+	},
+	{
+		"name"    : "Grand Theft Auto V",
+		"year"    : "2013",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 4,
+			"plot"        : 9,
+			"content"     : 10,
+			"mechanics"   : 6,
+			"reliability" : 4,
+			"replay"      : 9,
+			"soundtrack"  : 8,
+			"nostalgia"   : 3,
+			"bias"        : 6
 		}
 	},
 	{
@@ -25,7 +41,7 @@
 			"content"     : 10,
 			"mechanics"   : 10,
 			"reliability" : 10,
-			"replay"      : 8,
+			"replay"      : 8.5,
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
 			"bias"        : 10
@@ -36,15 +52,15 @@
 		"year"    : "2006",
 		"ratings" : {
 			"visuals"     : 10,
-			"characters"  : 10,
+			"characters"  : 9.8,
 			"plot"        : 10,
 			"content"     : 10,
 			"mechanics"   : 10,
 			"reliability" : 10,
-			"replay"      : 8,
+			"replay"      : 8.6,
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
-			"bias"        : 9.9
+			"bias"        : 10
 		}
 	},
 	{
@@ -56,11 +72,107 @@
 			"plot"        : 1,
 			"content"     : 8,
 			"mechanics"   : 7,
-			"reliability" : 9,
+			"reliability" : 7,
 			"replay"      : 8,
 			"soundtrack"  : 8,
 			"nostalgia"   : 6,
 			"bias"        : 4
+		}
+	},
+	{
+		"name"    : "Madden 16",
+		"year"    : "2015",
+		"ratings" : {
+			"visuals"     : 9,
+			"characters"  : 5,
+			"plot"        : 2,
+			"content"     : 3.5,
+			"mechanics"   : 3,
+			"reliability" : 3.5,
+			"replay"      : 7,
+			"soundtrack"  : 4,
+			"nostalgia"   : 4.5,
+			"bias"        : 2
+		}
+	},
+	{
+		"name"    : "Madden 2005",
+		"year"    : "2005",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 7,
+			"plot"        : 4,
+			"content"     : 7,
+			"mechanics"   : 9,
+			"reliability" : 10,
+			"replay"      : 10,
+			"soundtrack"  : 9.5,
+			"nostalgia"   : 9,
+			"bias"        : 7.5
+		}
+	},
+	{
+		"name"    : "Pokemon Gold",
+		"year"    : "1999",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 8,
+			"plot"        : 10,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 10,
+			"replay"      : 9,
+			"soundtrack"  : 10,
+			"nostalgia"   : 10,
+			"bias"        : 9.5
+		}
+	},
+	{
+		"name"    : "Pokemon Stadium",
+		"year"    : "1998",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 10,
+			"plot"        : 3,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 10,
+			"replay"      : 10,
+			"soundtrack"  : 10,
+			"nostalgia"   : 10,
+			"bias"        : 10
+		}
+	},
+	{
+		"name"    : "The Legend of Zelda: The Wind Waker",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 9,
+			"characters"  : 7,
+			"plot"        : 9,
+			"content"     : 10,
+			"mechanics"   : 6,
+			"reliability" : 10,
+			"replay"      : 7,
+			"soundtrack"  : 10,
+			"nostalgia"   : 8,
+			"bias"        : 7
+		}
+	},
+	{
+		"name"    : "Star Wars Battlefront [EA]",
+		"year"    : "2015",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 6,
+			"plot"        : 1,
+			"content"     : 3,
+			"mechanics"   : 8,
+			"reliability" : 3,
+			"replay"      : 6.5,
+			"soundtrack"  : 8,
+			"nostalgia"   : 6,
+			"bias"        : 4.5
 		}
 	},
 	{

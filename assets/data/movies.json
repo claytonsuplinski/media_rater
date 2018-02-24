@@ -240,6 +240,38 @@
 		}
 	},
 	{
+		"name"    : "Pokemon: The First Movie",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 7,
+			"rewatch"    : 7.5,
+			"characters" : 10,
+			"genre"      : 8,
+			"references" : 6,
+			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Project X",
+		"year"    : "2012",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7,
+			"nostalgia"  : 2,
+			"plot"       : 6,
+			"music"      : 10,
+			"rewatch"    : 7,
+			"characters" : 3,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Scary Movie 3",
 		"year"    : "2003",
 		"ratings" : {
@@ -413,6 +445,38 @@
 			"genre"      : 7,
 			"references" : 8,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Superbad",
+		"year"    : "2007",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 8,
+			"music"      : 7,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 6,
+			"references" : 9,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Talladega Nights: The Ballad of Ricky Bobby",
+		"year"    : "2006",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 8,
+			"nostalgia"  : 7,
+			"plot"       : 9,
+			"music"      : 5,
+			"rewatch"    : 9,
+			"characters" : 8.5,
+			"genre"      : 9.5,
+			"references" : 10,
+			"bias"       : 8
 		}
 	},
 	{

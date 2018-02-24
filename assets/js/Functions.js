@@ -1,7 +1,7 @@
 MIA.functions = {};
 
 MIA.functions.get_image = function(dir, name){
-	return './assets/img/'+dir+'/'+name.toLowerCase().replace(/[.,\/#!$%?\^&\*;:{}=\-_`~()\']/g, "").replace(/ /g, '')+'.jpg';
+	return './assets/img/'+dir+'/'+name.toLowerCase().replace(/[.,\/#!$%?\^&\*;:{}=\-\[\]_`~()\']/g, "").replace(/ /g, '')+'.jpg';
 };
 
 MIA.functions.get_rating_name = function(name){

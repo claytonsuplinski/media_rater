@@ -32,6 +32,22 @@
 		}
 	},
 	{
+		"name"    : "Modern Family",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 9.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 10,
+			"music"      : 9,
+			"rewatch"    : 10,
+			"characters" : 7.5,
+			"genre"      : 9,
+			"references" : 8.5,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "MXC",
 		"year"    : "2003",
 		"ratings" : {
@@ -93,6 +109,22 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "The Big Bang Theory",
+		"year"    : "2007",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 8.5,
+			"nostalgia"  : 5,
+			"plot"       : 10,
+			"music"      : 9.5,
+			"rewatch"    : 9.5,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 7
 		}
 	},
 	{

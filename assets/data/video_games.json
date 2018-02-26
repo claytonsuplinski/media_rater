@@ -32,6 +32,22 @@
 		}
 	},
 	{
+		"name"    : "Hot Shots Golf 3",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 7,
+			"characters"  : 8.5,
+			"plot"        : 5,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 10,
+			"replay"      : 10,
+			"soundtrack"  : 9,
+			"nostalgia"   : 9,
+			"bias"        : 8.5
+		}
+	},
+	{
 		"name"    : "Kingdom Hearts",
 		"year"    : "2002",
 		"ratings" : {
@@ -97,7 +113,7 @@
 	},
 	{
 		"name"    : "Madden 2005",
-		"year"    : "2005",
+		"year"    : "2004",
 		"ratings" : {
 			"visuals"     : 8,
 			"characters"  : 7,
@@ -125,6 +141,22 @@
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
 			"bias"        : 9.5
+		}
+	},
+	{
+		"name"    : "Pokemon Snap",
+		"year"    : "1999",
+		"ratings" : {
+			"visuals"     : 10,
+			"characters"  : 7.5,
+			"plot"        : 9,
+			"content"     : 7.5,
+			"mechanics"   : 8,
+			"reliability" : 10,
+			"replay"      : 8.5,
+			"soundtrack"  : 9,
+			"nostalgia"   : 9.5,
+			"bias"        : 8.5
 		}
 	},
 	{
@@ -190,5 +222,21 @@
 			"nostalgia"   : 10,
 			"bias"        : 9
 		}
-	}
+	},
+	{
+		"name"    : "Super Smash Bros. Brawl",
+		"year"    : "2008",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 10,
+			"plot"        : 6.5,
+			"content"     : 10,
+			"mechanics"   : 10,
+			"reliability" : 9.5,
+			"replay"      : 10,
+			"soundtrack"  : 10,
+			"nostalgia"   : 8.5,
+			"bias"        : 8.5
+		}
+	}	
 ]

@@ -13,10 +13,6 @@
 	        transition:left 1s;
 }
 
-#menu.collapsed{
-	left:-20%;
-}
-
 #menu .logo{
 	width:50%;
 	background:linear-gradient(#6cbcff, #102d45);

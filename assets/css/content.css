@@ -19,10 +19,6 @@
 	        transition:width 1s;
 }
 
-#content.expanded{
-	width:100%;
-}
-
 #content .item{
 	position:relative;
 	display:inline-block;

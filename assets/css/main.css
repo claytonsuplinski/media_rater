@@ -1,6 +1,10 @@
 *{
 }
 
+html{
+	background:#111;
+}
+
 .no-highlight{
   -webkit-touch-callout: none;
     -webkit-user-select: none;

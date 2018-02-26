@@ -16,9 +16,13 @@ MIA.content.load = function(){
 	});
 };
 
-MIA.content.draw = function(){
+MIA.content.draw = function(){	
 	$("#content").css('background', '#111');
 	$("#content").html(
+		'<div id="mobile-header" class="hidden-md hidden-lg">'+
+			'<div id="menu-toggle"><i class="fa fa-bars" onclick="MIA.menu.show();"></i></div>'+
+			'<div id="mobile-header-label">'+MIA.menu.selected+'</div>'+
+		'</div>'+
 		MIA.content.data.map(function(item, idx){
 			var rank = idx+1;
 			

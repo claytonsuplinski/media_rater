@@ -2,12 +2,12 @@ MIA.menu = {};
 
 MIA.menu.hide = function(){
 	$("#menu").addClass('collapsed');
-	$("#content").addClass('expanded');
+	$("#content-screen").fadeOut();
 };
 
 MIA.menu.show = function(){
 	$("#menu").removeClass('collapsed');
-	$("#content").removeClass('expanded');
+	$("#content-screen").fadeIn();
 };
 
 MIA.menu.select = function(option){

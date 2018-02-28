@@ -238,5 +238,37 @@
 			"nostalgia"   : 8.5,
 			"bias"        : 8.5
 		}
-	}	
+	},
+	{
+		"name"    : "The Simpsons: Hit and Run",
+		"year"    : "2003",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 10,
+			"plot"        : 9,
+			"content"     : 10,
+			"mechanics"   : 9,
+			"reliability" : 7.5,
+			"replay"      : 9,
+			"soundtrack"  : 9,
+			"nostalgia"   : 8.5,
+			"bias"        : 8.5
+		}
+	},
+	{
+		"name"    : "The Simpsons: Road Rage",
+		"year"    : "2001",
+		"ratings" : {
+			"visuals"     : 5,
+			"characters"  : 10,
+			"plot"        : 2.5,
+			"content"     : 7,
+			"mechanics"   : 7.5,
+			"reliability" : 4,
+			"replay"      : 8,
+			"soundtrack"  : 6.5,
+			"nostalgia"   : 9,
+			"bias"        : 5
+		}
+	}
 ]

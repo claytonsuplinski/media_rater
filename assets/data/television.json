@@ -158,5 +158,21 @@
 			"references" : 9,
 			"bias"       : 9
 		}
+	},
+	{
+		"name"    : "The Office",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 9,
+			"nostalgia"  : 6.5,
+			"plot"       : 8,
+			"music"      : 7.5,
+			"rewatch"    : 9.5,
+			"characters" : 9,
+			"genre"      : 9.5,
+			"references" : 10,
+			"bias"       : 8
+		}
 	}
 ]

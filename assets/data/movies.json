@@ -208,6 +208,22 @@
 		}
 	},
 	{
+		"name"    : "Jingle All the Way",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 8,
+			"nostalgia"  : 8.5,
+			"plot"       : 9,
+			"music"      : 5,
+			"rewatch"    : 8.5,
+			"characters" : 8.5,
+			"genre"      : 10,
+			"references" : 6.5,
+			"bias"       : 8
+		}
+	},
+	{
 		"name"    : "Pacific Rim",
 		"year"    : "2013",
 		"ratings" : {
@@ -480,6 +496,22 @@
 		}
 	},
 	{
+		"name"    : "The Hunchback of Notre Dame",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 10,
+			"nostalgia"  : 3.5,
+			"plot"       : 8.5,
+			"music"      : 7.5,
+			"rewatch"    : 5,
+			"characters" : 7,
+			"genre"      : 9.5,
+			"references" : 6,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "The Interview",
 		"year"    : "2014",
 		"ratings" : {
@@ -525,6 +557,22 @@
 			"genre"      : 7,
 			"references" : 9,
 			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Zombieland",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9.5,
+			"nostalgia"  : 5,
+			"plot"       : 9.5,
+			"music"      : 7.5,
+			"rewatch"    : 8,
+			"characters" : 10,
+			"genre"      : 9,
+			"references" : 9.5,
+			"bias"       : 8.5
 		}
 	}
 ]

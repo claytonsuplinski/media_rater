@@ -1,16 +1,18 @@
 #mobile-header{
 	width:100%;
-	background:#090909;
+	background:#480000;
 	color:white;
 	font-size:16px;
 	padding:10px 30px;
 	margin-bottom:10px;
+	border-bottom:1px solid #772323;
 }
 
 #menu-toggle{
 	width:30%;
 	display:inline-block;
 	text-align:left;
+	cursor:pointer;
 }
 
 #mobile-header-label{

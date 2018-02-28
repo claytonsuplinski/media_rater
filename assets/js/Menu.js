@@ -23,7 +23,7 @@ MIA.menu.draw = function(){
 		'<div class="title">Media Rater<hr></div>'+
 		'<div class="options">'+
 			MIA.config.menu_options.map(function(option){
-				var onclick = 'onclick="MIA.menu.select(\''+option+'\');"';
+				var onclick = 'onclick="MIA.hashlink.update(\''+option+'\');"';
 				return '<div '+onclick+' class="option '+(option == MIA.menu.selected ? 'active' : '')+'">'+
 					option+
 				'</div>';

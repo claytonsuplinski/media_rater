@@ -1,0 +1,82 @@
+[
+	{
+		"name"    : "Cobra Starship - Good Girls Go Bad",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
+		"name"    : "Jay Sean - Down",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
+		"name"    : "Miley Cyrus - Party in the USA",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.9,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "R. Kelly - Ignition (Remix)",
+		"year"    : "2003",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 8.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9
+		}
+	},
+	{
+		"name"    : "Taylor Swift - You Belong With Me",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.5,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 9.6,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	}
+]

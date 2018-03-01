@@ -1,0 +1,77 @@
+[
+	{
+		"name"    : "Black Eyed Peas",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 10,
+			"lyrics"       : 9,
+			"vocals"       : 9.5,
+			"nostalgia"    : 10,
+			"bias"         : 10,
+			"relisten"     : 9.5,
+			"quantity"     : 8.5,
+			"personality"  : 8,
+			"music videos" : 9
+		}
+	},
+	{
+		"name"    : "Katy Perry",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 8,
+			"lyrics"       : 9.5,
+			"vocals"       : 10,
+			"nostalgia"    : 10,
+			"bias"         : 9,
+			"relisten"     : 9.5,
+			"quantity"     : 9,
+			"personality"  : 5,
+			"music videos" : 8
+		}
+	},
+	{
+		"name"    : "Lady Gaga",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 9,
+			"lyrics"       : 9,
+			"vocals"       : 10,
+			"nostalgia"    : 10,
+			"bias"         : 9,
+			"relisten"     : 9.5,
+			"quantity"     : 8,
+			"personality"  : 8,
+			"music videos" : 8
+		}
+	},
+	{
+		"name"    : "Rihanna",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 10,
+			"lyrics"       : 6.5,
+			"vocals"       : 10,
+			"nostalgia"    : 10,
+			"bias"         : 10,
+			"relisten"     : 8.5,
+			"quantity"     : 10,
+			"personality"  : 5.5,
+			"music videos" : 8.5
+		}
+	},
+	{
+		"name"    : "Taylor Swift",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 8.5,
+			"lyrics"       : 8,
+			"vocals"       : 10,
+			"nostalgia"    : 10,
+			"bias"         : 10,
+			"relisten"     : 9,
+			"quantity"     : 9.8,
+			"personality"  : 7.5,
+			"music videos" : 8.5
+		}
+	}
+]

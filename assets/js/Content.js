@@ -34,7 +34,7 @@ MIA.content.draw = function(){
 			return '<div class="item no-highlight" '+onclick+' '+style+'>'+
 				'<div class="rating">#' + rank + '</div>'+
 				'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+rank_class+'"></i></div>'+
-				'<div class="name">' + item.name + ' (' + item.year + ')</div>'+
+				'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
 				'<div id="full-rating-'+idx+'" class="full-rating">'+
 					'<table>'+
 						Object.keys(item.ratings).map(function(rating_name){

@@ -174,5 +174,21 @@
 			"references" : 10,
 			"bias"       : 8
 		}
+	},
+	{
+		"name"    : "Tosh.0",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9,
+			"nostalgia"  : 8,
+			"plot"       : 1.5,
+			"music"      : 8.5,
+			"rewatch"    : 9.5,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 8.5,
+			"bias"       : 8.5
+		}
 	}
 ]

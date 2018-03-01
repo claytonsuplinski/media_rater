@@ -17,13 +17,18 @@ MIA.menu.select = function(option){
 	MIA.content.load();
 };
 
+MIA.menu.onclick = function(option){
+	MIA.hashlink.update(option);
+	MIA.menu.hide();
+};
+
 MIA.menu.draw = function(){
 	$("#menu").html(
 		'<div class="logo"><img src="./assets/img/logo.png"/></div>'+
 		'<div class="title">Media Rater<hr></div>'+
 		'<div class="options">'+
 			MIA.config.menu_options.map(function(option){
-				var onclick = 'onclick="MIA.hashlink.update(\''+option+'\');"';
+				var onclick = 'onclick="MIA.menu.onclick(\''+option+'\');"';
 				return '<div '+onclick+' class="option '+(option == MIA.menu.selected ? 'active' : '')+'">'+
 					option+
 				'</div>';

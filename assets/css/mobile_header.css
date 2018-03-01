@@ -6,17 +6,15 @@
 	padding:10px 30px;
 	margin-bottom:10px;
 	border-bottom:1px solid #772323;
+	text-align:left;
 }
 
 #menu-toggle{
-	width:30%;
 	display:inline-block;
-	text-align:left;
 	cursor:pointer;
+	padding-right:30px;
 }
 
 #mobile-header-label{
-	width:70%;
 	display:inline-block;
-	text-align:right;
 }

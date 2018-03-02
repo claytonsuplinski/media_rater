@@ -16,6 +16,70 @@
 		}
 	},
 	{
+		"name"    : "Drake and Josh",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9,
+			"nostalgia"  : 10,
+			"plot"       : 8.5,
+			"music"      : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Even Stevens",
+		"year"    : "2000",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 8.5,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 7.5,
+			"rewatch"    : 10,
+			"characters" : 9.5,
+			"genre"      : 8.5,
+			"references" : 9,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Everybody Loves Raymond",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 8,
+			"nostalgia"  : 9,
+			"plot"       : 9,
+			"music"      : 8.5,
+			"rewatch"    : 6.5,
+			"characters" : 7.5,
+			"genre"      : 8,
+			"references" : 7.5,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Family Guy",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9,
+			"nostalgia"  : 6.5,
+			"plot"       : 9,
+			"music"      : 7.5,
+			"rewatch"    : 9,
+			"characters" : 7.5,
+			"genre"      : 9.5,
+			"references" : 10,
+			"bias"       : 8.5
+		}
+	},
+	{
 		"name"    : "Friends",
 		"year"    : "1994",
 		"ratings" : {
@@ -29,6 +93,102 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "Hey Arnold!",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 6.5,
+			"rewatch"    : 8,
+			"characters" : 10,
+			"genre"      : 9.5,
+			"references" : 7,
+			"bias"       : 8.2
+		}
+	},
+	{
+		"name"    : "How I Met Your Mother",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 9,
+			"nostalgia"  : 2.5,
+			"plot"       : 8.5,
+			"music"      : 9,
+			"rewatch"    : 6.5,
+			"characters" : 8.5,
+			"genre"      : 9.5,
+			"references" : 9,
+			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Impractical Jokers",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 9,
+			"nostalgia"  : 1.5,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 7.5,
+			"characters" : 10,
+			"genre"      : 9,
+			"references" : 7,
+			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "Jimmy Neutron",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 8.5,
+			"rewatch"    : 6,
+			"characters" : 7.5,
+			"genre"      : 9,
+			"references" : 7.5,
+			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "King of Queens",
+		"year"    : "1998",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 8.5,
+			"plot"       : 8,
+			"music"      : 8.5,
+			"rewatch"    : 6.5,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 6.5,
+			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Malcolm in the Middle",
+		"year"    : "2000",
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 7,
+			"plot"       : 8,
+			"music"      : 8.5,
+			"rewatch"    : 4,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -64,12 +224,44 @@
 		}
 	},
 	{
+		"name"    : "Ned's Declassified School Survival Guide",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 10,
+			"rewatch"    : 10,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 8,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Rugrats",
+		"year"    : "1990",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"music"      : 7.5,
+			"rewatch"    : 9,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8.5,
+			"bias"       : 9
+		}
+	},
+	{
 		"name"    : "Seinfeld",
 		"year"    : "1989",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 7,
-			"nostalgia"  : 9,
+			"visuals"    : 8,
+			"nostalgia"  : 9.5,
 			"plot"       : 10,
 			"music"      : 10,
 			"rewatch"    : 10,
@@ -100,15 +292,63 @@
 		"year"    : "1999",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 9,
+			"visuals"    : 10,
 			"nostalgia"  : 10,
-			"plot"       : 9,
-			"music"      : 9,
+			"plot"       : 10,
+			"music"      : 8.5,
 			"rewatch"    : 10,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "That 70's Show",
+		"year"    : "1998",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 10,
+			"nostalgia"  : 7.5,
+			"plot"       : 8.5,
+			"music"      : 7,
+			"rewatch"    : 9,
+			"characters" : 8.5,
+			"genre"      : 9,
+			"references" : 7,
+			"bias"       : 7.2
+		}
+	},
+	{
+		"name"    : "That's So Raven",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 8.2,
+			"visuals"    : 9,
+			"nostalgia"  : 10,
+			"plot"       : 8,
+			"music"      : 9.5,
+			"rewatch"    : 8.5,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 8.5,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Teen Wolf",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 9,
+			"plot"       : 8.5,
+			"music"      : 8.5,
+			"rewatch"    : 2.5,
+			"characters" : 8,
+			"genre"      : 9,
+			"references" : 7.5,
+			"bias"       : 8.5
 		}
 	},
 	{
@@ -156,6 +396,22 @@
 			"characters" : 9.5,
 			"genre"      : 10,
 			"references" : 9,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "The Fairly Oddparents",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 10,
+			"rewatch"    : 8.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8.5,
 			"bias"       : 9
 		}
 	},

@@ -53,6 +53,7 @@ MIA.content.draw = function(){
 		}).join('')
 	);
 	$("#content").focus();
+	$("#content").scrollTop(0);
 	
 	$(".full-rating").click(function(e) {
 	   $(".full-rating").hide();

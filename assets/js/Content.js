@@ -7,8 +7,9 @@ MIA.content.load = function(){
 		success: function(data){
 			MIA.content.data = data;
 			MIA.content.data.forEach(function(item){
-				item.total_rating = Object.values(item.ratings).reduce(function(a, b){ return a + b; });
-				if(item.total_rating != parseInt(item.total_rating, 10 )) item.total_rating = Number(item.total_rating).toFixed(1);
+				item.total_rating = Number(Object.values(item.ratings).reduce(function(a, b){ return a + b; }).toFixed(2));
+				if(item.total_rating != parseInt(item.total_rating)) item.total_rating = item.total_rating.toFixed(1);
+				else{                                                item.total_rating = item.total_rating.toFixed(0); }
 			});
 			MIA.content.data.sort(function(a,b){ return a.total_rating < b.total_rating; });
 			MIA.content.draw();

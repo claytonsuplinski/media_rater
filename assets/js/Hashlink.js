@@ -22,9 +22,7 @@ MIA.hashlink.update = function(value){
 };
 
 MIA.hashlink.clear = function(){
-	this.check_url();
-	this.value = '';
-	this.write();
+	window.location.href = '';
 };
 
 MIA.hashlink.start = function(){

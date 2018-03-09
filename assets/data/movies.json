@@ -32,6 +32,22 @@
 		}
 	},
 	{
+		"name"    : "Blades of Glory",
+		"year"    : "2007",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 6,
+			"nostalgia"  : 8,
+			"plot"       : 8.5,
+			"music"      : 9,
+			"rewatch"    : 9.5,
+			"characters" : 8.5,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 8.4
+		}
+	},
+	{
 		"name"    : "Dodgeball",
 		"year"    : "2004",
 		"ratings" : {
@@ -224,6 +240,22 @@
 		}
 	},
 	{
+		"name"    : "Oliver and Company",
+		"year"    : "1988",
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 10,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
+			"music"      : 6.5,
+			"rewatch"    : 7,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Pacific Rim",
 		"year"    : "2013",
 		"ratings" : {
@@ -237,6 +269,22 @@
 			"genre"      : 6,
 			"references" : 1,
 			"bias"       : 3
+		}
+	},
+	{
+		"name"    : "Peter Pan",
+		"year"    : "1953",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 10,
+			"nostalgia"  : 6.5,
+			"plot"       : 7.5,
+			"music"      : 7,
+			"rewatch"    : 6,
+			"characters" : 8.5,
+			"genre"      : 8.5,
+			"references" : 6.5,
+			"bias"       : 7
 		}
 	},
 	{
@@ -301,6 +349,22 @@
 			"genre"      : 9,
 			"references" : 10,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Silver Linings Playbook",
+		"year"    : "2012",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 8,
+			"nostalgia"  : 2.5,
+			"plot"       : 9,
+			"music"      : 8.5,
+			"rewatch"    : 7,
+			"characters" : 4.5,
+			"genre"      : 8.5,
+			"references" : 8,
+			"bias"       : 7.5
 		}
 	},
 	{
@@ -496,12 +560,44 @@
 		}
 	},
 	{
+		"name"    : "The Black Cauldron",
+		"year"    : "1985",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 10,
+			"nostalgia"  : 5.5,
+			"plot"       : 9,
+			"music"      : 5.5,
+			"rewatch"    : 7.5,
+			"characters" : 4.5,
+			"genre"      : 7.5,
+			"references" : 2.5,
+			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "The Hobbit: The Desolation of Smaug",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2,
+			"plot"       : 2.5,
+			"music"      : 6,
+			"rewatch"    : 0,
+			"characters" : 3,
+			"genre"      : 5,
+			"references" : 6.5,
+			"bias"       : 2
+		}
+	},
+	{
 		"name"    : "The Hunchback of Notre Dame",
 		"year"    : "1996",
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 10,
-			"nostalgia"  : 3.5,
+			"nostalgia"  : 6.5,
 			"plot"       : 8.5,
 			"music"      : 7.5,
 			"rewatch"    : 5,
@@ -528,6 +624,54 @@
 		}
 	},
 	{
+		"name"    : "The Martian",
+		"year"    : "2015",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 6,
+			"characters" : 4,
+			"genre"      : 8.5,
+			"references" : 7,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "The Revenant",
+		"year"    : "2015",
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 9.5,
+			"references" : 2.5,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "The Wolf of Wall Street",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 8,
+			"nostalgia"  : 3,
+			"plot"       : 8.5,
+			"music"      : 7,
+			"rewatch"    : 7.5,
+			"characters" : 3,
+			"genre"      : 6.5,
+			"references" : 8,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "This Is The End",
 		"year"    : "2013",
 		"ratings" : {
@@ -541,6 +685,22 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Thor Ragnarok",
+		"year"    : "2017",
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
+			"plot"       : 7,
+			"music"      : 6,
+			"rewatch"    : 5,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{

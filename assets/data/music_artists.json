@@ -1,5 +1,20 @@
 [
 	{
+		"name"    : "Akon",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 9,
+			"lyrics"       : 8.5,
+			"vocals"       : 10,
+			"nostalgia"    : 9.5,
+			"bias"         : 8,
+			"relisten"     : 9.5,
+			"quantity"     : 8,
+			"personality"  : 0,
+			"music videos" : 9
+		}
+	},
+	{
 		"name"    : "Black Eyed Peas",
 		"ratings" : {
 			"melody"       : 9.5,
@@ -12,6 +27,51 @@
 			"quantity"     : 8.5,
 			"personality"  : 8,
 			"music videos" : 9
+		}
+	},
+	{
+		"name"    : "Britney Spears",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 8.5,
+			"lyrics"       : 9,
+			"vocals"       : 10,
+			"nostalgia"    : 6,
+			"bias"         : 8.5,
+			"relisten"     : 8.5,
+			"quantity"     : 9,
+			"personality"  : 4,
+			"music videos" : 6
+		}
+	},
+	{
+		"name"    : "Coldplay",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 9,
+			"lyrics"       : 10,
+			"vocals"       : 10,
+			"nostalgia"    : 8.5,
+			"bias"         : 8,
+			"relisten"     : 8,
+			"quantity"     : 8,
+			"personality"  : 8.5,
+			"music videos" : 8
+		}
+	},
+	{
+		"name"    : "Drake",
+		"ratings" : {
+			"melody"       : 9,
+			"rhythm"       : 10,
+			"lyrics"       : 8.5,
+			"vocals"       : 9.5,
+			"nostalgia"    : 9.5,
+			"bias"         : 9,
+			"relisten"     : 9,
+			"quantity"     : 8,
+			"personality"  : 5,
+			"music videos" : 7.5
 		}
 	},
 	{
@@ -42,6 +102,21 @@
 			"quantity"     : 8,
 			"personality"  : 8,
 			"music videos" : 8
+		}
+	},
+	{
+		"name"    : "Maroon 5",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 9,
+			"lyrics"       : 10,
+			"vocals"       : 10,
+			"nostalgia"    : 9,
+			"bias"         : 9,
+			"relisten"     : 9.5,
+			"quantity"     : 8.7,
+			"personality"  : 8,
+			"music videos" : 7
 		}
 	},
 	{

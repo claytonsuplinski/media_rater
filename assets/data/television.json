@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name"    : "Catdog",
+		"year"    : "1998",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 8,
+			"nostalgia"  : 9.5,
+			"plot"       : 5.5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 6.5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Drake and Josh",
 		"year"    : "2004",
 		"ratings" : {
@@ -29,6 +45,22 @@
 			"genre"      : 10,
 			"references" : 9,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Ed, Edd n Eddy",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 8,
+			"nostalgia"  : 9.5,
+			"plot"       : 5,
+			"music"      : 6.5,
+			"rewatch"    : 9,
+			"characters" : 7,
+			"genre"      : 8.5,
+			"references" : 4,
+			"bias"       : 8.5
 		}
 	},
 	{
@@ -93,6 +125,22 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "George Lopez",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 6,
+			"nostalgia"  : 6.5,
+			"plot"       : 5.5,
+			"music"      : 7,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -237,6 +285,22 @@
 			"genre"      : 10,
 			"references" : 8,
 			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Pokemon",
+		"year"    : "1997",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"music"      : 10,
+			"rewatch"    : 8,
+			"characters" : 10,
+			"genre"      : 8.5,
+			"references" : 9.5,
+			"bias"       : 8.5
 		}
 	},
 	{

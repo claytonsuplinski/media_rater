@@ -128,6 +128,22 @@
 		}
 	},
 	{
+		"name"    : "Paperboy",
+		"year"    : "1999",
+		"ratings" : {
+			"visuals"     : 3.5,
+			"characters"  : 4,
+			"plot"        : 7.5,
+			"content"     : 8,
+			"mechanics"   : 4,
+			"reliability" : 7,
+			"replay"      : 7.5,
+			"soundtrack"  : 4.5,
+			"nostalgia"   : 9,
+			"bias"        : 8.5
+		}
+	},
+	{
 		"name"    : "Pokemon Gold",
 		"year"    : "1999",
 		"ratings" : {
@@ -176,19 +192,19 @@
 		}
 	},
 	{
-		"name"    : "The Legend of Zelda: The Wind Waker",
-		"year"    : "2002",
+		"name"    : "Skyrim",
+		"year"    : "2011",
 		"ratings" : {
-			"visuals"     : 9,
-			"characters"  : 7,
-			"plot"        : 9,
+			"visuals"     : 8.5,
+			"characters"  : 1,
+			"plot"        : 2.5,
 			"content"     : 10,
-			"mechanics"   : 6,
-			"reliability" : 10,
+			"mechanics"   : 8.5,
+			"reliability" : 5.5,
 			"replay"      : 7,
-			"soundtrack"  : 10,
-			"nostalgia"   : 8,
-			"bias"        : 7
+			"soundtrack"  : 4,
+			"nostalgia"   : 3.5,
+			"bias"        : 5
 		}
 	},
 	{
@@ -224,6 +240,22 @@
 		}
 	},
 	{
+		"name"    : "Star Wars Racer Revenge",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 7.5,
+			"plot"        : 2,
+			"content"     : 7.5,
+			"mechanics"   : 9,
+			"reliability" : 6.5,
+			"replay"      : 8.5,
+			"soundtrack"  : 6,
+			"nostalgia"   : 5,
+			"bias"        : 7
+		}
+	},
+	{
 		"name"    : "Super Smash Bros. Brawl",
 		"year"    : "2008",
 		"ratings" : {
@@ -237,6 +269,38 @@
 			"soundtrack"  : 10,
 			"nostalgia"   : 8.5,
 			"bias"        : 8.5
+		}
+	},
+	{
+		"name"    : "Super Star Wars",
+		"year"    : "1992",
+		"ratings" : {
+			"visuals"     : 3.5,
+			"characters"  : 8.5,
+			"plot"        : 7,
+			"content"     : 8.5,
+			"mechanics"   : 2,
+			"reliability" : 6,
+			"replay"      : 3.5,
+			"soundtrack"  : 6,
+			"nostalgia"   : 4,
+			"bias"        : 5
+		}
+	},
+	{
+		"name"    : "The Legend of Zelda: The Wind Waker",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 9,
+			"characters"  : 7,
+			"plot"        : 9,
+			"content"     : 10,
+			"mechanics"   : 6,
+			"reliability" : 10,
+			"replay"      : 7,
+			"soundtrack"  : 10,
+			"nostalgia"   : 8,
+			"bias"        : 7
 		}
 	},
 	{

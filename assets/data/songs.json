@@ -1,5 +1,53 @@
 [
 	{
+		"name"    : "3OH!3 - Don't Trust Me",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 9.6,
+			"rhythm"         : 10,
+			"lyrics"         : 9.7,
+			"vocals"         : 9.8,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 4
+		}
+	},
+	{
+		"name"    : "Backstreet Boys - I Want It That Way",
+		"year"    : "1999",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 10,
+			"nostalgia"      : 9,
+			"bias"           : 9.3,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Beyonce - Crazy in Love",
+		"year"    : "2003",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 10,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 9.8,
+			"bias"           : 9.3,
+			"relisten"       : 9.2,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 8
+		}
+	},
+	{
 		"name"    : "Black Eyed Peas - I Gotta Feeling",
 		"year"    : "2009",
 		"ratings" : {
@@ -13,6 +61,38 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Black Eyed Peas - My Humps",
+		"year"    : "2005",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 9.8,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 9.3,
+			"instrumental"   : 9.7,
+			"studio effects" : 10,
+			"music video"    : 9.4
+		}
+	},
+	{
+		"name"    : "B.o.B - Airplanes",
+		"year"    : "2010",
+		"ratings" : {
+			"melody"         : 9.3,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.8,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 9.7,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
 		}
 	},
 	{
@@ -32,6 +112,38 @@
 		}
 	},
 	{
+		"name"    : "Coldplay - Viva La Vida",
+		"year"    : "2008",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9,
+			"relisten"       : 9.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.5
+		}
+	},
+	{
+		"name"    : "Jason Derulo - Whatcha Say",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 8,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9.7
+		}
+	},
+	{
 		"name"    : "Jay Sean - Down",
 		"year"    : "2009",
 		"ratings" : {
@@ -42,6 +154,70 @@
 			"nostalgia"      : 10,
 			"bias"           : 9.5,
 			"relisten"       : 9.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
+		"name"    : "Katy Perry - Teenage Dream",
+		"year"    : "2010",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.8,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 9.6,
+			"bias"           : 9.8,
+			"relisten"       : 9.4,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6.5
+		}
+	},
+	{
+		"name"    : "Katy Perry - Waking Up In Vegas",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.5,
+			"lyrics"         : 9.6,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.9,
+			"relisten"       : 8.8,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.4
+		}
+	},
+	{
+		"name"    : "Kings of Leon - Use Somebody",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 9.5,
+			"nostalgia"      : 10,
+			"bias"           : 9.1,
+			"relisten"       : 9.3,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.5
+		}
+	},
+	{
+		"name"    : "Lady Gaga - Just Dance",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.8,
+			"relisten"       : 9.5,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 10
@@ -64,6 +240,22 @@
 		}
 	},
 	{
+		"name"    : "Lil Jon - Get Low",
+		"year"    : "2003",
+		"ratings" : {
+			"melody"         : 8.5,
+			"rhythm"         : 10,
+			"lyrics"         : 9,
+			"vocals"         : 9.3,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 9.1,
+			"instrumental"   : 8.5,
+			"studio effects" : 9.5,
+			"music video"    : 3.5
+		}
+	},
+	{
 		"name"    : "Miley Cyrus - Party in the USA",
 		"year"    : "2009",
 		"ratings" : {
@@ -72,11 +264,43 @@
 			"lyrics"         : 10,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.9,
+			"bias"           : 9.8,
 			"relisten"       : 9.9,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Outkast - Hey Ya!",
+		"year"    : "2003",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.8,
+			"nostalgia"      : 10,
+			"bias"           : 9.4,
+			"relisten"       : 9,
+			"instrumental"   : 9.7,
+			"studio effects" : 10,
+			"music video"    : 9
+		}
+	},
+	{
+		"name"    : "Owl City - Fireflies",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.7,
+			"relisten"       : 9.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.9
 		}
 	},
 	{
@@ -139,6 +363,38 @@
 			"bias"           : 9.8,
 			"relisten"       : 9,
 			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
+		"name"    : "Vanessa Carlton - A Thousand Miles",
+		"year"    : "2001",
+		"ratings" : {
+			"melody"         : 8.5,
+			"rhythm"         : 9,
+			"lyrics"         : 10,
+			"vocals"         : 9,
+			"nostalgia"      : 9.5,
+			"bias"           : 7.5,
+			"relisten"       : 8.8,
+			"instrumental"   : 9.5,
+			"studio effects" : 9.5,
+			"music video"    : 8.9
+		}
+	},
+	{
+		"name"    : "Young Money - Bedrock",
+		"year"    : "2010",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 9.5,
+			"nostalgia"      : 9.5,
+			"bias"           : 9.8,
+			"relisten"       : 9.7,
+			"instrumental"   : 9,
 			"studio effects" : 10,
 			"music video"    : 10
 		}

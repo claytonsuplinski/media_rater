@@ -128,6 +128,22 @@
 		}
 	},
 	{
+		"name"    : "Futurama",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 8,
+			"nostalgia"  : 6.5,
+			"plot"       : 6,
+			"music"      : 7.5,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 8,
+			"bias"       : 6.2
+		}
+	},
+	{
 		"name"    : "George Lopez",
 		"year"    : "2002",
 		"ratings" : {

@@ -80,6 +80,22 @@
 		}
 	},
 	{
+		"name"    : "Fantasia",
+		"year"    : "1940",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 10,
+			"nostalgia"  : 6.5,
+			"plot"       : 3.5,
+			"music"      : 10,
+			"rewatch"    : 7.2,
+			"characters" : 10,
+			"genre"      : 4.7,
+			"references" : 9,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Ferris Bueller's Day Off",
 		"year"    : "1986",
 		"ratings" : {
@@ -224,6 +240,22 @@
 		}
 	},
 	{
+		"name"    : "Independence Day",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 8.7,
+			"plot"       : 10,
+			"music"      : 9.2,
+			"rewatch"    : 9,
+			"characters" : 6.5,
+			"genre"      : 9.5,
+			"references" : 10,
+			"bias"       : 9.2
+		}
+	},
+	{
 		"name"    : "Jingle All the Way",
 		"year"    : "1996",
 		"ratings" : {
@@ -237,6 +269,22 @@
 			"genre"      : 10,
 			"references" : 6.5,
 			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "Napoleon Dynamite",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 4,
+			"music"      : 7,
+			"rewatch"    : 6,
+			"characters" : 9,
+			"genre"      : 6.8,
+			"references" : 10,
+			"bias"       : 7
 		}
 	},
 	{
@@ -560,6 +608,22 @@
 		}
 	},
 	{
+		"name"    : "Tangled",
+		"year"    : "2010",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 7,
+			"music"      : 6.5,
+			"rewatch"    : 5.5,
+			"characters" : 6.5,
+			"genre"      : 8.7,
+			"references" : 7,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Black Cauldron",
 		"year"    : "1985",
 		"ratings" : {
@@ -717,6 +781,22 @@
 			"genre"      : 7,
 			"references" : 9,
 			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Wedding Crashers",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 7.5,
+			"music"      : 9,
+			"rewatch"    : 5.5,
+			"characters" : 4,
+			"genre"      : 7,
+			"references" : 6.5,
+			"bias"       : 6.3
 		}
 	},
 	{

@@ -45,6 +45,21 @@
 		}
 	},
 	{
+		"name"    : "Chris Brown",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 10,
+			"lyrics"       : 8.2,
+			"vocals"       : 9.5,
+			"nostalgia"    : 9.5,
+			"bias"         : 8.5,
+			"relisten"     : 9,
+			"quantity"     : 8.5,
+			"personality"  : 3,
+			"music videos" : 8.5
+		}
+	},
+	{
 		"name"    : "Coldplay",
 		"ratings" : {
 			"melody"       : 9.5,
@@ -75,6 +90,21 @@
 		}
 	},
 	{
+		"name"    : "Kanye West",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 9.8,
+			"lyrics"       : 8,
+			"vocals"       : 9,
+			"nostalgia"    : 10,
+			"bias"         : 10,
+			"relisten"     : 9,
+			"quantity"     : 8,
+			"personality"  : 3.5,
+			"music videos" : 8.5
+		}
+	},
+	{
 		"name"    : "Katy Perry",
 		"ratings" : {
 			"melody"       : 10,
@@ -99,7 +129,7 @@
 			"nostalgia"    : 10,
 			"bias"         : 9,
 			"relisten"     : 9.5,
-			"quantity"     : 8,
+			"quantity"     : 8.5,
 			"personality"  : 8,
 			"music videos" : 8
 		}

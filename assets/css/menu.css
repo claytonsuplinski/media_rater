@@ -18,12 +18,14 @@
 }
 
 #menu .logo{
-	width:50%;
+	width :9vw;
+	height:9vw;
 	background:linear-gradient(#6cbcff, #102d45);
 	border-radius:100%;
 	border:0.5vw solid #a73a47;
 	margin:1vw auto;
 	box-shadow:0.1vw 0.1vw 1vw -0.1vw red;
+	text-align:center;
 }
 
 #menu .logo img{

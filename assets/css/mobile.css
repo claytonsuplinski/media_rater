@@ -11,13 +11,14 @@
 	}
 	
 	#menu .logo{
-		width:106px;
+		width :86px;
+		height:86px;
 		border-width:3px;
-		margin:10px auto 5px;
+		margin:10px auto;
 	}
 	
 	#menu .logo img{
-		width:80px;
+		width:60px;
 		margin:10px;
 	}
 	
@@ -26,7 +27,7 @@
 	}
 	
 	#menu .title hr{
-		margin-top:5px;
+		margin-top   :10px;
 		margin-bottom:10px;
 	}
 	

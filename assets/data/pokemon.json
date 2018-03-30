@@ -1,0 +1,257 @@
+[
+	{
+		"name"    : "Alakazam",
+		"ratings" : {
+			"base stats"    : 9.5,
+			"moves"         : 9.7,
+			"type coverage" : 9,
+			"bias"          : 4,
+			"nostalgia"     : 9.4,
+			"game boy"      : 4,
+			"nintendo 64"   : 8.5,
+			"trading card"  : 9.5,
+			"pokemon go"    : 8.8,
+			"appearance"    : 10
+		}
+	},
+	{
+		"name"    : "Articuno",
+		"ratings" : {
+			"base stats"    : 9.8,
+			"moves"         : 8,
+			"type coverage" : 6.5,
+			"bias"          : 7.3,
+			"nostalgia"     : 9.5,
+			"game boy"      : 7.9,
+			"nintendo 64"   : 8.9,
+			"trading card"  : 4,
+			"pokemon go"    : 9.2,
+			"appearance"    : 8.9
+		}
+	},
+	{
+		"name"    : "Gengar",
+		"ratings" : {
+			"base stats"    : 9.2,
+			"moves"         : 9.7,
+			"type coverage" : 8.5,
+			"bias"          : 10,
+			"nostalgia"     : 10,
+			"game boy"      : 5,
+			"nintendo 64"   : 10,
+			"trading card"  : 9,
+			"pokemon go"    : 7.5,
+			"appearance"    : 10
+		}
+	},
+	{
+		"name"    : "Horsea",
+		"ratings" : {
+			"base stats"    : 6.7,
+			"moves"         : 8.3,
+			"type coverage" : 7,
+			"bias"          : 10,
+			"nostalgia"     : 9.5,
+			"game boy"      : 8.1,
+			"nintendo 64"   : 10,
+			"trading card"  : 8.8,
+			"pokemon go"    : 6.8,
+			"appearance"    : 9.5
+		}
+	},
+	{
+		"name"    : "Hypno",
+		"ratings" : {
+			"base stats"    : 9,
+			"moves"         : 9.8,
+			"type coverage" : 9.5,
+			"bias"          : 9.9,
+			"nostalgia"     : 9.4,
+			"game boy"      : 10,
+			"nintendo 64"   : 9,
+			"trading card"  : 4,
+			"pokemon go"    : 9,
+			"appearance"    : 8.8
+		}
+	},
+	{
+		"name"    : "Machamp",
+		"ratings" : {
+			"base stats"    : 9,
+			"moves"         : 7.5,
+			"type coverage" : 4.5,
+			"bias"          : 9,
+			"nostalgia"     : 9.5,
+			"game boy"      : 5,
+			"nintendo 64"   : 8,
+			"trading card"  : 10,
+			"pokemon go"    : 9.5,
+			"appearance"    : 8.5
+		}
+	},
+	{
+		"name"    : "Metapod",
+		"ratings" : {
+			"base stats"    : 2.5,
+			"moves"         : 1.5,
+			"type coverage" : 2.5,
+			"bias"          : 10,
+			"nostalgia"     : 9.4,
+			"game boy"      : 10,
+			"nintendo 64"   : 1,
+			"trading card"  : 9.1,
+			"pokemon go"    : 5.8,
+			"appearance"    : 8.2
+		}
+	},
+	{
+		"name"    : "Mew",
+		"ratings" : {
+			"base stats"    : 9.9,
+			"moves"         : 10,
+			"type coverage" : 9.8,
+			"bias"          : 5.5,
+			"nostalgia"     : 9.8,
+			"game boy"      : 0.5,
+			"nintendo 64"   : 8,
+			"trading card"  : 4,
+			"pokemon go"    : 8.5,
+			"appearance"    : 10
+		}
+	},
+	{
+		"name"    : "Mewtwo",
+		"ratings" : {
+			"base stats"    : 10,
+			"moves"         : 10,
+			"type coverage" : 9.5,
+			"bias"          : 8,
+			"nostalgia"     : 9.4,
+			"game boy"      : 2.5,
+			"nintendo 64"   : 9.5,
+			"trading card"  : 9.8,
+			"pokemon go"    : 9,
+			"appearance"    : 9.5
+		}
+	},
+	{
+		"name"    : "Moltres",
+		"ratings" : {
+			"base stats"    : 9.8,
+			"moves"         : 8,
+			"type coverage" : 7.8,
+			"bias"          : 10,
+			"nostalgia"     : 9.5,
+			"game boy"      : 7.9,
+			"nintendo 64"   : 8.9,
+			"trading card"  : 4,
+			"pokemon go"    : 8.9,
+			"appearance"    : 8.7
+		}
+	},
+	{
+		"name"    : "Nidoking",
+		"ratings" : {
+			"base stats"    : 9,
+			"moves"         : 10,
+			"type coverage" : 9.2,
+			"bias"          : 10,
+			"nostalgia"     : 10,
+			"game boy"      : 10,
+			"nintendo 64"   : 7,
+			"trading card"  : 4,
+			"pokemon go"    : 7.7,
+			"appearance"    : 9.2
+		}
+	},
+	{
+		"name"    : "Pikachu",
+		"ratings" : {
+			"base stats"    : 6.5,
+			"moves"         : 8,
+			"type coverage" : 6.7,
+			"bias"          : 5.5,
+			"nostalgia"     : 9.5,
+			"game boy"      : 8.5,
+			"nintendo 64"   : 9.5,
+			"trading card"  : 9.4,
+			"pokemon go"    : 9.1,
+			"appearance"    : 9.4
+		}
+	},
+	{
+		"name"    : "Pinsir",
+		"ratings" : {
+			"base stats"    : 9.5,
+			"moves"         : 6,
+			"type coverage" : 5.5,
+			"bias"          : 9.7,
+			"nostalgia"     : 9.8,
+			"game boy"      : 9.5,
+			"nintendo 64"   : 9.5,
+			"trading card"  : 8.7,
+			"pokemon go"    : 9.7,
+			"appearance"    : 8.7
+		}
+	},
+	{
+		"name"    : "Primeape",
+		"ratings" : {
+			"base stats"    : 8,
+			"moves"         : 6.5,
+			"type coverage" : 5.5,
+			"bias"          : 6,
+			"nostalgia"     : 9.5,
+			"game boy"      : 8.7,
+			"nintendo 64"   : 9,
+			"trading card"  : 8.5,
+			"pokemon go"    : 6,
+			"appearance"    : 8.2
+		}
+	},
+	{
+		"name"    : "Snorlax",
+		"ratings" : {
+			"base stats"    : 9.2,
+			"moves"         : 8.5,
+			"type coverage" : 7.2,
+			"bias"          : 9.3,
+			"nostalgia"     : 9.4,
+			"game boy"      : 4,
+			"nintendo 64"   : 7.5,
+			"trading card"  : 8.7,
+			"pokemon go"    : 10,
+			"appearance"    : 8.7
+		}
+	},
+	{
+		"name"    : "Tentacruel",
+		"ratings" : {
+			"base stats"    : 9.5,
+			"moves"         : 8.1,
+			"type coverage" : 6.7,
+			"bias"          : 6.5,
+			"nostalgia"     : 9.3,
+			"game boy"      : 5.5,
+			"nintendo 64"   : 7.1,
+			"trading card"  : 9.8,
+			"pokemon go"    : 7.4,
+			"appearance"    : 8.9
+		}
+	},
+	{
+		"name"    : "Zapdos",
+		"ratings" : {
+			"base stats"    : 9.8,
+			"moves"         : 8.1,
+			"type coverage" : 7.3,
+			"bias"          : 7.5,
+			"nostalgia"     : 9.5,
+			"game boy"      : 8.3,
+			"nintendo 64"   : 9.1,
+			"trading card"  : 9.6,
+			"pokemon go"    : 9,
+			"appearance"    : 9.1
+		}
+	}
+]

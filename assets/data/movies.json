@@ -592,6 +592,22 @@
 		}
 	},
 	{
+		"name"    : "Super Troopers 2",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 7,
+			"nostalgia"  : 6,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 7.5,
+			"characters" : 8,
+			"genre"      : 9,
+			"references" : 9,
+			"bias"       : 8
+		}
+	},
+	{
 		"name"    : "Talladega Nights: The Ballad of Ricky Bobby",
 		"year"    : "2006",
 		"ratings" : {

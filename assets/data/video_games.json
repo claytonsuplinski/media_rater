@@ -208,6 +208,22 @@
 		}
 	},
 	{
+		"name"    : "Soul Calibur II",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 6.5,
+			"characters"  : 7,
+			"plot"        : 4,
+			"content"     : 6.5,
+			"mechanics"   : 4,
+			"reliability" : 4.5,
+			"replay"      : 7.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 6.5,
+			"bias"        : 5.5
+		}
+	},
+	{
 		"name"    : "Star Wars Battlefront [EA]",
 		"year"    : "2015",
 		"ratings" : {

@@ -16,6 +16,54 @@
 		}
 	},
 	{
+		"name"    : "All American Rejects - Dirty Little Secret",
+		"year"    : "2005",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 9.7,
+			"lyrics"         : 10,
+			"vocals"         : 9.8,
+			"nostalgia"      : 9.9,
+			"bias"           : 9.4,
+			"relisten"       : 8.1,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 4.5
+		}
+	},
+	{
+		"name"    : "Andrew WK - Party Hard",
+		"year"    : "2001",
+		"ratings" : {
+			"melody"         : 9,
+			"rhythm"         : 10,
+			"lyrics"         : 9.5,
+			"vocals"         : 10,
+			"nostalgia"      : 9.8,
+			"bias"           : 8.5,
+			"relisten"       : 9,
+			"instrumental"   : 9.5,
+			"studio effects" : 10,
+			"music video"    : 0
+		}
+	},
+	{
+		"name"    : "Ariana Grande - Break Free",
+		"year"    : "2014",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.6,
+			"lyrics"         : 8.7,
+			"vocals"         : 10,
+			"nostalgia"      : 8.9,
+			"bias"           : 8.8,
+			"relisten"       : 9.8,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6.7
+		}
+	},
+	{
 		"name"    : "Backstreet Boys - I Want It That Way",
 		"year"    : "1999",
 		"ratings" : {
@@ -29,6 +77,22 @@
 			"instrumental"   : 10,
 			"studio effects" : 9.5,
 			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Backstreet Boys - Shape Of My Heart",
+		"year"    : "2000",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 8.5,
+			"lyrics"         : 9.5,
+			"vocals"         : 10,
+			"nostalgia"      : 5.5,
+			"bias"           : 6.5,
+			"relisten"       : 8.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7
 		}
 	},
 	{
@@ -96,6 +160,70 @@
 		}
 	},
 	{
+		"name"    : "Britney Spears - Toxic",
+		"year"    : "2004",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 9.1,
+			"lyrics"         : 9.5,
+			"vocals"         : 9.2,
+			"nostalgia"      : 8.5,
+			"bias"           : 7.5,
+			"relisten"       : 7.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.1
+		}
+	},
+	{
+		"name"    : "Calvin Harris - Summer",
+		"year"    : "2014",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.6,
+			"lyrics"         : 8.9,
+			"vocals"         : 9.1,
+			"nostalgia"      : 8.7,
+			"bias"           : 8.2,
+			"relisten"       : 9.6,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6.2
+		}
+	},
+	{
+		"name"    : "Carly Rae Jepsen - Call Me Maybe",
+		"year"    : "2012",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.4,
+			"lyrics"         : 9.6,
+			"vocals"         : 9.8,
+			"nostalgia"      : 9.1,
+			"bias"           : 8.9,
+			"relisten"       : 9.1,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.3
+		}
+	},
+	{
+		"name"    : "Chris Brown - Forever",
+		"year"    : "2008",
+		"ratings" : {
+			"melody"         : 8.8,
+			"rhythm"         : 9.4,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 8.5,
+			"relisten"       : 8.1,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 8.9
+		}
+	},
+	{
 		"name"    : "Cobra Starship - Good Girls Go Bad",
 		"year"    : "2009",
 		"ratings" : {
@@ -128,6 +256,86 @@
 		}
 	},
 	{
+		"name"    : "Drake - Headlines",
+		"year"    : "2011",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 10,
+			"lyrics"         : 9.3,
+			"vocals"         : 9.6,
+			"nostalgia"      : 9.6,
+			"bias"           : 7.7,
+			"relisten"       : 8.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9.1
+		}
+	},
+	{
+		"name"    : "Ed Sheeran - Thinking Out Loud",
+		"year"    : "2015",
+		"ratings" : {
+			"melody"         : 9.4,
+			"rhythm"         : 9.1,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 9.5,
+			"bias"           : 9.3,
+			"relisten"       : 7.4,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.1
+		}
+	},
+	{
+		"name"    : "Fergie - Glamorous",
+		"year"    : "2007",
+		"ratings" : {
+			"melody"         : 9,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.1,
+			"nostalgia"      : 9.7,
+			"bias"           : 8.8,
+			"relisten"       : 9.1,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.4
+		}
+	},
+	{
+		"name"    : "Fifth Harmony - Work From Home",
+		"year"    : "2016",
+		"ratings" : {
+			"melody"         : 9.6,
+			"rhythm"         : 9.7,
+			"lyrics"         : 8.4,
+			"vocals"         : 9.5,
+			"nostalgia"      : 9.6,
+			"bias"           : 9.3,
+			"relisten"       : 9.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.8
+		}
+	},
+	{
+		"name"    : "Florida Georgia Line - Cruise",
+		"year"    : "2013",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 8.7,
+			"lyrics"         : 9.1,
+			"vocals"         : 8.5,
+			"nostalgia"      : 5.1,
+			"bias"           : 8.4,
+			"relisten"       : 9.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.7
+		}
+	},
+	{
 		"name"    : "Jason Derulo - Whatcha Say",
 		"year"    : "2009",
 		"ratings" : {
@@ -152,11 +360,91 @@
 			"lyrics"         : 9.5,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.5,
-			"relisten"       : 9.9,
+			"bias"           : 9.8,
+			"relisten"       : 9.8,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 10
+		}
+	},
+	{
+		"name"    : "Jay-Z - N****s in Paris",
+		"year"    : "2011",
+		"ratings" : {
+			"melody"         : 9,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.7,
+			"nostalgia"      : 9.6,
+			"bias"           : 9.3,
+			"relisten"       : 8.8,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.8
+		}
+	},
+	{
+		"name"    : "Kanye West - All of the Lights",
+		"year"    : "2010",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 9.6,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 9.3,
+			"bias"           : 9.5,
+			"relisten"       : 8.8,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.9
+		}
+	},
+	{
+		"name"    : "Kanye West - Gold Digger",
+		"year"    : "2005",
+		"ratings" : {
+			"melody"         : 8.9,
+			"rhythm"         : 10,
+			"lyrics"         : 9.7,
+			"vocals"         : 8.9,
+			"nostalgia"      : 8.5,
+			"bias"           : 9.4,
+			"relisten"       : 8.2,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6.8
+		}
+	},
+	{
+		"name"    : "Katy Perry - California Gurls",
+		"year"    : "2010",
+		"ratings" : {
+			"melody"         : 9.7,
+			"rhythm"         : 10,
+			"lyrics"         : 9.3,
+			"vocals"         : 10,
+			"nostalgia"      : 9.7,
+			"bias"           : 9.6,
+			"relisten"       : 9.4,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.1
+		}
+	},
+	{
+		"name"    : "Katy Perry - Chained to the Rhythm",
+		"year"    : "2017",
+		"ratings" : {
+			"melody"         : 9.1,
+			"rhythm"         : 9.2,
+			"lyrics"         : 9,
+			"vocals"         : 9.3,
+			"nostalgia"      : 7.2,
+			"bias"           : 8.3,
+			"relisten"       : 8.1,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7
 		}
 	},
 	{
@@ -208,6 +496,22 @@
 		}
 	},
 	{
+		"name"    : "Krewella - Alive",
+		"year"    : "2013",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.4,
+			"lyrics"         : 9.6,
+			"vocals"         : 10,
+			"nostalgia"      : 6.4,
+			"bias"           : 9.2,
+			"relisten"       : 9.7,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.6
+		}
+	},
+	{
 		"name"    : "Lady Gaga - Just Dance",
 		"year"    : "2009",
 		"ratings" : {
@@ -232,7 +536,7 @@
 			"lyrics"         : 10,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.5,
+			"bias"           : 9.7,
 			"relisten"       : 9.5,
 			"instrumental"   : 10,
 			"studio effects" : 10,
@@ -256,6 +560,102 @@
 		}
 	},
 	{
+		"name"    : "Maroon 5 - Payphone",
+		"year"    : "2012",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.3,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 9.1,
+			"bias"           : 9.2,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 2.5
+		}
+	},
+	{
+		"name"    : "Maroon 5 - Sunday Morning",
+		"year"    : "2002",
+		"ratings" : {
+			"melody"         : 9.8,
+			"rhythm"         : 9.2,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 8.8,
+			"bias"           : 8.5,
+			"relisten"       : 9.3,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 5
+		}
+	},
+	{
+		"name"    : "Maroon 5 - This Love",
+		"year"    : "2002",
+		"ratings" : {
+			"melody"         : 9.3,
+			"rhythm"         : 9.5,
+			"lyrics"         : 10,
+			"vocals"         : 9.8,
+			"nostalgia"      : 10,
+			"bias"           : 8.3,
+			"relisten"       : 7.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6
+		}
+	},
+	{
+		"name"    : "Metro Station - Shake It",
+		"year"    : "2008",
+		"ratings" : {
+			"melody"         : 9.7,
+			"rhythm"         : 10,
+			"lyrics"         : 9.4,
+			"vocals"         : 8.9,
+			"nostalgia"      : 9.6,
+			"bias"           : 8.6,
+			"relisten"       : 8.4,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 8.7
+		}
+	},
+	{
+		"name"    : "Michelle Branch - The Game of Love",
+		"year"    : "2002",
+		"ratings" : {
+			"melody"         : 9.7,
+			"rhythm"         : 9.2,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 6.5,
+			"bias"           : 8,
+			"relisten"       : 9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 6
+		}
+	},
+	{
+		"name"    : "Mike Posner - I Took a Pill in Ibiza",
+		"year"    : "2016",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 10,
+			"lyrics"         : 9.6,
+			"vocals"         : 9.2,
+			"nostalgia"      : 9.4,
+			"bias"           : 7.6,
+			"relisten"       : 8.8,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 3
+		}
+	},
+	{
 		"name"    : "Miley Cyrus - Party in the USA",
 		"year"    : "2009",
 		"ratings" : {
@@ -269,6 +669,86 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "N'Sync - Bye Bye Bye",
+		"year"    : "2000",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.5,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 9.2,
+			"bias"           : 9.5,
+			"relisten"       : 9,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 8
+		}
+	},
+	{
+		"name"    : "Nelly - Country Grammar",
+		"year"    : "2000",
+		"ratings" : {
+			"melody"         : 9,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.5,
+			"nostalgia"      : 8.5,
+			"bias"           : 8.5,
+			"relisten"       : 9,
+			"instrumental"   : 10,
+			"studio effects" : 9,
+			"music video"    : 7
+		}
+	},
+	{
+		"name"    : "Nelly Furtado - Promiscuous",
+		"year"    : "2006",
+		"ratings" : {
+			"melody"         : 8.7,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.3,
+			"nostalgia"      : 9.3,
+			"bias"           : 8,
+			"relisten"       : 7.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 7.4
+		}
+	},
+	{
+		"name"    : "Nicki Minaj - Super Bass",
+		"year"    : "2011",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 9.6,
+			"lyrics"         : 8.4,
+			"vocals"         : 8.8,
+			"nostalgia"      : 9.3,
+			"bias"           : 8.7,
+			"relisten"       : 9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.5
+		}
+	},
+	{
+		"name"    : "Omarion - Post To Be",
+		"year"    : "2015",
+		"ratings" : {
+			"melody"         : 9.3,
+			"rhythm"         : 10,
+			"lyrics"         : 9.2,
+			"vocals"         : 9.4,
+			"nostalgia"      : 8.9,
+			"bias"           : 8.5,
+			"relisten"       : 9.1,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.9
 		}
 	},
 	{
@@ -296,8 +776,8 @@
 			"lyrics"         : 10,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.7,
-			"relisten"       : 9.2,
+			"bias"           : 9.8,
+			"relisten"       : 9.7,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 7.9
@@ -317,6 +797,70 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 9
+		}
+	},
+	{
+		"name"    : "Rihanna - Umbrella",
+		"year"    : "2007",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 9.8,
+			"lyrics"         : 6.5,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 7.7,
+			"relisten"       : 8.6,
+			"instrumental"   : 10,
+			"studio effects" : 9,
+			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Selena Gomez - It Ain't Me",
+		"year"    : "2017",
+		"ratings" : {
+			"melody"         : 9.4,
+			"rhythm"         : 10,
+			"lyrics"         : 8.5,
+			"vocals"         : 9.7,
+			"nostalgia"      : 7,
+			"bias"           : 8.4,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 3.7
+		}
+	},
+	{
+		"name"    : "Shakira - Whenever, Wherever",
+		"year"    : "2001",
+		"ratings" : {
+			"melody"         : 9,
+			"rhythm"         : 9.7,
+			"lyrics"         : 10,
+			"vocals"         : 9.4,
+			"nostalgia"      : 8.5,
+			"bias"           : 8.7,
+			"relisten"       : 8.5,
+			"instrumental"   : 10,
+			"studio effects" : 9,
+			"music video"    : 5
+		}
+	},
+	{
+		"name"    : "Sum 41 - Fat Lip",
+		"year"    : "2001",
+		"ratings" : {
+			"melody"         : 9.5,
+			"rhythm"         : 9.5,
+			"lyrics"         : 8,
+			"vocals"         : 9.7,
+			"nostalgia"      : 9.1,
+			"bias"           : 7,
+			"relisten"       : 8,
+			"instrumental"   : 10,
+			"studio effects" : 9,
+			"music video"    : 2
 		}
 	},
 	{
@@ -352,6 +896,54 @@
 		}
 	},
 	{
+		"name"    : "The Killers - All These Things That I've Done",
+		"year"    : "2004",
+		"ratings" : {
+			"melody"         : 9.2,
+			"rhythm"         : 7.5,
+			"lyrics"         : 9.5,
+			"vocals"         : 9.6,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 7.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 3.5
+		}
+	},
+	{
+		"name"    : "The Killers - Mr. Brightside",
+		"year"    : "2004",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.5,
+			"lyrics"         : 9.4,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.1,
+			"relisten"       : 9.7,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9.6
+		}
+	},
+	{
+		"name"    : "The Killers - When You Were Young",
+		"year"    : "2006",
+		"ratings" : {
+			"melody"         : 9.7,
+			"rhythm"         : 9.5,
+			"lyrics"         : 9.8,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.3,
+			"relisten"       : 8.5,
+			"instrumental"   : 10,
+			"studio effects" : 9.5,
+			"music video"    : 2
+		}
+	},
+	{
 		"name"    : "Utada Hikaru - Simple and Clean",
 		"year"    : "2002",
 		"ratings" : {
@@ -381,6 +973,22 @@
 			"instrumental"   : 9.5,
 			"studio effects" : 9.5,
 			"music video"    : 8.9
+		}
+	},
+	{
+		"name"    : "Wiz Khalifa - Black and Yellow",
+		"year"    : "2011",
+		"ratings" : {
+			"melody"         : 7.9,
+			"rhythm"         : 9.2,
+			"lyrics"         : 10,
+			"vocals"         : 8.7,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 8.7,
+			"instrumental"   : 9.2,
+			"studio effects" : 10,
+			"music video"    : 9.3
 		}
 	},
 	{

@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name"    : "Everybody's Golf",
+		"year"    : "2017",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 4.5,
+			"plot"        : 5,
+			"content"     : 9,
+			"mechanics"   : 10,
+			"reliability" : 3.5,
+			"replay"      : 9,
+			"soundtrack"  : 7.5,
+			"nostalgia"   : 6.5,
+			"bias"        : 8
+		}
+	},
+	{
 		"name"    : "Grand Theft Auto V",
 		"year"    : "2013",
 		"ratings" : {

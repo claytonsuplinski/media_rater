@@ -112,6 +112,22 @@
 		}
 	},
 	{
+		"name"    : "Black Eyed Peas - Boom Boom Pow",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 8.8,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 9.4,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 8.4,
+			"instrumental"   : 9.8,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
 		"name"    : "Black Eyed Peas - I Gotta Feeling",
 		"year"    : "2009",
 		"ratings" : {
@@ -125,6 +141,22 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 9.5
+		}
+	},
+	{
+		"name"    : "Black Eyed Peas - Meet Me Halfway",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 9.7,
+			"lyrics"         : 10,
+			"vocals"         : 9.6,
+			"nostalgia"      : 10,
+			"bias"           : 9.8,
+			"relisten"       : 8.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9.1
 		}
 	},
 	{
@@ -477,6 +509,22 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 8.4
+		}
+	},
+	{
+		"name"    : "Keri Hilson - Knock You Down",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 10,
+			"rhythm"         : 10,
+			"lyrics"         : 9.9,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 10,
+			"relisten"       : 9.3,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 9
 		}
 	},
 	{

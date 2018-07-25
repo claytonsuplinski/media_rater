@@ -1,0 +1,572 @@
+[
+	{
+		"name"    : "Aaron Rodgers",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 6,
+			"selflessness"    : 3,
+			"integrity"       : 9,
+			"reliability"     : 8,
+			"nostalgia"       : 9,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Ahman Green",
+		"ratings" : {
+			"important plays" : 7.5,
+			"skill"           : 8.5,
+			"teams"           : 8,
+			"interaction"     : 10,
+			"personality"     : 7.5,
+			"selflessness"    : 6.5,
+			"integrity"       : 2,
+			"reliability"     : 6,
+			"nostalgia"       : 9,
+			"bias"            : 7
+		}
+	},
+	{
+		"name"    : "Albert Pujols",
+		"ratings" : {
+			"important plays" : 9,
+			"skill"           : 9,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 4.5,
+			"selflessness"    : 1.5,
+			"integrity"       : 6.5,
+			"reliability"     : 9.5,
+			"nostalgia"       : 8.5,
+			"bias"            : 4.5
+		}
+	},
+	{
+		"name"    : "Antonio Brown",
+		"ratings" : {
+			"important plays" : 9.5,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 4.5,
+			"selflessness"    : 2,
+			"integrity"       : 4,
+			"reliability"     : 9.5,
+			"nostalgia"       : 9,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Bart Starr",
+		"ratings" : {
+			"important plays" : 6,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 9,
+			"personality"     : 10,
+			"selflessness"    : 8.5,
+			"integrity"       : 10,
+			"reliability"     : 9.5,
+			"nostalgia"       : 2,
+			"bias"            : 9.5
+		}
+	},
+	{
+		"name"    : "Bill Romanowski",
+		"ratings" : {
+			"important plays" : 0.5,
+			"skill"           : 7.5,
+			"teams"           : 2.5,
+			"interaction"     : 5,
+			"personality"     : 1,
+			"selflessness"    : 6.5,
+			"integrity"       : 0,
+			"reliability"     : 2,
+			"nostalgia"       : 2,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Brett Favre",
+		"ratings" : {
+			"important plays" : 9,
+			"skill"           : 9.5,
+			"teams"           : 7.5,
+			"interaction"     : 5,
+			"personality"     : 4,
+			"selflessness"    : 2.5,
+			"integrity"       : 3,
+			"reliability"     : 7,
+			"nostalgia"       : 10,
+			"bias"            : 3.5
+		}
+	},
+	{
+		"name"    : "Ben Roethlisberger",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 4,
+			"selflessness"    : 7,
+			"integrity"       : 2.5,
+			"reliability"     : 8.5,
+			"nostalgia"       : 7.5,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Carlos Boozer",
+		"ratings" : {
+			"important plays" : 7,
+			"skill"           : 7.5,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 4.5,
+			"selflessness"    : 5,
+			"integrity"       : 6.5,
+			"reliability"     : 8,
+			"nostalgia"       : 8,
+			"bias"            : 6.5
+		}
+	},
+	{
+		"name"    : "Casey Hampton",
+		"ratings" : {
+			"important plays" : 5,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 8.5,
+			"selflessness"    : 10,
+			"integrity"       : 9,
+			"reliability"     : 9.5,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Charlie Batch",
+		"ratings" : {
+			"important plays" : 7.5,
+			"skill"           : 7,
+			"teams"           : 8.5,
+			"interaction"     : 5,
+			"personality"     : 10,
+			"selflessness"    : 10,
+			"integrity"       : 10,
+			"reliability"     : 10,
+			"nostalgia"       : 9.5,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Chris Carpenter",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 8.5,
+			"interaction"     : 5,
+			"personality"     : 8.5,
+			"selflessness"    : 9,
+			"integrity"       : 10,
+			"reliability"     : 7,
+			"nostalgia"       : 10,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Deron Williams",
+		"ratings" : {
+			"important plays" : 6.5,
+			"skill"           : 8,
+			"teams"           : 7,
+			"interaction"     : 5,
+			"personality"     : 2.5,
+			"selflessness"    : 4.5,
+			"integrity"       : 1.5,
+			"reliability"     : 7.5,
+			"nostalgia"       : 7.5,
+			"bias"            : 3.5
+		}
+	},
+	{
+		"name"    : "Donald Driver",
+		"ratings" : {
+			"important plays" : 8.5,
+			"skill"           : 9,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 10,
+			"selflessness"    : 9,
+			"integrity"       : 10,
+			"reliability"     : 8.5,
+			"nostalgia"       : 9,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Gordon Hayward",
+		"ratings" : {
+			"important plays" : 5.5,
+			"skill"           : 7,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 3.5,
+			"selflessness"    : 2,
+			"integrity"       : 7.5,
+			"reliability"     : 4.5,
+			"nostalgia"       : 4,
+			"bias"            : 2
+		}
+	},
+	{
+		"name"    : "Heath Miller",
+		"ratings" : {
+			"important plays" : 7,
+			"skill"           : 9.5,
+			"teams"           : 10,
+			"interaction"     : 6,
+			"personality"     : 10,
+			"selflessness"    : 10,
+			"integrity"       : 10,
+			"reliability"     : 9,
+			"nostalgia"       : 9,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Hines Ward",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 10,
+			"interaction"     : 5.5,
+			"personality"     : 10,
+			"selflessness"    : 10,
+			"integrity"       : 8.5,
+			"reliability"     : 9.5,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "James Farrior",
+		"ratings" : {
+			"important plays" : 8.5,
+			"skill"           : 9.5,
+			"teams"           : 9,
+			"interaction"     : 5,
+			"personality"     : 7.5,
+			"selflessness"    : 10,
+			"integrity"       : 7,
+			"reliability"     : 9.5,
+			"nostalgia"       : 10,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "James Harrison",
+		"ratings" : {
+			"important plays" : 9.5,
+			"skill"           : 9.5,
+			"teams"           : 6.5,
+			"interaction"     : 5,
+			"personality"     : 1.5,
+			"selflessness"    : 1,
+			"integrity"       : 0,
+			"reliability"     : 7.5,
+			"nostalgia"       : 4,
+			"bias"            : 1
+		}
+	},
+	{
+		"name"    : "Jerome Bettis",
+		"ratings" : {
+			"important plays" : 7.5,
+			"skill"           : 9.5,
+			"teams"           : 9.5,
+			"interaction"     : 6,
+			"personality"     : 10,
+			"selflessness"    : 9.5,
+			"integrity"       : 10,
+			"reliability"     : 9.9,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Joey Porter",
+		"ratings" : {
+			"important plays" : 9.5,
+			"skill"           : 9.5,
+			"teams"           : 7.5,
+			"interaction"     : 5,
+			"personality"     : 8.5,
+			"selflessness"    : 4.5,
+			"integrity"       : 6,
+			"reliability"     : 9,
+			"nostalgia"       : 10,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "John Elway",
+		"ratings" : {
+			"important plays" : 2,
+			"skill"           : 9,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 2,
+			"selflessness"    : 2.5,
+			"integrity"       : 4,
+			"reliability"     : 1.5,
+			"nostalgia"       : 2,
+			"bias"            : 2
+		}
+	},
+	{
+		"name"    : "John Stockton",
+		"ratings" : {
+			"important plays" : 6,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 9,
+			"selflessness"    : 10,
+			"integrity"       : 10,
+			"reliability"     : 9,
+			"nostalgia"       : 5,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Kareem Abdul Jabbar",
+		"ratings" : {
+			"important plays" : 6,
+			"skill"           : 10,
+			"teams"           : 7,
+			"interaction"     : 5,
+			"personality"     : 8.5,
+			"selflessness"    : 5,
+			"integrity"       : 8,
+			"reliability"     : 10,
+			"nostalgia"       : 2,
+			"bias"            : 7.5
+		}
+	},
+	{
+		"name"    : "Karl Malone",
+		"ratings" : {
+			"important plays" : 7,
+			"skill"           : 9.5,
+			"teams"           : 8.5,
+			"interaction"     : 5,
+			"personality"     : 8,
+			"selflessness"    : 6.5,
+			"integrity"       : 7,
+			"reliability"     : 9,
+			"nostalgia"       : 5,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Kobe Bryant",
+		"ratings" : {
+			"important plays" : 0.5,
+			"skill"           : 9.5,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 6.5,
+			"selflessness"    : 0,
+			"integrity"       : 2,
+			"reliability"     : 1,
+			"nostalgia"       : 1.5,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "LeBron James",
+		"ratings" : {
+			"important plays" : 5.5,
+			"skill"           : 10,
+			"teams"           : 1.5,
+			"interaction"     : 5,
+			"personality"     : 4.5,
+			"selflessness"    : 3.5,
+			"integrity"       : 7,
+			"reliability"     : 9,
+			"nostalgia"       : 7,
+			"bias"            : 6.5
+		}
+	},
+	{
+		"name"    : "Michael Jordan",
+		"ratings" : {
+			"important plays" : 0.5,
+			"skill"           : 9,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 1.5,
+			"selflessness"    : 0.5,
+			"integrity"       : 4,
+			"reliability"     : 0.5,
+			"nostalgia"       : 2,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Prince Fielder",
+		"ratings" : {
+			"important plays" : 5.5,
+			"skill"           : 8,
+			"teams"           : 8.5,
+			"interaction"     : 5,
+			"personality"     : 7.5,
+			"selflessness"    : 6,
+			"integrity"       : 8,
+			"reliability"     : 4.5,
+			"nostalgia"       : 6,
+			"bias"            : 6.5
+		}
+	},
+	{
+		"name"    : "Ray Lewis",
+		"ratings" : {
+			"important plays" : 3,
+			"skill"           : 8.5,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 1,
+			"selflessness"    : 1.5,
+			"integrity"       : 0,
+			"reliability"     : 5,
+			"nostalgia"       : 2.5,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Rickie Weeks",
+		"ratings" : {
+			"important plays" : 6,
+			"skill"           : 7.5,
+			"teams"           : 7.5,
+			"interaction"     : 5,
+			"personality"     : 7.5,
+			"selflessness"    : 8,
+			"integrity"       : 7.5,
+			"reliability"     : 6.5,
+			"nostalgia"       : 9,
+			"bias"            : 7.5
+		}
+	},
+	{
+		"name"    : "Rob Gronkowski",
+		"ratings" : {
+			"important plays" : 0,
+			"skill"           : 10,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 2.5,
+			"selflessness"    : 2,
+			"integrity"       : 0,
+			"reliability"     : 0,
+			"nostalgia"       : 0,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Ryan Braun",
+		"ratings" : {
+			"important plays" : 4.5,
+			"skill"           : 8,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 0.5,
+			"selflessness"    : 0,
+			"integrity"       : 0,
+			"reliability"     : 3.5,
+			"nostalgia"       : 3,
+			"bias"            : 1
+		}
+	},
+	{
+		"name"    : "Santonio Holmes",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 8.5,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 7,
+			"selflessness"    : 5,
+			"integrity"       : 5.5,
+			"reliability"     : 7.5,
+			"nostalgia"       : 8.5,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Tom Brady",
+		"ratings" : {
+			"important plays" : 0.5,
+			"skill"           : 6,
+			"teams"           : 0,
+			"interaction"     : 5,
+			"personality"     : 2,
+			"selflessness"    : 4,
+			"integrity"       : 0,
+			"reliability"     : 0.5,
+			"nostalgia"       : 0.5,
+			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Troy Polamalu",
+		"ratings" : {
+			"important plays" : 9.5,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 9,
+			"personality"     : 10,
+			"selflessness"    : 9,
+			"integrity"       : 10,
+			"reliability"     : 8,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "William Henderson",
+		"ratings" : {
+			"important plays" : 7.5,
+			"skill"           : 8.5,
+			"teams"           : 10,
+			"interaction"     : 7.5,
+			"personality"     : 7.5,
+			"selflessness"    : 10,
+			"integrity"       : 7.5,
+			"reliability"     : 9,
+			"nostalgia"       : 10,
+			"bias"            : 7.3
+		}
+	},
+	{
+		"name"    : "Yadier Molina",
+		"ratings" : {
+			"important plays" : 9,
+			"skill"           : 10,
+			"teams"           : 10,
+			"interaction"     : 5,
+			"personality"     : 9,
+			"selflessness"    : 9.5,
+			"integrity"       : 6.5,
+			"reliability"     : 10,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	}
+]

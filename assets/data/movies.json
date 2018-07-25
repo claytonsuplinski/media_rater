@@ -96,6 +96,22 @@
 		}
 	},
 	{
+		"name"    : "Fantastic Beasts and Where to Find Them",
+		"year"    : "2016",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 8,
+			"plot"       : 5,
+			"music"      : 9.5,
+			"rewatch"    : 5.5,
+			"characters" : 7.5,
+			"genre"      : 6.5,
+			"references" : 8.5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Ferris Bueller's Day Off",
 		"year"    : "1986",
 		"ratings" : {
@@ -300,6 +316,22 @@
 			"characters" : 1,
 			"genre"      : 0,
 			"references" : 5,
+			"bias"       : 0
+		}
+	},
+	{
+		"name"    : "Manos: The Hands of Fate",
+		"year"    : "1966",
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 0,
+			"nostalgia"  : 0,
+			"plot"       : 2,
+			"music"      : 1.5,
+			"rewatch"    : 0,
+			"characters" : 4.5,
+			"genre"      : 1,
+			"references" : 0,
 			"bias"       : 0
 		}
 	},
@@ -800,6 +832,22 @@
 		}
 	},
 	{
+		"name"    : "The Maze Runner",
+		"year"    : "2014",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 9.5,
+			"music"      : 5,
+			"rewatch"    : 8.5,
+			"characters" : 7.5,
+			"genre"      : 9.5,
+			"references" : 5,
+			"bias"       : 8
+		}
+	},
+	{
 		"name"    : "The Revenant",
 		"year"    : "2015",
 		"ratings" : {
@@ -861,6 +909,22 @@
 			"genre"      : 7,
 			"references" : 3.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Tremors",
+		"year"    : "1990",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 7.8,
+			"plot"       : 6.5,
+			"music"      : 8,
+			"rewatch"    : 8.5,
+			"characters" : 7,
+			"genre"      : 9.5,
+			"references" : 6,
+			"bias"       : 7.5
 		}
 	},
 	{

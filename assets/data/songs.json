@@ -261,7 +261,7 @@
 		"ratings" : {
 			"melody"         : 10,
 			"rhythm"         : 10,
-			"lyrics"         : 9.5,
+			"lyrics"         : 9.8,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
 			"bias"           : 10,
@@ -368,6 +368,22 @@
 		}
 	},
 	{
+		"name"    : "Jamie Foxx - Blame It",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 9.8,
+			"rhythm"         : 10,
+			"lyrics"         : 10,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.8,
+			"relisten"       : 9.5,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 8.9
+		}
+	},
+	{
 		"name"    : "Jason Derulo - Whatcha Say",
 		"year"    : "2009",
 		"ratings" : {
@@ -389,14 +405,14 @@
 		"ratings" : {
 			"melody"         : 10,
 			"rhythm"         : 10,
-			"lyrics"         : 9.5,
+			"lyrics"         : 9.9,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.8,
+			"bias"           : 10,
 			"relisten"       : 9.8,
 			"instrumental"   : 10,
 			"studio effects" : 10,
-			"music video"    : 10
+			"music video"    : 9.6
 		}
 	},
 	{
@@ -445,6 +461,22 @@
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 6.8
+		}
+	},
+	{
+		"name"    : "Kanye West - Heartless",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 9.4,
+			"rhythm"         : 10,
+			"lyrics"         : 9.7,
+			"vocals"         : 10,
+			"nostalgia"      : 10,
+			"bias"           : 9.4,
+			"relisten"       : 7.9,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
 		}
 	},
 	{
@@ -569,7 +601,7 @@
 			"vocals"         : 10,
 			"nostalgia"      : 10,
 			"bias"           : 9.8,
-			"relisten"       : 9.5,
+			"relisten"       : 9.8,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 10
@@ -709,14 +741,14 @@
 		"ratings" : {
 			"melody"         : 10,
 			"rhythm"         : 10,
-			"lyrics"         : 10,
+			"lyrics"         : 9.8,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.8,
-			"relisten"       : 9.9,
+			"bias"           : 9.9,
+			"relisten"       : 9.7,
 			"instrumental"   : 10,
 			"studio effects" : 10,
-			"music video"    : 9.5
+			"music video"    : 9.6
 		}
 	},
 	{
@@ -832,6 +864,22 @@
 		}
 	},
 	{
+		"name"    : "Phoenix - 1901",
+		"year"    : "2009",
+		"ratings" : {
+			"melody"         : 9.6,
+			"rhythm"         : 10,
+			"lyrics"         : 9.7,
+			"vocals"         : 9.3,
+			"nostalgia"      : 10,
+			"bias"           : 9.5,
+			"relisten"       : 8.7,
+			"instrumental"   : 10,
+			"studio effects" : 10,
+			"music video"    : 10
+		}
+	},
+	{
 		"name"    : "R. Kelly - Ignition (Remix)",
 		"year"    : "2003",
 		"ratings" : {
@@ -917,14 +965,14 @@
 		"ratings" : {
 			"melody"         : 10,
 			"rhythm"         : 10,
-			"lyrics"         : 10,
+			"lyrics"         : 9.7,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.7,
+			"bias"           : 9.9,
 			"relisten"       : 9.9,
 			"instrumental"   : 10,
 			"studio effects" : 10,
-			"music video"    : 9.4
+			"music video"    : 9.7
 		}
 	},
 	{
@@ -932,12 +980,12 @@
 		"year"    : "2009",
 		"ratings" : {
 			"melody"         : 10,
-			"rhythm"         : 9.5,
+			"rhythm"         : 9.7,
 			"lyrics"         : 10,
 			"vocals"         : 10,
 			"nostalgia"      : 10,
-			"bias"           : 9.7,
-			"relisten"       : 9.9,
+			"bias"           : 9.9,
+			"relisten"       : 9.8,
 			"instrumental"   : 10,
 			"studio effects" : 10,
 			"music video"    : 10

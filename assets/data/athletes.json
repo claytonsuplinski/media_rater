@@ -555,6 +555,21 @@
 		}
 	},
 	{
+		"name"    : "Willie Parker",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 9.9,
+			"interaction"     : 5,
+			"personality"     : 7,
+			"selflessness"    : 8.5,
+			"integrity"       : 7.5,
+			"reliability"     : 9,
+			"nostalgia"       : 10,
+			"bias"            : 9.5
+		}
+	},
+	{
 		"name"    : "Yadier Molina",
 		"ratings" : {
 			"important plays" : 9,

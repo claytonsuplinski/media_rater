@@ -1,0 +1,370 @@
+[
+	{
+		"name"    : "Archer - Skytanic",
+		"year"    : "2010",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 8,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.7,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 9.5,
+			"plot"       : 7.8,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Ned's Declassified School Survival Guide - Spelling Bees",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 9.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8,
+			"quotes"     : 8,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Pokemon - Dig Those Diglett!",
+		"year"    : "1997",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 9.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8.5,
+			"quotes"     : 9.5,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Pokemon - The Ultimate Test",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"rewatch"    : 8.5,
+			"characters" : 9.5,
+			"genre"      : 10,
+			"references" : 9,
+			"quotes"     : 9.5,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Rocko's Modern Life - Wacky Delly",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 9,
+			"visuals"    : 8.5,
+			"nostalgia"  : 10,
+			"plot"       : 8.5,
+			"rewatch"    : 8,
+			"characters" : 9.5,
+			"genre"      : 10,
+			"references" : 9,
+			"quotes"     : 10,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Seinfeld - The Muffin Tops",
+		"year"    : "1997",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.5,
+			"quotes"     : 9.5,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Seinfeld - The Strike",
+		"year"    : "1997",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9,
+			"rewatch"    : 9.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"quotes"     : 9.1,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "South Park - Casa Bonita",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 8.5,
+			"plot"       : 10,
+			"rewatch"    : 9,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8.5,
+			"quotes"     : 7,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "South Park - Pinewood Derby",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9.5,
+			"nostalgia"  : 8.5,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8.5,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "South Park - Rainforest Shmainforest",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9.5,
+			"nostalgia"  : 8.5,
+			"plot"       : 10,
+			"rewatch"    : 9,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8,
+			"quotes"     : 8.5,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "South Park - Scott Tenorman Must Die",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 9,
+			"nostalgia"  : 8.5,
+			"plot"       : 10,
+			"rewatch"    : 9.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9,
+			"quotes"     : 10,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Band Geeks",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8,
+			"quotes"     : 8.5,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Bubble Buddy",
+		"year"    : "2000",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.8,
+			"quotes"     : 9.6,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Club Spongebob",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Dying for Pie",
+		"year"    : "2000",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.5,
+			"quotes"     : 9.7,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Frankendoodle",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.1,
+			"quotes"     : 9.8,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Graveyard Shift",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Krusty Love",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 7.5,
+			"rewatch"    : 8.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 5,
+			"quotes"     : 7.5,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Life of Crime",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9.2,
+			"quotes"     : 9.7,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - My Pretty Seahorse",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants - Survival of the Idiots",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 8.7,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8,
+			"quotes"     : 9,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "The Office - Stress Relief",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 9.5,
+			"nostalgia"  : 9,
+			"plot"       : 8,
+			"rewatch"    : 8,
+			"characters" : 9.5,
+			"genre"      : 10,
+			"references" : 10,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	}
+]

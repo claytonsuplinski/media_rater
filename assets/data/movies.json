@@ -20,7 +20,7 @@
 		"year"    : "2004",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 6,
+			"visuals"    : 8.5,
 			"nostalgia"  : 10,
 			"plot"       : 8.8,
 			"music"      : 4,
@@ -28,7 +28,7 @@
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
-			"bias"       : 9.5
+			"bias"       : 10
 		}
 	},
 	{
@@ -172,7 +172,7 @@
 			"characters" : 9.2,
 			"genre"      : 10,
 			"references" : 10,
-			"bias"       : 9.8
+			"bias"       : 9.9
 		}
 	},
 	{
@@ -333,6 +333,22 @@
 			"genre"      : 1,
 			"references" : 0,
 			"bias"       : 0
+		}
+	},
+	{
+		"name"    : "Mission: Impossible - Fallout",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 9,
+			"references" : 7,
+			"bias"       : 5
 		}
 	},
 	{
@@ -768,6 +784,22 @@
 		}
 	},
 	{
+		"name"    : "The Even Stevens Movie",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 7.5,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"music"      : 10,
+			"rewatch"    : 9.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 3,
+			"bias"       : 9.5
+		}
+	},
+	{
 		"name"    : "The Hobbit: The Desolation of Smaug",
 		"year"    : "2013",
 		"ratings" : {
@@ -844,6 +876,22 @@
 			"characters" : 7.5,
 			"genre"      : 9.5,
 			"references" : 5,
+			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "The Princess Bride",
+		"year"    : "1987",
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 7,
+			"nostalgia"  : 7,
+			"plot"       : 8,
+			"music"      : 7,
+			"rewatch"    : 8.5,
+			"characters" : 9,
+			"genre"      : 8,
+			"references" : 8.5,
 			"bias"       : 8
 		}
 	},

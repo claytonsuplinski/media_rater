@@ -1,5 +1,20 @@
 [
 	{
+		"name"    : "Adele",
+		"ratings" : {
+			"melody"       : 2.5,
+			"rhythm"       : 4,
+			"lyrics"       : 5,
+			"vocals"       : 1,
+			"nostalgia"    : 1,
+			"bias"         : 0.5,
+			"relisten"     : 0.5,
+			"quantity"     : 0.5,
+			"personality"  : 5,
+			"music videos" : 3.5
+		}
+	},
+	{
 		"name"    : "Akon",
 		"ratings" : {
 			"melody"       : 9.5,
@@ -60,6 +75,21 @@
 		}
 	},
 	{
+		"name"    : "Cardi B",
+		"ratings" : {
+			"melody"       : 0,
+			"rhythm"       : 3,
+			"lyrics"       : 0,
+			"vocals"       : 0,
+			"nostalgia"    : 0,
+			"bias"         : 0,
+			"relisten"     : 0,
+			"quantity"     : 0,
+			"personality"  : 0,
+			"music videos" : 0
+		}
+	},
+	{
 		"name"    : "Chris Brown",
 		"ratings" : {
 			"melody"       : 9.5,
@@ -72,6 +102,21 @@
 			"quantity"     : 8.5,
 			"personality"  : 3,
 			"music videos" : 8.5
+		}
+	},
+	{
+		"name"    : "Cobra Starship",
+		"ratings" : {
+			"melody"       : 9,
+			"rhythm"       : 9,
+			"lyrics"       : 8,
+			"vocals"       : 9,
+			"nostalgia"    : 10,
+			"bias"         : 9,
+			"relisten"     : 9,
+			"quantity"     : 2.5,
+			"personality"  : 5,
+			"music videos" : 9.5
 		}
 	},
 	{
@@ -123,7 +168,7 @@
 		"name"    : "Kanye West",
 		"ratings" : {
 			"melody"       : 9.5,
-			"rhythm"       : 9.8,
+			"rhythm"       : 10,
 			"lyrics"       : 8,
 			"vocals"       : 9,
 			"nostalgia"    : 10,
@@ -192,6 +237,81 @@
 			"quantity"     : 8.7,
 			"personality"  : 8,
 			"music videos" : 7
+		}
+	},
+	{
+		"name"    : "Meghan Trainor",
+		"ratings" : {
+			"melody"       : 0.5,
+			"rhythm"       : 3,
+			"lyrics"       : 2,
+			"vocals"       : 0.5,
+			"nostalgia"    : 0,
+			"bias"         : 0,
+			"relisten"     : 0,
+			"quantity"     : 0,
+			"personality"  : 3.5,
+			"music videos" : 0
+		}
+	},
+	{
+		"name"    : "Nickelback",
+		"ratings" : {
+			"melody"       : 2,
+			"rhythm"       : 4,
+			"lyrics"       : 2.5,
+			"vocals"       : 0.5,
+			"nostalgia"    : 2,
+			"bias"         : 0,
+			"relisten"     : 0,
+			"quantity"     : 0,
+			"personality"  : 6,
+			"music videos" : 1
+		}
+	},
+	{
+		"name"    : "Owl City",
+		"ratings" : {
+			"melody"       : 10,
+			"rhythm"       : 9.5,
+			"lyrics"       : 8.3,
+			"vocals"       : 9.5,
+			"nostalgia"    : 9,
+			"bias"         : 8.5,
+			"relisten"     : 9.5,
+			"quantity"     : 7.5,
+			"personality"  : 7,
+			"music videos" : 6.5
+		}
+	},
+	{
+		"name"    : "Pink",
+		"ratings" : {
+			"melody"       : 3,
+			"rhythm"       : 4,
+			"lyrics"       : 1.5,
+			"vocals"       : 1,
+			"nostalgia"    : 2,
+			"bias"         : 0,
+			"relisten"     : 2.5,
+			"quantity"     : 1,
+			"personality"  : 4,
+			"music videos" : 0
+		}
+	},
+	{
+		"name"    : "Pitbull",
+		"ratings" : {
+			"melody"       : 9.5,
+			"rhythm"       : 9,
+			"lyrics"       : 3.5,
+			"vocals"       : 7,
+			"nostalgia"    : 8,
+			"bias"         : 7.5,
+			"relisten"     : 7.5,
+			"quantity"     : 8,
+			"personality"  : 3.5,
+			"music videos" : 6
 		}
 	},
 	{

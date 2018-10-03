@@ -152,15 +152,15 @@
 	{
 		"name"    : "Charlie Batch",
 		"ratings" : {
-			"important plays" : 7.5,
-			"skill"           : 7,
-			"teams"           : 8.5,
-			"interaction"     : 5,
+			"important plays" : 9,
+			"skill"           : 7.5,
+			"teams"           : 9.5,
+			"interaction"     : 10,
 			"personality"     : 10,
 			"selflessness"    : 10,
 			"integrity"       : 10,
 			"reliability"     : 10,
-			"nostalgia"       : 9.5,
+			"nostalgia"       : 10,
 			"bias"            : 10
 		}
 	},

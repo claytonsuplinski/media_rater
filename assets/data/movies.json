@@ -32,6 +32,22 @@
 		}
 	},
 	{
+		"name"    : "Austin Powers in Goldmember",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 8,
+			"nostalgia"  : 6.5,
+			"plot"       : 8,
+			"music"      : 8.5,
+			"rewatch"    : 7.5,
+			"characters" : 6.5,
+			"genre"      : 8.5,
+			"references" : 8.3,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Blades of Glory",
 		"year"    : "2007",
 		"ratings" : {
@@ -48,19 +64,35 @@
 		}
 	},
 	{
+		"name"    : "Central Intelligence",
+		"year"    : "2016",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 8,
+			"nostalgia"  : 6.5,
+			"plot"       : 9.5,
+			"music"      : 7,
+			"rewatch"    : 9,
+			"characters" : 6,
+			"genre"      : 9,
+			"references" : 4,
+			"bias"       : 8.5
+		}
+	},
+	{
 		"name"    : "Dodgeball",
 		"year"    : "2004",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 5,
+			"visuals"    : 7.5,
 			"nostalgia"  : 9,
-			"plot"       : 7,
-			"music"      : 4,
+			"plot"       : 9,
+			"music"      : 5,
 			"rewatch"    : 9,
-			"characters" : 7,
+			"characters" : 9,
 			"genre"      : 10,
 			"references" : 9,
-			"bias"       : 9
+			"bias"       : 9.1
 		}
 	},
 	{
@@ -128,15 +160,31 @@
 		}
 	},
 	{
+		"name"    : "Forrest Gump",
+		"year"    : "1994",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 5,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 3.5,
+			"rewatch"    : 3.5,
+			"characters" : 8.5,
+			"genre"      : 9,
+			"references" : 10,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Harry Potter and the Sorcerer's Stone",
 		"year"    : "2001",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 6,
+			"rewatch"    : 6.5,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
@@ -147,7 +195,7 @@
 		"name"    : "Harry Potter and the Chamber of Secrets",
 		"year"    : "2002",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
@@ -163,7 +211,7 @@
 		"name"    : "Harry Potter and the Prisoner of Azkaban",
 		"year"    : "2004",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 9,
@@ -179,7 +227,7 @@
 		"name"    : "Harry Potter and the Goblet of Fire",
 		"year"    : "2005",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
@@ -195,7 +243,7 @@
 		"name"    : "Harry Potter and the Order of the Phoenix",
 		"year"    : "2007",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
@@ -248,7 +296,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 7,
+			"rewatch"    : 8,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
@@ -349,6 +397,22 @@
 			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Moana",
+		"year"    : "2016",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 9.5,
+			"nostalgia"  : 6,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 7,
+			"genre"      : 9,
+			"references" : 3,
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -505,7 +569,7 @@
 			"plot"       : 7.5,
 			"music"      : 10,
 			"rewatch"    : 8.5,
-			"characters" : 6,
+			"characters" : 7.5,
 			"genre"      : 8,
 			"references" : 8.7,
 			"bias"       : 8
@@ -548,7 +612,7 @@
 		"year"    : "1987",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 8,
+			"visuals"    : 8.5,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 6,
@@ -584,7 +648,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 9,
+			"rewatch"    : 8.5,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
@@ -736,6 +800,22 @@
 		}
 	},
 	{
+		"name"    : "Tag",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 7.5,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 9,
+			"characters" : 5.5,
+			"genre"      : 9,
+			"references" : 4,
+			"bias"       : 8
+		}
+	},
+	{
 		"name"    : "Talladega Nights: The Ballad of Ricky Bobby",
 		"year"    : "2006",
 		"ratings" : {
@@ -880,6 +960,22 @@
 		}
 	},
 	{
+		"name"    : "The Meg",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 7.5,
+			"music"      : 6,
+			"rewatch"    : 5.5,
+			"characters" : 7.5,
+			"genre"      : 8.5,
+			"references" : 1.5,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "The Princess Bride",
 		"year"    : "1987",
 		"ratings" : {
@@ -889,10 +985,10 @@
 			"plot"       : 8,
 			"music"      : 7,
 			"rewatch"    : 8.5,
-			"characters" : 9,
+			"characters" : 7.5,
 			"genre"      : 8,
 			"references" : 8.5,
-			"bias"       : 8
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -980,8 +1076,8 @@
 		"year"    : "2008",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 6,
-			"nostalgia"  : 6,
+			"visuals"    : 7.5,
+			"nostalgia"  : 8.5,
 			"plot"       : 8,
 			"music"      : 8,
 			"rewatch"    : 10,

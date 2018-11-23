@@ -390,6 +390,21 @@
 		}
 	},
 	{
+		"name"    : "Kordell Stewart",
+		"ratings" : {
+			"important plays" : 7.5,
+			"skill"           : 8.5,
+			"teams"           : 6.5,
+			"interaction"     : 5,
+			"personality"     : 9,
+			"selflessness"    : 6.5,
+			"integrity"       : 6.5,
+			"reliability"     : 8.5,
+			"nostalgia"       : 10,
+			"bias"            : 9.5
+		}
+	},
+	{
 		"name"    : "LeBron James",
 		"ratings" : {
 			"important plays" : 5.5,

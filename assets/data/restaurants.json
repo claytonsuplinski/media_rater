@@ -1,0 +1,347 @@
+[
+	{
+		"name"    : "Applebee's",
+		"ratings" : {
+			"quality"    : 7,
+			"quantity"   : 7.5,
+			"price"      : 7.5,
+			"speed"      : 4.5,
+			"location"   : 9,
+			"best dish"  : 6.5,
+			"food genre" : 6,
+			"atmosphere" : 6.5,
+			"nostalgia"  : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Chili's",
+		"ratings" : {
+			"quality"    : 7.5,
+			"quantity"   : 8.5,
+			"price"      : 7.5,
+			"speed"      : 5.5,
+			"location"   : 9,
+			"best dish"  : 7,
+			"food genre" : 6.5,
+			"atmosphere" : 7,
+			"nostalgia"  : 6,
+			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Culver's",
+		"ratings" : {
+			"quality"    : 5,
+			"quantity"   : 6,
+			"price"      : 8,
+			"speed"      : 6.5,
+			"location"   : 9.5,
+			"best dish"  : 4.5,
+			"food genre" : 8,
+			"atmosphere" : 4.5,
+			"nostalgia"  : 6.5,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "HuHot",
+		"ratings" : {
+			"quality"    : 8.5,
+			"quantity"   : 10,
+			"price"      : 6.5,
+			"speed"      : 7,
+			"location"   : 9,
+			"best dish"  : 7,
+			"food genre" : 9,
+			"atmosphere" : 7.5,
+			"nostalgia"  : 8,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Jade Garden",
+		"ratings" : {
+			"quality"    : 5.5,
+			"quantity"   : 10,
+			"price"      : 8,
+			"speed"      : 10,
+			"location"   : 1.5,
+			"best dish"  : 5.5,
+			"food genre" : 9.5,
+			"atmosphere" : 3,
+			"nostalgia"  : 6,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Jimmy John's",
+		"ratings" : {
+			"quality"    : 5.5,
+			"quantity"   : 4,
+			"price"      : 6,
+			"speed"      : 9.5,
+			"location"   : 9.5,
+			"best dish"  : 5.5,
+			"food genre" : 9,
+			"atmosphere" : 3.5,
+			"nostalgia"  : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Jordan's Big 10 Pub",
+		"ratings" : {
+			"quality"    : 5,
+			"quantity"   : 5.5,
+			"price"      : 4.5,
+			"speed"      : 3.5,
+			"location"   : 7,
+			"best dish"  : 4.5,
+			"food genre" : 3,
+			"atmosphere" : 5,
+			"nostalgia"  : 4.5,
+			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Los Banditos",
+		"ratings" : {
+			"quality"    : 10,
+			"quantity"   : 10,
+			"price"      : 8,
+			"speed"      : 10,
+			"location"   : 2.5,
+			"best dish"  : 10,
+			"food genre" : 10,
+			"atmosphere" : 9,
+			"nostalgia"  : 10,
+			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Lucky's 1313 Brew Pub",
+		"ratings" : {
+			"quality"    : 5.5,
+			"quantity"   : 8.5,
+			"price"      : 7.5,
+			"speed"      : 3.5,
+			"location"   : 6.9,
+			"best dish"  : 5.5,
+			"food genre" : 3.5,
+			"atmosphere" : 4,
+			"nostalgia"  : 5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Mackinaws Grill and Spirits",
+		"ratings" : {
+			"quality"    : 9.5,
+			"quantity"   : 10,
+			"price"      : 4.5,
+			"speed"      : 7.5,
+			"location"   : 7,
+			"best dish"  : 6.5,
+			"food genre" : 8.5,
+			"atmosphere" : 10,
+			"nostalgia"  : 9,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Madison Cuisine",
+		"ratings" : {
+			"quality"    : 2,
+			"quantity"   : 10,
+			"price"      : 8.5,
+			"speed"      : 10,
+			"location"   : 7,
+			"best dish"  : 2,
+			"food genre" : 5,
+			"atmosphere" : 4,
+			"nostalgia"  : 3.5,
+			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "McDonald's",
+		"ratings" : {
+			"quality"    : 1,
+			"quantity"   : 5,
+			"price"      : 6.5,
+			"speed"      : 7.5,
+			"location"   : 10,
+			"best dish"  : 4,
+			"food genre" : 7,
+			"atmosphere" : 3,
+			"nostalgia"  : 5,
+			"bias"       : 2.5
+		}
+	},
+	{
+		"name"    : "Mickey's Dairy Bar",
+		"ratings" : {
+			"quality"    : 3.5,
+			"quantity"   : 8,
+			"price"      : 2.5,
+			"speed"      : 1,
+			"location"   : 5,
+			"best dish"  : 3,
+			"food genre" : 6.5,
+			"atmosphere" : 1,
+			"nostalgia"  : 2,
+			"bias"       : 1.5
+		}
+	},
+	{
+		"name"    : "Olive Garden",
+		"ratings" : {
+			"quality"    : 7,
+			"quantity"   : 7.5,
+			"price"      : 4,
+			"speed"      : 7.5,
+			"location"   : 9,
+			"best dish"  : 7,
+			"food genre" : 10,
+			"atmosphere" : 7,
+			"nostalgia"  : 5,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Panera Bread",
+		"ratings" : {
+			"quality"    : 7,
+			"quantity"   : 5,
+			"price"      : 6,
+			"speed"      : 8.5,
+			"location"   : 9,
+			"best dish"  : 6,
+			"food genre" : 7.5,
+			"atmosphere" : 8.5,
+			"nostalgia"  : 7,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Parthenon Gyros",
+		"ratings" : {
+			"quality"    : 8.5,
+			"quantity"   : 9.5,
+			"price"      : 5.5,
+			"speed"      : 7.5,
+			"location"   : 6.5,
+			"best dish"  : 7.5,
+			"food genre" : 9,
+			"atmosphere" : 10,
+			"nostalgia"  : 6.5,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Pizza Ranch",
+		"ratings" : {
+			"quality"    : 5.5,
+			"quantity"   : 10,
+			"price"      : 6,
+			"speed"      : 10,
+			"location"   : 8.5,
+			"best dish"  : 7.5,
+			"food genre" : 8.5,
+			"atmosphere" : 6,
+			"nostalgia"  : 5.5,
+			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Perkins",
+		"ratings" : {
+			"quality"    : 8.5,
+			"quantity"   : 9,
+			"price"      : 3.5,
+			"speed"      : 6,
+			"location"   : 8.5,
+			"best dish"  : 9.5,
+			"food genre" : 7.5,
+			"atmosphere" : 8.5,
+			"nostalgia"  : 9.5,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Primanti Bros.",
+		"ratings" : {
+			"quality"    : 8.5,
+			"quantity"   : 9.5,
+			"price"      : 9.5,
+			"speed"      : 7,
+			"location"   : 1,
+			"best dish"  : 9.5,
+			"food genre" : 9,
+			"atmosphere" : 9,
+			"nostalgia"  : 8,
+			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Redwood Inn",
+		"ratings" : {
+			"quality"    : 7,
+			"quantity"   : 10,
+			"price"      : 7,
+			"speed"      : 0.5,
+			"location"   : 6.5,
+			"best dish"  : 9.5,
+			"food genre" : 8.5,
+			"atmosphere" : 5,
+			"nostalgia"  : 7,
+			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "State Street Brats",
+		"ratings" : {
+			"quality"    : 1,
+			"quantity"   : 6,
+			"price"      : 1.5,
+			"speed"      : 5.5,
+			"location"   : 6,
+			"best dish"  : 1,
+			"food genre" : 2.5,
+			"atmosphere" : 0.5,
+			"nostalgia"  : 3.5,
+			"bias"       : 0
+		}
+	},
+	{
+		"name"    : "Subway",
+		"ratings" : {
+			"quality"    : 2.5,
+			"quantity"   : 8.5,
+			"price"      : 4.5,
+			"speed"      : 9.5,
+			"location"   : 10,
+			"best dish"  : 1.5,
+			"food genre" : 5.5,
+			"atmosphere" : 1.5,
+			"nostalgia"  : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Cheesecake Factory",
+		"ratings" : {
+			"quality"    : 9,
+			"quantity"   : 7.5,
+			"price"      : 2,
+			"speed"      : 2.5,
+			"location"   : 6,
+			"best dish"  : 7,
+			"food genre" : 5.5,
+			"atmosphere" : 10,
+			"nostalgia"  : 4,
+			"bias"       : 6.5
+		}
+	}
+]

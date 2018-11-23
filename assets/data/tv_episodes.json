@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name"    : "Archer - The Placebo Effect",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 8,
+			"plot"       : 10,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 9,
+			"quotes"     : 10,
+			"bias"       : 10
+		}
+	},
+	{
 		"name"    : "Chappelle's Show - Charlie Murphy's True Hollywood Stories - Rick James",
 		"year"    : "2004",
 		"ratings" : {
@@ -93,6 +109,22 @@
 			"references" : 9,
 			"quotes"     : 10,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Seinfeld - The Merv Griffin Show",
+		"year"    : "1997",
+		"ratings" : {
+			"humor"      : 10,
+			"visuals"    : 10,
+			"nostalgia"  : 10,
+			"plot"       : 9.5,
+			"rewatch"    : 10,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 8,
+			"quotes"     : 9,
+			"bias"       : 10
 		}
 	},
 	{

@@ -160,6 +160,22 @@
 		}
 	},
 	{
+		"name"    : "Fantastic Beasts: The Crimes of Grindelwald",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 7,
+			"plot"       : 7.5,
+			"music"      : 9.5,
+			"rewatch"    : 7,
+			"characters" : 8,
+			"genre"      : 6.5,
+			"references" : 9,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Ferris Bueller's Day Off",
 		"year"    : "1986",
 		"ratings" : {
@@ -941,6 +957,22 @@
 			"genre"      : 9,
 			"references" : 8,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "The Lion King",
+		"year"    : "1994",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 10,
+			"nostalgia"  : 9,
+			"plot"       : 9,
+			"music"      : 9.5,
+			"rewatch"    : 6.5,
+			"characters" : 10,
+			"genre"      : 10,
+			"references" : 10,
+			"bias"       : 9
 		}
 	},
 	{

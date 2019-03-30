@@ -96,19 +96,19 @@
 		}
 	},
 	{
-		"name"    : "Mario Kart 64",
-		"year"    : "1996",
+		"name"    : "Kingdom Hearts III",
+		"year"    : "2019",
 		"ratings" : {
-			"visuals"     : 4,
-			"characters"  : 10,
-			"plot"        : 1,
-			"content"     : 8,
-			"mechanics"   : 7,
-			"reliability" : 7,
-			"replay"      : 8,
-			"soundtrack"  : 8,
-			"nostalgia"   : 6,
-			"bias"        : 4
+			"visuals"     : 10,
+			"characters"  : 9,
+			"plot"        : 9.8,
+			"content"     : 9.5,
+			"mechanics"   : 9.8,
+			"reliability" : 10,
+			"replay"      : 7.5,
+			"soundtrack"  : 9,
+			"nostalgia"   : 8.5,
+			"bias"        : 9
 		}
 	},
 	{
@@ -157,6 +157,38 @@
 			"soundtrack"  : 4,
 			"nostalgia"   : 4.5,
 			"bias"        : 2
+		}
+	},
+	{
+		"name"    : "Mario Kart 64",
+		"year"    : "1996",
+		"ratings" : {
+			"visuals"     : 4,
+			"characters"  : 10,
+			"plot"        : 1,
+			"content"     : 8,
+			"mechanics"   : 7,
+			"reliability" : 7,
+			"replay"      : 8,
+			"soundtrack"  : 8,
+			"nostalgia"   : 6,
+			"bias"        : 4
+		}
+	},
+	{
+		"name"    : "Mario Strikers Charged",
+		"year"    : "2007",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 9.5,
+			"plot"        : 3,
+			"content"     : 8,
+			"mechanics"   : 7.5,
+			"reliability" : 7.5,
+			"replay"      : 9.5,
+			"soundtrack"  : 6.5,
+			"nostalgia"   : 8,
+			"bias"        : 7
 		}
 	},
 	{

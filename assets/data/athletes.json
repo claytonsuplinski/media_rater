@@ -47,16 +47,16 @@
 	{
 		"name"    : "Antonio Brown",
 		"ratings" : {
-			"important plays" : 9.5,
+			"important plays" : 9,
 			"skill"           : 10,
-			"teams"           : 10,
+			"teams"           : 7,
 			"interaction"     : 5,
-			"personality"     : 4.5,
-			"selflessness"    : 2,
-			"integrity"       : 4,
-			"reliability"     : 9.5,
-			"nostalgia"       : 9,
-			"bias"            : 9
+			"personality"     : 1.5,
+			"selflessness"    : 0,
+			"integrity"       : 1.5,
+			"reliability"     : 6.5,
+			"nostalgia"       : 7,
+			"bias"            : 3
 		}
 	},
 	{

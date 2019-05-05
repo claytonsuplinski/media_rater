@@ -48,6 +48,22 @@
 		}
 	},
 	{
+		"name"    : "Aquaman",
+		"year"    : "2018",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 5,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Austin Powers in Goldmember",
 		"year"    : "2002",
 		"ratings" : {
@@ -656,6 +672,22 @@
 		}
 	},
 	{
+		"name"    : "Spider-Man 2",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 7.5,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 7,
+			"characters" : 7.5,
+			"genre"      : 9,
+			"references" : 5,
+			"bias"       : 7.5
+		}
+	},
+	{
 		"name"    : "Star Wars Episode I: The Phantom Menace",
 		"year"    : "1999",
 		"ratings" : {
@@ -909,6 +941,22 @@
 			"genre"      : 10,
 			"references" : 3,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "The Great Mouse Detective",
+		"year"    : "1986",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 6,
+			"plot"       : 9,
+			"music"      : 5.5,
+			"rewatch"    : 5.5,
+			"characters" : 6,
+			"genre"      : 9,
+			"references" : 3,
+			"bias"       : 7
 		}
 	},
 	{

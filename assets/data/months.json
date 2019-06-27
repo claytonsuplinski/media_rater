@@ -1,0 +1,122 @@
+[
+	{
+		"name"    : "January",
+		"ratings" : {
+			"sports"    : 11,
+			"weather"   : 3,
+			"holidays"  : 9,
+			"vacations" : 2,
+			"health"    : 2
+		}
+	},
+	{
+		"name"    : "February",
+		"ratings" : {
+			"sports"    : 9,
+			"weather"   : 2,
+			"holidays"  : 3,
+			"vacations" : 1,
+			"health"    : 5
+		}
+	},
+	{
+		"name"    : "March",
+		"ratings" : {
+			"sports"    : 10,
+			"weather"   : 1,
+			"holidays"  : 2,
+			"vacations" : 7,
+			"health"    : 6
+		}
+	},
+	{
+		"name"    : "April",
+		"ratings" : {
+			"sports"    : 5,
+			"weather"   : 5,
+			"holidays"  : 6,
+			"vacations" : 6,
+			"health"    : 8
+		}
+	},
+	{
+		"name"    : "May",
+		"ratings" : {
+			"sports"    : 2,
+			"weather"   : 8,
+			"holidays"  : 7,
+			"vacations" : 8,
+			"health"    : 9
+		}
+	},
+	{
+		"name"    : "June",
+		"ratings" : {
+			"sports"    : 3,
+			"weather"   : 10,
+			"holidays"  : 4,
+			"vacations" : 12,
+			"health"    : 10
+		}
+	},
+	{
+		"name"    : "July",
+		"ratings" : {
+			"sports"    : 1,
+			"weather"   : 12,
+			"holidays"  : 11,
+			"vacations" : 10,
+			"health"    : 12
+		}
+	},
+	{
+		"name"    : "August",
+		"ratings" : {
+			"sports"    : 4,
+			"weather"   : 11,
+			"holidays"  : 1,
+			"vacations" : 9,
+			"health"    : 11
+		}
+	},
+	{
+		"name"    : "September",
+		"ratings" : {
+			"sports"    : 8,
+			"weather"   : 9,
+			"holidays"  : 8,
+			"vacations" : 5,
+			"health"    : 1
+		}
+	},
+	{
+		"name"    : "October",
+		"ratings" : {
+			"sports"    : 12,
+			"weather"   : 7,
+			"holidays"  : 5,
+			"vacations" : 4,
+			"health"    : 4
+		}
+	},
+	{
+		"name"    : "November",
+		"ratings" : {
+			"sports"    : 6,
+			"weather"   : 6,
+			"holidays"  : 10,
+			"vacations" : 3,
+			"health"    : 7
+		}
+	},
+	{
+		"name"    : "December",
+		"ratings" : {
+			"sports"    : 7,
+			"weather"   : 4,
+			"holidays"  : 12,
+			"vacations" : 11,
+			"health"    : 3
+		}
+	}
+]

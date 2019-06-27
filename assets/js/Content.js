@@ -17,7 +17,10 @@ MIA.content.load = function(){
 	});
 };
 
-MIA.content.draw = function(){	
+MIA.content.draw = function(){
+	var max_stars_per_category = 10;
+	if( MIA.menu.selected == 'Months' ) max_stars_per_category = 12;
+
 	$("#content").css('background', '#111');
 	$("#content").html(
 		'<div id="mobile-header" class="hidden-md hidden-lg">'+
@@ -43,7 +46,8 @@ MIA.content.draw = function(){
 							return '<tr>'+
 								'<td class="rating-name">' + MIA.functions.get_rating_name(rating_name) + '</td>' + 
 								'<td class="rating-value">' + 
-									rating + ' / 10 <i class="fa fa-star" style="color:'+MIA.functions.get_rating_color(rating)+';"></i>'+
+									rating + ' / ' + max_stars_per_category + 
+									' <i class="fa fa-star" style="color:'+MIA.functions.get_rating_color(rating)+';"></i>'+
 								'</td>' +
 							'</tr>';
 						}).join('')+

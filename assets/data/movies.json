@@ -1,5 +1,53 @@
 [
 	{
+		"name"    : "A Christmas Story",
+		"year"    : "1983",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 5.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 6,
+			"music"      : 4,
+			"rewatch"    : 8,
+			"characters" : 6,
+			"genre"      : 10,
+			"references" : 8,
+			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Aladdin",
+		"year"    : "1992",
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 10,
+			"nostalgia"  : 9.5,
+			"plot"       : 9,
+			"music"      : 8.5,
+			"rewatch"    : 7,
+			"characters" : 9,
+			"genre"      : 10,
+			"references" : 9,
+			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Aladdin [Live Action]",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 6,
+			"plot"       : 5.5,
+			"music"      : 6,
+			"rewatch"    : 6.5,
+			"characters" : 8,
+			"genre"      : 7.5,
+			"references" : 8.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Alice in Wonderland",
 		"year"    : "1951",
 		"ratings" : {
@@ -464,6 +512,22 @@
 		}
 	},
 	{
+		"name"    : "John Wick: Chapter 3 - Parabellum",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 8.5,
+			"references" : 5.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Mac & Devin Go to High School",
 		"year"    : "2012",
 		"ratings" : {
@@ -656,6 +720,22 @@
 		}
 	},
 	{
+		"name"    : "Real Steel",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8,
+			"nostalgia"  : 2,
+			"plot"       : 5,
+			"music"      : 6,
+			"rewatch"    : 1,
+			"characters" : 2,
+			"genre"      : 4,
+			"references" : 4.5,
+			"bias"       : 2.5
+		}
+	},
+	{
 		"name"    : "Sausage Party",
 		"year"    : "2016",
 		"ratings" : {
@@ -755,7 +835,7 @@
 		"name"    : "Spider-Man 2",
 		"year"    : "2004",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 8.5,
 			"visuals"    : 9.5,
 			"nostalgia"  : 7.5,
 			"plot"       : 8.5,
@@ -1021,6 +1101,22 @@
 			"genre"      : 10,
 			"references" : 3,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "The Exorcist",
+		"year"    : "1973",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 9,
+			"nostalgia"  : 0,
+			"plot"       : 3.5,
+			"music"      : 3,
+			"rewatch"    : 1,
+			"characters" : 4,
+			"genre"      : 8,
+			"references" : 7,
+			"bias"       : 1.5
 		}
 	},
 	{

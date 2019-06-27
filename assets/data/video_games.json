@@ -272,6 +272,22 @@
 		}
 	},
 	{
+		"name"    : "Rocket League",
+		"year"    : "2015",
+		"ratings" : {
+			"visuals"     : 9,
+			"characters"  : 2,
+			"plot"        : 2.5,
+			"content"     : 6,
+			"mechanics"   : 6,
+			"reliability" : 7.5,
+			"replay"      : 9,
+			"soundtrack"  : 5,
+			"nostalgia"   : 4,
+			"bias"        : 6
+		}
+	},
+	{
 		"name"    : "Skyrim",
 		"year"    : "2011",
 		"ratings" : {

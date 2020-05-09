@@ -4,15 +4,31 @@
 		"year"    : "1983",
 		"ratings" : {
 			"humor"      : 7,
-			"visuals"    : 5.5,
-			"nostalgia"  : 6.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 8,
 			"plot"       : 6,
 			"music"      : 4,
 			"rewatch"    : 8,
-			"characters" : 6,
+			"characters" : 6.5,
 			"genre"      : 10,
-			"references" : 8,
+			"references" : 10,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "A Series of Unfortunate Events",
+		"year"    : "2004",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 9,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 6
 		}
 	},
 	{
@@ -112,6 +128,22 @@
 		}
 	},
 	{
+		"name"    : "Atlantis: The Lost Empire",
+		"year"    : "2001",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 6,
+			"characters" : 3.5,
+			"genre"      : 8,
+			"references" : 2.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Austin Powers in Goldmember",
 		"year"    : "2002",
 		"ratings" : {
@@ -208,6 +240,22 @@
 		}
 	},
 	{
+		"name"    : "District 9",
+		"year"    : "2009",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 1,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Dodgeball",
 		"year"    : "2004",
 		"ratings" : {
@@ -221,6 +269,22 @@
 			"genre"      : 10,
 			"references" : 9,
 			"bias"       : 9.1
+		}
+	},
+	{
+		"name"    : "Dora and the Lost City of Gold",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 1,
+			"music"      : 7.5,
+			"rewatch"    : 2,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 7,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -356,7 +420,7 @@
 		"year"    : "2004",
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 10,
 			"plot"       : 9,
 			"music"      : 10,
@@ -484,7 +548,7 @@
 		"year"    : "1996",
 		"ratings" : {
 			"humor"      : 6.5,
-			"visuals"    : 8.5,
+			"visuals"    : 7.5,
 			"nostalgia"  : 8.7,
 			"plot"       : 10,
 			"music"      : 9.2,
@@ -500,7 +564,7 @@
 		"year"    : "1996",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 8.5,
 			"plot"       : 9,
 			"music"      : 5,
@@ -525,6 +589,22 @@
 			"genre"      : 8.5,
 			"references" : 5.5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Knives Out",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 9,
+			"nostalgia"  : 5,
+			"plot"       : 9,
+			"music"      : 6,
+			"rewatch"    : 6.5,
+			"characters" : 5.5,
+			"genre"      : 10,
+			"references" : 8,
+			"bias"       : 7
 		}
 	},
 	{
@@ -720,6 +800,22 @@
 		}
 	},
 	{
+		"name"    : "Raiders of the Lost Ark",
+		"year"    : "1981",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 3,
+			"nostalgia"  : 5,
+			"plot"       : 6.5,
+			"music"      : 7,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 4,
+			"references" : 10,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Real Steel",
 		"year"    : "2011",
 		"ratings" : {
@@ -820,7 +916,7 @@
 		"year"    : "1987",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 8.5,
+			"visuals"    : 9,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 6,
@@ -848,6 +944,22 @@
 		}
 	},
 	{
+		"name"    : "Spider-Man: Far from Home",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
+			"plot"       : 9,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 7,
+			"genre"      : 9,
+			"references" : 7.5,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Star Wars Episode I: The Phantom Menace",
 		"year"    : "1999",
 		"ratings" : {
@@ -867,12 +979,12 @@
 		"name"    : "Star Wars Episode II: Attack of the Clones",
 		"year"    : "2002",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 7.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 8.5,
+			"rewatch"    : 9.5,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 10,
@@ -900,7 +1012,7 @@
 		"year"    : "1977",
 		"ratings" : {
 			"humor"      : 4.6,
-			"visuals"    : 10,
+			"visuals"    : 3,
 			"nostalgia"  : 8,
 			"plot"       : 10,
 			"music"      : 10,
@@ -916,7 +1028,7 @@
 		"year"    : "1980",
 		"ratings" : {
 			"humor"      : 3,
-			"visuals"    : 10,
+			"visuals"    : 3,
 			"nostalgia"  : 6,
 			"plot"       : 10,
 			"music"      : 10,
@@ -932,7 +1044,7 @@
 		"year"    : "1983",
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 10,
+			"visuals"    : 4,
 			"nostalgia"  : 7,
 			"plot"       : 10,
 			"music"      : 10,
@@ -948,24 +1060,24 @@
 		"year"    : "2015",
 		"ratings" : {
 			"humor"      : 7,
-			"visuals"    : 10,
-			"nostalgia"  : 7,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
 			"plot"       : 7,
 			"music"      : 10,
-			"rewatch"    : 8,
-			"characters" : 7.6,
+			"rewatch"    : 7,
+			"characters" : 4,
 			"genre"      : 10,
 			"references" : 9.5,
-			"bias"       : 7.5
+			"bias"       : 6
 		}
 	},
 	{
 		"name"    : "Star Wars Episode VIII: The Last Jedi",
 		"year"    : "2017",
 		"ratings" : {
-			"humor"      : 7.4,
-			"visuals"    : 10,
-			"nostalgia"  : 6.6,
+			"humor"      : 7,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
 			"plot"       : 10,
 			"music"      : 10,
 			"rewatch"    : 6,
@@ -976,11 +1088,27 @@
 		}
 	},
 	{
+		"name"    : "Star Wars Episode IX: The Rise of Skywalker",
+		"year"    : "2019",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 7.5,
+			"nostalgia"  : 2,
+			"plot"       : 2.5,
+			"music"      : 10,
+			"rewatch"    : 4,
+			"characters" : 1,
+			"genre"      : 4,
+			"references" : 6.5,
+			"bias"       : 0
+		}
+	},
+	{
 		"name"    : "Star Wars Rogue One",
 		"year"    : "2016",
 		"ratings" : {
 			"humor"      : 4,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 6,
 			"plot"       : 7,
 			"music"      : 7,
@@ -1108,7 +1236,7 @@
 		"year"    : "1973",
 		"ratings" : {
 			"humor"      : 0,
-			"visuals"    : 9,
+			"visuals"    : 7,
 			"nostalgia"  : 0,
 			"plot"       : 3.5,
 			"music"      : 3,
@@ -1152,6 +1280,22 @@
 		}
 	},
 	{
+		"name"    : "The Hot Chick",
+		"year"    : "2002",
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 6,
+			"plot"       : 6,
+			"music"      : 8,
+			"rewatch"    : 6,
+			"characters" : 4,
+			"genre"      : 7,
+			"references" : 1,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "The Hunchback of Notre Dame",
 		"year"    : "1996",
 		"ratings" : {
@@ -1187,7 +1331,7 @@
 		"name"    : "The Lion King",
 		"year"    : "1994",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 9,
 			"plot"       : 9,
@@ -1277,6 +1421,22 @@
 			"genre"      : 9.5,
 			"references" : 2.5,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "The Shawshank Redemption",
+		"year"    : "1994",
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 8,
+			"nostalgia"  : 2,
+			"plot"       : 8.5,
+			"music"      : 4,
+			"rewatch"    : 2,
+			"characters" : 4,
+			"genre"      : 8,
+			"references" : 9,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -1389,6 +1549,22 @@
 			"genre"      : 9,
 			"references" : 9.5,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "1984 [1956]",
+		"year"    : "1956",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 1,
+			"nostalgia"  : 2,
+			"plot"       : 6,
+			"music"      : 3,
+			"rewatch"    : 1.5,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 5,
+			"bias"       : 3.5
 		}
 	}
 ]

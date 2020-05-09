@@ -11,7 +11,7 @@ MIA.content.load = function(){
 				if(item.total_rating != parseInt(item.total_rating)) item.total_rating = item.total_rating.toFixed(1);
 				else{                                                item.total_rating = item.total_rating.toFixed(0); }
 			});
-			MIA.content.data.sort(function(a,b){ return Number(a.total_rating) < Number(b.total_rating); });
+			MIA.content.data.sort(function(a,b){ return ( Number(a.total_rating) < Number(b.total_rating) ? 1 : -1 ); });
 			MIA.content.draw();
 		}
 	});

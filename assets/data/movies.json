@@ -56,7 +56,7 @@
 			"nostalgia"  : 6,
 			"plot"       : 5.5,
 			"music"      : 6,
-			"rewatch"    : 6.5,
+			"rewatch"    : 5.5,
 			"characters" : 8,
 			"genre"      : 7.5,
 			"references" : 8.5,
@@ -120,7 +120,7 @@
 			"nostalgia"  : 6,
 			"plot"       : 8,
 			"music"      : 5,
-			"rewatch"    : 6.5,
+			"rewatch"    : 5,
 			"characters" : 6,
 			"genre"      : 8,
 			"references" : 5,
@@ -208,6 +208,22 @@
 		}
 	},
 	{
+		"name"    : "Blazing Saddles",
+		"year"    : "1974",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8.5,
+			"nostalgia"  : 2,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 2,
+			"characters" : 4.5,
+			"genre"      : 3,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Captain Marvel",
 		"year"    : "2019",
 		"ratings" : {
@@ -240,11 +256,27 @@
 		}
 	},
 	{
+		"name"    : "Chicken Little",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 2,
+			"plot"       : 7,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 3,
+			"genre"      : 2.5,
+			"references" : 3.5,
+			"bias"       : 3
+		}
+	},
+	{
 		"name"    : "District 9",
 		"year"    : "2009",
 		"ratings" : {
 			"humor"      : 3,
-			"visuals"    : 4.5,
+			"visuals"    : 5.5,
 			"nostalgia"  : 2,
 			"plot"       : 6,
 			"music"      : 5,
@@ -640,16 +672,32 @@
 		}
 	},
 	{
+		"name"    : "Memento",
+		"year"    : "2000",
+		"ratings" : {
+			"humor"      : 0.1,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 2.5
+		}
+	},
+	{
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 10,
-			"nostalgia"  : 4,
+			"nostalgia"  : 3,
 			"plot"       : 8.5,
 			"music"      : 5,
 			"rewatch"    : 4,
-			"characters" : 6,
+			"characters" : 4.5,
 			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 5
@@ -664,7 +712,7 @@
 			"nostalgia"  : 6,
 			"plot"       : 6.5,
 			"music"      : 5,
-			"rewatch"    : 6.5,
+			"rewatch"    : 5.5,
 			"characters" : 7,
 			"genre"      : 9,
 			"references" : 3,
@@ -741,7 +789,7 @@
 		"ratings" : {
 			"humor"      : 6,
 			"visuals"    : 10,
-			"nostalgia"  : 2,
+			"nostalgia"  : 3,
 			"plot"       : 6,
 			"music"      : 8,
 			"rewatch"    : 3,
@@ -864,6 +912,22 @@
 		}
 	},
 	{
+		"name"    : "Schindler's List",
+		"year"    : "1993",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 8,
+			"nostalgia"  : 0,
+			"plot"       : 7,
+			"music"      : 4.5,
+			"rewatch"    : 1,
+			"characters" : 7.5,
+			"genre"      : 10,
+			"references" : 7,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "She's The Man",
 		"year"    : "2006",
 		"ratings" : {
@@ -872,10 +936,10 @@
 			"nostalgia"  : 7,
 			"plot"       : 7.5,
 			"music"      : 10,
-			"rewatch"    : 8.5,
+			"rewatch"    : 7,
 			"characters" : 7.5,
 			"genre"      : 8,
-			"references" : 8.7,
+			"references" : 6.5,
 			"bias"       : 8
 		}
 	},
@@ -998,7 +1062,7 @@
 			"humor"      : 4,
 			"visuals"    : 10,
 			"nostalgia"  : 9,
-			"plot"       : 10,
+			"plot"       : 9,
 			"music"      : 10,
 			"rewatch"    : 7,
 			"characters" : 10,
@@ -1014,11 +1078,11 @@
 			"humor"      : 4.6,
 			"visuals"    : 3,
 			"nostalgia"  : 8,
-			"plot"       : 10,
+			"plot"       : 9,
 			"music"      : 10,
 			"rewatch"    : 5,
 			"characters" : 10,
-			"genre"      : 10,
+			"genre"      : 9.5,
 			"references" : 10,
 			"bias"       : 9
 		}
@@ -1030,11 +1094,11 @@
 			"humor"      : 3,
 			"visuals"    : 3,
 			"nostalgia"  : 6,
-			"plot"       : 10,
+			"plot"       : 8,
 			"music"      : 10,
 			"rewatch"    : 5,
 			"characters" : 8,
-			"genre"      : 10,
+			"genre"      : 9,
 			"references" : 10,
 			"bias"       : 6.5
 		}
@@ -1046,11 +1110,11 @@
 			"humor"      : 5,
 			"visuals"    : 4,
 			"nostalgia"  : 7,
-			"plot"       : 10,
+			"plot"       : 8.5,
 			"music"      : 10,
 			"rewatch"    : 6,
 			"characters" : 9,
-			"genre"      : 10,
+			"genre"      : 9.5,
 			"references" : 10,
 			"bias"       : 8
 		}
@@ -1059,14 +1123,14 @@
 		"name"    : "Star Wars Episode VII: The Force Awakens",
 		"year"    : "2015",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 6.5,
 			"visuals"    : 9,
 			"nostalgia"  : 6,
-			"plot"       : 7,
+			"plot"       : 6,
 			"music"      : 10,
 			"rewatch"    : 7,
 			"characters" : 4,
-			"genre"      : 10,
+			"genre"      : 8,
 			"references" : 9.5,
 			"bias"       : 6
 		}
@@ -1075,14 +1139,14 @@
 		"name"    : "Star Wars Episode VIII: The Last Jedi",
 		"year"    : "2017",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 6.5,
 			"visuals"    : 9,
 			"nostalgia"  : 6,
-			"plot"       : 10,
+			"plot"       : 9.5,
 			"music"      : 10,
 			"rewatch"    : 6,
 			"characters" : 8,
-			"genre"      : 10,
+			"genre"      : 9.5,
 			"references" : 10,
 			"bias"       : 8.5
 		}
@@ -1091,15 +1155,15 @@
 		"name"    : "Star Wars Episode IX: The Rise of Skywalker",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 6,
 			"visuals"    : 7.5,
 			"nostalgia"  : 2,
-			"plot"       : 2.5,
+			"plot"       : 1,
 			"music"      : 10,
 			"rewatch"    : 4,
 			"characters" : 1,
-			"genre"      : 4,
-			"references" : 6.5,
+			"genre"      : 2,
+			"references" : 3,
 			"bias"       : 0
 		}
 	},
@@ -1110,11 +1174,11 @@
 			"humor"      : 4,
 			"visuals"    : 9.5,
 			"nostalgia"  : 6,
-			"plot"       : 7,
+			"plot"       : 6,
 			"music"      : 7,
 			"rewatch"    : 4,
 			"characters" : 6,
-			"genre"      : 7,
+			"genre"      : 6.5,
 			"references" : 8,
 			"bias"       : 5
 		}
@@ -1126,7 +1190,7 @@
 			"humor"      : 8.5,
 			"visuals"    : 7,
 			"nostalgia"  : 4,
-			"plot"       : 8,
+			"plot"       : 7.5,
 			"music"      : 7,
 			"rewatch"    : 6,
 			"characters" : 7,
@@ -1142,7 +1206,7 @@
 			"humor"      : 9.5,
 			"visuals"    : 7,
 			"nostalgia"  : 6,
-			"plot"       : 8.5,
+			"plot"       : 8,
 			"music"      : 5,
 			"rewatch"    : 7.5,
 			"characters" : 8,
@@ -1220,7 +1284,7 @@
 		"year"    : "2003",
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 7.5,
+			"visuals"    : 6.6,
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
@@ -1440,6 +1504,22 @@
 		}
 	},
 	{
+		"name"    : "The Social Network",
+		"year"    : "2010",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8.5,
+			"nostalgia"  : 3,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 6.5,
+			"bias"       : 5.7
+		}
+	},
+	{
 		"name"    : "The Wolf of Wall Street",
 		"year"    : "2013",
 		"ratings" : {
@@ -1492,14 +1572,14 @@
 		"year"    : "1990",
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 8.5,
-			"nostalgia"  : 7.8,
+			"visuals"    : 7,
+			"nostalgia"  : 8,
 			"plot"       : 6.5,
 			"music"      : 8,
 			"rewatch"    : 8.5,
-			"characters" : 7,
-			"genre"      : 9.5,
-			"references" : 6,
+			"characters" : 6.5,
+			"genre"      : 9,
+			"references" : 3,
 			"bias"       : 7.5
 		}
 	},
@@ -1565,6 +1645,22 @@
 			"genre"      : 4,
 			"references" : 5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "2001: A Space Odyssey",
+		"year"    : "1968",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 4,
+			"nostalgia"  : 0,
+			"plot"       : 2,
+			"music"      : 6,
+			"rewatch"    : 1,
+			"characters" : 3.5,
+			"genre"      : 1,
+			"references" : 8.5,
+			"bias"       : 1
 		}
 	}
 ]

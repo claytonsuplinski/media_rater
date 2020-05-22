@@ -1,4 +1,4 @@
-MIA.content = {};
+MIA.content = { num_default : 60 };
 
 MIA.content.load = function(){
 	$.ajax({
@@ -17,9 +17,19 @@ MIA.content.load = function(){
 	});
 };
 
-MIA.content.draw = function(){
+MIA.content.show_all = function(){
+	this.is_showing_all = true;
+	this.draw({ preserve_scroll : true });
+};
+
+MIA.content.draw = function( p ){
+	var p = p || {};
+
 	var max_stars_per_category = 10;
 	if( MIA.menu.selected == 'Months' ) max_stars_per_category = 12;
+	
+	var data = this.data;
+	if( !this.is_showing_all ) data = data.slice( 0, this.num_default );
 
 	$("#content").css('background', '#111');
 	$("#content").html(
@@ -27,7 +37,7 @@ MIA.content.draw = function(){
 			'<div id="menu-toggle"><i class="fa fa-bars" onclick="MIA.menu.show();"></i></div>'+
 			'<div id="mobile-header-label">'+MIA.menu.selected+'</div>'+
 		'</div>'+
-		MIA.content.data.map(function(item, idx){
+		data.map(function(item, idx){
 			var rank = idx+1;
 			
 			var rank_class = MIA.functions.get_rank_class(rank);
@@ -54,10 +64,11 @@ MIA.content.draw = function(){
 					'</table>'+
 				'</div>'+
 			'</div>';
-		}).join('')
+		}).join('') +
+		( this.data.length > this.num_default && !this.is_showing_all ? '<div class="show-all-button" onclick="MIA.content.show_all();">SHOW ALL ENTRIES</div>' : '' )
 	);
 	$("#content").focus();
-	$("#content").scrollTop(0);
+	if( !p.preserve_scroll ) $("#content").scrollTop(0);
 	
 	$(".full-rating").click(function(e) {
 	   $(".full-rating").hide();

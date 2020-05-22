@@ -106,3 +106,18 @@
 #content .item .stars i.fa-star.gold     { color:gold; }
 #content .item .stars i.fa-star.silver { color:silver; }
 #content .item .stars i.fa-star.bronze { color:#cd7f32; }
+
+#content .show-all-button{
+	background:#173955;
+	color:#ffc;
+	padding:5px;
+	width:600px;
+	max-width:100%;
+	margin:10px auto 20px;
+	border:1px solid rgba(255,255,255,0.3);
+	cursor:pointer;
+}
+
+#content .show-all-button:hover{
+	background:#224b6c;
+}

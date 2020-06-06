@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name"    : "A Goofy Movie",
+		"year"    : "1995",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 4.5,
+			"genre"      : 3,
+			"references" : 3,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "A Series of Unfortunate Events",
 		"year"    : "2004",
 		"ratings" : {
@@ -208,6 +224,22 @@
 		}
 	},
 	{
+		"name"    : "Bambi",
+		"year"    : "1942",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 3,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 5,
+			"references" : 5.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Blades of Glory",
 		"year"    : "2007",
 		"ratings" : {
@@ -253,6 +285,38 @@
 			"genre"      : 2.5,
 			"references" : 6.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Brave",
+		"year"    : "2012",
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 2,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Caddyshack",
+		"year"    : "1980",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 2,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 7,
+			"rewatch"    : 5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 7,
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -308,9 +372,9 @@
 		"year"    : "2005",
 		"ratings" : {
 			"humor"      : 3.5,
-			"visuals"    : 8.5,
+			"visuals"    : 8,
 			"nostalgia"  : 2,
-			"plot"       : 7,
+			"plot"       : 6,
 			"music"      : 5,
 			"rewatch"    : 2,
 			"characters" : 3,
@@ -332,6 +396,22 @@
 			"characters" : 5,
 			"genre"      : 6,
 			"references" : 1,
+			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Contagion",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 8,
+			"nostalgia"  : 2,
+			"plot"       : 4,
+			"music"      : 4,
+			"rewatch"    : 1.5,
+			"characters" : 6,
+			"genre"      : 3,
+			"references" : 4.5,
 			"bias"       : 4
 		}
 	},
@@ -371,7 +451,7 @@
 		"name"    : "Dora and the Lost City of Gold",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 7.5,
+			"humor"      : 5.5,
 			"visuals"    : 3.5,
 			"nostalgia"  : 6.5,
 			"plot"       : 1,
@@ -381,6 +461,22 @@
 			"genre"      : 5,
 			"references" : 7,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Dumbo",
+		"year"    : "1941",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 2.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 5.5,
+			"references" : 5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -422,7 +518,7 @@
 			"humor"      : 3.5,
 			"visuals"    : 8.5,
 			"nostalgia"  : 6.5,
-			"plot"       : 5,
+			"plot"       : 3,
 			"music"      : 9,
 			"rewatch"    : 3.5,
 			"characters" : 5.5,
@@ -448,6 +544,22 @@
 		}
 	},
 	{
+		"name"    : "Fargo",
+		"year"    : "1996",
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 8,
+			"nostalgia"  : 2.5,
+			"plot"       : 8.5,
+			"music"      : 4,
+			"rewatch"    : 3,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Ferris Bueller's Day Off",
 		"year"    : "1986",
 		"ratings" : {
@@ -464,6 +576,22 @@
 		}
 	},
 	{
+		"name"    : "Finding Nemo",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4,
+			"references" : 5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Forrest Gump",
 		"year"    : "1994",
 		"ratings" : {
@@ -474,7 +602,7 @@
 			"music"      : 3.5,
 			"rewatch"    : 2,
 			"characters" : 8,
-			"genre"      : 9,
+			"genre"      : 7,
 			"references" : 9,
 			"bias"       : 5
 		}
@@ -488,11 +616,43 @@
 			"nostalgia"  : 4,
 			"plot"       : 5.5,
 			"music"      : 8,
-			"rewatch"    : 2.5,
+			"rewatch"    : 4.5,
 			"characters" : 5.5,
 			"genre"      : 9,
 			"references" : 8,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Gran Torino",
+		"year"    : "2008",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 3,
+			"rewatch"    : 2.5,
+			"characters" : 3,
+			"genre"      : 2.5,
+			"references" : 1,
+			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Gravity",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 1.5,
+			"references" : 4,
+			"bias"       : 1
 		}
 	},
 	{
@@ -704,6 +864,22 @@
 		}
 	},
 	{
+		"name"    : "Jaws",
+		"year"    : "1975",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 4,
+			"music"      : 8.5,
+			"rewatch"    : 4.5,
+			"characters" : 3.5,
+			"genre"      : 6,
+			"references" : 10,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Jingle All the Way",
 		"year"    : "1996",
 		"ratings" : {
@@ -768,6 +944,22 @@
 		}
 	},
 	{
+		"name"    : "Kicking & Screaming",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 9.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 9,
+			"plot"       : 7,
+			"music"      : 6,
+			"rewatch"    : 8.5,
+			"characters" : 10,
+			"genre"      : 9,
+			"references" : 6,
+			"bias"       : 8
+		}
+	},
+	{
 		"name"    : "Knives Out",
 		"year"    : "2019",
 		"ratings" : {
@@ -781,6 +973,38 @@
 			"genre"      : 10,
 			"references" : 8,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "La La Land",
+		"year"    : "2016",
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 2,
+			"plot"       : 3.5,
+			"music"      : 6.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 2,
+			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Logan's Run",
+		"year"    : "1976",
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 0.5,
+			"nostalgia"  : 2,
+			"plot"       : 7,
+			"music"      : 0.5,
+			"rewatch"    : 1,
+			"characters" : 3.5,
+			"genre"      : 3.5,
+			"references" : 5,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -852,7 +1076,7 @@
 		"year"    : "2016",
 		"ratings" : {
 			"humor"      : 7,
-			"visuals"    : 9.5,
+			"visuals"    : 8,
 			"nostalgia"  : 4,
 			"plot"       : 6.5,
 			"music"      : 5,
@@ -877,6 +1101,22 @@
 			"genre"      : 4.5,
 			"references" : 7.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Mulan",
+		"year"    : "1998",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 10,
+			"nostalgia"  : 6,
+			"plot"       : 6,
+			"music"      : 9,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 5.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -912,6 +1152,22 @@
 		}
 	},
 	{
+		"name"    : "Office Space",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 8,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 6,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 7,
+			"bias"       : 7.5
+		}
+	},
+	{
 		"name"    : "Oliver and Company",
 		"year"    : "1988",
 		"ratings" : {
@@ -925,6 +1181,22 @@
 			"genre"      : 7,
 			"references" : 3,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Onward",
+		"year"    : "2020",
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 2.5,
+			"plot"       : 5.5,
+			"music"      : 4,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 2,
+			"bias"       : 5
 		}
 	},
 	{
@@ -963,16 +1235,32 @@
 		"name"    : "Pinocchio",
 		"year"    : "1940",
 		"ratings" : {
-			"humor"      : 6,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 3,
 			"plot"       : 6,
-			"music"      : 8,
+			"music"      : 6,
 			"rewatch"    : 3,
 			"characters" : 7,
 			"genre"      : 5,
 			"references" : 8,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Pocahontas",
+		"year"    : "1995",
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 10,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 9,
+			"rewatch"    : 5,
+			"characters" : 6.5,
+			"genre"      : 7,
+			"references" : 6,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -1016,7 +1304,7 @@
 			"nostalgia"  : 2,
 			"plot"       : 6,
 			"music"      : 10,
-			"rewatch"    : 7,
+			"rewatch"    : 6.5,
 			"characters" : 3,
 			"genre"      : 6,
 			"references" : 3,
@@ -1032,7 +1320,7 @@
 			"nostalgia"  : 5,
 			"plot"       : 6.5,
 			"music"      : 7,
-			"rewatch"    : 3,
+			"rewatch"    : 3.5,
 			"characters" : 5,
 			"genre"      : 4,
 			"references" : 10,
@@ -1498,9 +1786,25 @@
 			"music"      : 6.5,
 			"rewatch"    : 5,
 			"characters" : 6.5,
-			"genre"      : 8,
-			"references" : 5.5,
+			"genre"      : 7,
+			"references" : 4.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Tarzan",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 10,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 9,
+			"rewatch"    : 6,
+			"characters" : 8,
+			"genre"      : 7.5,
+			"references" : 5.5,
+			"bias"       : 7.5
 		}
 	},
 	{
@@ -1536,6 +1840,38 @@
 		}
 	},
 	{
+		"name"    : "The Brave Little Toaster",
+		"year"    : "1987",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 8,
+			"nostalgia"  : 2,
+			"plot"       : 5.5,
+			"music"      : 3.5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 3.5,
+			"references" : 2,
+			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "The Breakfast Club",
+		"year"    : "1985",
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 0.5,
+			"rewatch"    : 5,
+			"characters" : 6.5,
+			"genre"      : 5.5,
+			"references" : 6,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "The Even Stevens Movie",
 		"year"    : "2003",
 		"ratings" : {
@@ -1568,6 +1904,22 @@
 		}
 	},
 	{
+		"name"    : "The Godfather",
+		"year"    : "1972",
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 0.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 6,
+			"rewatch"    : 2,
+			"characters" : 3.5,
+			"genre"      : 3,
+			"references" : 7,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "The Great Mouse Detective",
 		"year"    : "1986",
 		"ratings" : {
@@ -1581,6 +1933,22 @@
 			"genre"      : 9,
 			"references" : 3,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "The Green Mile",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -1629,6 +1997,70 @@
 			"genre"      : 9,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Hunger Games",
+		"year"    : "2012",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 4.5,
+			"rewatch"    : 6,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Hunger Games: Catching Fire",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 8.5,
+			"music"      : 4.5,
+			"rewatch"    : 5.5,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Hunger Games: Mockingjay - Part 1",
+		"year"    : "2014",
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 8.5,
+			"music"      : 4,
+			"rewatch"    : 5.5,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Hunger Games: Mockingjay - Part 2",
+		"year"    : "2015",
+		"ratings" : {
+			"humor"      : 0.2,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 6.5,
+			"genre"      : 7,
+			"references" : 5.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -1688,8 +2120,8 @@
 			"nostalgia"  : 4.5,
 			"plot"       : 9,
 			"music"      : 5,
-			"rewatch"    : 7,
-			"characters" : 6.5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
 			"genre"      : 9,
 			"references" : 3,
 			"bias"       : 6.5
@@ -1792,6 +2224,22 @@
 		}
 	},
 	{
+		"name"    : "The Silence of the Lambs",
+		"year"    : "1991",
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 7,
+			"genre"      : 6,
+			"references" : 8.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Social Network",
 		"year"    : "2010",
 		"ratings" : {
@@ -1805,6 +2253,22 @@
 			"genre"      : 7.5,
 			"references" : 6.5,
 			"bias"       : 5.7
+		}
+	},
+	{
+		"name"    : "The Wicker Man",
+		"year"    : "2006",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 7.5,
+			"bias"       : 6
 		}
 	},
 	{
@@ -1875,10 +2339,10 @@
 		"name"    : "Titanic",
 		"year"    : "1997",
 		"ratings" : {
-			"humor"      : 0,
+			"humor"      : 0.5,
 			"visuals"    : 8,
 			"nostalgia"  : 3,
-			"plot"       : 3.5,
+			"plot"       : 6.5,
 			"music"      : 8,
 			"rewatch"    : 1,
 			"characters" : 6,
@@ -1916,6 +2380,38 @@
 			"characters" : 4,
 			"genre"      : 7,
 			"references" : 9,
+			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "V for Vendetta",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 8,
+			"music"      : 6,
+			"rewatch"    : 5.5,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "War of the Worlds",
+		"year"    : "2005",
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 6,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 6,
+			"genre"      : 8.5,
+			"references" : 3,
 			"bias"       : 7.5
 		}
 	},

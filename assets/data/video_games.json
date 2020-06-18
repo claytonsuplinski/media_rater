@@ -192,6 +192,22 @@
 		}
 	},
 	{
+		"name"    : "NBA 2K17",
+		"year"    : "2016",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 7,
+			"plot"        : 5.5,
+			"content"     : 6.5,
+			"mechanics"   : 4,
+			"reliability" : 3,
+			"replay"      : 8,
+			"soundtrack"  : 8.5,
+			"nostalgia"   : 5.5,
+			"bias"        : 4.5
+		}
+	},
+	{
 		"name"    : "Paperboy",
 		"year"    : "1999",
 		"ratings" : {
@@ -379,7 +395,7 @@
 			"reliability" : 6.5,
 			"replay"      : 8.5,
 			"soundtrack"  : 6,
-			"nostalgia"   : 5,
+			"nostalgia"   : 6,
 			"bias"        : 7
 		}
 	},

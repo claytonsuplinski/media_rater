@@ -5,13 +5,13 @@
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 6.5,
-			"nostalgia"  : 8,
+			"nostalgia"  : 8.5,
 			"plot"       : 6,
 			"music"      : 4,
 			"rewatch"    : 8,
 			"characters" : 6.5,
-			"genre"      : 10,
-			"references" : 10,
+			"genre"      : 8.5,
+			"references" : 9.5,
 			"bias"       : 7
 		}
 	},
@@ -26,7 +26,7 @@
 			"music"      : 4.5,
 			"rewatch"    : 2.5,
 			"characters" : 4.5,
-			"genre"      : 3,
+			"genre"      : 3.5,
 			"references" : 3,
 			"bias"       : 3.5
 		}
@@ -36,12 +36,12 @@
 		"year"    : "2004",
 		"ratings" : {
 			"humor"      : 5.5,
-			"visuals"    : 8.5,
+			"visuals"    : 7.5,
 			"nostalgia"  : 6.5,
 			"plot"       : 5.5,
 			"music"      : 5,
-			"rewatch"    : 4.5,
-			"characters" : 9,
+			"rewatch"    : 5,
+			"characters" : 7.5,
 			"genre"      : 6.5,
 			"references" : 4.5,
 			"bias"       : 6
@@ -51,15 +51,15 @@
 		"name"    : "Aladdin",
 		"year"    : "1992",
 		"ratings" : {
-			"humor"      : 6,
+			"humor"      : 5.5,
 			"visuals"    : 10,
 			"nostalgia"  : 9.5,
 			"plot"       : 9,
 			"music"      : 8.5,
 			"rewatch"    : 7,
-			"characters" : 9,
-			"genre"      : 10,
-			"references" : 9,
+			"characters" : 8,
+			"genre"      : 9.5,
+			"references" : 8.5,
 			"bias"       : 8.5
 		}
 	},
@@ -67,14 +67,14 @@
 		"name"    : "Aladdin [Live Action]",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 6,
 			"visuals"    : 8.5,
 			"nostalgia"  : 6,
 			"plot"       : 5.5,
 			"music"      : 6,
 			"rewatch"    : 4,
-			"characters" : 8,
-			"genre"      : 7.5,
+			"characters" : 6.5,
+			"genre"      : 7,
 			"references" : 6,
 			"bias"       : 5
 		}
@@ -85,13 +85,13 @@
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 10,
-			"nostalgia"  : 3,
+			"nostalgia"  : 7,
 			"plot"       : 4,
 			"music"      : 5,
-			"rewatch"    : 7,
-			"characters" : 9,
-			"genre"      : 5.5,
-			"references" : 8.5,
+			"rewatch"    : 6,
+			"characters" : 6.5,
+			"genre"      : 6,
+			"references" : 8,
 			"bias"       : 7.5
 		}
 	},
@@ -99,13 +99,13 @@
 		"name"    : "American Made",
 		"year"    : "2017",
 		"ratings" : {
-			"humor"      : 4,
-			"visuals"    : 10,
+			"humor"      : 3,
+			"visuals"    : 8,
 			"nostalgia"  : 3,
-			"plot"       : 10,
+			"plot"       : 6,
 			"music"      : 4,
-			"rewatch"    : 4,
-			"characters" : 2,
+			"rewatch"    : 3,
+			"characters" : 3.5,
 			"genre"      : 8,
 			"references" : 2,
 			"bias"       : 5
@@ -118,27 +118,43 @@
 			"humor"      : 10,
 			"visuals"    : 8.5,
 			"nostalgia"  : 10,
-			"plot"       : 8.8,
+			"plot"       : 8.5,
 			"music"      : 4,
-			"rewatch"    : 9,
-			"characters" : 10,
+			"rewatch"    : 9.5,
+			"characters" : 9.5,
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 10
 		}
 	},
 	{
+		"name"    : "Ant-Man",
+		"year"    : "2015",
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 8,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Aquaman",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 5.5,
-			"visuals"    : 9,
-			"nostalgia"  : 5,
-			"plot"       : 8,
+			"humor"      : 4.5,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 6,
 			"music"      : 5,
 			"rewatch"    : 3.5,
 			"characters" : 6,
-			"genre"      : 8,
+			"genre"      : 6.5,
 			"references" : 5,
 			"bias"       : 5
 		}
@@ -149,12 +165,12 @@
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
-			"nostalgia"  : 4.5,
-			"plot"       : 8,
+			"nostalgia"  : 4,
+			"plot"       : 6.5,
 			"music"      : 5,
-			"rewatch"    : 6,
-			"characters" : 3.5,
-			"genre"      : 8,
+			"rewatch"    : 5,
+			"characters" : 4,
+			"genre"      : 5.5,
 			"references" : 2.5,
 			"bias"       : 5
 		}
@@ -195,14 +211,14 @@
 		"name"    : "Avengers: Endgame",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 5,
 			"visuals"    : 9.5,
 			"nostalgia"  : 6,
 			"plot"       : 6,
 			"music"      : 5,
 			"rewatch"    : 6,
 			"characters" : 6.8,
-			"genre"      : 8.5,
+			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 6.5
 		}
@@ -211,14 +227,14 @@
 		"name"    : "Avengers: Infinity War",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 4,
 			"visuals"    : 9,
 			"nostalgia"  : 6,
 			"plot"       : 9,
 			"music"      : 5,
 			"rewatch"    : 6.5,
 			"characters" : 7,
-			"genre"      : 9,
+			"genre"      : 8.5,
 			"references" : 6,
 			"bias"       : 6.5
 		}
@@ -228,9 +244,9 @@
 		"year"    : "1942",
 		"ratings" : {
 			"humor"      : 3,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 4,
-			"plot"       : 4.5,
+			"plot"       : 4,
 			"music"      : 3,
 			"rewatch"    : 4,
 			"characters" : 6,
@@ -243,16 +259,16 @@
 		"name"    : "Blades of Glory",
 		"year"    : "2007",
 		"ratings" : {
-			"humor"      : 10,
+			"humor"      : 9,
 			"visuals"    : 6,
 			"nostalgia"  : 8,
 			"plot"       : 8.5,
 			"music"      : 9,
-			"rewatch"    : 9.5,
-			"characters" : 8.5,
-			"genre"      : 10,
+			"rewatch"    : 8,
+			"characters" : 8,
+			"genre"      : 9,
 			"references" : 10,
-			"bias"       : 8.4
+			"bias"       : 8.5
 		}
 	},
 	{
@@ -260,7 +276,7 @@
 		"year"    : "1974",
 		"ratings" : {
 			"humor"      : 3,
-			"visuals"    : 8.5,
+			"visuals"    : 6.5,
 			"nostalgia"  : 2,
 			"plot"       : 4.5,
 			"music"      : 6,
@@ -269,6 +285,22 @@
 			"genre"      : 3,
 			"references" : 2.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Bolt",
+		"year"    : "2008",
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 5.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -282,7 +314,7 @@
 			"music"      : 10,
 			"rewatch"    : 1.5,
 			"characters" : 4.5,
-			"genre"      : 2.5,
+			"genre"      : 3,
 			"references" : 6.5,
 			"bias"       : 4
 		}
@@ -312,11 +344,11 @@
 			"nostalgia"  : 4,
 			"plot"       : 4.5,
 			"music"      : 7,
-			"rewatch"    : 5,
+			"rewatch"    : 6,
 			"characters" : 5.5,
 			"genre"      : 6.5,
 			"references" : 7,
-			"bias"       : 6.5
+			"bias"       : 7
 		}
 	},
 	{
@@ -328,41 +360,57 @@
 			"nostalgia"  : 3.5,
 			"plot"       : 6,
 			"music"      : 5,
-			"rewatch"    : 4.5,
+			"rewatch"    : 5,
 			"characters" : 6.5,
-			"genre"      : 9,
+			"genre"      : 8,
 			"references" : 8,
-			"bias"       : 5
+			"bias"       : 5.5
 		}
 	},
 	{
 		"name"    : "Captain Marvel",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 6,
-			"visuals"    : 9,
-			"nostalgia"  : 6,
-			"plot"       : 8.5,
+			"humor"      : 5,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 6.5,
 			"music"      : 5,
 			"rewatch"    : 3.5,
 			"characters" : 5,
 			"genre"      : 6.5,
-			"references" : 3.5,
+			"references" : 3,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Casino Royale",
+		"year"    : "2006",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8.5,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 8,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 5,
+			"bias"       : 5.5
 		}
 	},
 	{
 		"name"    : "Central Intelligence",
 		"year"    : "2016",
 		"ratings" : {
-			"humor"      : 8.5,
-			"visuals"    : 8,
-			"nostalgia"  : 5.5,
-			"plot"       : 8,
+			"humor"      : 7.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 6.5,
 			"music"      : 7,
-			"rewatch"    : 7.5,
+			"rewatch"    : 5.5,
 			"characters" : 6,
-			"genre"      : 9,
+			"genre"      : 7,
 			"references" : 3,
 			"bias"       : 5
 		}
@@ -371,13 +419,13 @@
 		"name"    : "Chicken Little",
 		"year"    : "2005",
 		"ratings" : {
-			"humor"      : 3.5,
+			"humor"      : 3.0,
 			"visuals"    : 8,
 			"nostalgia"  : 2,
-			"plot"       : 6,
+			"plot"       : 5.5,
 			"music"      : 5,
-			"rewatch"    : 2,
-			"characters" : 3,
+			"rewatch"    : 1.5,
+			"characters" : 2.5,
 			"genre"      : 2.5,
 			"references" : 3.5,
 			"bias"       : 3
@@ -389,12 +437,12 @@
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 8.5,
-			"nostalgia"  : 2.5,
+			"nostalgia"  : 3,
 			"plot"       : 4.5,
 			"music"      : 5,
 			"rewatch"    : 3,
-			"characters" : 5,
-			"genre"      : 6,
+			"characters" : 4.5,
+			"genre"      : 5,
 			"references" : 1,
 			"bias"       : 4
 		}
@@ -405,14 +453,30 @@
 		"ratings" : {
 			"humor"      : 0,
 			"visuals"    : 8,
-			"nostalgia"  : 2,
+			"nostalgia"  : 1,
 			"plot"       : 4,
 			"music"      : 4,
 			"rewatch"    : 1.5,
-			"characters" : 6,
-			"genre"      : 3,
-			"references" : 4.5,
+			"characters" : 5.5,
+			"genre"      : 4,
+			"references" : 5.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Cowboys & Aliens",
+		"year"    : "2011",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 1.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -421,12 +485,12 @@
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 5.5,
-			"nostalgia"  : 2,
+			"nostalgia"  : 1.5,
 			"plot"       : 6,
 			"music"      : 5,
 			"rewatch"    : 2.5,
-			"characters" : 4.5,
-			"genre"      : 6.5,
+			"characters" : 4,
+			"genre"      : 5.5,
 			"references" : 1,
 			"bias"       : 4.5
 		}
@@ -439,27 +503,27 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 9,
 			"plot"       : 9,
-			"music"      : 5,
+			"music"      : 6,
 			"rewatch"    : 9,
 			"characters" : 9,
-			"genre"      : 10,
+			"genre"      : 9.5,
 			"references" : 9,
-			"bias"       : 9.1
+			"bias"       : 9
 		}
 	},
 	{
 		"name"    : "Dora and the Lost City of Gold",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 3.5,
 			"visuals"    : 3.5,
-			"nostalgia"  : 6.5,
-			"plot"       : 1,
-			"music"      : 7.5,
-			"rewatch"    : 2,
+			"nostalgia"  : 5,
+			"plot"       : 1.5,
+			"music"      : 5.5,
+			"rewatch"    : 1,
 			"characters" : 4.5,
 			"genre"      : 5,
-			"references" : 7,
+			"references" : 6,
 			"bias"       : 3.5
 		}
 	},
@@ -468,7 +532,7 @@
 		"year"    : "1941",
 		"ratings" : {
 			"humor"      : 3.5,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 4,
 			"plot"       : 5.5,
 			"music"      : 2.5,
@@ -480,6 +544,22 @@
 		}
 	},
 	{
+		"name"    : "Eddie's Million Dollar Cook-Off",
+		"year"    : "2003",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 7.5,
+			"plot"       : 7,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 2,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "Elf",
 		"year"    : "2003",
 		"ratings" : {
@@ -487,27 +567,43 @@
 			"visuals"    : 6,
 			"nostalgia"  : 8,
 			"plot"       : 8,
-			"music"      : 8.4,
+			"music"      : 8,
 			"rewatch"    : 10,
 			"characters" : 9,
 			"genre"      : 10,
-			"references" : 10,
+			"references" : 9,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "E.T.",
+		"year"    : "1982",
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7,
+			"nostalgia"  : 9.5,
+			"plot"       : 6,
+			"music"      : 9,
+			"rewatch"    : 6,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 7.5,
+			"bias"       : 7
 		}
 	},
 	{
 		"name"    : "Fantasia",
 		"year"    : "1940",
 		"ratings" : {
-			"humor"      : 8,
+			"humor"      : 7.5,
 			"visuals"    : 10,
-			"nostalgia"  : 6.5,
+			"nostalgia"  : 9,
 			"plot"       : 3.5,
 			"music"      : 10,
-			"rewatch"    : 7.2,
-			"characters" : 10,
-			"genre"      : 4.7,
-			"references" : 9,
+			"rewatch"    : 7,
+			"characters" : 7.5,
+			"genre"      : 5,
+			"references" : 8.5,
 			"bias"       : 6
 		}
 	},
@@ -515,15 +611,15 @@
 		"name"    : "Fantastic Beasts and Where to Find Them",
 		"year"    : "2016",
 		"ratings" : {
-			"humor"      : 3.5,
-			"visuals"    : 8.5,
-			"nostalgia"  : 6.5,
-			"plot"       : 3,
-			"music"      : 9,
+			"humor"      : 2.5,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 2,
+			"music"      : 7,
 			"rewatch"    : 3.5,
-			"characters" : 5.5,
-			"genre"      : 6.5,
-			"references" : 7.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4,
 			"bias"       : 5.5
 		}
 	},
@@ -531,16 +627,16 @@
 		"name"    : "Fantastic Beasts: The Crimes of Grindelwald",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 3.5,
-			"visuals"    : 9.5,
-			"nostalgia"  : 7,
-			"plot"       : 7.5,
-			"music"      : 9.5,
-			"rewatch"    : 7,
-			"characters" : 8,
-			"genre"      : 6.5,
-			"references" : 9,
-			"bias"       : 7
+			"humor"      : 2.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 6,
+			"plot"       : 7,
+			"music"      : 7,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 6,
+			"references" : 7,
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -550,9 +646,9 @@
 			"humor"      : 2,
 			"visuals"    : 8,
 			"nostalgia"  : 2.5,
-			"plot"       : 8.5,
+			"plot"       : 7.5,
 			"music"      : 4,
-			"rewatch"    : 3,
+			"rewatch"    : 4.5,
 			"characters" : 6.5,
 			"genre"      : 8,
 			"references" : 3.5,
@@ -563,23 +659,39 @@
 		"name"    : "Ferris Bueller's Day Off",
 		"year"    : "1986",
 		"ratings" : {
-			"humor"      : 9,
+			"humor"      : 8,
 			"visuals"    : 4,
 			"nostalgia"  : 4,
-			"plot"       : 7,
+			"plot"       : 7.5,
 			"music"      : 8,
 			"rewatch"    : 8,
-			"characters" : 5,
-			"genre"      : 8,
-			"references" : 10,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 9.5,
 			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Fight Club",
+		"year"    : "1999",
+		"ratings" : {
+			"humor"      : 1.0,
+			"visuals"    : 2.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 1.5,
+			"music"      : 6,
+			"rewatch"    : 2,
+			"characters" : 3,
+			"genre"      : 2.5,
+			"references" : 3,
+			"bias"       : 2.5
 		}
 	},
 	{
 		"name"    : "Finding Nemo",
 		"year"    : "2003",
 		"ratings" : {
-			"humor"      : 4.5,
+			"humor"      : 3.5,
 			"visuals"    : 8,
 			"nostalgia"  : 4.5,
 			"plot"       : 5,
@@ -595,14 +707,14 @@
 		"name"    : "Forrest Gump",
 		"year"    : "1994",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 3.5,
 			"visuals"    : 5,
-			"nostalgia"  : 4,
+			"nostalgia"  : 3,
 			"plot"       : 4.5,
 			"music"      : 3.5,
 			"rewatch"    : 2,
-			"characters" : 8,
-			"genre"      : 7,
+			"characters" : 5.5,
+			"genre"      : 6,
 			"references" : 9,
 			"bias"       : 5
 		}
@@ -611,14 +723,14 @@
 		"name"    : "Ghostbusters",
 		"year"    : "1984",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 6,
 			"visuals"    : 1,
 			"nostalgia"  : 4,
 			"plot"       : 5.5,
 			"music"      : 8,
 			"rewatch"    : 4.5,
 			"characters" : 5.5,
-			"genre"      : 9,
+			"genre"      : 8,
 			"references" : 8,
 			"bias"       : 6
 		}
@@ -631,7 +743,7 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 3.5,
 			"plot"       : 4.5,
-			"music"      : 3,
+			"music"      : 2,
 			"rewatch"    : 2.5,
 			"characters" : 3,
 			"genre"      : 2.5,
@@ -645,44 +757,44 @@
 		"ratings" : {
 			"humor"      : 0,
 			"visuals"    : 6.5,
-			"nostalgia"  : 3,
+			"nostalgia"  : 2.5,
 			"plot"       : 3.5,
 			"music"      : 5.5,
-			"rewatch"    : 2.5,
+			"rewatch"    : 3,
 			"characters" : 4,
-			"genre"      : 1.5,
+			"genre"      : 3,
 			"references" : 4,
-			"bias"       : 1
+			"bias"       : 1.5
 		}
 	},
 	{
 		"name"    : "Harry Potter and the Sorcerer's Stone",
 		"year"    : "2001",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 5.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 7,
-			"characters" : 10,
-			"genre"      : 10,
+			"rewatch"    : 7.5,
+			"characters" : 9.5,
+			"genre"      : 9.7,
 			"references" : 10,
-			"bias"       : 10
+			"bias"       : 9.7
 		}
 	},
 	{
 		"name"    : "Harry Potter and the Chamber of Secrets",
 		"year"    : "2002",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 5.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
 			"rewatch"    : 7.5,
-			"characters" : 9.6,
-			"genre"      : 10,
+			"characters" : 9.5,
+			"genre"      : 9.8,
 			"references" : 10,
 			"bias"       : 10
 		}
@@ -697,10 +809,10 @@
 			"plot"       : 9,
 			"music"      : 10,
 			"rewatch"    : 7.5,
-			"characters" : 9.2,
-			"genre"      : 10,
-			"references" : 10,
-			"bias"       : 9.9
+			"characters" : 9,
+			"genre"      : 9.5,
+			"references" : 9,
+			"bias"       : 9.5
 		}
 	},
 	{
@@ -710,12 +822,12 @@
 			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
-			"plot"       : 10,
+			"plot"       : 9.5,
 			"music"      : 10,
 			"rewatch"    : 9,
-			"characters" : 9.4,
-			"genre"      : 10,
-			"references" : 10,
+			"characters" : 10,
+			"genre"      : 9.9,
+			"references" : 9.5,
 			"bias"       : 10
 		}
 	},
@@ -723,7 +835,7 @@
 		"name"    : "Harry Potter and the Order of the Phoenix",
 		"year"    : "2007",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 5.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 10,
@@ -731,7 +843,7 @@
 			"rewatch"    : 9,
 			"characters" : 10,
 			"genre"      : 10,
-			"references" : 10,
+			"references" : 9.5,
 			"bias"       : 10
 		}
 	},
@@ -744,11 +856,11 @@
 			"nostalgia"  : 9,
 			"plot"       : 9,
 			"music"      : 10,
-			"rewatch"    : 6.4,
-			"characters" : 10,
-			"genre"      : 10,
-			"references" : 10,
-			"bias"       : 9.6
+			"rewatch"    : 7,
+			"characters" : 9.5,
+			"genre"      : 9.4,
+			"references" : 9,
+			"bias"       : 9
 		}
 	},
 	{
@@ -761,41 +873,41 @@
 			"plot"       : 8,
 			"music"      : 10,
 			"rewatch"    : 7,
-			"characters" : 10,
-			"genre"      : 10,
-			"references" : 10,
-			"bias"       : 9.8
+			"characters" : 9,
+			"genre"      : 9.4,
+			"references" : 8.5,
+			"bias"       : 9.2
 		}
 	},
 	{
 		"name"    : "Harry Potter and the Deathly Hallows 2",
 		"year"    : "2011",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 3.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
-			"plot"       : 10,
+			"plot"       : 9.5,
 			"music"      : 10,
-			"rewatch"    : 8,
-			"characters" : 10,
-			"genre"      : 10,
-			"references" : 10,
-			"bias"       : 9.9
+			"rewatch"    : 8.5,
+			"characters" : 9,
+			"genre"      : 9.6,
+			"references" : 9.5,
+			"bias"       : 9.5
 		}
 	},
 	{
 		"name"    : "Hercules",
 		"year"    : "1997",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 6,
 			"visuals"    : 10,
 			"nostalgia"  : 7,
-			"plot"       : 9,
-			"music"      : 9.5,
-			"rewatch"    : 7,
-			"characters" : 9,
-			"genre"      : 9.5,
-			"references" : 9.5,
+			"plot"       : 8,
+			"music"      : 9,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 8.5,
+			"references" : 8.5,
 			"bias"       : 8
 		}
 	},
@@ -821,14 +933,14 @@
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 7.5,
-			"nostalgia"  : 8,
+			"nostalgia"  : 8.5,
 			"plot"       : 6.5,
 			"music"      : 7.5,
-			"rewatch"    : 8.5,
+			"rewatch"    : 8,
 			"characters" : 7,
-			"genre"      : 9.5,
+			"genre"      : 8.5,
 			"references" : 5.5,
-			"bias"       : 8.5
+			"bias"       : 8
 		}
 	},
 	{
@@ -837,14 +949,14 @@
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 7.5,
-			"nostalgia"  : 8.7,
+			"nostalgia"  : 8.5,
 			"plot"       : 10,
-			"music"      : 9.2,
-			"rewatch"    : 9,
+			"music"      : 8,
+			"rewatch"    : 8.5,
 			"characters" : 6.5,
 			"genre"      : 9.5,
-			"references" : 10,
-			"bias"       : 9.2
+			"references" : 9,
+			"bias"       : 9
 		}
 	},
 	{
@@ -852,13 +964,13 @@
 		"year"    : "2008",
 		"ratings" : {
 			"humor"      : 6.5,
-			"visuals"    : 9,
+			"visuals"    : 8.5,
 			"nostalgia"  : 5,
 			"plot"       : 6,
 			"music"      : 6.5,
 			"rewatch"    : 5,
-			"characters" : 7.5,
-			"genre"      : 9,
+			"characters" : 6.5,
+			"genre"      : 8,
 			"references" : 8,
 			"bias"       : 6
 		}
@@ -870,11 +982,11 @@
 			"humor"      : 3,
 			"visuals"    : 6.5,
 			"nostalgia"  : 5.5,
-			"plot"       : 4,
+			"plot"       : 5,
 			"music"      : 8.5,
 			"rewatch"    : 4.5,
-			"characters" : 3.5,
-			"genre"      : 6,
+			"characters" : 4.5,
+			"genre"      : 7.5,
 			"references" : 10,
 			"bias"       : 5.5
 		}
@@ -883,16 +995,16 @@
 		"name"    : "Jingle All the Way",
 		"year"    : "1996",
 		"ratings" : {
-			"humor"      : 10,
-			"visuals"    : 7.5,
+			"humor"      : 9.5,
+			"visuals"    : 6.5,
 			"nostalgia"  : 8.5,
-			"plot"       : 9,
+			"plot"       : 8.5,
 			"music"      : 5,
 			"rewatch"    : 8.5,
-			"characters" : 8.5,
-			"genre"      : 10,
-			"references" : 6.5,
-			"bias"       : 8
+			"characters" : 7,
+			"genre"      : 9.5,
+			"references" : 7,
+			"bias"       : 8.5
 		}
 	},
 	{
@@ -900,13 +1012,13 @@
 		"year"    : "2014",
 		"ratings" : {
 			"humor"      : 4,
-			"visuals"    : 7.5,
+			"visuals"    : 7,
 			"nostalgia"  : 5,
-			"plot"       : 4.5,
+			"plot"       : 4,
 			"music"      : 6,
 			"rewatch"    : 4,
 			"characters" : 6,
-			"genre"      : 10,
+			"genre"      : 9,
 			"references" : 3.5,
 			"bias"       : 5.5
 		}
@@ -915,14 +1027,14 @@
 		"name"    : "John Wick: Chapter 3 - Parabellum",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 3,
-			"visuals"    : 7,
-			"nostalgia"  : 3.5,
-			"plot"       : 3.5,
+			"humor"      : 2,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2,
+			"plot"       : 2.5,
 			"music"      : 5.5,
-			"rewatch"    : 3,
+			"rewatch"    : 2,
 			"characters" : 4,
-			"genre"      : 8.5,
+			"genre"      : 6,
 			"references" : 2.5,
 			"bias"       : 3.5
 		}
@@ -935,10 +1047,10 @@
 			"visuals"    : 7,
 			"nostalgia"  : 6,
 			"plot"       : 6,
-			"music"      : 10,
+			"music"      : 9,
 			"rewatch"    : 5.5,
 			"characters" : 5.5,
-			"genre"      : 8,
+			"genre"      : 8.5,
 			"references" : 8.5,
 			"bias"       : 6.5
 		}
@@ -950,28 +1062,28 @@
 			"humor"      : 9.5,
 			"visuals"    : 7.5,
 			"nostalgia"  : 9,
-			"plot"       : 7,
+			"plot"       : 8.5,
 			"music"      : 6,
 			"rewatch"    : 8.5,
-			"characters" : 10,
+			"characters" : 9,
 			"genre"      : 9,
-			"references" : 6,
-			"bias"       : 8
+			"references" : 7,
+			"bias"       : 9
 		}
 	},
 	{
 		"name"    : "Knives Out",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 8,
-			"visuals"    : 9,
+			"humor"      : 7,
+			"visuals"    : 7.5,
 			"nostalgia"  : 5,
 			"plot"       : 9,
 			"music"      : 6,
-			"rewatch"    : 6.5,
+			"rewatch"    : 5,
 			"characters" : 5.5,
-			"genre"      : 10,
-			"references" : 8,
+			"genre"      : 9,
+			"references" : 6.5,
 			"bias"       : 7
 		}
 	},
@@ -984,11 +1096,27 @@
 			"nostalgia"  : 2,
 			"plot"       : 3.5,
 			"music"      : 6.5,
-			"rewatch"    : 3,
+			"rewatch"    : 3.5,
 			"characters" : 4,
 			"genre"      : 4.5,
-			"references" : 2,
+			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Life of Pi",
+		"year"    : "2012",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 6.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 5,
+			"references" : 6,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -997,8 +1125,8 @@
 		"ratings" : {
 			"humor"      : 1,
 			"visuals"    : 0.5,
-			"nostalgia"  : 2,
-			"plot"       : 7,
+			"nostalgia"  : 1,
+			"plot"       : 6,
 			"music"      : 0.5,
 			"rewatch"    : 1,
 			"characters" : 3.5,
@@ -1019,7 +1147,7 @@
 			"rewatch"    : 0,
 			"characters" : 1,
 			"genre"      : 0,
-			"references" : 5,
+			"references" : 4,
 			"bias"       : 0
 		}
 	},
@@ -1031,9 +1159,9 @@
 			"visuals"    : 0,
 			"nostalgia"  : 0,
 			"plot"       : 2,
-			"music"      : 1.5,
+			"music"      : 1,
 			"rewatch"    : 0,
-			"characters" : 4.5,
+			"characters" : 3,
 			"genre"      : 1,
 			"references" : 0,
 			"bias"       : 0
@@ -1048,8 +1176,8 @@
 			"nostalgia"  : 3,
 			"plot"       : 6,
 			"music"      : 5,
-			"rewatch"    : 3,
-			"characters" : 4,
+			"rewatch"    : 2.5,
+			"characters" : 3,
 			"genre"      : 6,
 			"references" : 3,
 			"bias"       : 2.5
@@ -1059,14 +1187,14 @@
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 4,
-			"visuals"    : 10,
+			"humor"      : 3,
+			"visuals"    : 7.5,
 			"nostalgia"  : 3,
-			"plot"       : 8.5,
+			"plot"       : 7,
 			"music"      : 5,
-			"rewatch"    : 4,
+			"rewatch"    : 3,
 			"characters" : 4.5,
-			"genre"      : 9,
+			"genre"      : 7,
 			"references" : 4.5,
 			"bias"       : 5
 		}
@@ -1075,14 +1203,14 @@
 		"name"    : "Moana",
 		"year"    : "2016",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 5,
 			"visuals"    : 8,
 			"nostalgia"  : 4,
-			"plot"       : 6.5,
+			"plot"       : 5,
 			"music"      : 5,
 			"rewatch"    : 4.5,
-			"characters" : 6,
-			"genre"      : 9,
+			"characters" : 5.5,
+			"genre"      : 6,
 			"references" : 3,
 			"bias"       : 6.5
 		}
@@ -1094,10 +1222,10 @@
 			"humor"      : 4.5,
 			"visuals"    : 3,
 			"nostalgia"  : 2.5,
-			"plot"       : 3,
+			"plot"       : 1.5,
 			"music"      : 5,
-			"rewatch"    : 4.5,
-			"characters" : 6,
+			"rewatch"    : 4,
+			"characters" : 5.5,
 			"genre"      : 4.5,
 			"references" : 7.5,
 			"bias"       : 5
@@ -1107,12 +1235,12 @@
 		"name"    : "Mulan",
 		"year"    : "1998",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 5.5,
 			"visuals"    : 10,
-			"nostalgia"  : 6,
-			"plot"       : 6,
+			"nostalgia"  : 6.5,
+			"plot"       : 5,
 			"music"      : 9,
-			"rewatch"    : 5,
+			"rewatch"    : 5.5,
 			"characters" : 6,
 			"genre"      : 8,
 			"references" : 5.5,
@@ -1124,14 +1252,14 @@
 		"year"    : "2004",
 		"ratings" : {
 			"humor"      : 8,
-			"visuals"    : 7.5,
-			"nostalgia"  : 6.5,
+			"visuals"    : 8,
+			"nostalgia"  : 8,
 			"plot"       : 4,
-			"music"      : 7,
+			"music"      : 5.5,
 			"rewatch"    : 6,
-			"characters" : 9,
-			"genre"      : 6.8,
-			"references" : 10,
+			"characters" : 7.5,
+			"genre"      : 7.5,
+			"references" : 8.5,
 			"bias"       : 7
 		}
 	},
@@ -1140,7 +1268,7 @@
 		"year"    : "2015",
 		"ratings" : {
 			"humor"      : 0,
-			"visuals"    : 6.5,
+			"visuals"    : 6,
 			"nostalgia"  : 2.5,
 			"plot"       : 6,
 			"music"      : 5,
@@ -1148,7 +1276,7 @@
 			"characters" : 4.5,
 			"genre"      : 9,
 			"references" : 1,
-			"bias"       : 4
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -1171,31 +1299,31 @@
 		"name"    : "Oliver and Company",
 		"year"    : "1988",
 		"ratings" : {
-			"humor"      : 6,
-			"visuals"    : 10,
+			"humor"      : 4.5,
+			"visuals"    : 9.5,
 			"nostalgia"  : 5.5,
-			"plot"       : 6.5,
-			"music"      : 6.5,
-			"rewatch"    : 7,
+			"plot"       : 6,
+			"music"      : 6,
+			"rewatch"    : 5.5,
 			"characters" : 5,
-			"genre"      : 7,
+			"genre"      : 6.5,
 			"references" : 3,
-			"bias"       : 7
+			"bias"       : 6.5
 		}
 	},
 	{
 		"name"    : "Onward",
 		"year"    : "2020",
 		"ratings" : {
-			"humor"      : 3.5,
+			"humor"      : 3,
 			"visuals"    : 7,
-			"nostalgia"  : 2.5,
+			"nostalgia"  : 3,
 			"plot"       : 5.5,
 			"music"      : 4,
 			"rewatch"    : 3,
 			"characters" : 4.5,
 			"genre"      : 5,
-			"references" : 2,
+			"references" : 2.5,
 			"bias"       : 5
 		}
 	},
@@ -1203,29 +1331,29 @@
 		"name"    : "Pacific Rim",
 		"year"    : "2013",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 3,
 			"visuals"    : 10,
 			"nostalgia"  : 4,
 			"plot"       : 4,
-			"music"      : 6,
+			"music"      : 5,
 			"rewatch"    : 2,
 			"characters" : 2,
 			"genre"      : 6,
-			"references" : 1,
-			"bias"       : 3
+			"references" : 2,
+			"bias"       : 3.5
 		}
 	},
 	{
 		"name"    : "Peter Pan",
 		"year"    : "1953",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 6,
 			"visuals"    : 10,
-			"nostalgia"  : 6.5,
+			"nostalgia"  : 10,
 			"plot"       : 7.5,
-			"music"      : 7,
+			"music"      : 6,
 			"rewatch"    : 6,
-			"characters" : 8.5,
+			"characters" : 7.5,
 			"genre"      : 8.5,
 			"references" : 6.5,
 			"bias"       : 7
@@ -1237,7 +1365,7 @@
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 10,
-			"nostalgia"  : 3,
+			"nostalgia"  : 3.5,
 			"plot"       : 6,
 			"music"      : 6,
 			"rewatch"    : 3,
@@ -1251,12 +1379,12 @@
 		"name"    : "Pocahontas",
 		"year"    : "1995",
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 6,
 			"visuals"    : 10,
 			"nostalgia"  : 3.5,
 			"plot"       : 5,
 			"music"      : 9,
-			"rewatch"    : 5,
+			"rewatch"    : 5.5,
 			"characters" : 6.5,
 			"genre"      : 7,
 			"references" : 6,
@@ -1267,12 +1395,12 @@
 		"name"    : "Pokemon Detective Pikachu",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 7,
-			"visuals"    : 7.5,
+			"humor"      : 6,
+			"visuals"    : 7,
 			"nostalgia"  : 7,
-			"plot"       : 7,
+			"plot"       : 6,
 			"music"      : 6,
-			"rewatch"    : 7,
+			"rewatch"    : 6.5,
 			"characters" : 6.5,
 			"genre"      : 7,
 			"references" : 6,
@@ -1286,12 +1414,12 @@
 			"humor"      : 9,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
-			"plot"       : 9,
+			"plot"       : 7,
 			"music"      : 7,
-			"rewatch"    : 7.5,
-			"characters" : 10,
-			"genre"      : 8,
-			"references" : 6,
+			"rewatch"    : 7,
+			"characters" : 8.5,
+			"genre"      : 10,
+			"references" : 7,
 			"bias"       : 9
 		}
 	},
@@ -1299,12 +1427,12 @@
 		"name"    : "Project X",
 		"year"    : "2012",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 6,
 			"visuals"    : 7,
-			"nostalgia"  : 2,
-			"plot"       : 6,
-			"music"      : 10,
-			"rewatch"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 9.5,
+			"rewatch"    : 6,
 			"characters" : 3,
 			"genre"      : 6,
 			"references" : 3,
@@ -1318,12 +1446,12 @@
 			"humor"      : 4,
 			"visuals"    : 3,
 			"nostalgia"  : 5,
-			"plot"       : 6.5,
+			"plot"       : 6,
 			"music"      : 7,
 			"rewatch"    : 3.5,
 			"characters" : 5,
-			"genre"      : 4,
-			"references" : 10,
+			"genre"      : 4.5,
+			"references" : 9.5,
 			"bias"       : 5
 		}
 	},
@@ -1332,12 +1460,12 @@
 		"year"    : "2019",
 		"ratings" : {
 			"humor"      : 0.5,
-			"visuals"    : 7,
+			"visuals"    : 6,
 			"nostalgia"  : 3,
-			"plot"       : 6,
+			"plot"       : 5.5,
 			"music"      : 4,
 			"rewatch"    : 3,
-			"characters" : 5.5,
+			"characters" : 4.5,
 			"genre"      : 8,
 			"references" : 5.5,
 			"bias"       : 5
@@ -1347,7 +1475,7 @@
 		"name"    : "Ready Player One",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 2.5,
+			"humor"      : 1.5,
 			"visuals"    : 8,
 			"nostalgia"  : 5,
 			"plot"       : 6.5,
@@ -1363,9 +1491,9 @@
 		"name"    : "Real Steel",
 		"year"    : "2011",
 		"ratings" : {
-			"humor"      : 2.5,
-			"visuals"    : 8,
-			"nostalgia"  : 2,
+			"humor"      : 1.5,
+			"visuals"    : 7,
+			"nostalgia"  : 0.5,
 			"plot"       : 5,
 			"music"      : 6,
 			"rewatch"    : 1,
@@ -1376,18 +1504,34 @@
 		}
 	},
 	{
+		"name"    : "RoboCop",
+		"year"    : "1987",
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 2.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 3,
+			"rewatch"    : 3,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Sausage Party",
 		"year"    : "2016",
 		"ratings" : {
-			"humor"      : 5,
-			"visuals"    : 4.2,
+			"humor"      : 4,
+			"visuals"    : 3.5,
 			"nostalgia"  : 2.5,
-			"plot"       : 3.5,
+			"plot"       : 2.5,
 			"music"      : 6,
 			"rewatch"    : 0.5,
-			"characters" : 1.5,
-			"genre"      : 5.5,
-			"references" : 6.5,
+			"characters" : 1,
+			"genre"      : 4,
+			"references" : 5.5,
 			"bias"       : 4
 		}
 	},
@@ -1398,13 +1542,13 @@
 			"humor"      : 10,
 			"visuals"    : 8,
 			"nostalgia"  : 8.5,
-			"plot"       : 5,
+			"plot"       : 5.5,
 			"music"      : 7,
 			"rewatch"    : 10,
 			"characters" : 7,
-			"genre"      : 9,
+			"genre"      : 9.5,
 			"references" : 10,
-			"bias"       : 10
+			"bias"       : 9.5
 		}
 	},
 	{
@@ -1416,11 +1560,27 @@
 			"nostalgia"  : 0,
 			"plot"       : 7,
 			"music"      : 4.5,
-			"rewatch"    : 1,
-			"characters" : 7.5,
-			"genre"      : 10,
+			"rewatch"    : 0.5,
+			"characters" : 6.5,
+			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Sharknado",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 1,
+			"nostalgia"  : 2,
+			"plot"       : 1.5,
+			"music"      : 5,
+			"rewatch"    : 1,
+			"characters" : 1,
+			"genre"      : 0.5,
+			"references" : 3.5,
+			"bias"       : 2
 		}
 	},
 	{
@@ -1431,10 +1591,10 @@
 			"visuals"    : 4,
 			"nostalgia"  : 7,
 			"plot"       : 7,
-			"music"      : 10,
-			"rewatch"    : 5.5,
+			"music"      : 9.5,
+			"rewatch"    : 4.5,
 			"characters" : 6.5,
-			"genre"      : 8,
+			"genre"      : 7,
 			"references" : 6.5,
 			"bias"       : 6
 		}
@@ -1446,13 +1606,13 @@
 			"humor"      : 5.5,
 			"visuals"    : 8,
 			"nostalgia"  : 2.5,
-			"plot"       : 9,
-			"music"      : 8.5,
-			"rewatch"    : 7,
-			"characters" : 4.5,
-			"genre"      : 8.5,
-			"references" : 8,
-			"bias"       : 7.5
+			"plot"       : 7,
+			"music"      : 5.5,
+			"rewatch"    : 5.5,
+			"characters" : 5,
+			"genre"      : 8,
+			"references" : 6,
+			"bias"       : 7
 		}
 	},
 	{
@@ -1461,9 +1621,9 @@
 		"ratings" : {
 			"humor"      : 0,
 			"visuals"    : 6,
-			"nostalgia"  : 2,
+			"nostalgia"  : 0.5,
 			"plot"       : 3.5,
-			"music"      : 6.5,
+			"music"      : 6,
 			"rewatch"    : 1,
 			"characters" : 3.5,
 			"genre"      : 4,
@@ -1476,15 +1636,31 @@
 		"year"    : "2018",
 		"ratings" : {
 			"humor"      : 4.5,
-			"visuals"    : 10,
-			"nostalgia"  : 7,
-			"plot"       : 6.5,
-			"music"      : 10,
-			"rewatch"    : 4.5,
-			"characters" : 8.5,
-			"genre"      : 7.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 6,
+			"genre"      : 6,
 			"references" : 8.5,
-			"bias"       : 8.5
+			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Song of the South",
+		"year"    : "1946",
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 6.5,
+			"music"      : 6.5,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 4.5,
+			"references" : 5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -1493,11 +1669,11 @@
 		"ratings" : {
 			"humor"      : 0.5,
 			"visuals"    : 1.5,
-			"nostalgia"  : 1,
+			"nostalgia"  : 0,
 			"plot"       : 4,
-			"music"      : 3.5,
+			"music"      : 3,
 			"rewatch"    : 1.5,
-			"characters" : 3.5,
+			"characters" : 2.5,
 			"genre"      : 4,
 			"references" : 5,
 			"bias"       : 3
@@ -1523,8 +1699,8 @@
 		"name"    : "Spider-Man 2",
 		"year"    : "2004",
 		"ratings" : {
-			"humor"      : 8.5,
-			"visuals"    : 9.5,
+			"humor"      : 8,
+			"visuals"    : 9,
 			"nostalgia"  : 7.5,
 			"plot"       : 8.5,
 			"music"      : 5,
@@ -1539,10 +1715,10 @@
 		"name"    : "Spider-Man: Far from Home",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 8.5,
+			"humor"      : 7.5,
 			"visuals"    : 9,
 			"nostalgia"  : 6,
-			"plot"       : 9,
+			"plot"       : 8,
 			"music"      : 5,
 			"rewatch"    : 5.5,
 			"characters" : 7,
@@ -1557,12 +1733,12 @@
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 10,
-			"nostalgia"  : 7,
-			"plot"       : 8,
-			"music"      : 10,
-			"rewatch"    : 5,
+			"nostalgia"  : 8.5,
+			"plot"       : 8.5,
+			"music"      : 9.5,
+			"rewatch"    : 5.5,
 			"characters" : 9,
-			"genre"      : 10,
+			"genre"      : 9,
 			"references" : 10,
 			"bias"       : 8.5
 		}
@@ -1590,29 +1766,29 @@
 			"humor"      : 4,
 			"visuals"    : 10,
 			"nostalgia"  : 9,
-			"plot"       : 9,
-			"music"      : 10,
-			"rewatch"    : 7,
-			"characters" : 10,
-			"genre"      : 10,
+			"plot"       : 8,
+			"music"      : 9.5,
+			"rewatch"    : 6.5,
+			"characters" : 9,
+			"genre"      : 9,
 			"references" : 10,
-			"bias"       : 10
+			"bias"       : 8.5
 		}
 	},
 	{
 		"name"    : "Star Wars Episode IV: A New Hope",
 		"year"    : "1977",
 		"ratings" : {
-			"humor"      : 4.6,
+			"humor"      : 4.5,
 			"visuals"    : 3,
-			"nostalgia"  : 8,
-			"plot"       : 9,
-			"music"      : 10,
-			"rewatch"    : 5,
-			"characters" : 10,
-			"genre"      : 9.5,
-			"references" : 10,
-			"bias"       : 9
+			"nostalgia"  : 7,
+			"plot"       : 8,
+			"music"      : 9,
+			"rewatch"    : 5.5,
+			"characters" : 8.5,
+			"genre"      : 8.5,
+			"references" : 9.5,
+			"bias"       : 8
 		}
 	},
 	{
@@ -1622,45 +1798,45 @@
 			"humor"      : 3,
 			"visuals"    : 3,
 			"nostalgia"  : 6,
-			"plot"       : 8,
-			"music"      : 10,
-			"rewatch"    : 5,
-			"characters" : 8,
-			"genre"      : 9,
-			"references" : 10,
-			"bias"       : 6.5
+			"plot"       : 7,
+			"music"      : 9,
+			"rewatch"    : 4,
+			"characters" : 7,
+			"genre"      : 7,
+			"references" : 9.5,
+			"bias"       : 5.5
 		}
 	},
 	{
 		"name"    : "Star Wars Episode VI: Return of the Jedi",
 		"year"    : "1983",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 4.5,
 			"visuals"    : 4,
 			"nostalgia"  : 7,
-			"plot"       : 8.5,
-			"music"      : 10,
-			"rewatch"    : 6,
-			"characters" : 9,
+			"plot"       : 7.5,
+			"music"      : 9,
+			"rewatch"    : 5,
+			"characters" : 7.5,
 			"genre"      : 9.5,
-			"references" : 10,
-			"bias"       : 8
+			"references" : 8.5,
+			"bias"       : 7.5
 		}
 	},
 	{
 		"name"    : "Star Wars Episode VII: The Force Awakens",
 		"year"    : "2015",
 		"ratings" : {
-			"humor"      : 6.5,
+			"humor"      : 5,
 			"visuals"    : 9,
 			"nostalgia"  : 5,
 			"plot"       : 4,
-			"music"      : 10,
-			"rewatch"    : 7,
+			"music"      : 9,
+			"rewatch"    : 4.5,
 			"characters" : 4,
-			"genre"      : 8,
-			"references" : 8.5,
-			"bias"       : 4
+			"genre"      : 6.5,
+			"references" : 6.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -1670,28 +1846,28 @@
 			"humor"      : 6.5,
 			"visuals"    : 9,
 			"nostalgia"  : 5.5,
-			"plot"       : 9.5,
-			"music"      : 10,
+			"plot"       : 9,
+			"music"      : 9,
 			"rewatch"    : 6,
 			"characters" : 8,
-			"genre"      : 9.5,
-			"references" : 9.5,
-			"bias"       : 8.5
+			"genre"      : 8.5,
+			"references" : 7.5,
+			"bias"       : 8
 		}
 	},
 	{
 		"name"    : "Star Wars Episode IX: The Rise of Skywalker",
 		"year"    : "2019",
 		"ratings" : {
-			"humor"      : 6,
-			"visuals"    : 7.5,
+			"humor"      : 5,
+			"visuals"    : 7,
 			"nostalgia"  : 2,
 			"plot"       : 1,
-			"music"      : 10,
-			"rewatch"    : 4,
-			"characters" : 1,
+			"music"      : 9,
+			"rewatch"    : 2.5,
+			"characters" : 1.5,
 			"genre"      : 2,
-			"references" : 3,
+			"references" : 2.5,
 			"bias"       : 0
 		}
 	},
@@ -1699,15 +1875,15 @@
 		"name"    : "Star Wars Rogue One",
 		"year"    : "2016",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 2.5,
 			"visuals"    : 9.5,
 			"nostalgia"  : 6,
-			"plot"       : 6,
-			"music"      : 7,
-			"rewatch"    : 4,
-			"characters" : 6,
-			"genre"      : 6.5,
-			"references" : 8,
+			"plot"       : 5.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 6,
 			"bias"       : 5
 		}
 	},
@@ -1715,15 +1891,15 @@
 		"name"    : "Superbad",
 		"year"    : "2007",
 		"ratings" : {
-			"humor"      : 8.5,
+			"humor"      : 7,
 			"visuals"    : 7,
 			"nostalgia"  : 4,
-			"plot"       : 7.5,
+			"plot"       : 7,
 			"music"      : 7,
 			"rewatch"    : 6,
 			"characters" : 7,
 			"genre"      : 6,
-			"references" : 9,
+			"references" : 8,
 			"bias"       : 5
 		}
 	},
@@ -1731,30 +1907,30 @@
 		"name"    : "Super Troopers 2",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 9.5,
+			"humor"      : 8,
 			"visuals"    : 7,
-			"nostalgia"  : 4.5,
-			"plot"       : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
 			"music"      : 5,
-			"rewatch"    : 5,
-			"characters" : 8,
-			"genre"      : 9,
-			"references" : 8,
-			"bias"       : 5
+			"rewatch"    : 4.5,
+			"characters" : 6.5,
+			"genre"      : 7,
+			"references" : 7.5,
+			"bias"       : 5.5
 		}
 	},
 	{
 		"name"    : "Tag",
 		"year"    : "2018",
 		"ratings" : {
-			"humor"      : 9.5,
-			"visuals"    : 6.5,
+			"humor"      : 8,
+			"visuals"    : 5.5,
 			"nostalgia"  : 4,
-			"plot"       : 8.5,
+			"plot"       : 7,
 			"music"      : 5,
-			"rewatch"    : 7,
+			"rewatch"    : 6,
 			"characters" : 4.5,
-			"genre"      : 9,
+			"genre"      : 6.5,
 			"references" : 4,
 			"bias"       : 6.5
 		}
@@ -1765,13 +1941,13 @@
 		"ratings" : {
 			"humor"      : 10,
 			"visuals"    : 8,
-			"nostalgia"  : 7,
+			"nostalgia"  : 8,
 			"plot"       : 9,
-			"music"      : 5,
+			"music"      : 6,
 			"rewatch"    : 9,
 			"characters" : 8.5,
 			"genre"      : 9.5,
-			"references" : 10,
+			"references" : 9.5,
 			"bias"       : 8
 		}
 	},
@@ -1779,14 +1955,14 @@
 		"name"    : "Tangled",
 		"year"    : "2010",
 		"ratings" : {
-			"humor"      : 5.5,
-			"visuals"    : 8.5,
+			"humor"      : 4.5,
+			"visuals"    : 8,
 			"nostalgia"  : 4,
-			"plot"       : 7,
+			"plot"       : 6,
 			"music"      : 6.5,
 			"rewatch"    : 5,
 			"characters" : 6.5,
-			"genre"      : 7,
+			"genre"      : 6,
 			"references" : 4.5,
 			"bias"       : 5.5
 		}
@@ -1795,14 +1971,14 @@
 		"name"    : "Tarzan",
 		"year"    : "1999",
 		"ratings" : {
-			"humor"      : 6,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 4,
-			"plot"       : 6,
+			"plot"       : 4.5,
 			"music"      : 9,
-			"rewatch"    : 6,
-			"characters" : 8,
-			"genre"      : 7.5,
+			"rewatch"    : 5,
+			"characters" : 7.5,
+			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 7.5
 		}
@@ -1811,11 +1987,11 @@
 		"name"    : "Ted",
 		"year"    : "2012",
 		"ratings" : {
-			"humor"      : 9.5,
+			"humor"      : 9,
 			"visuals"    : 6.5,
 			"nostalgia"  : 4.5,
 			"plot"       : 6,
-			"music"      : 7.5,
+			"music"      : 5.5,
 			"rewatch"    : 6.5,
 			"characters" : 4.5,
 			"genre"      : 9,
@@ -1824,17 +2000,33 @@
 		}
 	},
 	{
+		"name"    : "The Birds",
+		"year"    : "1963",
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 1.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 4,
+			"rewatch"    : 2.5,
+			"characters" : 3,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "The Black Cauldron",
 		"year"    : "1985",
 		"ratings" : {
-			"humor"      : 5.5,
+			"humor"      : 5,
 			"visuals"    : 10,
 			"nostalgia"  : 5.5,
-			"plot"       : 9,
+			"plot"       : 7.5,
 			"music"      : 5.5,
-			"rewatch"    : 7.5,
+			"rewatch"    : 6,
 			"characters" : 4.5,
-			"genre"      : 7.5,
+			"genre"      : 6.5,
 			"references" : 2.5,
 			"bias"       : 8
 		}
@@ -1850,7 +2042,7 @@
 			"music"      : 3.5,
 			"rewatch"    : 3,
 			"characters" : 5,
-			"genre"      : 3.5,
+			"genre"      : 4.5,
 			"references" : 2,
 			"bias"       : 3.5
 		}
@@ -1864,10 +2056,10 @@
 			"nostalgia"  : 3.5,
 			"plot"       : 5,
 			"music"      : 0.5,
-			"rewatch"    : 5,
+			"rewatch"    : 5.5,
 			"characters" : 6.5,
 			"genre"      : 5.5,
-			"references" : 6,
+			"references" : 6.5,
 			"bias"       : 4
 		}
 	},
@@ -1875,8 +2067,8 @@
 		"name"    : "The Even Stevens Movie",
 		"year"    : "2003",
 		"ratings" : {
-			"humor"      : 10,
-			"visuals"    : 6.6,
+			"humor"      : 9.5,
+			"visuals"    : 6,
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
@@ -1895,10 +2087,10 @@
 			"visuals"    : 6,
 			"nostalgia"  : 0,
 			"plot"       : 3.5,
-			"music"      : 3,
-			"rewatch"    : 1,
-			"characters" : 4,
-			"genre"      : 8,
+			"music"      : 2,
+			"rewatch"    : 0.5,
+			"characters" : 3.5,
+			"genre"      : 5,
 			"references" : 7,
 			"bias"       : 1.5
 		}
@@ -1909,12 +2101,12 @@
 		"ratings" : {
 			"humor"      : 0.5,
 			"visuals"    : 0.5,
-			"nostalgia"  : 2.5,
-			"plot"       : 4,
+			"nostalgia"  : 2,
+			"plot"       : 3,
 			"music"      : 6,
-			"rewatch"    : 2,
+			"rewatch"    : 1.5,
 			"characters" : 3.5,
-			"genre"      : 3,
+			"genre"      : 3.5,
 			"references" : 7,
 			"bias"       : 4
 		}
@@ -1926,13 +2118,13 @@
 			"humor"      : 5,
 			"visuals"    : 9.5,
 			"nostalgia"  : 6,
-			"plot"       : 9,
+			"plot"       : 7.5,
 			"music"      : 5.5,
 			"rewatch"    : 5.5,
 			"characters" : 6,
-			"genre"      : 9,
+			"genre"      : 6.5,
 			"references" : 3,
-			"bias"       : 7
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -1940,7 +2132,7 @@
 		"year"    : "1999",
 		"ratings" : {
 			"humor"      : 1.5,
-			"visuals"    : 6,
+			"visuals"    : 5,
 			"nostalgia"  : 2.5,
 			"plot"       : 6.5,
 			"music"      : 5,
@@ -1955,15 +2147,15 @@
 		"name"    : "The Hobbit: The Desolation of Smaug",
 		"year"    : "2013",
 		"ratings" : {
-			"humor"      : 2,
-			"visuals"    : 4.5,
-			"nostalgia"  : 2,
+			"humor"      : 0,
+			"visuals"    : 4,
+			"nostalgia"  : 0.5,
 			"plot"       : 2.5,
-			"music"      : 6,
+			"music"      : 5,
 			"rewatch"    : 0,
 			"characters" : 3,
-			"genre"      : 5,
-			"references" : 6.5,
+			"genre"      : 3.5,
+			"references" : 5,
 			"bias"       : 2
 		}
 	},
@@ -1971,15 +2163,15 @@
 		"name"    : "The Hot Chick",
 		"year"    : "2002",
 		"ratings" : {
-			"humor"      : 8.5,
+			"humor"      : 7.5,
 			"visuals"    : 4.5,
 			"nostalgia"  : 6,
 			"plot"       : 6,
-			"music"      : 8,
-			"rewatch"    : 6,
+			"music"      : 6,
+			"rewatch"    : 5.5,
 			"characters" : 4,
 			"genre"      : 7,
-			"references" : 1,
+			"references" : 1.5,
 			"bias"       : 6
 		}
 	},
@@ -1987,14 +2179,14 @@
 		"name"    : "The Hunchback of Notre Dame",
 		"year"    : "1996",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 4.5,
 			"visuals"    : 10,
-			"nostalgia"  : 6.5,
-			"plot"       : 8,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
 			"music"      : 7.5,
-			"rewatch"    : 5.5,
+			"rewatch"    : 5,
 			"characters" : 6,
-			"genre"      : 9,
+			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 5.5
 		}
@@ -2005,11 +2197,11 @@
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 6,
-			"nostalgia"  : 3.5,
-			"plot"       : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 8,
 			"music"      : 4.5,
 			"rewatch"    : 6,
-			"characters" : 6,
+			"characters" : 7,
 			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 5
@@ -2021,11 +2213,11 @@
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 7.5,
-			"nostalgia"  : 3.5,
+			"nostalgia"  : 4,
 			"plot"       : 8.5,
 			"music"      : 4.5,
 			"rewatch"    : 5.5,
-			"characters" : 5,
+			"characters" : 6,
 			"genre"      : 7.5,
 			"references" : 5.5,
 			"bias"       : 5
@@ -2038,11 +2230,11 @@
 			"humor"      : 0.5,
 			"visuals"    : 8.5,
 			"nostalgia"  : 3.5,
-			"plot"       : 8.5,
+			"plot"       : 7.5,
 			"music"      : 4,
 			"rewatch"    : 5.5,
 			"characters" : 5,
-			"genre"      : 7.5,
+			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 5
 		}
@@ -2054,11 +2246,11 @@
 			"humor"      : 0.2,
 			"visuals"    : 5.5,
 			"nostalgia"  : 3.5,
-			"plot"       : 7.5,
+			"plot"       : 6.5,
 			"music"      : 4,
 			"rewatch"    : 4,
 			"characters" : 6.5,
-			"genre"      : 7,
+			"genre"      : 6.5,
 			"references" : 5.5,
 			"bias"       : 5
 		}
@@ -2067,11 +2259,11 @@
 		"name"    : "The Interview",
 		"year"    : "2014",
 		"ratings" : {
-			"humor"      : 10,
-			"visuals"    : 7,
-			"nostalgia"  : 3,
+			"humor"      : 9,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
 			"plot"       : 8,
-			"music"      : 10,
+			"music"      : 9.5,
 			"rewatch"    : 5,
 			"characters" : 5,
 			"genre"      : 9,
@@ -2083,15 +2275,15 @@
 		"name"    : "The Lion King",
 		"year"    : "1994",
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 4.5,
 			"visuals"    : 10,
-			"nostalgia"  : 9,
-			"plot"       : 9,
-			"music"      : 9.5,
+			"nostalgia"  : 9.5,
+			"plot"       : 7.5,
+			"music"      : 8.5,
 			"rewatch"    : 6.5,
-			"characters" : 10,
-			"genre"      : 10,
-			"references" : 10,
+			"characters" : 8,
+			"genre"      : 9.5,
+			"references" : 9.5,
 			"bias"       : 9
 		}
 	},
@@ -2099,15 +2291,15 @@
 		"name"    : "The Martian",
 		"year"    : "2015",
 		"ratings" : {
-			"humor"      : 5.5,
-			"visuals"    : 10,
+			"humor"      : 5,
+			"visuals"    : 9,
 			"nostalgia"  : 4,
 			"plot"       : 8,
 			"music"      : 5,
-			"rewatch"    : 6,
+			"rewatch"    : 5.5,
 			"characters" : 4,
 			"genre"      : 8.5,
-			"references" : 7,
+			"references" : 5.5,
 			"bias"       : 8.5
 		}
 	},
@@ -2115,14 +2307,14 @@
 		"name"    : "The Maze Runner",
 		"year"    : "2014",
 		"ratings" : {
-			"humor"      : 1.5,
+			"humor"      : 0.5,
 			"visuals"    : 8.5,
 			"nostalgia"  : 4.5,
-			"plot"       : 9,
+			"plot"       : 7.5,
 			"music"      : 5,
-			"rewatch"    : 4.5,
-			"characters" : 5.5,
-			"genre"      : 9,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 6.5
 		}
@@ -2134,13 +2326,13 @@
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
 			"nostalgia"  : 2.5,
-			"plot"       : 7.5,
-			"music"      : 6,
+			"plot"       : 6.5,
+			"music"      : 5,
 			"rewatch"    : 3.5,
-			"characters" : 5.5,
-			"genre"      : 8.5,
+			"characters" : 5,
+			"genre"      : 6,
 			"references" : 1.5,
-			"bias"       : 5.5
+			"bias"       : 5
 		}
 	},
 	{
@@ -2163,32 +2355,48 @@
 		"name"    : "The Princess Bride",
 		"year"    : "1987",
 		"ratings" : {
-			"humor"      : 7.5,
+			"humor"      : 7,
 			"visuals"    : 6.5,
 			"nostalgia"  : 6,
-			"plot"       : 6.5,
+			"plot"       : 5.5,
 			"music"      : 5.5,
 			"rewatch"    : 6.5,
-			"characters" : 7.5,
+			"characters" : 7,
 			"genre"      : 8,
 			"references" : 7,
 			"bias"       : 6.5
 		}
 	},
 	{
+		"name"    : "The Purge",
+		"year"    : "2013",
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 7.5,
+			"music"      : 4,
+			"rewatch"    : 5.5,
+			"characters" : 4.5,
+			"genre"      : 7,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Revenant",
 		"year"    : "2015",
 		"ratings" : {
-			"humor"      : 1,
-			"visuals"    : 10,
+			"humor"      : 0.5,
+			"visuals"    : 9,
 			"nostalgia"  : 4,
-			"plot"       : 8,
+			"plot"       : 7,
 			"music"      : 5,
-			"rewatch"    : 3,
+			"rewatch"    : 2.5,
 			"characters" : 4,
-			"genre"      : 9.5,
+			"genre"      : 8,
 			"references" : 2.5,
-			"bias"       : 6.5
+			"bias"       : 6
 		}
 	},
 	{
@@ -2196,11 +2404,11 @@
 		"year"    : "1994",
 		"ratings" : {
 			"humor"      : 1,
-			"visuals"    : 8,
-			"nostalgia"  : 2,
-			"plot"       : 8.5,
+			"visuals"    : 7,
+			"nostalgia"  : 1,
+			"plot"       : 8,
 			"music"      : 4,
-			"rewatch"    : 2,
+			"rewatch"    : 3,
 			"characters" : 4,
 			"genre"      : 8,
 			"references" : 9,
@@ -2212,14 +2420,14 @@
 		"year"    : "1980",
 		"ratings" : {
 			"humor"      : 0.5,
-			"visuals"    : 7,
+			"visuals"    : 6,
 			"nostalgia"  : 2,
 			"plot"       : 4.5,
 			"music"      : 5,
 			"rewatch"    : 2,
 			"characters" : 6,
-			"genre"      : 6.5,
-			"references" : 9.5,
+			"genre"      : 6,
+			"references" : 9,
 			"bias"       : 4
 		}
 	},
@@ -2228,13 +2436,13 @@
 		"year"    : "1991",
 		"ratings" : {
 			"humor"      : 0.5,
-			"visuals"    : 5.5,
+			"visuals"    : 5,
 			"nostalgia"  : 2.5,
-			"plot"       : 6.5,
+			"plot"       : 7.5,
 			"music"      : 5,
-			"rewatch"    : 2,
+			"rewatch"    : 3,
 			"characters" : 7,
-			"genre"      : 6,
+			"genre"      : 6.5,
 			"references" : 8.5,
 			"bias"       : 5
 		}
@@ -2243,26 +2451,26 @@
 		"name"    : "The Social Network",
 		"year"    : "2010",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 3.5,
 			"visuals"    : 8.5,
-			"nostalgia"  : 3,
+			"nostalgia"  : 3.5,
 			"plot"       : 8.5,
 			"music"      : 5,
 			"rewatch"    : 6.5,
 			"characters" : 6.5,
 			"genre"      : 7.5,
 			"references" : 6.5,
-			"bias"       : 5.7
+			"bias"       : 6
 		}
 	},
 	{
 		"name"    : "The Wicker Man",
 		"year"    : "2006",
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 5,
 			"visuals"    : 4,
 			"nostalgia"  : 3.5,
-			"plot"       : 4.5,
+			"plot"       : 5.5,
 			"music"      : 4,
 			"rewatch"    : 4.5,
 			"characters" : 6,
@@ -2294,12 +2502,12 @@
 			"humor"      : 5.5,
 			"visuals"    : 8,
 			"nostalgia"  : 3,
-			"plot"       : 8.5,
-			"music"      : 7,
-			"rewatch"    : 7.5,
+			"plot"       : 7.5,
+			"music"      : 5.5,
+			"rewatch"    : 5.5,
 			"characters" : 3,
 			"genre"      : 6.5,
-			"references" : 8,
+			"references" : 6.5,
 			"bias"       : 6
 		}
 	},
@@ -2311,28 +2519,28 @@
 			"visuals"    : 6,
 			"nostalgia"  : 7,
 			"plot"       : 8,
-			"music"      : 10,
-			"rewatch"    : 8.4,
+			"music"      : 9,
+			"rewatch"    : 8,
 			"characters" : 8,
-			"genre"      : 10,
-			"references" : 10,
-			"bias"       : 9
+			"genre"      : 9.5,
+			"references" : 9,
+			"bias"       : 9.2
 		}
 	},
 	{
 		"name"    : "Thor Ragnarok",
 		"year"    : "2017",
 		"ratings" : {
-			"humor"      : 6,
-			"visuals"    : 9,
-			"nostalgia"  : 4.5,
-			"plot"       : 7,
+			"humor"      : 5.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 6.5,
 			"music"      : 6,
-			"rewatch"    : 5,
+			"rewatch"    : 4.5,
 			"characters" : 5.5,
-			"genre"      : 7,
+			"genre"      : 6,
 			"references" : 3.5,
-			"bias"       : 5.5
+			"bias"       : 6
 		}
 	},
 	{
@@ -2341,12 +2549,12 @@
 		"ratings" : {
 			"humor"      : 0.5,
 			"visuals"    : 8,
-			"nostalgia"  : 3,
+			"nostalgia"  : 3.5,
 			"plot"       : 6.5,
 			"music"      : 8,
 			"rewatch"    : 1,
 			"characters" : 6,
-			"genre"      : 4,
+			"genre"      : 4.5,
 			"references" : 7,
 			"bias"       : 3.5
 		}
@@ -2356,12 +2564,12 @@
 		"year"    : "1990",
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 7,
-			"nostalgia"  : 8,
-			"plot"       : 6.5,
-			"music"      : 8,
-			"rewatch"    : 8.5,
-			"characters" : 6.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 7,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 5.5,
 			"genre"      : 9,
 			"references" : 3,
 			"bias"       : 7.5
@@ -2371,15 +2579,15 @@
 		"name"    : "Tropic Thunder",
 		"year"    : "2008",
 		"ratings" : {
-			"humor"      : 10,
-			"visuals"    : 7.5,
+			"humor"      : 9.5,
+			"visuals"    : 8,
 			"nostalgia"  : 8.5,
 			"plot"       : 8,
-			"music"      : 8,
-			"rewatch"    : 10,
-			"characters" : 4,
+			"music"      : 7.5,
+			"rewatch"    : 9,
+			"characters" : 5,
 			"genre"      : 7,
-			"references" : 9,
+			"references" : 8,
 			"bias"       : 7.5
 		}
 	},
@@ -2392,10 +2600,10 @@
 			"nostalgia"  : 4.5,
 			"plot"       : 8,
 			"music"      : 6,
-			"rewatch"    : 5.5,
-			"characters" : 6,
-			"genre"      : 7,
-			"references" : 3.5,
+			"rewatch"    : 6.5,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 5,
 			"bias"       : 6.5
 		}
 	},
@@ -2404,14 +2612,14 @@
 		"year"    : "2005",
 		"ratings" : {
 			"humor"      : 2.5,
-			"visuals"    : 9.5,
-			"nostalgia"  : 6,
+			"visuals"    : 8.5,
+			"nostalgia"  : 7,
 			"plot"       : 8.5,
 			"music"      : 5,
-			"rewatch"    : 5.5,
+			"rewatch"    : 6,
 			"characters" : 6,
 			"genre"      : 8.5,
-			"references" : 3,
+			"references" : 4.5,
 			"bias"       : 7.5
 		}
 	},
@@ -2420,30 +2628,30 @@
 		"year"    : "2005",
 		"ratings" : {
 			"humor"      : 7,
-			"visuals"    : 8.5,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 7.5,
 			"music"      : 9,
 			"rewatch"    : 5.5,
-			"characters" : 4,
+			"characters" : 4.5,
 			"genre"      : 7,
 			"references" : 6.5,
-			"bias"       : 6.3
+			"bias"       : 6
 		}
 	},
 	{
 		"name"    : "Zombieland",
 		"year"    : "2009",
 		"ratings" : {
-			"humor"      : 10,
+			"humor"      : 9.5,
 			"visuals"    : 9.5,
-			"nostalgia"  : 5,
+			"nostalgia"  : 6,
 			"plot"       : 9.5,
-			"music"      : 7.5,
-			"rewatch"    : 8,
-			"characters" : 10,
+			"music"      : 6,
+			"rewatch"    : 7.5,
+			"characters" : 8,
 			"genre"      : 9,
-			"references" : 9.5,
+			"references" : 9,
 			"bias"       : 8.5
 		}
 	},
@@ -2453,12 +2661,12 @@
 		"ratings" : {
 			"humor"      : 1.5,
 			"visuals"    : 1,
-			"nostalgia"  : 2,
+			"nostalgia"  : 0.5,
 			"plot"       : 6,
-			"music"      : 3,
-			"rewatch"    : 1.5,
+			"music"      : 2.5,
+			"rewatch"    : 1,
 			"characters" : 3.5,
-			"genre"      : 4,
+			"genre"      : 3.5,
 			"references" : 5,
 			"bias"       : 3.5
 		}
@@ -2470,10 +2678,10 @@
 			"humor"      : 0,
 			"visuals"    : 4,
 			"nostalgia"  : 0,
-			"plot"       : 2,
+			"plot"       : 1.5,
 			"music"      : 6,
 			"rewatch"    : 1,
-			"characters" : 3.5,
+			"characters" : 3,
 			"genre"      : 1,
 			"references" : 8.5,
 			"bias"       : 1

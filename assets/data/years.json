@@ -1,0 +1,422 @@
+[
+	{
+		"name"    : "1993",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 0,
+			"movies"             : 6.5,
+			"home entertainment" : 5,
+			"hobbies"            : 5,
+			"work/school"        : 5,
+			"travel"             : 5,
+			"relationships"      : 5,
+			"living environment" : 6,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "1994",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 0,
+			"movies"             : 8,
+			"home entertainment" : 5,
+			"hobbies"            : 5,
+			"work/school"        : 5,
+			"travel"             : 5,
+			"relationships"      : 5,
+			"living environment" : 6,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "1995",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 0.5,
+			"movies"             : 6,
+			"home entertainment" : 5.5,
+			"hobbies"            : 5,
+			"work/school"        : 5,
+			"travel"             : 5,
+			"relationships"      : 5,
+			"living environment" : 7,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "1996",
+		"ratings" : {
+			"sports"             : 5.5,
+			"music"              : 0.5,
+			"movies"             : 8,
+			"home entertainment" : 6,
+			"hobbies"            : 5,
+			"work/school"        : 4.5,
+			"travel"             : 6,
+			"relationships"      : 5,
+			"living environment" : 7,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "1997",
+		"ratings" : {
+			"sports"             : 7,
+			"music"              : 1.5,
+			"movies"             : 7.5,
+			"home entertainment" : 6,
+			"hobbies"            : 5,
+			"work/school"        : 5.5,
+			"travel"             : 5,
+			"relationships"      : 6,
+			"living environment" : 7,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "1998",
+		"ratings" : {
+			"sports"             : 6,
+			"music"              : 1,
+			"movies"             : 6.5,
+			"home entertainment" : 6.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 5,
+			"travel"             : 6,
+			"relationships"      : 6.5,
+			"living environment" : 7,
+			"personal events"    : 6
+		}
+	},
+	{
+		"name"    : "1999",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 1.5,
+			"movies"             : 8.5,
+			"home entertainment" : 7.5,
+			"hobbies"            : 6.5,
+			"work/school"        : 6,
+			"travel"             : 6.5,
+			"relationships"      : 6.5,
+			"living environment" : 7,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "2000",
+		"ratings" : {
+			"sports"             : 5.5,
+			"music"              : 1.5,
+			"movies"             : 4,
+			"home entertainment" : 7.5,
+			"hobbies"            : 6.5,
+			"work/school"        : 6.5,
+			"travel"             : 9,
+			"relationships"      : 6,
+			"living environment" : 7,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "2001",
+		"ratings" : {
+			"sports"             : 4,
+			"music"              : 2,
+			"movies"             : 9,
+			"home entertainment" : 7.5,
+			"hobbies"            : 6.5,
+			"work/school"        : 6.5,
+			"travel"             : 9.5,
+			"relationships"      : 6,
+			"living environment" : 7,
+			"personal events"    : 4.5
+		}
+	},
+	{
+		"name"    : "2002",
+		"ratings" : {
+			"sports"             : 2.5,
+			"music"              : 2,
+			"movies"             : 10,
+			"home entertainment" : 8.5,
+			"hobbies"            : 6,
+			"work/school"        : 7,
+			"travel"             : 4.5,
+			"relationships"      : 6,
+			"living environment" : 7,
+			"personal events"    : 3
+		}
+	},
+	{
+		"name"    : "2003",
+		"ratings" : {
+			"sports"             : 5.5,
+			"music"              : 2,
+			"movies"             : 9.5,
+			"home entertainment" : 8.5,
+			"hobbies"            : 6,
+			"work/school"        : 6,
+			"travel"             : 7.5,
+			"relationships"      : 5.5,
+			"living environment" : 8,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "2004",
+		"ratings" : {
+			"sports"             : 3,
+			"music"              : 3,
+			"movies"             : 10,
+			"home entertainment" : 8.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 5.5,
+			"travel"             : 6.5,
+			"relationships"      : 5,
+			"living environment" : 8,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "2005",
+		"ratings" : {
+			"sports"             : 5.5,
+			"music"              : 3,
+			"movies"             : 9.5,
+			"home entertainment" : 9,
+			"hobbies"            : 5.5,
+			"work/school"        : 4.5,
+			"travel"             : 7.5,
+			"relationships"      : 4.5,
+			"living environment" : 8.5,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "2006",
+		"ratings" : {
+			"sports"             : 10,
+			"music"              : 3,
+			"movies"             : 8.5,
+			"home entertainment" : 9,
+			"hobbies"            : 5.5,
+			"work/school"        : 4,
+			"travel"             : 7.5,
+			"relationships"      : 3.5,
+			"living environment" : 8.5,
+			"personal events"    : 6.5
+		}
+	},
+	{
+		"name"    : "2007",
+		"ratings" : {
+			"sports"             : 6,
+			"music"              : 3,
+			"movies"             : 9.5,
+			"home entertainment" : 9.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 3,
+			"travel"             : 5.5,
+			"relationships"      : 2,
+			"living environment" : 8.5,
+			"personal events"    : 5
+		}
+	},
+	{
+		"name"    : "2008",
+		"ratings" : {
+			"sports"             : 6,
+			"music"              : 4,
+			"movies"             : 7.5,
+			"home entertainment" : 8.5,
+			"hobbies"            : 5,
+			"work/school"        : 7.5,
+			"travel"             : 7.5,
+			"relationships"      : 7,
+			"living environment" : 8.5,
+			"personal events"    : 6
+		}
+	},
+	{
+		"name"    : "2009",
+		"ratings" : {
+			"sports"             : 10,
+			"music"              : 10,
+			"movies"             : 8.5,
+			"home entertainment" : 7.5,
+			"hobbies"            : 5,
+			"work/school"        : 8.5,
+			"travel"             : 9.5,
+			"relationships"      : 8,
+			"living environment" : 8.5,
+			"personal events"    : 7
+		}
+	},
+	{
+		"name"    : "2010",
+		"ratings" : {
+			"sports"             : 6,
+			"music"              : 7.5,
+			"movies"             : 8.5,
+			"home entertainment" : 7,
+			"hobbies"            : 5.5,
+			"work/school"        : 8.5,
+			"travel"             : 8,
+			"relationships"      : 7,
+			"living environment" : 8.5,
+			"personal events"    : 6.5
+		}
+	},
+	{
+		"name"    : "2011",
+		"ratings" : {
+			"sports"             : 10,
+			"music"              : 7,
+			"movies"             : 9,
+			"home entertainment" : 8,
+			"hobbies"            : 5.5,
+			"work/school"        : 6,
+			"travel"             : 6,
+			"relationships"      : 7.5,
+			"living environment" : 6.5,
+			"personal events"    : 6.5
+		}
+	},
+	{
+		"name"    : "2012",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 4,
+			"movies"             : 6.5,
+			"home entertainment" : 9.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 4.5,
+			"travel"             : 3,
+			"relationships"      : 6.5,
+			"living environment" : 7,
+			"personal events"    : 7
+		}
+	},
+	{
+		"name"    : "2013",
+		"ratings" : {
+			"sports"             : 1,
+			"music"              : 1.5,
+			"movies"             : 8,
+			"home entertainment" : 5.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 3.5,
+			"travel"             : 3,
+			"relationships"      : 2.5,
+			"living environment" : 3,
+			"personal events"    : 4.5
+		}
+	},
+	{
+		"name"    : "2014",
+		"ratings" : {
+			"sports"             : 5,
+			"music"              : 2.5,
+			"movies"             : 7,
+			"home entertainment" : 4.5,
+			"hobbies"            : 6,
+			"work/school"        : 4.5,
+			"travel"             : 3,
+			"relationships"      : 2.5,
+			"living environment" : 2.5,
+			"personal events"    : 6.5
+		}
+	},
+	{
+		"name"    : "2015",
+		"ratings" : {
+			"sports"             : 2.5,
+			"music"              : 2,
+			"movies"             : 6,
+			"home entertainment" : 4.5,
+			"hobbies"            : 7,
+			"work/school"        : 7.5,
+			"travel"             : 7,
+			"relationships"      : 2,
+			"living environment" : 3,
+			"personal events"    : 5.5
+		}
+	},
+	{
+		"name"    : "2016",
+		"ratings" : {
+			"sports"             : 4.5,
+			"music"              : 1,
+			"movies"             : 6,
+			"home entertainment" : 4,
+			"hobbies"            : 6.5,
+			"work/school"        : 8.5,
+			"travel"             : 8.5,
+			"relationships"      : 6,
+			"living environment" : 4,
+			"personal events"    : 7.5
+		}
+	},
+	{
+		"name"    : "2017",
+		"ratings" : {
+			"sports"             : 1,
+			"music"              : 1,
+			"movies"             : 7.5,
+			"home entertainment" : 1.5,
+			"hobbies"            : 5.5,
+			"work/school"        : 9.5,
+			"travel"             : 4,
+			"relationships"      : 8.5,
+			"living environment" : 1,
+			"personal events"    : 8.5
+		}
+	},
+	{
+		"name"    : "2018",
+		"ratings" : {
+			"sports"             : 6.5,
+			"music"              : 0.5,
+			"movies"             : 6.5,
+			"home entertainment" : 0.5,
+			"hobbies"            : 7.5,
+			"work/school"        : 10,
+			"travel"             : 9.5,
+			"relationships"      : 9,
+			"living environment" : 0.5,
+			"personal events"    : 6
+		}
+	},
+	{
+		"name"    : "2019",
+		"ratings" : {
+			"sports"             : 2,
+			"music"              : 0.5,
+			"movies"             : 7,
+			"home entertainment" : 0.5,
+			"hobbies"            : 8.5,
+			"work/school"        : 10,
+			"travel"             : 8,
+			"relationships"      : 9,
+			"living environment" : 1,
+			"personal events"    : 8
+		}
+	},
+	{
+		"name"    : "2020",
+		"ratings" : {
+			"sports"             : 5.5,
+			"music"              : 0,
+			"movies"             : 4,
+			"home entertainment" : 9,
+			"hobbies"            : 10,
+			"work/school"        : 10,
+			"travel"             : 7.5,
+			"relationships"      : 9,
+			"living environment" : 10,
+			"personal events"    : 5
+		}
+	}
+]

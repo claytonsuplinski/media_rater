@@ -1,0 +1,12 @@
+Image
+	Dimensions : 300px x 500px
+	
+Image Mask
+	Black with 170 opacity
+
+Text
+	Center position : 150px x 332px
+	Font : Segoe Keycaps - 36px, White, Centered
+	
+Text Background
+	Opacity : 170 (out of 255)

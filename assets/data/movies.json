@@ -663,6 +663,23 @@
 		}
 	},
 	{
+		"name"    : "Django Unchained",
+		"year"    : "2012",
+		"critic"  : 8.4,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 8,
+			"nostalgia"  : 6,
+			"plot"       : 8.5,
+			"music"      : 7,
+			"rewatch"    : 5.5,
+			"characters" : 6.5,
+			"genre"      : 8.5,
+			"references" : 5.5,
+			"bias"       : 7.5
+		}
+	},
+	{
 		"name"    : "Dodgeball",
 		"year"    : "2004",
 		"critic"  : 6.7,
@@ -745,6 +762,23 @@
 			"genre"      : 10,
 			"references" : 9,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Epic Movie",
+		"year"    : "2007",
+		"critic"  : 2.4,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 1.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 2,
+			"music"      : 8,
+			"rewatch"    : 0.5,
+			"characters" : 1,
+			"genre"      : 0.5,
+			"references" : 1,
+			"bias"       : 0.5
 		}
 	},
 	{
@@ -901,6 +935,23 @@
 		}
 	},
 	{
+		"name"    : "Get Out",
+		"year"    : "2017",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Ghostbusters",
 		"year"    : "1984",
 		"critic"  : 7.8,
@@ -966,6 +1017,23 @@
 			"genre"      : 3,
 			"references" : 4,
 			"bias"       : 1.5
+		}
+	},
+	{
+		"name"    : "Grease",
+		"year"    : "1978",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 5,
+			"references" : 4.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -1559,7 +1627,7 @@
 			"rewatch"    : 4,
 			"characters" : 5.5,
 			"genre"      : 4.5,
-			"references" : 7.5,
+			"references" : 6.5,
 			"bias"       : 5
 		}
 	},
@@ -2054,6 +2122,23 @@
 			"genre"      : 8,
 			"references" : 6,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Sleeping Beauty",
+		"year"    : "1959",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 9,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 7,
+			"genre"      : 4.5,
+			"references" : 7.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -2635,6 +2720,23 @@
 		}
 	},
 	{
+		"name"    : "The Day After Tomorrow",
+		"year"    : "2004",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 6,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Even Stevens Movie",
 		"year"    : "2003",
 		"critic"  : 6.2,
@@ -2873,6 +2975,23 @@
 		}
 	},
 	{
+		"name"    : "The Lego Movie",
+		"year"    : "2014",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Lion King",
 		"year"    : "1994",
 		"critic"  : 8.5,
@@ -2887,6 +3006,23 @@
 			"genre"      : 9.5,
 			"references" : 9.5,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "The Little Mermaid",
+		"year"    : "1989",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 10,
+			"nostalgia"  : 7,
+			"plot"       : 5.5,
+			"music"      : 9.5,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 9,
+			"references" : 8.5,
+			"bias"       : 7
 		}
 	},
 	{

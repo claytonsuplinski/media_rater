@@ -1,0 +1,55 @@
+#graph path { 
+	stroke: #359;
+	stroke-width: 2;
+	fill:transparent;
+}
+
+#graph .axis path,
+#graph .axis line {
+	fill: none;
+	stroke: #444;
+	stroke-width: 1;
+	shape-rendering: crispEdges;
+}
+
+#graph text{
+	fill:#777;
+}
+
+#graph circle:hover{
+	-webkit-filter:brightness(2);
+	        filter:brightness(2);
+}
+
+.graph-tooltip{
+	position: fixed;
+	background: #333;
+	border:1px solid rgba(255,255,255,0.25);
+	color:#fff;
+	font-size: 12px;
+	width:  auto;
+	height: auto;
+	margin-top:20px;
+	margin-left:-30px;
+	pointer-events: none;
+}
+
+.graph-tooltip .header,
+.graph-tooltip .value{
+	padding:3px 5px;
+}
+
+.graph-tooltip .header{
+	background:#222;
+	border-bottom:1px solid rgba(255,255,255,0.25);
+}
+
+.graph-tooltip .sub-header{
+	color:rgba(255,255,255,0.85);
+	font-style:italic;
+	margin-left:5px;
+}
+
+.graph-tooltip .value{
+	font-size:12px;
+}

@@ -7,11 +7,11 @@
 			"movies"             : 6.5,
 			"home entertainment" : 5,
 			"hobbies"            : 5,
-			"work/school"        : 5,
+			"occupation"         : 5,
 			"travel"             : 5,
 			"relationships"      : 5,
-			"living environment" : 6,
-			"personal events"    : 5
+			"living environment" : 5,
+			"personal events"    : 6
 		}
 	},
 	{
@@ -22,10 +22,10 @@
 			"movies"             : 8,
 			"home entertainment" : 5,
 			"hobbies"            : 5,
-			"work/school"        : 5,
+			"occupation"         : 5,
 			"travel"             : 5,
 			"relationships"      : 5,
-			"living environment" : 6,
+			"living environment" : 5,
 			"personal events"    : 5
 		}
 	},
@@ -35,12 +35,12 @@
 			"sports"             : 5,
 			"music"              : 0.5,
 			"movies"             : 6,
-			"home entertainment" : 5.5,
+			"home entertainment" : 5,
 			"hobbies"            : 5,
-			"work/school"        : 5,
+			"occupation"         : 5,
 			"travel"             : 5,
 			"relationships"      : 5,
-			"living environment" : 7,
+			"living environment" : 6,
 			"personal events"    : 5
 		}
 	},
@@ -50,12 +50,12 @@
 			"sports"             : 5.5,
 			"music"              : 0.5,
 			"movies"             : 8,
-			"home entertainment" : 6,
+			"home entertainment" : 5,
 			"hobbies"            : 5,
-			"work/school"        : 4.5,
+			"occupation"         : 4.5,
 			"travel"             : 6,
 			"relationships"      : 5,
-			"living environment" : 7,
+			"living environment" : 6,
 			"personal events"    : 5
 		}
 	},
@@ -65,12 +65,12 @@
 			"sports"             : 7,
 			"music"              : 1.5,
 			"movies"             : 7.5,
-			"home entertainment" : 6,
+			"home entertainment" : 5.5,
 			"hobbies"            : 5,
-			"work/school"        : 5.5,
+			"occupation"         : 5.5,
 			"travel"             : 5,
-			"relationships"      : 6,
-			"living environment" : 7,
+			"relationships"      : 5.5,
+			"living environment" : 6,
 			"personal events"    : 5.5
 		}
 	},
@@ -80,12 +80,12 @@
 			"sports"             : 6,
 			"music"              : 1,
 			"movies"             : 6.5,
-			"home entertainment" : 6.5,
+			"home entertainment" : 5.5,
 			"hobbies"            : 5.5,
-			"work/school"        : 5,
+			"occupation"         : 4.5,
 			"travel"             : 6,
-			"relationships"      : 6.5,
-			"living environment" : 7,
+			"relationships"      : 5.5,
+			"living environment" : 6,
 			"personal events"    : 6
 		}
 	},
@@ -95,12 +95,12 @@
 			"sports"             : 5,
 			"music"              : 1.5,
 			"movies"             : 8.5,
-			"home entertainment" : 7.5,
-			"hobbies"            : 6.5,
-			"work/school"        : 6,
+			"home entertainment" : 5.5,
+			"hobbies"            : 4.5,
+			"occupation"         : 5,
 			"travel"             : 6.5,
-			"relationships"      : 6.5,
-			"living environment" : 7,
+			"relationships"      : 5.5,
+			"living environment" : 6,
 			"personal events"    : 5.5
 		}
 	},
@@ -110,12 +110,12 @@
 			"sports"             : 5.5,
 			"music"              : 1.5,
 			"movies"             : 4,
-			"home entertainment" : 7.5,
-			"hobbies"            : 6.5,
-			"work/school"        : 6.5,
+			"home entertainment" : 7,
+			"hobbies"            : 4.5,
+			"occupation"         : 5.5,
 			"travel"             : 9,
-			"relationships"      : 6,
-			"living environment" : 7,
+			"relationships"      : 5.5,
+			"living environment" : 6,
 			"personal events"    : 5.5
 		}
 	},
@@ -125,13 +125,13 @@
 			"sports"             : 4,
 			"music"              : 2,
 			"movies"             : 9,
-			"home entertainment" : 7.5,
-			"hobbies"            : 6.5,
-			"work/school"        : 6.5,
+			"home entertainment" : 7,
+			"hobbies"            : 4.5,
+			"occupation"         : 5.5,
 			"travel"             : 9.5,
-			"relationships"      : 6,
-			"living environment" : 7,
-			"personal events"    : 4.5
+			"relationships"      : 5.5,
+			"living environment" : 6,
+			"personal events"    : 4
 		}
 	},
 	{
@@ -140,13 +140,13 @@
 			"sports"             : 2.5,
 			"music"              : 2,
 			"movies"             : 10,
-			"home entertainment" : 8.5,
-			"hobbies"            : 6,
-			"work/school"        : 7,
+			"home entertainment" : 7.5,
+			"hobbies"            : 4.5,
+			"occupation"         : 6,
 			"travel"             : 4.5,
-			"relationships"      : 6,
-			"living environment" : 7,
-			"personal events"    : 3
+			"relationships"      : 5,
+			"living environment" : 6,
+			"personal events"    : 4.5
 		}
 	},
 	{
@@ -155,12 +155,12 @@
 			"sports"             : 5.5,
 			"music"              : 2,
 			"movies"             : 9.5,
-			"home entertainment" : 8.5,
-			"hobbies"            : 6,
-			"work/school"        : 6,
+			"home entertainment" : 8,
+			"hobbies"            : 4.5,
+			"occupation"         : 5,
 			"travel"             : 7.5,
-			"relationships"      : 5.5,
-			"living environment" : 8,
+			"relationships"      : 5,
+			"living environment" : 6.5,
 			"personal events"    : 5
 		}
 	},
@@ -170,12 +170,12 @@
 			"sports"             : 3,
 			"music"              : 3,
 			"movies"             : 10,
-			"home entertainment" : 8.5,
-			"hobbies"            : 5.5,
-			"work/school"        : 5.5,
+			"home entertainment" : 7.5,
+			"hobbies"            : 5,
+			"occupation"         : 4.5,
 			"travel"             : 6.5,
-			"relationships"      : 5,
-			"living environment" : 8,
+			"relationships"      : 4.5,
+			"living environment" : 6.5,
 			"personal events"    : 5.5
 		}
 	},
@@ -185,12 +185,12 @@
 			"sports"             : 5.5,
 			"music"              : 3,
 			"movies"             : 9.5,
-			"home entertainment" : 9,
-			"hobbies"            : 5.5,
-			"work/school"        : 4.5,
+			"home entertainment" : 8,
+			"hobbies"            : 5,
+			"occupation"         : 4.5,
 			"travel"             : 7.5,
-			"relationships"      : 4.5,
-			"living environment" : 8.5,
+			"relationships"      : 4,
+			"living environment" : 6.5,
 			"personal events"    : 5.5
 		}
 	},
@@ -200,43 +200,43 @@
 			"sports"             : 10,
 			"music"              : 3,
 			"movies"             : 8.5,
-			"home entertainment" : 9,
+			"home entertainment" : 8.5,
 			"hobbies"            : 5.5,
-			"work/school"        : 4,
+			"occupation"         : 4,
 			"travel"             : 7.5,
 			"relationships"      : 3.5,
-			"living environment" : 8.5,
+			"living environment" : 7,
 			"personal events"    : 6.5
 		}
 	},
 	{
 		"name"    : "2007",
 		"ratings" : {
-			"sports"             : 6,
+			"sports"             : 7,
 			"music"              : 3,
 			"movies"             : 9.5,
-			"home entertainment" : 9.5,
+			"home entertainment" : 8.5,
 			"hobbies"            : 5.5,
-			"work/school"        : 3,
+			"occupation"         : 3.5,
 			"travel"             : 5.5,
-			"relationships"      : 2,
-			"living environment" : 8.5,
-			"personal events"    : 5
+			"relationships"      : 1.5,
+			"living environment" : 7,
+			"personal events"    : 4.5
 		}
 	},
 	{
 		"name"    : "2008",
 		"ratings" : {
-			"sports"             : 6,
+			"sports"             : 8,
 			"music"              : 4,
 			"movies"             : 7.5,
-			"home entertainment" : 8.5,
-			"hobbies"            : 5,
-			"work/school"        : 7.5,
+			"home entertainment" : 6.5,
+			"hobbies"            : 4.5,
+			"occupation"         : 7.5,
 			"travel"             : 7.5,
-			"relationships"      : 7,
-			"living environment" : 8.5,
-			"personal events"    : 6
+			"relationships"      : 6,
+			"living environment" : 7,
+			"personal events"    : 4
 		}
 	},
 	{
@@ -245,28 +245,28 @@
 			"sports"             : 10,
 			"music"              : 10,
 			"movies"             : 8.5,
-			"home entertainment" : 7.5,
+			"home entertainment" : 6,
 			"hobbies"            : 5,
-			"work/school"        : 8.5,
+			"occupation"         : 8.5,
 			"travel"             : 9.5,
-			"relationships"      : 8,
-			"living environment" : 8.5,
-			"personal events"    : 7
+			"relationships"      : 7,
+			"living environment" : 7,
+			"personal events"    : 7.5
 		}
 	},
 	{
 		"name"    : "2010",
 		"ratings" : {
-			"sports"             : 6,
+			"sports"             : 7,
 			"music"              : 7.5,
 			"movies"             : 8.5,
-			"home entertainment" : 7,
-			"hobbies"            : 5.5,
-			"work/school"        : 8.5,
+			"home entertainment" : 5.5,
+			"hobbies"            : 5,
+			"occupation"         : 8.5,
 			"travel"             : 8,
 			"relationships"      : 7,
-			"living environment" : 8.5,
-			"personal events"    : 6.5
+			"living environment" : 7,
+			"personal events"    : 6
 		}
 	},
 	{
@@ -275,13 +275,13 @@
 			"sports"             : 10,
 			"music"              : 7,
 			"movies"             : 9,
-			"home entertainment" : 8,
-			"hobbies"            : 5.5,
-			"work/school"        : 6,
+			"home entertainment" : 7.5,
+			"hobbies"            : 5,
+			"occupation"         : 6,
 			"travel"             : 6,
-			"relationships"      : 7.5,
-			"living environment" : 6.5,
-			"personal events"    : 6.5
+			"relationships"      : 6.5,
+			"living environment" : 6,
+			"personal events"    : 7
 		}
 	},
 	{
@@ -290,13 +290,13 @@
 			"sports"             : 5,
 			"music"              : 4,
 			"movies"             : 6.5,
-			"home entertainment" : 9.5,
+			"home entertainment" : 9,
 			"hobbies"            : 5.5,
-			"work/school"        : 4.5,
+			"occupation"         : 4.5,
 			"travel"             : 3,
 			"relationships"      : 6.5,
-			"living environment" : 7,
-			"personal events"    : 7
+			"living environment" : 6.5,
+			"personal events"    : 6
 		}
 	},
 	{
@@ -305,13 +305,13 @@
 			"sports"             : 1,
 			"music"              : 1.5,
 			"movies"             : 8,
-			"home entertainment" : 5.5,
+			"home entertainment" : 4.5,
 			"hobbies"            : 5.5,
-			"work/school"        : 3.5,
+			"occupation"         : 3.5,
 			"travel"             : 3,
-			"relationships"      : 2.5,
+			"relationships"      : 1.5,
 			"living environment" : 3,
-			"personal events"    : 4.5
+			"personal events"    : 3.5
 		}
 	},
 	{
@@ -320,13 +320,13 @@
 			"sports"             : 5,
 			"music"              : 2.5,
 			"movies"             : 7,
-			"home entertainment" : 4.5,
+			"home entertainment" : 4,
 			"hobbies"            : 6,
-			"work/school"        : 4.5,
+			"occupation"         : 4,
 			"travel"             : 3,
-			"relationships"      : 2.5,
-			"living environment" : 2.5,
-			"personal events"    : 6.5
+			"relationships"      : 1.5,
+			"living environment" : 1.5,
+			"personal events"    : 4.5
 		}
 	},
 	{
@@ -336,12 +336,12 @@
 			"music"              : 2,
 			"movies"             : 6,
 			"home entertainment" : 4.5,
-			"hobbies"            : 7,
-			"work/school"        : 7.5,
+			"hobbies"            : 6.5,
+			"occupation"         : 7.5,
 			"travel"             : 7,
 			"relationships"      : 2,
 			"living environment" : 3,
-			"personal events"    : 5.5
+			"personal events"    : 4
 		}
 	},
 	{
@@ -351,12 +351,12 @@
 			"music"              : 1,
 			"movies"             : 6,
 			"home entertainment" : 4,
-			"hobbies"            : 6.5,
-			"work/school"        : 8.5,
+			"hobbies"            : 5.5,
+			"occupation"         : 8.5,
 			"travel"             : 8.5,
-			"relationships"      : 6,
+			"relationships"      : 4,
 			"living environment" : 4,
-			"personal events"    : 7.5
+			"personal events"    : 7
 		}
 	},
 	{
@@ -366,25 +366,25 @@
 			"music"              : 1,
 			"movies"             : 7.5,
 			"home entertainment" : 1.5,
-			"hobbies"            : 5.5,
-			"work/school"        : 9.5,
+			"hobbies"            : 2.5,
+			"occupation"         : 9.5,
 			"travel"             : 4,
-			"relationships"      : 8.5,
-			"living environment" : 1,
-			"personal events"    : 8.5
+			"relationships"      : 6,
+			"living environment" : 0.5,
+			"personal events"    : 6
 		}
 	},
 	{
 		"name"    : "2018",
 		"ratings" : {
-			"sports"             : 6.5,
+			"sports"             : 7,
 			"music"              : 0.5,
 			"movies"             : 6.5,
-			"home entertainment" : 0.5,
-			"hobbies"            : 7.5,
-			"work/school"        : 10,
+			"home entertainment" : 0,
+			"hobbies"            : 6,
+			"occupation"         : 10,
 			"travel"             : 9.5,
-			"relationships"      : 9,
+			"relationships"      : 7.5,
 			"living environment" : 0.5,
 			"personal events"    : 6
 		}
@@ -392,31 +392,31 @@
 	{
 		"name"    : "2019",
 		"ratings" : {
-			"sports"             : 2,
+			"sports"             : 2.5,
 			"music"              : 0.5,
 			"movies"             : 7,
 			"home entertainment" : 0.5,
-			"hobbies"            : 8.5,
-			"work/school"        : 10,
+			"hobbies"            : 7.5,
+			"occupation"         : 10,
 			"travel"             : 8,
-			"relationships"      : 9,
-			"living environment" : 1,
-			"personal events"    : 8
+			"relationships"      : 8,
+			"living environment" : 1.5,
+			"personal events"    : 6
 		}
 	},
 	{
 		"name"    : "2020",
 		"ratings" : {
-			"sports"             : 5.5,
+			"sports"             : 6,
 			"music"              : 0,
 			"movies"             : 4,
-			"home entertainment" : 9,
-			"hobbies"            : 10,
-			"work/school"        : 10,
+			"home entertainment" : 8.5,
+			"hobbies"            : 9,
+			"occupation"         : 10,
 			"travel"             : 7.5,
 			"relationships"      : 9,
-			"living environment" : 10,
-			"personal events"    : 5
+			"living environment" : 9,
+			"personal events"    : 4.5
 		}
 	}
 ]

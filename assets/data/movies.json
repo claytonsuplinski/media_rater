@@ -51,6 +51,23 @@
 		}
 	},
 	{
+		"name"    : "A Night at the Roxbury",
+		"year"    : "1998",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6,
+			"nostalgia"  : 5,
+			"plot"       : 4,
+			"music"      : 8,
+			"rewatch"    : 4,
+			"characters" : 3.5,
+			"genre"      : 5,
+			"references" : 6,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "A Series of Unfortunate Events",
 		"year"    : "2004",
 		"critic"  : 6.8,
@@ -626,6 +643,23 @@
 			"genre"      : 6,
 			"references" : 1.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Deadpool",
+		"year"    : "2016",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 3,
+			"references" : 4.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -1526,7 +1560,7 @@
 			"characters" : 5.5,
 			"genre"      : 6,
 			"references" : 5,
-			"bias"       : 5.5
+			"bias"       : 6
 		}
 	},
 	{
@@ -2071,6 +2105,40 @@
 			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "School of Rock",
+		"year"    : "2003",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 5.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Se7en",
+		"year"    : "1995",
+		"critic"  : 8.6,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 5.5,
+			"references" : 5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -3315,6 +3383,23 @@
 		}
 	},
 	{
+		"name"    : "The 40 Year Old Virgin",
+		"year"    : "2005",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 6,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 6.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "This Is The End",
 		"year"    : "2013",
 		"critic"  : 6.6,
@@ -3584,6 +3669,23 @@
 			"genre"      : 1,
 			"references" : 8.5,
 			"bias"       : 1
+		}
+	},
+	{
+		"name"    : "21 Jump Street",
+		"year"    : "2012",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 6.5,
+			"plot"       : 7.5,
+			"music"      : 6.5,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 8,
+			"references" : 5,
+			"bias"       : 7
 		}
 	}
 ]

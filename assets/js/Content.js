@@ -64,10 +64,12 @@ MIA.content.draw = function( p ){
 	var data = this.data.slice();
 	
 	var views = [ 'Grid', 'Table' ];
-	if( data[ 0 ].critic ) views.push( 'Comparison' );
-	if( data[ 0 ].year   ) views.push( 'Graph'      );
+	if( data[ 0 ].critic                         ) views.push( 'Comparison' );
+	if( data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
 	
 	var content = '';
+	var line_graph   = false;
+	var scatter_plot = false;
 	switch( this.view ){
 		case 'Grid':
 			if( !this.is_showing_all ) data = data.slice( 0, this.num_default );
@@ -217,7 +219,18 @@ MIA.content.draw = function( p ){
 			'</table>';
 			break;
 		case 'Graph':
-			content = 'Graph';
+			content = '<svg id="graph"></svg>';
+			if( this.name == 'years' ){
+				var sorted_data = data.sort( (a,b) => ( a.name > b.name ? 1 : -1 ) );
+				line_graph = {
+					data : sorted_data.map(function( d ){ return { x : d.name, y : Number( d.total_rating ) }; } ),
+				};
+			}
+			else{
+				scatter_plot = {
+					data : data.map(function( d ){ return { x : d.year, y : Number( d.total_rating ), name : d.name }; } ),
+				};
+			}
 			break;
 	}
 
@@ -237,6 +250,9 @@ MIA.content.draw = function( p ){
 	);
 	$("#content").focus();
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);
+	
+	if( line_graph   ) MIA.graph.draw_line_graph(   line_graph   );
+	if( scatter_plot ) MIA.graph.draw_scatter_plot( scatter_plot );
 	
 	$( ".full-rating,#view-selector" ).click(function(e) {
 	   $(".full-rating").hide();

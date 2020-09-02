@@ -357,6 +357,23 @@
 		}
 	},
 	{
+		"name"    : "Back to the Future",
+		"year"    : "1985",
+		"critic"  : 8.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 3,
+			"nostalgia"  : 3,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 6,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Bambi",
 		"year"    : "1942",
 		"critic"  : 7.3,
@@ -371,6 +388,23 @@
 			"genre"      : 5,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Beauty and the Beast",
+		"year"    : "1991",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 6,
+			"plot"       : 6.5,
+			"music"      : 6.5,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 7.5,
+			"references" : 7.5,
+			"bias"       : 7.5
 		}
 	},
 	{
@@ -422,6 +456,23 @@
 			"genre"      : 5.5,
 			"references" : 4,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Borat",
+		"year"    : "2006",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 0,
+			"nostalgia"  : 3.5,
+			"plot"       : 2,
+			"music"      : 5.5,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 5.5,
+			"references" : 5,
+			"bias"       : 4
 		}
 	},
 	{
@@ -484,6 +535,23 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 3.5,
 			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 8,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Captain America: The Winter Soldier",
+		"year"    : "2014",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
 			"music"      : 5,
 			"rewatch"    : 5,
 			"characters" : 6.5,
@@ -592,6 +660,23 @@
 			"genre"      : 4,
 			"references" : 2.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Cloverfield",
+		"year"    : "2008",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 3,
+			"nostalgia"  : 3.5,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 3.5,
+			"genre"      : 3.5,
+			"references" : 2,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -731,6 +816,23 @@
 		}
 	},
 	{
+		"name"    : "Donnie Darko",
+		"year"    : "2001",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 4,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 3.5,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Dora and the Lost City of Gold",
 		"year"    : "2019",
 		"critic"  : 6,
@@ -745,6 +847,23 @@
 			"genre"      : 5,
 			"references" : 6,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Draft Day",
+		"year"    : "2014",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 5.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -1068,6 +1187,23 @@
 			"genre"      : 5,
 			"references" : 4.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Happy Gilmore",
+		"year"    : "1996",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 6,
+			"nostalgia"  : 5,
+			"plot"       : 6.5,
+			"music"      : 6,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 5.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -1615,6 +1751,23 @@
 		}
 	},
 	{
+		"name"    : "Miracle",
+		"year"    : "2004",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"critic"  : 7.7,
@@ -1680,6 +1833,23 @@
 			"genre"      : 8,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Nacho Libre",
+		"year"    : "2006",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -1782,6 +1952,23 @@
 			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "One Hundred and One Dalmatians",
+		"year"    : "1961",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 9,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 6.5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -1938,6 +2125,40 @@
 		}
 	},
 	{
+		"name"    : "Predator",
+		"year"    : "1987",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 2.5,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Prince of Persia: The Sands of Time",
+		"year"    : "2010",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Project X",
 		"year"    : "2012",
 		"critic"  : 6.6,
@@ -2054,6 +2275,23 @@
 			"genre"      : 6,
 			"references" : 5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Rush Hour",
+		"year"    : "1998",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 8,
+			"music"      : 6,
+			"rewatch"    : 6,
+			"characters" : 7.5,
+			"genre"      : 9,
+			"references" : 5.5,
+			"bias"       : 7
 		}
 	},
 	{
@@ -2224,6 +2462,23 @@
 			"genre"      : 4,
 			"references" : 5.5,
 			"bias"       : 2.5
+		}
+	},
+	{
+		"name"    : "Snakes on a Plane",
+		"year"    : "2006",
+		"critic"  : 5.4,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2666,6 +2921,23 @@
 			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Team America: World Police",
+		"year"    : "2004",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 5.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3315,6 +3587,23 @@
 		}
 	},
 	{
+		"name"    : "The Sound of Music",
+		"year"    : "1965",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Truman Show",
 		"year"    : "1998",
 		"critic"  : 8.1,
@@ -3553,6 +3842,23 @@
 		}
 	},
 	{
+		"name"    : "Watchmen",
+		"year"    : "2009",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 3,
+			"nostalgia"  : 2,
+			"plot"       : 2.5,
+			"music"      : 4,
+			"rewatch"    : 1,
+			"characters" : 3.5,
+			"genre"      : 1,
+			"references" : 2,
+			"bias"       : 2.5
+		}
+	},
+	{
 		"name"    : "Watership Down",
 		"year"    : "1978",
 		"critic"  : 7.6,
@@ -3686,6 +3992,23 @@
 			"genre"      : 8,
 			"references" : 5,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "300",
+		"year"    : "2006",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
 		}
 	}
 ]

@@ -34,7 +34,7 @@
 		"ratings" : {
 			"important plays" : 9,
 			"skill"           : 9,
-			"teams"           : 8,
+			"teams"           : 7.5,
 			"interaction"     : 5,
 			"personality"     : 4.5,
 			"selflessness"    : 1.5,
@@ -49,7 +49,7 @@
 		"ratings" : {
 			"important plays" : 8,
 			"skill"           : 9.5,
-			"teams"           : 5,
+			"teams"           : 8,
 			"interaction"     : 5,
 			"personality"     : 0,
 			"selflessness"    : 0,
@@ -57,6 +57,21 @@
 			"reliability"     : 5.5,
 			"nostalgia"       : 3,
 			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Antwaan Randle El",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 9,
+			"interaction"     : 5,
+			"personality"     : 8,
+			"selflessness"    : 8.5,
+			"integrity"       : 9,
+			"reliability"     : 9.5,
+			"nostalgia"       : 10,
+			"bias"            : 9.5
 		}
 	},
 	{
@@ -87,6 +102,21 @@
 			"reliability"     : 2,
 			"nostalgia"       : 2,
 			"bias"            : 0
+		}
+	},
+	{
+		"name"    : "Brandon Marshall",
+		"ratings" : {
+			"important plays" : 9,
+			"skill"           : 9,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 7.5,
+			"selflessness"    : 6,
+			"integrity"       : 5.5,
+			"reliability"     : 9,
+			"nostalgia"       : 9.5,
+			"bias"            : 8
 		}
 	},
 	{
@@ -124,7 +154,7 @@
 		"ratings" : {
 			"important plays" : 7,
 			"skill"           : 7.5,
-			"teams"           : 8,
+			"teams"           : 7,
 			"interaction"     : 5,
 			"personality"     : 4.5,
 			"selflessness"    : 5,
@@ -214,7 +244,7 @@
 		"ratings" : {
 			"important plays" : 5.5,
 			"skill"           : 7,
-			"teams"           : 8,
+			"teams"           : 7.5,
 			"interaction"     : 5,
 			"personality"     : 3.5,
 			"selflessness"    : 2,
@@ -230,7 +260,7 @@
 			"important plays" : 7,
 			"skill"           : 9.5,
 			"teams"           : 10,
-			"interaction"     : 6,
+			"interaction"     : 5,
 			"personality"     : 10,
 			"selflessness"    : 10,
 			"integrity"       : 10,
@@ -345,6 +375,21 @@
 		}
 	},
 	{
+		"name"    : "Kahlil Bell",
+		"ratings" : {
+			"important plays" : 8.5,
+			"skill"           : 5,
+			"teams"           : 8.5,
+			"interaction"     : 5,
+			"personality"     : 8.5,
+			"selflessness"    : 8.5,
+			"integrity"       : 8,
+			"reliability"     : 10,
+			"nostalgia"       : 9.5,
+			"bias"            : 8
+		}
+	},
+	{
 		"name"    : "Kareem Abdul Jabbar",
 		"ratings" : {
 			"important plays" : 6,
@@ -369,7 +414,7 @@
 			"personality"     : 8,
 			"selflessness"    : 6.5,
 			"integrity"       : 7,
-			"reliability"     : 9,
+			"reliability"     : 8,
 			"nostalgia"       : 5,
 			"bias"            : 9
 		}
@@ -381,7 +426,7 @@
 			"skill"           : 9.5,
 			"teams"           : 0,
 			"interaction"     : 5,
-			"personality"     : 6.5,
+			"personality"     : 4.5,
 			"selflessness"    : 0,
 			"integrity"       : 2,
 			"reliability"     : 1,
@@ -414,8 +459,8 @@
 			"personality"     : 4.5,
 			"selflessness"    : 3.5,
 			"integrity"       : 7,
-			"reliability"     : 9,
-			"nostalgia"       : 7,
+			"reliability"     : 7,
+			"nostalgia"       : 5,
 			"bias"            : 6.5
 		}
 	},

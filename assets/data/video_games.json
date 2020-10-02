@@ -5,7 +5,7 @@
 		"ratings" : {
 			"visuals"     : 8.5,
 			"characters"  : 6,
-			"plot"        : 7,
+			"plot"        : 7.5,
 			"content"     : 10,
 			"mechanics"   : 9,
 			"reliability" : 10,
@@ -23,12 +23,12 @@
 			"characters"  : 4.5,
 			"plot"        : 5,
 			"content"     : 9,
-			"mechanics"   : 10,
+			"mechanics"   : 9.5,
 			"reliability" : 3.5,
 			"replay"      : 9,
 			"soundtrack"  : 7.5,
 			"nostalgia"   : 6.5,
-			"bias"        : 8
+			"bias"        : 7
 		}
 	},
 	{
@@ -37,13 +37,13 @@
 		"ratings" : {
 			"visuals"     : 10,
 			"characters"  : 4,
-			"plot"        : 9,
+			"plot"        : 8,
 			"content"     : 10,
 			"mechanics"   : 6,
-			"reliability" : 4,
+			"reliability" : 6.5,
 			"replay"      : 9,
 			"soundtrack"  : 8,
-			"nostalgia"   : 3,
+			"nostalgia"   : 5,
 			"bias"        : 6
 		}
 	},
@@ -103,7 +103,7 @@
 			"characters"  : 9,
 			"plot"        : 9,
 			"content"     : 9.5,
-			"mechanics"   : 9.8,
+			"mechanics"   : 9.5,
 			"reliability" : 10,
 			"replay"      : 7.5,
 			"soundtrack"  : 9,
@@ -140,7 +140,7 @@
 			"replay"      : 8,
 			"soundtrack"  : 8.5,
 			"nostalgia"   : 8.5,
-			"bias"        : 8.4
+			"bias"        : 8
 		}
 	},
 	{
@@ -164,7 +164,7 @@
 		"year"    : "1996",
 		"ratings" : {
 			"visuals"     : 4,
-			"characters"  : 10,
+			"characters"  : 9.5,
 			"plot"        : 1,
 			"content"     : 8,
 			"mechanics"   : 7,
@@ -187,8 +187,8 @@
 			"reliability" : 7.5,
 			"replay"      : 9.5,
 			"soundtrack"  : 6.5,
-			"nostalgia"   : 8,
-			"bias"        : 7
+			"nostalgia"   : 7.5,
+			"bias"        : 7.5
 		}
 	},
 	{
@@ -204,7 +204,7 @@
 			"replay"      : 8,
 			"soundtrack"  : 8.5,
 			"nostalgia"   : 5.5,
-			"bias"        : 4.5
+			"bias"        : 3.5
 		}
 	},
 	{
@@ -233,10 +233,10 @@
 			"content"     : 8.5,
 			"mechanics"   : 8,
 			"reliability" : 6.5,
-			"replay"      : 10,
+			"replay"      : 8.5,
 			"soundtrack"  : 5,
 			"nostalgia"   : 7,
-			"bias"        : 8
+			"bias"        : 7
 		}
 	},
 	{
@@ -253,6 +253,22 @@
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
 			"bias"        : 9.5
+		}
+	},
+	{
+		"name"    : "Pokemon Sapphire",
+		"year"    : "2003",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 5,
+			"plot"        : 6.5,
+			"content"     : 8,
+			"mechanics"   : 8,
+			"reliability" : 10,
+			"replay"      : 7,
+			"soundtrack"  : 9,
+			"nostalgia"   : 6.5,
+			"bias"        : 5
 		}
 	},
 	{
@@ -276,7 +292,7 @@
 		"year"    : "1998",
 		"ratings" : {
 			"visuals"     : 10,
-			"characters"  : 10,
+			"characters"  : 9.5,
 			"plot"        : 3,
 			"content"     : 10,
 			"mechanics"   : 10,
@@ -296,11 +312,11 @@
 			"plot"        : 2.5,
 			"content"     : 6,
 			"mechanics"   : 6,
-			"reliability" : 7.5,
+			"reliability" : 4,
 			"replay"      : 9,
 			"soundtrack"  : 5,
 			"nostalgia"   : 4,
-			"bias"        : 6
+			"bias"        : 5.5
 		}
 	},
 	{
@@ -356,10 +372,10 @@
 		"year"    : "2005",
 		"ratings" : {
 			"visuals"     : 8,
-			"characters"  : 10,
+			"characters"  : 9.5,
 			"plot"        : 7,
 			"content"     : 10,
-			"mechanics"   : 10,
+			"mechanics"   : 9.5,
 			"reliability" : 8,
 			"replay"      : 10,
 			"soundtrack"  : 10,
@@ -404,7 +420,7 @@
 		"year"    : "2008",
 		"ratings" : {
 			"visuals"     : 8.5,
-			"characters"  : 10,
+			"characters"  : 9.5,
 			"plot"        : 6.5,
 			"content"     : 10,
 			"mechanics"   : 10,
@@ -440,11 +456,11 @@
 			"plot"        : 7,
 			"content"     : 9.5,
 			"mechanics"   : 10,
-			"reliability" : 9.8,
+			"reliability" : 9,
 			"replay"      : 10,
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
-			"bias"        : 10
+			"bias"        : 9
 		}
 	},
 	{
@@ -460,7 +476,7 @@
 			"replay"      : 7,
 			"soundtrack"  : 10,
 			"nostalgia"   : 8,
-			"bias"        : 7
+			"bias"        : 8
 		}
 	},
 	{
@@ -468,7 +484,7 @@
 		"year"    : "2003",
 		"ratings" : {
 			"visuals"     : 8,
-			"characters"  : 10,
+			"characters"  : 9.5,
 			"plot"        : 9,
 			"content"     : 10,
 			"mechanics"   : 9,
@@ -484,7 +500,7 @@
 		"year"    : "2001",
 		"ratings" : {
 			"visuals"     : 5,
-			"characters"  : 10,
+			"characters"  : 9,
 			"plot"        : 2.5,
 			"content"     : 7,
 			"mechanics"   : 7.5,

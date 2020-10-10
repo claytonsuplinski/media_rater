@@ -210,6 +210,21 @@
 		}
 	},
 	{
+		"name"    : "Chris Johnson",
+		"ratings" : {
+			"important plays" : 6,
+			"skill"           : 9,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 5,
+			"selflessness"    : 6.5,
+			"integrity"       : 5,
+			"reliability"     : 4,
+			"nostalgia"       : 6,
+			"bias"            : 6
+		}
+	},
+	{
 		"name"    : "Deron Williams",
 		"ratings" : {
 			"important plays" : 6.5,
@@ -384,7 +399,7 @@
 			"personality"     : 8.5,
 			"selflessness"    : 8.5,
 			"integrity"       : 8,
-			"reliability"     : 10,
+			"reliability"     : 9.5,
 			"nostalgia"       : 9.5,
 			"bias"            : 8
 		}
@@ -462,6 +477,21 @@
 			"reliability"     : 7,
 			"nostalgia"       : 5,
 			"bias"            : 6.5
+		}
+	},
+	{
+		"name"    : "Malcom Floyd",
+		"ratings" : {
+			"important plays" : 8.5,
+			"skill"           : 7,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 8,
+			"selflessness"    : 7.5,
+			"integrity"       : 8,
+			"reliability"     : 9.5,
+			"nostalgia"       : 9.5,
+			"bias"            : 8
 		}
 	},
 	{
@@ -567,6 +597,21 @@
 			"reliability"     : 7.5,
 			"nostalgia"       : 8.5,
 			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Sebastian Janikowski",
+		"ratings" : {
+			"important plays" : 7,
+			"skill"           : 10,
+			"teams"           : 8,
+			"interaction"     : 5,
+			"personality"     : 7,
+			"selflessness"    : 7,
+			"integrity"       : 7.5,
+			"reliability"     : 9.5,
+			"nostalgia"       : 9.5,
+			"bias"            : 8
 		}
 	},
 	{

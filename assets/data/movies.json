@@ -765,6 +765,23 @@
 		}
 	},
 	{
+		"name"    : "Child's Play",
+		"year"    : "1988",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Children of the Corn",
 		"year"    : "1984",
 		"critic"  : 5.7,
@@ -1323,6 +1340,23 @@
 			"genre"      : 5,
 			"references" : 4.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Halloween",
+		"year"    : "1978",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 6,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -1972,6 +2006,23 @@
 		}
 	},
 	{
+		"name"    : "Monsters Inc.",
+		"year"    : "2001",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 6.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Monty Python and the Holy Grail",
 		"year"    : "1975",
 		"critic"  : 8.2,
@@ -2210,6 +2261,23 @@
 		}
 	},
 	{
+		"name"    : "Pet Sematary",
+		"year"    : "1989",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 2.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 3,
+			"music"      : 4,
+			"rewatch"    : 1.5,
+			"characters" : 3,
+			"genre"      : 3,
+			"references" : 5,
+			"bias"       : 3
+		}
+	},
+	{
 		"name"    : "Peter Pan",
 		"year"    : "1953",
 		"critic"  : 7.3,
@@ -2309,6 +2377,23 @@
 			"genre"      : 10,
 			"references" : 7,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Poltergeist",
+		"year"    : "1982",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 5.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2580,6 +2665,23 @@
 			"characters" : 4,
 			"genre"      : 5,
 			"references" : 5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Scary Movie",
+		"year"    : "2000",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 3,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 2.5,
+			"genre"      : 3,
+			"references" : 3.5,
 			"bias"       : 4.5
 		}
 	},
@@ -3264,6 +3366,23 @@
 		}
 	},
 	{
+		"name"    : "The Amityville Horror",
+		"year"    : "2005",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Bee Movie",
 		"year"    : "2007",
 		"critic"  : 6.1,
@@ -3422,7 +3541,7 @@
 		"critic"  : 8,
 		"ratings" : {
 			"humor"      : 0,
-			"visuals"    : 6,
+			"visuals"    : 2.5,
 			"nostalgia"  : 0,
 			"plot"       : 3.5,
 			"music"      : 2,
@@ -4267,6 +4386,23 @@
 		}
 	},
 	{
+		"name"    : "Twitches",
+		"year"    : "2005",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 2.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 3.5,
+			"music"      : 3.5,
+			"rewatch"    : 2.5,
+			"characters" : 3,
+			"genre"      : 2.5,
+			"references" : 3,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Up",
 		"year"    : "2009",
 		"critic"  : 8.2,
@@ -4467,7 +4603,7 @@
 			"characters" : 8,
 			"genre"      : 9,
 			"references" : 9,
-			"bias"       : 8.5
+			"bias"       : 8
 		}
 	},
 	{

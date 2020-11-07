@@ -32,6 +32,19 @@ MIA.functions.get_rating_color = function(rating){
 	return 'rgb(' + [r,g,b].join(', ') + ')';
 };
 
+MIA.functions.get_diff_color = function( diff ){
+	var r = 30, g = 30, b = 30;
+	if( diff < 0 ){
+		r += 50;
+		r += -10 * diff;
+	}
+	else{
+		g += 50;
+		g +=  10 * diff;
+	}
+	return 'rgb(' + [r,g,b].join(', ') + ')';
+};
+
 MIA.functions.capitalize = function(str){
 	return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 };

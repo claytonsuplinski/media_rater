@@ -42,7 +42,8 @@
 #content .item .name,
 #content .item .rating,
 #content .item .stars,
-#content .item .full-rating{
+#content .item .full-rating,
+#content .item .full-rating-static{
 	color:#fff;
 	position:absolute;
 	background:rgba(0,0,0,0.8);
@@ -55,6 +56,7 @@
 	left:0;
 	bottom:0;
 	border-top:1px solid #383838;
+	white-space:normal;
 }
 
 #content .item .rating{
@@ -71,6 +73,7 @@
 	border-left  :1px solid #383838;
 }
 
+#content .item .full-rating-static,
 #content .item .full-rating{
 	display:none;
 	top:0;
@@ -81,11 +84,13 @@
 	border-bottom:1px solid #383838;
 }
 
+#content .item .full-rating-static table,
 #content .item .full-rating table{
 	width :100%;
 	height:100%;
 }
 
+#content .item .full-rating-static .fa-star,
 #content .item .full-rating .fa-star{
 	padding-left:5px;
 }
@@ -99,6 +104,11 @@
 	border-bottom:1px solid #383838;
 }
 
+#content .item.versus-comparison .rating-name{
+	text-align:center;
+	position:relative;
+}
+
 #content .item .rating-value{
 	text-align:right;
 }
@@ -106,6 +116,58 @@
 #content .item .stars i.fa-star.gold     { color:gold; }
 #content .item .stars i.fa-star.silver { color:silver; }
 #content .item .stars i.fa-star.bronze { color:#cd7f32; }
+
+#content .versus-container{
+	white-space:nowrap;
+}
+
+#content .item.versus-rating{
+	width:85px;
+}
+
+#content .item.versus-rating.left{
+	margin-left:-5px;
+	border-left:0px;
+}
+
+#content .item.versus-rating.right{
+	margin-right:-5px;
+	border-right:0px;
+}
+
+#content .item .versus-select{
+	position:absolute;
+	bottom:-40px;
+}
+
+#content .item .versus-select select{
+	background:#333;
+	color:#fff;
+	border:1px solid #666;
+	padding:2px 5px;
+	width:240px;
+	
+	-webkit-appearance: none;
+      `-moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+}
+
+#content .item.versus-comparison{
+	width:175px;
+}
+
+#content .item.versus-comparison .versus-diff{
+	width:30px;
+	font-size:12px;
+	text-align:center;
+	position:absolute;
+	top:9px;
+	border-radius:100px;
+}
+
+#content .item.versus-comparison .versus-diff.left {  left:0px; }
+#content .item.versus-comparison .versus-diff.right{ right:0px; }
 
 #content .show-all-button{
 	background:#173955;

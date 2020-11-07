@@ -2,6 +2,8 @@ MIA.content = { num_default : 60 };
 
 MIA.content.load = function(){
 	MIA.content.view = 'Grid';
+	
+	this.versus_indices = { left : 0, right : 1 };
 
 	$.ajax({
 		url: './assets/data/'+MIA.content.name+'.json',
@@ -30,6 +32,15 @@ MIA.content.load = function(){
 				});
 			}
 			MIA.content.data.sort(function(a,b){ return ( Number(a.total_rating) < Number(b.total_rating) ? 1 : -1 ); });
+			var rank = 1;
+			MIA.content.data.forEach(function( item, idx ){
+				if( idx ){
+					var prev_item = MIA.content.data[ idx - 1 ];
+					if( prev_item.total_rating != item.total_rating ) rank = idx + 1;
+				}
+				item.rank  = rank;
+				item.index = idx;
+			});
 			MIA.content.draw();
 		}
 	});
@@ -48,14 +59,20 @@ MIA.content.set_view = function( view ){
 };
 
 MIA.content.set_table_sort = function( column ){
-	if( [ 'Rank' ].indexOf( column ) == -1 ){
-		this.table_sort_reversed = ( this.table_sort == column ? !this.table_sort_reversed : false );
-		this.table_sort = column;
-		this.draw();
-	}
+	this.table_sort_reversed = ( this.table_sort == column ? !this.table_sort_reversed : false );
+	this.table_sort = column;
+	this.draw();
+};
+
+MIA.content.set_versus_item = function( idx, side ){
+	console.log( idx, side );
+	this.versus_indices[ side ] = idx;
+	this.draw();
 };
 
 MIA.content.draw = function( p ){
+	var self = this;
+
 	var p = p || {};
 
 	var max_stars_per_category = 10;
@@ -64,7 +81,8 @@ MIA.content.draw = function( p ){
 	var data = this.data.slice();
 	
 	var views = [ 'Grid', 'Table' ];
-	if( data[ 0 ].critic                         ) views.push( 'Comparison' );
+	if( data.length > 1                          ) views.push( 'Versus'     );
+	if( data[ 0 ].critic                         ) views.push( 'Underrated' );
 	if( data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
 	
 	var content = '';
@@ -75,15 +93,13 @@ MIA.content.draw = function( p ){
 			if( !this.is_showing_all ) data = data.slice( 0, this.num_default );
 			
 			content = data.map(function(item, idx){
-				var rank = idx+1;
-				
-				var rank_class = MIA.functions.get_rank_class(rank);
+				var rank_class = MIA.functions.get_rank_class( item.rank );
 				
 				var onclick = 'onclick="$(\'.full-rating\').hide();$(\'#full-rating-'+idx+'\').show();"';
 				var style = 'style="background-image:url('+MIA.functions.get_image(MIA.content.name, item.name)+');"';
 				
 				return '<div class="item no-highlight" '+onclick+' '+style+'>'+
-					'<div class="rating">#' + rank + '</div>'+
+					'<div class="rating">#' + item.rank + '</div>'+
 					'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+rank_class+'"></i></div>'+
 					'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
 					'<div id="full-rating-'+idx+'" class="full-rating">'+
@@ -112,6 +128,9 @@ MIA.content.draw = function( p ){
 			var sorted_idx = headers.indexOf( this.table_sort );
 			var sorted_dir = ( this.table_sort_reversed ? -1 : 1 );
 			switch( this.table_sort ){
+				case 'Rank':
+					data = data.sort( (a,b) => sorted_dir * ( a.rank > b.rank ? -1 : 1 ) );
+					break;
 				case 'Total':
 					data = data.sort( (a,b) => sorted_dir * ( Number( a.total_rating ) > Number( b.total_rating ) ? -1 : 1 ) );
 					break;
@@ -141,7 +160,7 @@ MIA.content.draw = function( p ){
 							if( header_idx == sorted_idx ) td_classes.push( 'sorted' );
 							td_classes = td_classes.join(' ');
 						
-							if( header == 'Rank'  ) return '<td class="' + td_classes + ' rank" >' + ( idx + 1 )                              + '</td>';
+							if( header == 'Rank'  ) return '<td class="' + td_classes + ' rank" >' + item.rank                                + '</td>';
 							if( header == 'Name'  ) return '<td class="' + td_classes + ' name" >' + item.name                                + '</td>';
 							if( header == 'Year'  ) return '<td class="' + td_classes + ' year" >' + item.year                                + '</td>';
 							if( header == 'Total' ){
@@ -159,7 +178,80 @@ MIA.content.draw = function( p ){
 				}).join('') +
 			'</table>';
 			break;
-		case 'Comparison':
+		case 'Versus':
+			var item_1 = data[ this.versus_indices.left  ];
+			var item_2 = data[ this.versus_indices.right ];
+			
+			var get_select_html = function( side ){
+				return '<div class="versus-select">' +
+					'<select onchange="MIA.content.set_versus_item( this.value, \'' + side + '\' );">' +
+						data.sort( (a,b) => ( a.name > b.name ? 1 : -1 ) ).map(function( item ){
+							return '<option value="' + item.index + '" ' + ( item.index == self.versus_indices[ side ] ? 'selected' : '' ) + '>' +
+								item.name +
+							'</option>';
+						}).join('') +
+					'</select>' +
+				'</div>';
+			};
+			
+			var get_item_html = function( item, p ){
+				var p = p || {};
+				return '<div class="item no-highlight" style="background-image:url(' + MIA.functions.get_image(MIA.content.name, item.name) + ');">'+
+					'<div class="rating">#' + item.rank + '</div>'+
+					'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+ MIA.functions.get_rank_class( item.rank ) + '"></i></div>'+
+					'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
+					get_select_html( p.side || 'left' ) +
+				'</div>';
+			};
+			
+			var get_versus_rating = function( item, p ){
+				var p = p || {};
+				return '<div class="item versus-rating ' + ( p.side || 'left' ) + '">' +
+					'<div class="full-rating-static" style="display:block;">'+
+						'<table>'+
+							Object.keys(item.ratings).map(function(rating_name){
+								var rating = item.ratings[rating_name];
+								return '<tr>'+
+									'<td class="rating-value">' + 
+										rating + ' / ' + max_stars_per_category + 
+										' <i class="fa fa-star" style="color:'+MIA.functions.get_rating_color(rating)+';"></i>'+
+									'</td>' +
+								'</tr>';
+							}).join('')+
+						'</table>'+
+					'</div>' +
+				'</div>';
+			};
+		
+			content = '<div class="versus-container">' +
+				get_item_html(     item_1 ) +
+				get_versus_rating( item_1 ) +
+				'<div class="item versus-comparison">' +
+					'<div class="full-rating-static" style="display:block;">'+
+						'<table>'+
+							Object.keys( item_1.ratings ).map(function( rating_name ){
+								var rating = item_1.ratings[ rating_name ];
+								var diff   = item_1.ratings[ rating_name ] - item_2.ratings[ rating_name ];
+								var color  = '';
+								return '<tr>'+
+									'<td class="rating-name">' + 
+										MIA.functions.get_rating_name( rating_name ) + 
+										( diff == 0 ? '' : 
+											'<div class="versus-diff ' + ( diff > 0 ? 'left' : 'right' ) + '" style="background:' + MIA.functions.get_diff_color( diff ) + ';">' + 
+												Math.abs( diff ).toFixed(1) +
+											'</div>'
+										) +
+									'</td>' + 
+								'</tr>';
+							}).join('')+
+						'</table>'+
+					'</div>' +
+				'</div>' +
+				get_versus_rating( item_2, { side : 'right' } ) +
+				get_item_html(     item_2, { side : 'right' } ) +
+			'</div>';
+			break;
+		case 'Underrated':
 			var headers = [ 'Rank', 'Name', 'Year', 'My Score', 'Critic Score', 'My Adjusted', 'Critic Adjusted', 'Underrated Score' ]
 			
 			if( headers.indexOf( this.table_sort ) == -1 ) this.table_sort = headers[ headers.length - 1 ];
@@ -168,6 +260,9 @@ MIA.content.draw = function( p ){
 			var sorted_dir = ( this.table_sort_reversed ? -1 : 1 );
 			
 			switch( this.table_sort ){
+				case 'Rank':
+					data = data.sort( (a,b) => sorted_dir * ( a.rank > b.rank ? -1 : 1 ) );
+					break;
 				case 'Name':
 					data = data.sort( (a,b) => sorted_dir * ( a.name > b.name ? -1 : 1 ) );
 					break;
@@ -196,7 +291,7 @@ MIA.content.draw = function( p ){
 							if( header_idx == sorted_idx ) td_classes.push( 'sorted' );
 							td_classes = td_classes.join(' ');
 						
-							if( header == 'Rank'             ) return '<td class="' + td_classes + ' rank"   >' + ( idx + 1 )          + '</td>';
+							if( header == 'Rank'             ) return '<td class="' + td_classes + ' rank"   >' + item.rank            + '</td>';
 							if( header == 'Name'             ) return '<td class="' + td_classes + ' name"   >' + item.name            + '</td>';
 							if( header == 'Year'             ) return '<td class="' + td_classes + ' year"   >' + item.year            + '</td>';
 							if( header == 'My Score'         ) return '<td class="' + td_classes + ' ranking">' + item.total_rating    + '</td>';
@@ -254,7 +349,7 @@ MIA.content.draw = function( p ){
 	if( line_graph   ) MIA.graph.draw_line_graph(   line_graph   );
 	if( scatter_plot ) MIA.graph.draw_scatter_plot( scatter_plot );
 	
-	$( ".full-rating,#view-selector" ).click(function(e) {
+	$( ".full-rating,#view-selector,select" ).click(function(e) {
 	   $(".full-rating").hide();
 	   e.stopPropagation();
 	});

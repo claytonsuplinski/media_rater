@@ -68,6 +68,23 @@
 		}
 	},
 	{
+		"name"    : "A Nightmare on Elm Street",
+		"year"    : "1984",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 4,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 3,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "A Series of Unfortunate Events",
 		"year"    : "2004",
 		"critic"  : 6.8,
@@ -99,6 +116,40 @@
 			"genre"      : 5.5,
 			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Abraham Lincoln: Vampire Hunter",
+		"year"    : "2012",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Ace Ventura: Pet Detective",
+		"year"    : "1994",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 5.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -459,6 +510,23 @@
 		}
 	},
 	{
+		"name"    : "Beetlejuice",
+		"year"    : "1988",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 2.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Black Panther",
 		"year"    : "2018",
 		"critic"  : 7.3,
@@ -473,6 +541,23 @@
 			"genre"      : 7,
 			"references" : 4.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Black Swan",
+		"year"    : "2010",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 6,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -680,6 +765,23 @@
 		}
 	},
 	{
+		"name"    : "Carrie",
+		"year"    : "2013",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Casino Royale",
 		"year"    : "2006",
 		"critic"  : 8,
@@ -694,6 +796,23 @@
 			"genre"      : 7.5,
 			"references" : 5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Casper",
+		"year"    : "1995",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -986,6 +1105,23 @@
 		}
 	},
 	{
+		"name"    : "Dracula",
+		"year"    : "1992",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 4,
+			"nostalgia"  : 2.5,
+			"plot"       : 1,
+			"music"      : 4.5,
+			"rewatch"    : 0.5,
+			"characters" : 2,
+			"genre"      : 1,
+			"references" : 3.5,
+			"bias"       : 1
+		}
+	},
+	{
 		"name"    : "Draft Day",
 		"year"    : "2014",
 		"critic"  : 6.8,
@@ -1146,7 +1282,7 @@
 			"humor"      : 2.5,
 			"visuals"    : 8.5,
 			"nostalgia"  : 6,
-			"plot"       : 7,
+			"plot"       : 5,
 			"music"      : 7,
 			"rewatch"    : 6,
 			"characters" : 7,
@@ -1224,6 +1360,23 @@
 		}
 	},
 	{
+		"name"    : "Forgetting Sarah Marshall",
+		"year"    : "2008",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 4,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Forrest Gump",
 		"year"    : "1994",
 		"critic"  : 8.8,
@@ -1269,7 +1422,7 @@
 			"music"      : 8,
 			"rewatch"    : 4.5,
 			"characters" : 5.5,
-			"genre"      : 8,
+			"genre"      : 7,
 			"references" : 8,
 			"bias"       : 6
 		}
@@ -1339,6 +1492,23 @@
 			"characters" : 5,
 			"genre"      : 5,
 			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Gremlins",
+		"year"    : "1984",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 3,
+			"references" : 4,
 			"bias"       : 4.5
 		}
 	},
@@ -1561,6 +1731,23 @@
 			"genre"      : 9,
 			"references" : 6,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Hocus Pocus",
+		"year"    : "1993",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 7,
+			"bias"       : 6
 		}
 	},
 	{
@@ -2142,6 +2329,23 @@
 		}
 	},
 	{
+		"name"    : "Now You See It...",
+		"year"    : "2005",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 3,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Ocean's Eleven",
 		"year"    : "2001",
 		"critic"  : 7.7,
@@ -2686,6 +2890,23 @@
 		}
 	},
 	{
+		"name"    : "Scary Movie 2",
+		"year"    : "2001",
+		"critic"  : 5.3,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 3,
+			"genre"      : 3.5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Scary Movie 3",
 		"year"    : "2003",
 		"critic"  : 5.5,
@@ -2700,6 +2921,40 @@
 			"genre"      : 9.5,
 			"references" : 10,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Scary Movie 4",
+		"year"    : "2006",
+		"critic"  : 5.1,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 4,
+			"nostalgia"  : 4,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 3.5,
+			"genre"      : 6,
+			"references" : 6,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Scary Movie 5",
+		"year"    : "2013",
+		"critic"  : 3.5,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 4,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -2734,6 +2989,23 @@
 			"genre"      : 5.5,
 			"references" : 4.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Scream",
+		"year"    : "1996",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 6,
+			"bias"       : 6
 		}
 	},
 	{
@@ -2818,6 +3090,23 @@
 			"characters" : 7,
 			"genre"      : 4.5,
 			"references" : 7.5,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Sleepy Hollow",
+		"year"    : "1999",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 5,
+			"plot"       : 7,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5.5,
 			"bias"       : 5.5
 		}
 	},
@@ -3366,6 +3655,23 @@
 		}
 	},
 	{
+		"name"    : "The Adventures of Ichabod and Mr. Toad",
+		"year"    : "1949",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 10,
+			"nostalgia"  : 5.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 4.5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "The Amityville Horror",
 		"year"    : "2005",
 		"critic"  : 6,
@@ -3457,14 +3763,48 @@
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 10,
-			"nostalgia"  : 5.5,
+			"nostalgia"  : 6,
 			"plot"       : 7.5,
-			"music"      : 5.5,
+			"music"      : 5,
 			"rewatch"    : 6,
 			"characters" : 4.5,
-			"genre"      : 6.5,
+			"genre"      : 8.5,
 			"references" : 2.5,
 			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "The Blair Witch Project",
+		"year"    : "1999",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 2.5,
+			"nostalgia"  : 1.5,
+			"plot"       : 1,
+			"music"      : 2.5,
+			"rewatch"    : 0.5,
+			"characters" : 2,
+			"genre"      : 1,
+			"references" : 2.5,
+			"bias"       : 1.5
+		}
+	},
+	{
+		"name"    : "The Blind Side",
+		"year"    : "2009",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -3502,6 +3842,23 @@
 		}
 	},
 	{
+		"name"    : "The Campaign",
+		"year"    : "2012",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 7,
+			"nostalgia"  : 5.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 5.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Day After Tomorrow",
 		"year"    : "2004",
 		"critic"  : 6.4,
@@ -3516,6 +3873,23 @@
 			"genre"      : 7,
 			"references" : 6,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Departed",
+		"year"    : "2006",
+		"critic"  : 8.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -3547,7 +3921,7 @@
 			"music"      : 2,
 			"rewatch"    : 0.5,
 			"characters" : 3.5,
-			"genre"      : 5,
+			"genre"      : 2,
 			"references" : 7,
 			"bias"       : 1.5
 		}
@@ -3618,6 +3992,23 @@
 			"genre"      : 4.5,
 			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Haunted Mansion",
+		"year"    : "2003",
+		"critic"  : 5,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3904,7 +4295,7 @@
 			"music"      : 7.5,
 			"rewatch"    : 6,
 			"characters" : 6.5,
-			"genre"      : 6.5,
+			"genre"      : 8.5,
 			"references" : 6.5,
 			"bias"       : 6
 		}
@@ -3992,6 +4383,23 @@
 			"genre"      : 8,
 			"references" : 2.5,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "The Rocky Horror Picture Show",
+		"year"    : "1975",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 2,
+			"nostalgia"  : 2.5,
+			"plot"       : 3,
+			"music"      : 5.5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 2.5,
+			"references" : 3,
+			"bias"       : 3
 		}
 	},
 	{
@@ -4203,7 +4611,7 @@
 		"year"    : "2013",
 		"critic"  : 6.6,
 		"ratings" : {
-			"humor"      : 10,
+			"humor"      : 9.5,
 			"visuals"    : 6,
 			"nostalgia"  : 7,
 			"plot"       : 8,
@@ -4437,6 +4845,40 @@
 		}
 	},
 	{
+		"name"    : "Van Helsing",
+		"year"    : "2004",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Victor Frankenstein",
+		"year"    : "2015",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Wall-e",
 		"year"    : "2008",
 		"critic"  : 8.4,
@@ -4451,6 +4893,23 @@
 			"genre"      : 3.5,
 			"references" : 4,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "War Horse",
+		"year"    : "2011",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 3.5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 4.5
 		}
 	},
 	{

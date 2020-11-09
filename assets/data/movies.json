@@ -1411,6 +1411,23 @@
 		}
 	},
 	{
+		"name"    : "Ghost",
+		"year"    : "1990",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Ghostbusters",
 		"year"    : "1984",
 		"critic"  : 7.8,

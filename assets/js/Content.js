@@ -1,9 +1,11 @@
-MIA.content = { num_default : 60 };
+MIA.content = { num_per_page : 60 };
 
 MIA.content.load = function(){
 	MIA.content.view = 'Grid';
 	
 	this.versus_indices = { left : 0, right : 1 };
+	
+	MIA.pages.on_change = function(){ MIA.content.draw(); };
 
 	$.ajax({
 		url: './assets/data/'+MIA.content.name+'.json',
@@ -32,6 +34,7 @@ MIA.content.load = function(){
 				});
 			}
 			MIA.content.data.sort(function(a,b){ return ( Number(a.total_rating) < Number(b.total_rating) ? 1 : -1 ); });
+			
 			var rank = 1;
 			MIA.content.data.forEach(function( item, idx ){
 				if( idx ){
@@ -41,6 +44,10 @@ MIA.content.load = function(){
 				item.rank  = rank;
 				item.index = idx;
 			});
+			
+			MIA.pages.curr_page = 1;
+			MIA.pages.num_pages = Math.ceil( MIA.content.data.length / MIA.content.num_per_page );
+			
 			MIA.content.draw();
 		}
 	});
@@ -90,7 +97,7 @@ MIA.content.draw = function( p ){
 	var scatter_plot = false;
 	switch( this.view ){
 		case 'Grid':
-			if( !this.is_showing_all ) data = data.slice( 0, this.num_default );
+			if( !this.is_showing_all ) data = data.slice( ( MIA.pages.curr_page - 1 ) * this.num_per_page, MIA.pages.curr_page * this.num_per_page );
 			
 			content = data.map(function(item, idx){
 				var rank_class = MIA.functions.get_rank_class( item.rank );
@@ -118,7 +125,7 @@ MIA.content.draw = function( p ){
 					'</div>'+
 				'</div>';
 			}).join('') +
-			( this.data.length > this.num_default && !this.is_showing_all ? '<div class="show-all-button" onclick="MIA.content.show_all();">SHOW ALL ENTRIES</div>' : '' );
+			'<div class="pages-interface"></div>';
 			break;
 		case 'Table':
 			var headers = [ 'Rank', 'Name' ]
@@ -348,6 +355,8 @@ MIA.content.draw = function( p ){
 	
 	if( line_graph   ) MIA.graph.draw_line_graph(   line_graph   );
 	if( scatter_plot ) MIA.graph.draw_scatter_plot( scatter_plot );
+	
+	if( this.view == 'Grid' ) MIA.pages.draw();
 	
 	$( ".full-rating,#view-selector,select" ).click(function(e) {
 	   $(".full-rating").hide();

@@ -1,0 +1,43 @@
+.pages-interface{
+	white-space:nowrap;
+	margin:15px auto 20px;
+}
+
+.pages-interface .page-button{
+	display:inline-block;
+	width:30px;
+	height:22px;
+	background:#333;
+	border:1px solid rgba(255,255,255,0.35);
+	margin:0 3px;
+	vertical-align:top;
+	cursor:pointer;
+}
+
+.pages-interface .page-button:hover{
+	background:#606060;
+}
+
+.pages-interface .page-button.active{
+	background:#173955;
+}
+
+.pages-interface .page-button.arrow,
+.pages-interface .page-button.ellipsis{
+	padding-top:2px;
+}
+
+.pages-interface .page-button.arrow{
+	background:#0b0b0b;
+}
+
+.pages-interface .page-button.arrow:hover{
+	background:#222;
+}
+
+.pages-interface .page-button.ellipsis{
+	background:none;
+	border:0;
+	cursor:auto;
+	color:rgba(255,255,255,0.65);
+}

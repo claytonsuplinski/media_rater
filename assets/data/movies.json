@@ -193,7 +193,7 @@
 		"ratings" : {
 			"humor"      : 6,
 			"visuals"    : 8.5,
-			"nostalgia"  : 6,
+			"nostalgia"  : 5,
 			"plot"       : 5.5,
 			"music"      : 6,
 			"rewatch"    : 4,
@@ -507,6 +507,23 @@
 			"genre"      : 7.5,
 			"references" : 7.5,
 			"bias"       : 7.5
+		}
+	},
+	{
+		"name"    : "Beauty and the Beast [Live Action]",
+		"year"    : "2017",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 6.5,
+			"genre"      : 6,
+			"references" : 5.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2176,6 +2193,23 @@
 		}
 	},
 	{
+		"name"    : "Mission: Impossible",
+		"year"    : "1996",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 4,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"critic"  : 7.7,
@@ -2384,7 +2418,7 @@
 		"year"    : "1999",
 		"critic"  : 7.7,
 		"ratings" : {
-			"humor"      : 8,
+			"humor"      : 7.5,
 			"visuals"    : 8,
 			"nostalgia"  : 5.5,
 			"plot"       : 6.5,
@@ -3315,6 +3349,23 @@
 		}
 	},
 	{
+		"name"    : "Spirited Away",
+		"year"    : "2001",
+		"critic"  : 8.6,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 4.5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Star Wars Episode I: The Phantom Menace",
 		"year"    : "1999",
 		"critic"  : 6.5,
@@ -3975,6 +4026,23 @@
 			"genre"      : 3.5,
 			"references" : 7,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Goonies",
+		"year"    : "1985",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5080,6 +5148,23 @@
 			"genre"      : 9,
 			"references" : 9,
 			"bias"       : 8
+		}
+	},
+	{
+		"name"    : "Zoolander",
+		"year"    : "2001",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 7,
+			"nostalgia"  : 5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 7,
+			"characters" : 6,
+			"genre"      : 7.5,
+			"references" : 5,
+			"bias"       : 6.5
 		}
 	},
 	{

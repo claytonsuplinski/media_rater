@@ -476,6 +476,23 @@
 		}
 	},
 	{
+		"name"    : "Bad Santa",
+		"year"    : "2003",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Bambi",
 		"year"    : "1942",
 		"critic"  : 7.3,
@@ -617,7 +634,7 @@
 		"critic"  : 6.8,
 		"ratings" : {
 			"humor"      : 4,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 3,
 			"plot"       : 5.5,
 			"music"      : 5,
@@ -685,7 +702,7 @@
 		"critic"  : 7.1,
 		"ratings" : {
 			"humor"      : 2.5,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4.5,
 			"plot"       : 5,
 			"music"      : 4,
@@ -1292,6 +1309,23 @@
 		}
 	},
 	{
+		"name"    : "Fantasia 2000",
+		"year"    : "1999",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8,
+			"nostalgia"  : 5,
+			"plot"       : 3.5,
+			"music"      : 6.5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 4.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Fantastic Beasts and Where to Find Them",
 		"year"    : "2016",
 		"critic"  : 7.3,
@@ -1382,7 +1416,7 @@
 		"critic"  : 8.1,
 		"ratings" : {
 			"humor"      : 3.5,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4.5,
 			"plot"       : 5,
 			"music"      : 4,
@@ -1433,7 +1467,7 @@
 		"critic"  : 5.8,
 		"ratings" : {
 			"humor"      : 4.5,
-			"visuals"    : 7,
+			"visuals"    : 6.5,
 			"nostalgia"  : 4,
 			"plot"       : 6,
 			"music"      : 5,
@@ -1802,6 +1836,23 @@
 		}
 	},
 	{
+		"name"    : "Hidden Figures",
+		"year"    : "2016",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Hitch",
 		"year"    : "2005",
 		"critic"  : 6.6,
@@ -1870,6 +1921,40 @@
 		}
 	},
 	{
+		"name"    : "Honey, I Shrunk the Kids",
+		"year"    : "1989",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Hot Rod",
+		"year"    : "2007",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5.5,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Independence Day",
 		"year"    : "1996",
 		"critic"  : 7,
@@ -1884,6 +1969,23 @@
 			"genre"      : 9.5,
 			"references" : 9,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Interstellar",
+		"year"    : "2014",
+		"critic"  : 8.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 9.5,
+			"nostalgia"  : 2,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 5.5,
+			"genre"      : 8.5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -1986,6 +2088,23 @@
 			"genre"      : 6,
 			"references" : 2.5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Jumanji",
+		"year"    : "1995",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -2300,7 +2419,7 @@
 		"critic"  : 7.6,
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 5,
 			"music"      : 5,
@@ -2317,7 +2436,7 @@
 		"critic"  : 8,
 		"ratings" : {
 			"humor"      : 4,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 6.5,
 			"music"      : 4.5,
@@ -2394,6 +2513,23 @@
 			"genre"      : 7.5,
 			"references" : 8.5,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "National Lampoon's Vacation",
+		"year"    : "1983",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 5,
+			"nostalgia"  : 5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 6,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -2555,7 +2691,7 @@
 		"critic"  : 7.5,
 		"ratings" : {
 			"humor"      : 3,
-			"visuals"    : 7,
+			"visuals"    : 6.5,
 			"nostalgia"  : 3,
 			"plot"       : 5.5,
 			"music"      : 4,
@@ -3374,7 +3510,7 @@
 			"visuals"    : 4.5,
 			"nostalgia"  : 4,
 			"plot"       : 6.5,
-			"music"      : 6.5,
+			"music"      : 6,
 			"rewatch"    : 5,
 			"characters" : 6,
 			"genre"      : 4.5,
@@ -3672,6 +3808,23 @@
 		}
 	},
 	{
+		"name"    : "Star Wars Holiday Special",
+		"year"    : "1978",
+		"critic"  : 2.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 1.5,
+			"nostalgia"  : 1.5,
+			"plot"       : 0.5,
+			"music"      : 1.5,
+			"rewatch"    : 0,
+			"characters" : 1.5,
+			"genre"      : 0.5,
+			"references" : 2.5,
+			"bias"       : 1.5
+		}
+	},
+	{
 		"name"    : "Star Wars Rogue One",
 		"year"    : "2016",
 		"critic"  : 7.8,
@@ -3813,7 +3966,7 @@
 		"critic"  : 7.7,
 		"ratings" : {
 			"humor"      : 4.5,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 6,
 			"music"      : 6.5,
@@ -4658,6 +4811,23 @@
 		}
 	},
 	{
+		"name"    : "The Secret Life of Pets",
+		"year"    : "2016",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "The Shawshank Redemption",
 		"year"    : "1994",
 		"critic"  : 9.3,
@@ -4986,7 +5156,7 @@
 		"critic"  : 8.3,
 		"ratings" : {
 			"humor"      : 4,
-			"visuals"    : 8,
+			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 6.5,
 			"music"      : 1,
@@ -5088,7 +5258,7 @@
 		"critic"  : 8.2,
 		"ratings" : {
 			"humor"      : 2.5,
-			"visuals"    : 8,
+			"visuals"    : 7,
 			"nostalgia"  : 2.5,
 			"plot"       : 3.5,
 			"music"      : 4.5,
@@ -5156,7 +5326,7 @@
 		"critic"  : 8.4,
 		"ratings" : {
 			"humor"      : 2.5,
-			"visuals"    : 8,
+			"visuals"    : 7,
 			"nostalgia"  : 3,
 			"plot"       : 5,
 			"music"      : 2.5,

@@ -112,6 +112,38 @@
 		}
 	},
 	{
+		"name"    : "Lego Harry Potter: Years 1-4",
+		"year"    : "2010",
+		"ratings" : {
+			"visuals"     : 7,
+			"characters"  : 9,
+			"plot"        : 8,
+			"content"     : 8,
+			"mechanics"   : 4.5,
+			"reliability" : 6.5,
+			"replay"      : 5.5,
+			"soundtrack"  : 8,
+			"nostalgia"   : 6.5,
+			"bias"        : 5.5
+		}
+	},
+	{
+		"name"    : "Lego Harry Potter: Years 5-7",
+		"year"    : "2011",
+		"ratings" : {
+			"visuals"     : 7,
+			"characters"  : 9,
+			"plot"        : 7.5,
+			"content"     : 7.5,
+			"mechanics"   : 5,
+			"reliability" : 5.5,
+			"replay"      : 4.5,
+			"soundtrack"  : 8,
+			"nostalgia"   : 6,
+			"bias"        : 5
+		}
+	},
+	{
 		"name"    : "Madden 2005",
 		"year"    : "2004",
 		"ratings" : {

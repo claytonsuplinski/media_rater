@@ -544,6 +544,23 @@
 		}
 	},
 	{
+		"name"    : "Beauty and the Beast: The Enchanted Christmas",
+		"year"    : "1997",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Beetlejuice",
 		"year"    : "1988",
 		"critic"  : 7.5,
@@ -2479,6 +2496,23 @@
 			"genre"      : 8,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Mulan [Live Action]",
+		"year"    : "2020",
+		"critic"  : 5.5,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 3.5,
+			"references" : 4,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4927,6 +4961,23 @@
 			"genre"      : 6,
 			"references" : 5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Ten Commandments",
+		"year"    : "1956",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 2,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 5,
+			"genre"      : 3.5,
+			"references" : 4.5,
+			"bias"       : 3.5
 		}
 	},
 	{

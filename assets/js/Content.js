@@ -1,7 +1,7 @@
-MIA.content = { num_per_page : 60 };
+MIA.content = { num_per_page : 60, views : {} };
 
 MIA.content.load = function(){
-	MIA.content.view = 'Grid';
+	this.select_view( 'Grid' );
 	
 	this.versus_indices = { left : 0, right : 1 };
 	
@@ -58,8 +58,14 @@ MIA.content.show_all = function(){
 	this.draw({ preserve_scroll : true });
 };
 
-MIA.content.set_view = function( view ){
+MIA.content.select_view = function( view ){
 	this.view = view;
+	this.view_key = view.toLowerCase().split(' ').join('_');
+	this.curr_view = this.views[ this.view_key ];
+};
+
+MIA.content.set_view = function( view ){
+	this.select_view( view );
 	this.table_sort = 'Total';
 	this.table_sort_reversed = false;
 	this.draw();
@@ -72,7 +78,6 @@ MIA.content.set_table_sort = function( column ){
 };
 
 MIA.content.set_versus_item = function( idx, side ){
-	console.log( idx, side );
 	this.versus_indices[ side ] = idx;
 	this.draw();
 };
@@ -82,259 +87,18 @@ MIA.content.draw = function( p ){
 
 	var p = p || {};
 
-	var max_stars_per_category = 10;
-	if( MIA.menu.selected == 'Months' ) max_stars_per_category = 12;
+	p.max_stars_per_category = 10;
+	if( MIA.menu.selected == 'Months' ) p.max_stars_per_category = 12
 	
 	var data = this.data.slice();
 	
 	var views = [ 'Grid', 'Table' ];
-	if( data.length > 1                          ) views.push( 'Versus'     );
-	if( data[ 0 ].critic                         ) views.push( 'Underrated' );
-	if( data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
+	if( this.data.length > 1                          ) views.push( 'Versus'     );
+	if( this.data[ 0 ].critic                         ) views.push( 'Underrated' );
+	if( this.data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
 	
-	var content = '';
-	var line_graph   = false;
-	var scatter_plot = false;
-	switch( this.view ){
-		case 'Grid':
-			if( !this.is_showing_all ) data = data.slice( ( MIA.pages.curr_page - 1 ) * this.num_per_page, MIA.pages.curr_page * this.num_per_page );
-			
-			content = data.map(function(item, idx){
-				var rank_class = MIA.functions.get_rank_class( item.rank );
-				
-				var onclick = 'onclick="$(\'.full-rating\').hide();$(\'#full-rating-'+idx+'\').show();"';
-				var style = 'style="background-image:url('+MIA.functions.get_image(MIA.content.name, item.name)+');"';
-				
-				return '<div class="item no-highlight" '+onclick+' '+style+'>'+
-					'<div class="rating">#' + item.rank + '</div>'+
-					'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+rank_class+'"></i></div>'+
-					'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
-					'<div id="full-rating-'+idx+'" class="full-rating">'+
-						'<table>'+
-							Object.keys(item.ratings).map(function(rating_name){
-								var rating = item.ratings[rating_name];
-								return '<tr>'+
-									'<td class="rating-name">' + MIA.functions.get_rating_name(rating_name) + '</td>' + 
-									'<td class="rating-value">' + 
-										rating + ' / ' + max_stars_per_category + 
-										' <i class="fa fa-star" style="color:'+MIA.functions.get_rating_color(rating)+';"></i>'+
-									'</td>' +
-								'</tr>';
-							}).join('')+
-						'</table>'+
-					'</div>'+
-				'</div>';
-			}).join('') +
-			'<div class="pages-interface"></div>';
-			break;
-		case 'Table':
-			var headers = [ 'Rank', 'Name' ]
-			if( data[ 0 ].year ) headers.push( 'Year' );
-			headers = headers.concat( Object.keys( data[ 0 ].ratings ), [ 'Total' ] );
-			
-			var sorted_idx = headers.indexOf( this.table_sort );
-			var sorted_dir = ( this.table_sort_reversed ? -1 : 1 );
-			switch( this.table_sort ){
-				case 'Rank':
-					data = data.sort( (a,b) => sorted_dir * ( a.rank > b.rank ? -1 : 1 ) );
-					break;
-				case 'Total':
-					data = data.sort( (a,b) => sorted_dir * ( Number( a.total_rating ) > Number( b.total_rating ) ? -1 : 1 ) );
-					break;
-				case 'Name':
-					data = data.sort( (a,b) => sorted_dir * ( a.name > b.name ? -1 : 1 ) );
-					break;
-				case 'Year':
-					data = data.sort( (a,b) => sorted_dir * ( a.year > b.year ? -1 : 1 ) );
-					break;
-				default:
-					data = data.sort( (a,b) => sorted_dir * ( a.ratings[ this.table_sort ] > b.ratings[ this.table_sort ] ? -1 : 1 ) );
-					break;
-			}
-			
-			content = '<table class="ranking-table">' + 
-				'<tr>' + 
-					headers.map(function( h, i ){
-						return '<th class="' + ( sorted_idx == i ? 'sorted' : '' ) + ' no-highlight" onclick="MIA.content.set_table_sort(\'' + h + '\');">' + 
-							MIA.functions.capitalize( h ) + 
-						'</th>';
-					}).join('') + 
-				'</tr>' +
-				data.map(function( item, idx ){
-					return '<tr>' +
-						headers.map(function( header, header_idx ){
-							var td_classes = [];
-							if( header_idx == sorted_idx ) td_classes.push( 'sorted' );
-							td_classes = td_classes.join(' ');
-						
-							if( header == 'Rank'  ) return '<td class="' + td_classes + ' rank" >' + item.rank                                + '</td>';
-							if( header == 'Name'  ) return '<td class="' + td_classes + ' name" >' + item.name                                + '</td>';
-							if( header == 'Year'  ) return '<td class="' + td_classes + ' year" >' + item.year                                + '</td>';
-							if( header == 'Total' ){
-								var color_mag = 3.5 * Math.abs( item.total_rating - 50 );
-								var color = 'rgb(' + 
-									( item.total_rating > 50 ? 
-										[ 30, 30 + color_mag, 30 ] : 
-										[ 30 + color_mag, 30, 30 ]
-									).join(',') + ')';
-								return '<td class="total" style="background:' + color + ';">' + Number( item.total_rating ).toFixed( 1 ) + '</td>';
-							}
-							return '<td class="' + td_classes + ' ranking">' + Number( item.ratings[ header ] ).toFixed( 1 ) + '</td>';
-						}).join('') +
-					'</tr>';
-				}).join('') +
-			'</table>';
-			break;
-		case 'Versus':
-			var item_1 = data[ this.versus_indices.left  ];
-			var item_2 = data[ this.versus_indices.right ];
-			
-			var get_select_html = function( side ){
-				return '<div class="versus-select">' +
-					'<select onchange="MIA.content.set_versus_item( this.value, \'' + side + '\' );">' +
-						data.sort( (a,b) => ( a.name > b.name ? 1 : -1 ) ).map(function( item ){
-							return '<option value="' + item.index + '" ' + ( item.index == self.versus_indices[ side ] ? 'selected' : '' ) + '>' +
-								item.name +
-							'</option>';
-						}).join('') +
-					'</select>' +
-				'</div>';
-			};
-			
-			var get_item_html = function( item, p ){
-				var p = p || {};
-				return '<div class="item no-highlight" style="background-image:url(' + MIA.functions.get_image(MIA.content.name, item.name) + ');">'+
-					'<div class="rating">#' + item.rank + '</div>'+
-					'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+ MIA.functions.get_rank_class( item.rank ) + '"></i></div>'+
-					'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
-					get_select_html( p.side || 'left' ) +
-				'</div>';
-			};
-			
-			var get_versus_rating = function( item, p ){
-				var p = p || {};
-				return '<div class="item versus-rating ' + ( p.side || 'left' ) + '">' +
-					'<div class="full-rating-static" style="display:block;">'+
-						'<table>'+
-							Object.keys(item.ratings).map(function(rating_name){
-								var rating = item.ratings[rating_name];
-								return '<tr>'+
-									'<td class="rating-value">' + 
-										rating + ' / ' + max_stars_per_category + 
-										' <i class="fa fa-star" style="color:'+MIA.functions.get_rating_color(rating)+';"></i>'+
-									'</td>' +
-								'</tr>';
-							}).join('')+
-						'</table>'+
-					'</div>' +
-				'</div>';
-			};
-		
-			content = '<div class="versus-container">' +
-				get_item_html(     item_1 ) +
-				get_versus_rating( item_1 ) +
-				'<div class="item versus-comparison">' +
-					'<div class="full-rating-static" style="display:block;">'+
-						'<table>'+
-							Object.keys( item_1.ratings ).map(function( rating_name ){
-								var rating = item_1.ratings[ rating_name ];
-								var diff   = item_1.ratings[ rating_name ] - item_2.ratings[ rating_name ];
-								var color  = '';
-								return '<tr>'+
-									'<td class="rating-name">' + 
-										MIA.functions.get_rating_name( rating_name ) + 
-										( diff == 0 ? '' : 
-											'<div class="versus-diff ' + ( diff > 0 ? 'left' : 'right' ) + '" style="background:' + MIA.functions.get_diff_color( diff ) + ';">' + 
-												Math.abs( diff ).toFixed(1) +
-											'</div>'
-										) +
-									'</td>' + 
-								'</tr>';
-							}).join('')+
-						'</table>'+
-					'</div>' +
-				'</div>' +
-				get_versus_rating( item_2, { side : 'right' } ) +
-				get_item_html(     item_2, { side : 'right' } ) +
-			'</div>';
-			break;
-		case 'Underrated':
-			var headers = [ 'Rank', 'Name', 'Year', 'My Score', 'Critic Score', 'My Adjusted', 'Critic Adjusted', 'Underrated Score' ]
-			
-			if( headers.indexOf( this.table_sort ) == -1 ) this.table_sort = headers[ headers.length - 1 ];
-			
-			var sorted_idx = headers.indexOf( this.table_sort );
-			var sorted_dir = ( this.table_sort_reversed ? -1 : 1 );
-			
-			switch( this.table_sort ){
-				case 'Rank':
-					data = data.sort( (a,b) => sorted_dir * ( a.rank > b.rank ? -1 : 1 ) );
-					break;
-				case 'Name':
-					data = data.sort( (a,b) => sorted_dir * ( a.name > b.name ? -1 : 1 ) );
-					break;
-				case 'Year':
-					data = data.sort( (a,b) => sorted_dir * ( a.year > b.year ? -1 : 1 ) );
-					break;
-				case 'My Score'        : data = data.sort( (a,b) => sorted_dir * ( Number( a.total_rating    ) > Number( b.total_rating    ) ? -1 : 1 ) ); break;
-				case 'Critic Score'    : data = data.sort( (a,b) => sorted_dir * ( Number( a.critic          ) > Number( b.critic          ) ? -1 : 1 ) ); break;
-				case 'My Adjusted'     : data = data.sort( (a,b) => sorted_dir * ( Number( a.total_adjusted  ) > Number( b.total_adjusted  ) ? -1 : 1 ) ); break;
-				case 'Critic Adjusted' : data = data.sort( (a,b) => sorted_dir * ( Number( a.critic_adjusted ) > Number( b.critic_adjusted ) ? -1 : 1 ) ); break;
-				default                : data = data.sort( (a,b) => sorted_dir * ( Number( a.critic_diff     ) > Number( b.critic_diff     ) ? -1 : 1 ) ); break;
-			}
-			
-			content = '<table class="ranking-table">' + 
-				'<tr>' + 
-					headers.map(function( h, i ){
-						return '<th class="' + ( sorted_idx == i ? 'sorted' : '' ) + ' no-highlight" onclick="MIA.content.set_table_sort(\'' + h + '\');">' + 
-							MIA.functions.capitalize( h ) + 
-						'</th>';
-					}).join('') + 
-				'</tr>' +
-				data.map(function( item, idx ){
-					return '<tr>' +
-						headers.map(function( header, header_idx ){
-							var td_classes = [];
-							if( header_idx == sorted_idx ) td_classes.push( 'sorted' );
-							td_classes = td_classes.join(' ');
-						
-							if( header == 'Rank'             ) return '<td class="' + td_classes + ' rank"   >' + item.rank            + '</td>';
-							if( header == 'Name'             ) return '<td class="' + td_classes + ' name"   >' + item.name            + '</td>';
-							if( header == 'Year'             ) return '<td class="' + td_classes + ' year"   >' + item.year            + '</td>';
-							if( header == 'My Score'         ) return '<td class="' + td_classes + ' ranking">' + item.total_rating    + '</td>';
-							if( header == 'Critic Score'     ) return '<td class="' + td_classes + ' ranking">' + item.critic          + '</td>';
-							if( header == 'My Adjusted'      ) return '<td class="' + td_classes + ' ranking">' + item.total_adjusted  + '</td>';
-							if( header == 'Critic Adjusted'  ) return '<td class="' + td_classes + ' ranking">' + item.critic_adjusted + '</td>';
-							if( header == 'Underrated Score' ){
-								var color_mag = Math.abs( 3 * item.critic_diff );
-								var color = 'rgb(' + 
-									( item.critic_diff > 0 ? 
-										[ 30, 30 + color_mag, 30 ] : 
-										[ 30 + color_mag, 30, 30 ]
-									).join(',') + ')';
-								return '<td class="ranking" style="background:' + color + ';">' + item.critic_diff + '</td>';
-							}
-							return '<td></td>';
-						}).join('') +
-					'</tr>';
-				}).join('') +
-			'</table>';
-			break;
-		case 'Graph':
-			content = '<svg id="graph"></svg>';
-			if( this.name == 'years' ){
-				var sorted_data = data.sort( (a,b) => ( a.name > b.name ? 1 : -1 ) );
-				line_graph = {
-					data : sorted_data.map(function( d ){ return { x : d.name, y : Number( d.total_rating ) }; } ),
-				};
-			}
-			else{
-				scatter_plot = {
-					data : data.map(function( d ){ return { x : d.year, y : Number( d.total_rating ), name : d.name }; } ),
-				};
-			}
-			break;
-	}
+	this.line_graph   = false;
+	this.scatter_plot = false;
 
 	$("#content").html(
 		'<div id="mobile-header" class="hidden-md hidden-lg">'+
@@ -348,15 +112,15 @@ MIA.content.draw = function( p ){
 				}, this).join('') +
 			'</select>' +
 		'</div>' +
-		content
+		this.curr_view.get_content( this, p )
 	);
 	$("#content").focus();
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);
 	
-	if( line_graph   ) MIA.graph.draw_line_graph(   line_graph   );
-	if( scatter_plot ) MIA.graph.draw_scatter_plot( scatter_plot );
+	if( this.line_graph   ) MIA.graph.draw_line_graph(   this.line_graph   );
+	if( this.scatter_plot ) MIA.graph.draw_scatter_plot( this.scatter_plot );
 	
-	if( this.view == 'Grid' ) MIA.pages.draw();
+	if( this.curr_view.post_draw ) this.curr_view.post_draw( this, p );
 	
 	$( ".full-rating,#view-selector,select" ).click(function(e) {
 	   $(".full-rating").hide();

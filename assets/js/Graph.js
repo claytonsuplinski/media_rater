@@ -109,7 +109,6 @@ MIA.graph.draw_scatter_plot = function( p ){
 					r += 150 * ( 100 - val ) / 50;
 					g += 150;
 				}
-				console.log( 'rgb(' + [ r, g, b ].join(', ') + ')' );
 				return 'rgb(' + [ r, g, b ].map( x => parseInt( x ) ).join(', ') + ')';
 			})
 			.on( "mouseover", function(d){

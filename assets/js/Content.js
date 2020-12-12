@@ -82,6 +82,10 @@ MIA.content.set_versus_item = function( idx, side ){
 	this.draw();
 };
 
+MIA.content.set_histogram_bin_size = function( bin_size ){
+	this.draw();
+};
+
 MIA.content.draw = function( p ){
 	var self = this;
 
@@ -96,9 +100,9 @@ MIA.content.draw = function( p ){
 	if( this.data.length > 1                          ) views.push( 'Versus'     );
 	if( this.data[ 0 ].critic                         ) views.push( 'Underrated' );
 	if( this.data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
+	views.push( 'Score Distribution' );
 	
-	this.line_graph   = false;
-	this.scatter_plot = false;
+	this.graphs = {};
 
 	$("#content").html(
 		'<div id="mobile-header" class="hidden-md hidden-lg">'+
@@ -117,8 +121,9 @@ MIA.content.draw = function( p ){
 	$("#content").focus();
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);
 	
-	if( this.line_graph   ) MIA.graph.draw_line_graph(   this.line_graph   );
-	if( this.scatter_plot ) MIA.graph.draw_scatter_plot( this.scatter_plot );
+	Object.keys( this.graphs ).forEach(function( graph ){
+		MIA.graph[ 'draw_' + graph ]( this.graphs[ graph ] );
+	}, this);
 	
 	if( this.curr_view.post_draw ) this.curr_view.post_draw( this, p );
 	

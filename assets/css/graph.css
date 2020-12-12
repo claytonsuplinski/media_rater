@@ -21,6 +21,8 @@
 	        filter:brightness(2);
 }
 
+#graph .axis { font-family:'Cabin Condensed'; }
+
 .graph-tooltip{
 	position: fixed;
 	background: #333;

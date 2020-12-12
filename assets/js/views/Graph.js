@@ -7,12 +7,12 @@ MIA.content.views.graph.get_content = function( self, p ){
 	
 	if( self.name == 'years' ){
 		var sorted_data = data.sort( (a,b) => ( a.name > b.name ? 1 : -1 ) );
-		self.line_graph = {
+		self.graphs.line_graph = {
 			data : sorted_data.map(function( d ){ return { x : d.name, y : Number( d.total_rating ) }; } ),
 		};
 	}
 	else{
-		self.scatter_plot = {
+		self.graphs.scatter_plot = {
 			data : data.map(function( d ){ return { x : d.year, y : Number( d.total_rating ), name : d.name }; } ),
 		};
 	}

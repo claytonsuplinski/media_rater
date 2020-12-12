@@ -25,14 +25,14 @@ MIA.graph.get_graph_canvas = function( p ){
 MIA.graph.draw_line_graph = function( p ){
 	var svg = this.get_graph_canvas( p );
 
-	var x = d3.scale.linear().range([ 0, svg.width  ]);
-	var y = d3.scale.linear().range([ svg.height, 0 ]);
+	var x = d3.scaleLinear().range([ 0, svg.width  ]);
+	var y = d3.scaleLinear().range([ svg.height, 0 ]);
 
-	var x_axis = d3.svg.axis().scale( x ).orient( "bottom" ).ticks( p.data.length / 2 ).tickFormat(function(x){ return x; });
-	var y_axis = d3.svg.axis().scale( y ).orient( "left"   ).ticks( 10 );
+	var x_axis = d3.axisBottom().scale( x ).ticks( p.data.length / 2 ).tickFormat(function(x){ return x; });
+	var y_axis = d3.axisLeft().scale( y ).ticks( 10 );
 
 	// Define the line
-	var lines = d3.svg.line()
+	var lines = d3.line()
 		.x(function(d) { return x( d.x ); })
 		.y(function(d) { return y( d.y ); });
 			
@@ -61,16 +61,16 @@ MIA.graph.draw_line_graph = function( p ){
 MIA.graph.draw_scatter_plot = function( p ){
 	var svg = this.get_graph_canvas( p );
 	
-	var x = d3.scale.linear().range([ 0, svg.width  ]);
-	var y = d3.scale.linear().range([ svg.height, 0 ]);
+	var x = d3.scaleLinear().range([ 0, svg.width  ]);
+	var y = d3.scaleLinear().range([ svg.height, 0 ]);
 	
 	var x_values = p.data.map( d => d.x ); 
 			
 	x.domain([ Math.min( ...x_values ), Math.max( ...x_values ) ]);
 	y.domain([ 0, p.max_y_value || 100 ]);
 	
-	var x_axis = d3.svg.axis().scale( x ).orient( "bottom" ).ticks( 20 ).tickFormat(function(x){ return x; });
-	var y_axis = d3.svg.axis().scale( y ).orient( "left"   ).ticks( 10 );
+	var x_axis = d3.axisBottom().scale( x ).ticks( 20 ).tickFormat(function(x){ return x; });
+	var y_axis = d3.axisLeft().scale( y ).ticks( 10 );
 	
 	var tooltip = d3.select( "#content" ).append( "div" )
 		.attr( "class", "graph-tooltip" )
@@ -131,4 +131,48 @@ MIA.graph.draw_scatter_plot = function( p ){
 					.duration( 300 )
 					.style( "opacity", 0 );
 			} )
+};
+
+MIA.graph.draw_histogram = function( p ){
+	var svg = this.get_graph_canvas( p );
+	
+	var x = d3.scaleLinear().range([ 0, svg.width  ]);
+	var y = d3.scaleLinear().range([ svg.height, 0 ]);
+			
+	x.domain([ p.x_min || 0, ( p.x_max !== undefined ? p.x_max : 100 ) ]);
+	
+	var num_bins = p.bins || 20;
+	
+	var x_axis = d3.axisBottom().scale( x ).ticks( Math.min( num_bins, 50 ) ).tickFormat(function(x){ return x; });
+	var y_axis = d3.axisLeft().scale( y ).ticks( 10 );
+	
+	// Add the X Axis
+	svg.append( "g" )
+		.attr( "class", "x axis" )
+		.attr( "transform", "translate(0," + svg.height + ")" )
+		.call( x_axis );
+		
+	var histogram = d3.histogram()
+		.value(function(d){ return d.val; })
+		.domain( x.domain() )
+		.thresholds( x.ticks( num_bins ) );
+		
+	var bins = histogram( p.data );
+
+	// Add the Y Axis
+	y.domain([ 0, d3.max( bins, function(d){ return d.length; } ) ]);
+	svg.append( "g" )
+		.attr( "class", "y axis" )
+		.call( y_axis );
+
+	// append the bar rectangles to the svg element
+	svg.selectAll("rect")
+		.data( bins )
+		.enter()
+		.append("rect")
+			.attr("x", 1)
+			.attr("transform", function(d) { return "translate(" + x(d.x0) + "," + y(d.length) + ")"; })
+			.attr("width", function(d) { return x(d.x1) - x(d.x0) -1 ; })
+			.attr("height", function(d) { return svg.height - y(d.length); })
+			.style("fill", "#69b3a2");
 };

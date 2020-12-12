@@ -140,6 +140,7 @@
 	bottom:-40px;
 }
 
+#content .histogram-select select,
 #content .item .versus-select select{
 	background:#333;
 	color:#fff;
@@ -168,6 +169,14 @@
 
 #content .item.versus-comparison .versus-diff.left {  left:0px; }
 #content .item.versus-comparison .versus-diff.right{ right:0px; }
+
+#content .histogram-select{
+	margin-bottom:20px;
+}
+
+#content .histogram-select select{
+	margin-left:5px;
+}
 
 #content .show-all-button{
 	background:#173955;

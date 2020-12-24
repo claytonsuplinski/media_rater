@@ -969,6 +969,23 @@
 		}
 	},
 	{
+		"name"    : "Christmas with the Kranks",
+		"year"    : "2004",
+		"critic"  : 5.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Cloverfield",
 		"year"    : "2008",
 		"critic"  : 7,
@@ -1067,6 +1084,23 @@
 			"characters" : 4.5,
 			"genre"      : 3,
 			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Deck the Halls",
+		"year"    : "2006",
+		"critic"  : 5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
 			"bias"       : 4.5
 		}
 	},
@@ -1496,6 +1530,40 @@
 		}
 	},
 	{
+		"name"    : "Four Christmases",
+		"year"    : "2008",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Fred Claus",
+		"year"    : "2007",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Free Birds",
 		"year"    : "2013",
 		"critic"  : 5.8,
@@ -1509,6 +1577,23 @@
 			"characters" : 5,
 			"genre"      : 5.5,
 			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Frozen",
+		"year"    : "2013",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 4.5,
 			"bias"       : 5
 		}
 	},
@@ -1972,6 +2057,23 @@
 		}
 	},
 	{
+		"name"    : "How the Grinch Stole Christmas",
+		"year"    : "2000",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Hot Rod",
 		"year"    : "2007",
 		"critic"  : 6.7,
@@ -2329,6 +2431,23 @@
 		}
 	},
 	{
+		"name"    : "Love Actually",
+		"year"    : "2003",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 3.5,
+			"nostalgia"  : 2,
+			"plot"       : 1,
+			"music"      : 5,
+			"rewatch"    : 1,
+			"characters" : 2.5,
+			"genre"      : 1,
+			"references" : 2.5,
+			"bias"       : 1.5
+		}
+	},
+	{
 		"name"    : "Mac & Devin Go to High School",
 		"year"    : "2012",
 		"critic"  : 4.4,
@@ -2507,11 +2626,11 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 4,
 			"plot"       : 5,
-			"music"      : 5,
+			"music"      : 6,
 			"rewatch"    : 4.5,
 			"characters" : 5.5,
 			"genre"      : 6,
-			"references" : 3,
+			"references" : 4,
 			"bias"       : 5.5
 		}
 	},
@@ -2915,7 +3034,7 @@
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 7.5,
-			"music"      : 6,
+			"music"      : 5,
 			"rewatch"    : 6,
 			"characters" : 7.5,
 			"genre"      : 8.5,
@@ -3159,6 +3278,23 @@
 			"genre"      : 8,
 			"references" : 5.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Ratatouille",
+		"year"    : "2007",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 9,
+			"nostalgia"  : 9.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 6,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 4,
+			"bias"       : 7
 		}
 	},
 	{
@@ -3530,9 +3666,9 @@
 			"music"      : 5.5,
 			"rewatch"    : 5.5,
 			"characters" : 5,
-			"genre"      : 8,
+			"genre"      : 7.5,
 			"references" : 6,
-			"bias"       : 7
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -4046,6 +4182,23 @@
 		}
 	},
 	{
+		"name"    : "Surviving Christmas",
+		"year"    : "2004",
+		"critic"  : 5.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Sweeney Todd: The Demon Barber of Fleet Street",
 		"year"    : "2007",
 		"critic"  : 7.3,
@@ -4279,7 +4432,7 @@
 			"rewatch"    : 6,
 			"characters" : 4.5,
 			"genre"      : 8.5,
-			"references" : 2.5,
+			"references" : 3,
 			"bias"       : 8
 		}
 	},
@@ -4502,6 +4655,23 @@
 			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "The Greatest Showman",
+		"year"    : "2017",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 8.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -4828,6 +4998,23 @@
 		}
 	},
 	{
+		"name"    : "The Muppet Christmas Carol",
+		"year"    : "1992",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Nightmare Before Christmas",
 		"year"    : "1993",
 		"critic"  : 8.0,
@@ -4842,6 +5029,23 @@
 			"genre"      : 8.5,
 			"references" : 6.5,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "The Nutcracker and the Four Realms",
+		"year"    : "2018",
+		"critic"  : 5.5,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4879,18 +5083,35 @@
 		}
 	},
 	{
+		"name"    : "The Polar Express",
+		"year"    : "2004",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Princess Bride",
 		"year"    : "1987",
 		"critic"  : 8.1,
 		"ratings" : {
-			"humor"      : 7,
+			"humor"      : 6,
 			"visuals"    : 6.5,
-			"nostalgia"  : 6,
+			"nostalgia"  : 5.5,
 			"plot"       : 5.5,
 			"music"      : 5.5,
-			"rewatch"    : 6.5,
+			"rewatch"    : 6,
 			"characters" : 7,
-			"genre"      : 8,
+			"genre"      : 7.5,
 			"references" : 7,
 			"bias"       : 6.5
 		}
@@ -4910,6 +5131,23 @@
 			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Reluctant Dragon",
+		"year"    : "1941",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4.5,
+			"genre"      : 3,
+			"references" : 4,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4944,6 +5182,23 @@
 			"genre"      : 2.5,
 			"references" : 3,
 			"bias"       : 3
+		}
+	},
+	{
+		"name"    : "The Santa Clause",
+		"year"    : "1994",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5261,7 +5516,7 @@
 			"visuals"    : 6.5,
 			"nostalgia"  : 6,
 			"plot"       : 4,
-			"music"      : 5.5,
+			"music"      : 5,
 			"rewatch"    : 4.5,
 			"characters" : 5,
 			"genre"      : 5,
@@ -5403,6 +5658,23 @@
 			"genre"      : 2.5,
 			"references" : 3,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Unaccompanied Minors",
+		"year"    : "2006",
+		"critic"  : 5.3,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -5641,6 +5913,40 @@
 			"genre"      : 4.5,
 			"references" : 4,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Winnie the Pooh: A Very Merry Pooh Year",
+		"year"    : "2002",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Wonder Woman",
+		"year"    : "2017",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 5,
+			"bias"       : 5
 		}
 	},
 	{

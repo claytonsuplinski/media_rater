@@ -28,8 +28,12 @@ MIA.graph.draw_line_graph = function( p ){
 	var x = d3.scaleLinear().range([ 0, svg.width  ]);
 	var y = d3.scaleLinear().range([ svg.height, 0 ]);
 
-	var x_axis = d3.axisBottom().scale( x ).ticks( p.data.length / 2 ).tickFormat(function(x){ return x; });
+	var x_axis = d3.axisBottom().scale( x ).ticks( Math.min( p.data.length / 2, 20 ) ).tickFormat(function(x){ return x; });
 	var y_axis = d3.axisLeft().scale( y ).ticks( 10 );
+	
+	var tooltip = d3.select( "#content" ).append( "div" )
+		.attr( "class", "graph-tooltip" )
+		.style( "opacity", 0 );
 
 	// Define the line
 	var lines = d3.line()
@@ -37,9 +41,10 @@ MIA.graph.draw_line_graph = function( p ){
 		.y(function(d) { return y( d.y ); });
 			
 	var x_values = p.data.map( d => d.x ); 
+	var y_values = p.data.map( d => d.y );
 			
 	x.domain([ Math.min( ...x_values ), Math.max( ...x_values ) ]);
-	y.domain([ 0, p.max_y_value || 100 ]);
+	y.domain([ 0, p.max_y_value || Math.max( Math.max( ...y_values ), 100 ) ]);
 			
 	// Plot the lines.
 	svg.append( "path" )
@@ -56,6 +61,60 @@ MIA.graph.draw_line_graph = function( p ){
 	svg.append( "g" )
 		.attr( "class", "y axis" )
 		.call( y_axis );
+		
+	// Add dots
+	svg.append('g')
+		.selectAll("dot")
+		.data( p.data )
+		.enter()
+			.append("circle")
+			.attr("cx", function (d) { return x( d.x ); } )
+			.attr("cy", function (d) { return y( d.y ); } )
+			.attr("r", 3)
+			.style("fill", function(d){
+				var r = 50;
+				var g = 50;
+				var b = 50;
+				var val = Number( d.y );
+				if( val < 50 ){
+					r += 150;
+					g += 150 * ( val ) / 50;
+				}
+				else{
+					r += 150 * ( 100 - val ) / 50;
+					g += 150;
+				}
+				return 'rgb(' + [ r, g, b ].map( x => parseInt( x ) ).join(', ') + ')';
+			})
+			.on( "mouseover", function(d){
+				tooltip.html(
+					'<div class="header">' + 
+						d.x + 
+						'<span class="sub-header">' + d.y.toFixed(1) + ' <i class="fa fa-star"></i></span>' +
+					'</div>' +
+					( !d.sub_labels ? '' : '<div class="value">' +
+						'<table>' +
+							d.sub_labels.map(function( entry ){
+								return '<tr>' +
+									'<td class="x">' + entry.x + '</td>' +
+									'<td class="y">' + entry.y + ' <i class="fa fa-star"></i></td>' +
+								'</tr>';
+							}).join('') +
+						'</table>' +
+					'</div>' )
+				)
+					.style( "left", d3.event.pageX + "px" )
+					.style( "top" , d3.event.pageY + "px" )
+					.transition()
+					.duration( 200 )
+					.style( "opacity", 0.9 )
+
+			})
+			.on( "mouseout", function(d){
+				tooltip.transition()
+					.duration( 300 )
+					.style( "opacity", 0 );
+			} );
 };
 
 MIA.graph.draw_scatter_plot = function( p ){
@@ -64,10 +123,11 @@ MIA.graph.draw_scatter_plot = function( p ){
 	var x = d3.scaleLinear().range([ 0, svg.width  ]);
 	var y = d3.scaleLinear().range([ svg.height, 0 ]);
 	
-	var x_values = p.data.map( d => d.x ); 
+	var x_values = p.data.map( d => d.x );
+	var y_values = p.data.map( d => d.y );
 			
 	x.domain([ Math.min( ...x_values ), Math.max( ...x_values ) ]);
-	y.domain([ 0, p.max_y_value || 100 ]);
+	y.domain([ 0, p.max_y_value || Math.max( Math.max( ...y_values ), 100 ) ]);
 	
 	var x_axis = d3.axisBottom().scale( x ).ticks( 20 ).tickFormat(function(x){ return x; });
 	var y_axis = d3.axisLeft().scale( y ).ticks( 10 );
@@ -130,7 +190,7 @@ MIA.graph.draw_scatter_plot = function( p ){
 				tooltip.transition()
 					.duration( 300 )
 					.style( "opacity", 0 );
-			} )
+			} );
 };
 
 MIA.graph.draw_histogram = function( p ){

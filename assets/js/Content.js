@@ -100,6 +100,7 @@ MIA.content.draw = function( p ){
 	if( this.data.length > 1                          ) views.push( 'Versus'     );
 	if( this.data[ 0 ].critic                         ) views.push( 'Underrated' );
 	if( this.data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
+	if( this.data[ 0 ].year                           ) views.push( 'Years'      );
 	views.push( 'Score Distribution' );
 	
 	this.graphs = {};

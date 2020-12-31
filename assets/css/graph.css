@@ -1,5 +1,5 @@
 #graph path { 
-	stroke: #359;
+	stroke: #2b3447;
 	stroke-width: 2;
 	fill:transparent;
 }
@@ -55,3 +55,30 @@
 .graph-tooltip .value{
 	font-size:12px;
 }
+
+.graph-tooltip .value table{
+	width:100%;
+	height:auto;
+	border-collapse:collapse;
+	color:#fff;
+	font-size:10px;
+}
+
+.graph-tooltip .value table td{
+	border:1px solid #777;
+	padding:1px 3px;
+}
+
+.graph-tooltip .value table td.x{
+	background:#333;
+}
+
+.graph-tooltip .value table td.y{
+	background:#383838;
+	width:60px;
+	white-space:nowrap;
+	text-align:right;
+}
+
+.graph-tooltip .value table tr:nth-child(2n) td.x{ background:#444;    }
+.graph-tooltip .value table tr:nth-child(2n) td.y{ background:#494949; }

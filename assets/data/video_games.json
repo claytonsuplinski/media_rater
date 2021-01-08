@@ -16,6 +16,22 @@
 		}
 	},
 	{
+		"name"    : "Donkey Kong 64",
+		"year"    : "1999",
+		"ratings" : {
+			"visuals"     : 5.5,
+			"characters"  : 7,
+			"plot"        : 4.5,
+			"content"     : 6,
+			"mechanics"   : 4.5,
+			"reliability" : 5.5,
+			"replay"      : 3,
+			"soundtrack"  : 5,
+			"nostalgia"   : 6,
+			"bias"        : 4.5
+		}
+	},
+	{
 		"name"    : "Everybody's Golf",
 		"year"    : "2017",
 		"ratings" : {
@@ -26,9 +42,25 @@
 			"mechanics"   : 9.5,
 			"reliability" : 3.5,
 			"replay"      : 9,
-			"soundtrack"  : 7.5,
+			"soundtrack"  : 5.5,
 			"nostalgia"   : 6.5,
 			"bias"        : 7
+		}
+	},
+	{
+		"name"    : "F-Zero GX",
+		"year"    : "2003",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 4,
+			"plot"        : 4,
+			"content"     : 6,
+			"mechanics"   : 5,
+			"reliability" : 6.5,
+			"replay"      : 5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 4,
+			"bias"        : 5
 		}
 	},
 	{
@@ -48,6 +80,70 @@
 		}
 	},
 	{
+		"name"    : "Guitar Hero",
+		"year"    : "2005",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 2,
+			"plot"        : 4,
+			"content"     : 6,
+			"mechanics"   : 9,
+			"reliability" : 7,
+			"replay"      : 4.5,
+			"soundtrack"  : 7,
+			"nostalgia"   : 6.5,
+			"bias"        : 5
+		}
+	},
+	{
+		"name"    : "Guitar Hero II",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 2,
+			"plot"        : 4,
+			"content"     : 5,
+			"mechanics"   : 9,
+			"reliability" : 7,
+			"replay"      : 1.5,
+			"soundtrack"  : 4.5,
+			"nostalgia"   : 5,
+			"bias"        : 4
+		}
+	},
+	{
+		"name"    : "Guitar Hero III: Legends of Rock",
+		"year"    : "2007",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 2,
+			"plot"        : 4,
+			"content"     : 6.5,
+			"mechanics"   : 9,
+			"reliability" : 7,
+			"replay"      : 5,
+			"soundtrack"  : 7.5,
+			"nostalgia"   : 6,
+			"bias"        : 5.5
+		}
+	},
+	{
+		"name"    : "Harry Potter and the Sorcerer's Stone",
+		"year"    : "2001",
+		"ratings" : {
+			"visuals"     : 5,
+			"characters"  : 9,
+			"plot"        : 6.5,
+			"content"     : 7.5,
+			"mechanics"   : 4.5,
+			"reliability" : 4,
+			"replay"      : 4.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 6,
+			"bias"        : 4.5
+		}
+	},
+	{
 		"name"    : "Hot Shots Golf 3",
 		"year"    : "2002",
 		"ratings" : {
@@ -58,7 +154,7 @@
 			"mechanics"   : 10,
 			"reliability" : 10,
 			"replay"      : 10,
-			"soundtrack"  : 9,
+			"soundtrack"  : 7,
 			"nostalgia"   : 9,
 			"bias"        : 8.5
 		}
@@ -117,7 +213,7 @@
 		"ratings" : {
 			"visuals"     : 7,
 			"characters"  : 9,
-			"plot"        : 8,
+			"plot"        : 7.5,
 			"content"     : 8,
 			"mechanics"   : 4.5,
 			"reliability" : 6.5,
@@ -133,7 +229,7 @@
 		"ratings" : {
 			"visuals"     : 7,
 			"characters"  : 9,
-			"plot"        : 7.5,
+			"plot"        : 7,
 			"content"     : 7.5,
 			"mechanics"   : 5,
 			"reliability" : 5.5,
@@ -141,6 +237,54 @@
 			"soundtrack"  : 8,
 			"nostalgia"   : 6,
 			"bias"        : 5
+		}
+	},
+	{
+		"name"    : "Madden 2000",
+		"year"    : "1999",
+		"ratings" : {
+			"visuals"     : 4,
+			"characters"  : 6.5,
+			"plot"        : 2,
+			"content"     : 2,
+			"mechanics"   : 2.5,
+			"reliability" : 4,
+			"replay"      : 4,
+			"soundtrack"  : 5,
+			"nostalgia"   : 4.5,
+			"bias"        : 3
+		}
+	},
+	{
+		"name"    : "Madden 2001",
+		"year"    : "2000",
+		"ratings" : {
+			"visuals"     : 5,
+			"characters"  : 6.5,
+			"plot"        : 4,
+			"content"     : 4,
+			"mechanics"   : 4.5,
+			"reliability" : 6,
+			"replay"      : 6,
+			"soundtrack"  : 5,
+			"nostalgia"   : 7,
+			"bias"        : 4
+		}
+	},
+	{
+		"name"    : "Madden 2003",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 7,
+			"plot"        : 4,
+			"content"     : 5.5,
+			"mechanics"   : 7.5,
+			"reliability" : 9,
+			"replay"      : 7.5,
+			"soundtrack"  : 9.5,
+			"nostalgia"   : 8.5,
+			"bias"        : 6.5
 		}
 	},
 	{
@@ -152,10 +296,26 @@
 			"plot"        : 4,
 			"content"     : 7,
 			"mechanics"   : 9,
-			"reliability" : 10,
+			"reliability" : 9.5,
 			"replay"      : 10,
-			"soundtrack"  : 9.5,
-			"nostalgia"   : 9,
+			"soundtrack"  : 8,
+			"nostalgia"   : 8.5,
+			"bias"        : 7
+		}
+	},
+	{
+		"name"    : "Madden 07",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 7,
+			"plot"        : 5,
+			"content"     : 7,
+			"mechanics"   : 8.5,
+			"reliability" : 9.5,
+			"replay"      : 9.5,
+			"soundtrack"  : 9,
+			"nostalgia"   : 8.5,
 			"bias"        : 7.5
 		}
 	},
@@ -170,9 +330,9 @@
 			"mechanics"   : 6.5,
 			"reliability" : 7.5,
 			"replay"      : 8,
-			"soundtrack"  : 8.5,
-			"nostalgia"   : 8.5,
-			"bias"        : 8
+			"soundtrack"  : 7,
+			"nostalgia"   : 8,
+			"bias"        : 7
 		}
 	},
 	{
@@ -203,7 +363,7 @@
 			"reliability" : 7,
 			"replay"      : 8,
 			"soundtrack"  : 8,
-			"nostalgia"   : 6,
+			"nostalgia"   : 5,
 			"bias"        : 4
 		}
 	},
@@ -218,7 +378,7 @@
 			"mechanics"   : 7.5,
 			"reliability" : 7.5,
 			"replay"      : 9.5,
-			"soundtrack"  : 6.5,
+			"soundtrack"  : 6,
 			"nostalgia"   : 7.5,
 			"bias"        : 7.5
 		}
@@ -229,12 +389,12 @@
 		"ratings" : {
 			"visuals"     : 8.5,
 			"characters"  : 7,
-			"plot"        : 5.5,
-			"content"     : 6.5,
+			"plot"        : 4.5,
+			"content"     : 6,
 			"mechanics"   : 4,
 			"reliability" : 3,
-			"replay"      : 8,
-			"soundtrack"  : 8.5,
+			"replay"      : 7.5,
+			"soundtrack"  : 6.5,
 			"nostalgia"   : 5.5,
 			"bias"        : 3.5
 		}
@@ -253,6 +413,22 @@
 			"soundtrack"  : 4.5,
 			"nostalgia"   : 9,
 			"bias"        : 8.5
+		}
+	},
+	{
+		"name"    : "Pokemon Red",
+		"year"    : "1996",
+		"ratings" : {
+			"visuals"     : 3,
+			"characters"  : 7.5,
+			"plot"        : 7.5,
+			"content"     : 7.5,
+			"mechanics"   : 7.5,
+			"reliability" : 9.5,
+			"replay"      : 7,
+			"soundtrack"  : 8.5,
+			"nostalgia"   : 8,
+			"bias"        : 7.5
 		}
 	},
 	{
@@ -310,7 +486,7 @@
 			"visuals"     : 10,
 			"characters"  : 7.5,
 			"plot"        : 9,
-			"content"     : 7.5,
+			"content"     : 6.5,
 			"mechanics"   : 8,
 			"reliability" : 10,
 			"replay"      : 8.5,
@@ -343,12 +519,28 @@
 			"characters"  : 2,
 			"plot"        : 2.5,
 			"content"     : 6,
-			"mechanics"   : 6,
+			"mechanics"   : 4.5,
 			"reliability" : 4,
 			"replay"      : 9,
 			"soundtrack"  : 5,
 			"nostalgia"   : 4,
 			"bias"        : 5.5
+		}
+	},
+	{
+		"name"    : "Scooby-Doo! Night of 100 Frights",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 6,
+			"characters"  : 6.5,
+			"plot"        : 6,
+			"content"     : 6.5,
+			"mechanics"   : 5,
+			"reliability" : 6.5,
+			"replay"      : 3,
+			"soundtrack"  : 5,
+			"nostalgia"   : 5.5,
+			"bias"        : 4.5
 		}
 	},
 	{
@@ -359,7 +551,7 @@
 			"characters"  : 1,
 			"plot"        : 2.5,
 			"content"     : 10,
-			"mechanics"   : 8.5,
+			"mechanics"   : 7,
 			"reliability" : 5.5,
 			"replay"      : 7,
 			"soundtrack"  : 4,
@@ -371,7 +563,7 @@
 		"name"    : "Soul Calibur II",
 		"year"    : "2002",
 		"ratings" : {
-			"visuals"     : 6.5,
+			"visuals"     : 5,
 			"characters"  : 7,
 			"plot"        : 4,
 			"content"     : 6.5,
@@ -437,7 +629,7 @@
 		"ratings" : {
 			"visuals"     : 8,
 			"characters"  : 7.5,
-			"plot"        : 2,
+			"plot"        : 2.5,
 			"content"     : 7.5,
 			"mechanics"   : 9,
 			"reliability" : 6.5,
@@ -448,14 +640,30 @@
 		}
 	},
 	{
-		"name"    : "Super Smash Bros. Brawl",
-		"year"    : "2008",
+		"name"    : "Super Mario Advance 2",
+		"year"    : "2001",
 		"ratings" : {
-			"visuals"     : 8.5,
-			"characters"  : 9.5,
-			"plot"        : 6.5,
-			"content"     : 10,
-			"mechanics"   : 10,
+			"visuals"     : 6.5,
+			"characters"  : 6.5,
+			"plot"        : 7.5,
+			"content"     : 8,
+			"mechanics"   : 5,
+			"reliability" : 7.5,
+			"replay"      : 4,
+			"soundtrack"  : 5,
+			"nostalgia"   : 6,
+			"bias"        : 5.5
+		}
+	},
+	{
+		"name"    : "Super Smash Bros. Melee",
+		"year"    : "2001",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 9,
+			"plot"        : 4.5,
+			"content"     : 8.5,
+			"mechanics"   : 9,
 			"reliability" : 9.5,
 			"replay"      : 10,
 			"soundtrack"  : 10,
@@ -464,19 +672,35 @@
 		}
 	},
 	{
+		"name"    : "Super Smash Bros. Brawl",
+		"year"    : "2008",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 9.5,
+			"plot"        : 6.5,
+			"content"     : 10,
+			"mechanics"   : 9.5,
+			"reliability" : 9,
+			"replay"      : 8.5,
+			"soundtrack"  : 10,
+			"nostalgia"   : 8.5,
+			"bias"        : 8
+		}
+	},
+	{
 		"name"    : "Super Star Wars",
 		"year"    : "1992",
 		"ratings" : {
-			"visuals"     : 3.5,
-			"characters"  : 8.5,
-			"plot"        : 7,
-			"content"     : 8.5,
+			"visuals"     : 1.5,
+			"characters"  : 5.5,
+			"plot"        : 6,
+			"content"     : 6.5,
 			"mechanics"   : 2,
 			"reliability" : 6,
-			"replay"      : 3.5,
-			"soundtrack"  : 6,
+			"replay"      : 2,
+			"soundtrack"  : 4.5,
 			"nostalgia"   : 4,
-			"bias"        : 5
+			"bias"        : 4
 		}
 	},
 	{
@@ -485,10 +709,10 @@
 		"ratings" : {
 			"visuals"     : 10,
 			"characters"  : 2.5,
-			"plot"        : 7,
+			"plot"        : 5,
 			"content"     : 9.5,
 			"mechanics"   : 10,
-			"reliability" : 9,
+			"reliability" : 7.5,
 			"replay"      : 10,
 			"soundtrack"  : 10,
 			"nostalgia"   : 10,
@@ -504,7 +728,7 @@
 			"plot"        : 9,
 			"content"     : 10,
 			"mechanics"   : 6,
-			"reliability" : 10,
+			"reliability" : 9.5,
 			"replay"      : 7,
 			"soundtrack"  : 10,
 			"nostalgia"   : 8,
@@ -522,7 +746,7 @@
 			"mechanics"   : 9,
 			"reliability" : 7.5,
 			"replay"      : 9,
-			"soundtrack"  : 9,
+			"soundtrack"  : 8,
 			"nostalgia"   : 8.5,
 			"bias"        : 8.5
 		}
@@ -541,6 +765,54 @@
 			"soundtrack"  : 6.5,
 			"nostalgia"   : 9,
 			"bias"        : 5
+		}
+	},
+	{
+		"name"    : "Wii Play",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 4.5,
+			"plot"        : 1,
+			"content"     : 3.5,
+			"mechanics"   : 6,
+			"reliability" : 6,
+			"replay"      : 3.5,
+			"soundtrack"  : 4.5,
+			"nostalgia"   : 6,
+			"bias"        : 4.5
+		}
+	},
+	{
+		"name"    : "Wii Sports",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 4.5,
+			"plot"        : 1,
+			"content"     : 3,
+			"mechanics"   : 7,
+			"reliability" : 6.5,
+			"replay"      : 4.5,
+			"soundtrack"  : 4.5,
+			"nostalgia"   : 6.5,
+			"bias"        : 5
+		}
+	},
+	{
+		"name"    : "Yoshi's Island",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 6.5,
+			"plot"        : 7.5,
+			"content"     : 8,
+			"mechanics"   : 6,
+			"reliability" : 7,
+			"replay"      : 4.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 6,
+			"bias"        : 6
 		}
 	}
 ]

@@ -2584,6 +2584,23 @@
 		}
 	},
 	{
+		"name"    : "Mad Max: Fury Road",
+		"year"    : "2015",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 4,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Major League",
 		"year"    : "1989",
 		"critic"  : 7.2,

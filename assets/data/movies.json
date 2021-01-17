@@ -527,6 +527,23 @@
 		}
 	},
 	{
+		"name"    : "Batman Begins",
+		"year"    : "2005",
+		"critic"  : 8.2,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Beauty and the Beast",
 		"year"    : "1991",
 		"critic"  : 8,
@@ -898,6 +915,23 @@
 			"genre"      : 5,
 			"references" : 5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Cast Away",
+		"year"    : "2000",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -1594,6 +1628,23 @@
 			"characters" : 4.5,
 			"genre"      : 5.5,
 			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Freaky Friday",
+		"year"    : "2003",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
 			"bias"       : 5
 		}
 	},
@@ -2377,6 +2428,23 @@
 			"genre"      : 8.5,
 			"references" : 8.5,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Kazaam",
+		"year"    : "1996",
+		"critic"  : 3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 3,
+			"nostalgia"  : 3,
+			"plot"       : 1.5,
+			"music"      : 2,
+			"rewatch"    : 2,
+			"characters" : 1.5,
+			"genre"      : 3,
+			"references" : 3.5,
+			"bias"       : 2.5
 		}
 	},
 	{
@@ -4046,6 +4114,23 @@
 		}
 	},
 	{
+		"name"    : "Speed Racer",
+		"year"    : "2008",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Spider-Man",
 		"year"    : "2002",
 		"critic"  : 7.3,
@@ -5117,6 +5202,23 @@
 		}
 	},
 	{
+		"name"    : "The Internship",
+		"year"    : "2013",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4.5,
+			"plot"       : 6,
+			"music"      : 8.5,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Interview",
 		"year"    : "2014",
 		"critic"  : 6.5,
@@ -5250,6 +5352,23 @@
 			"genre"      : 2.5,
 			"references" : 7,
 			"bias"       : 1
+		}
+	},
+	{
+		"name"    : "The Many Adventures of Winnie the Pooh",
+		"year"    : "1977",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5913,6 +6032,23 @@
 			"genre"      : 5.5,
 			"references" : 5.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Transcendence",
+		"year"    : "2014",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5.5
 		}
 	},
 	{

@@ -528,6 +528,22 @@
 		}
 	},
 	{
+		"name"    : "Samurai Jack: The Shadow of Aku",
+		"year"    : "2004",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 4,
+			"plot"        : 4.5,
+			"content"     : 4.5,
+			"mechanics"   : 5,
+			"reliability" : 5,
+			"replay"      : 2,
+			"soundtrack"  : 4.5,
+			"nostalgia"   : 5,
+			"bias"        : 3.5
+		}
+	},
+	{
 		"name"    : "Scooby-Doo! Night of 100 Frights",
 		"year"    : "2002",
 		"ratings" : {
@@ -720,6 +736,22 @@
 		}
 	},
 	{
+		"name"    : "The Legend of Zelda: A Link to the Past",
+		"year"    : "2002",
+		"ratings" : {
+			"visuals"     : 2.5,
+			"characters"  : 4,
+			"plot"        : 2,
+			"content"     : 3,
+			"mechanics"   : 2.5,
+			"reliability" : 4,
+			"replay"      : 2.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 3,
+			"bias"        : 3
+		}
+	},
+	{
 		"name"    : "The Legend of Zelda: The Wind Waker",
 		"year"    : "2002",
 		"ratings" : {
@@ -733,6 +765,22 @@
 			"soundtrack"  : 10,
 			"nostalgia"   : 8,
 			"bias"        : 8
+		}
+	},
+	{
+		"name"    : "The Legend of Zelda: Twilight Princess",
+		"year"    : "2006",
+		"ratings" : {
+			"visuals"     : 8,
+			"characters"  : 2,
+			"plot"        : 2.5,
+			"content"     : 2.5,
+			"mechanics"   : 3.5,
+			"reliability" : 5,
+			"replay"      : 0.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 2,
+			"bias"        : 2.5
 		}
 	},
 	{

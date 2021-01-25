@@ -77,6 +77,25 @@ MIA.content.set_table_sort = function( column ){
 	this.draw();
 };
 
+MIA.content.set_display_individual_category = function( category ){
+	if( category ) this.curr_view.display_individual_category = category;
+	else    delete this.curr_view.display_individual_category;
+	this.draw();
+};
+
+MIA.content.get_display_individual_category_html = function( _this, self ){
+	return '<div class="detailed-select">' +
+		'Category : <select onchange="MIA.content.set_display_individual_category( this.value );">' +
+			'<option value="" ' + ( !_this.display_individual_category ? 'selected' : '' ) + '>Total</option>' +
+			Object.keys( self.data[ 0 ].ratings ).sort( (a,b) => ( a > b ? 1 : -1 ) ).map(function( category ){
+				return '<option value="' + category + '" ' + ( _this.display_individual_category == category ? 'selected' : '' ) + '>' +
+					MIA.functions.capitalize( category ) +
+				'</option>';
+			}).join('') +
+		'</select>' +
+	'</div>';
+};
+
 MIA.content.set_versus_item = function( idx, side ){
 	this.versus_indices[ side ] = idx;
 	this.draw();

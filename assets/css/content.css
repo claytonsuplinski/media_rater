@@ -140,7 +140,7 @@
 	bottom:-40px;
 }
 
-#content .histogram-select select,
+#content .detailed-select select,
 #content .item .versus-select select{
 	background:#333;
 	color:#fff;
@@ -170,11 +170,11 @@
 #content .item.versus-comparison .versus-diff.left {  left:0px; }
 #content .item.versus-comparison .versus-diff.right{ right:0px; }
 
-#content .histogram-select{
+#content .detailed-select{
 	margin-bottom:20px;
 }
 
-#content .histogram-select select{
+#content .detailed-select select{
 	margin-left:5px;
 }
 
@@ -235,6 +235,11 @@
 
 #content .ranking-table tr:hover td{
 	background:#44625d;
+}
+
+#content .years-table-container{
+	width:350px;
+	margin:10px auto;
 }
 
 #view-selector{

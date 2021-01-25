@@ -328,7 +328,7 @@
 			"plot"        : 6.5,
 			"content"     : 6,
 			"mechanics"   : 6.5,
-			"reliability" : 7.5,
+			"reliability" : 5.5,
 			"replay"      : 8,
 			"soundtrack"  : 7,
 			"nostalgia"   : 8,
@@ -381,6 +381,22 @@
 			"soundtrack"  : 6,
 			"nostalgia"   : 7.5,
 			"bias"        : 7.5
+		}
+	},
+	{
+		"name"    : "NBA Live 08",
+		"year"    : "2007",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 7,
+			"plot"        : 4,
+			"content"     : 6,
+			"mechanics"   : 7,
+			"reliability" : 6,
+			"replay"      : 6,
+			"soundtrack"  : 7.5,
+			"nostalgia"   : 6,
+			"bias"        : 6
 		}
 	},
 	{
@@ -669,6 +685,22 @@
 			"soundtrack"  : 5,
 			"nostalgia"   : 6,
 			"bias"        : 5.5
+		}
+	},
+	{
+		"name"    : "Super Mario Galaxy",
+		"year"    : "2007",
+		"ratings" : {
+			"visuals"     : 5.5,
+			"characters"  : 5,
+			"plot"        : 4.5,
+			"content"     : 7,
+			"mechanics"   : 4.5,
+			"reliability" : 4.5,
+			"replay"      : 4,
+			"soundtrack"  : 7,
+			"nostalgia"   : 4,
+			"bias"        : 5
 		}
 	},
 	{

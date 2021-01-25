@@ -10,10 +10,27 @@
 			"plot"       : 6.5,
 			"music"      : 5,
 			"rewatch"    : 2.5,
-			"characters" : 7,
+			"characters" : 6.5,
 			"genre"      : 5.5,
 			"references" : 5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "America Says",
+		"year"    : "2018",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -119,6 +136,23 @@
 		}
 	},
 	{
+		"name"    : "Family Feud",
+		"year"    : "1999",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 6.5,
+			"characters" : 2.5,
+			"genre"      : 6,
+			"references" : 6,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Family Guy",
 		"year"    : "1999",
 		"critic"  : 8.1,
@@ -150,6 +184,23 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 9
+		}
+	},
+	{
+		"name"    : "Funny You Should Ask",
+		"year"    : "2017",
+		"critic"  : 4.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 2.5,
+			"music"      : 5,
+			"rewatch"    : 1.5,
+			"characters" : 2,
+			"genre"      : 3.5,
+			"references" : 3.5,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -272,6 +323,23 @@
 		}
 	},
 	{
+		"name"    : "Jeopardy!",
+		"year"    : "1984",
+		"critic"  : 8.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 7,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "King of Queens",
 		"year"    : "1998",
 		"critic"  : 7.3,
@@ -312,7 +380,7 @@
 		"ratings" : {
 			"humor"      : 7.5,
 			"visuals"    : 9.5,
-			"nostalgia"  : 2.5,
+			"nostalgia"  : 4,
 			"plot"       : 9,
 			"music"      : 7.5,
 			"rewatch"    : 9,
@@ -486,7 +554,7 @@
 			"plot"       : 7,
 			"music"      : 7.5,
 			"rewatch"    : 7,
-			"characters" : 7,
+			"characters" : 6.5,
 			"genre"      : 8.5,
 			"references" : 8,
 			"bias"       : 8
@@ -626,6 +694,23 @@
 			"genre"      : 9,
 			"references" : 9,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Wheel of Fortune",
+		"year"    : "1983",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 7,
+			"characters" : 6,
+			"genre"      : 8,
+			"references" : 4.5,
+			"bias"       : 6
 		}
 	}
 ]

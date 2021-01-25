@@ -1,5 +1,25 @@
 MIA.graph = {};
 
+MIA.graph.get_dot_color = function( d, p ){
+	var r = 50;
+	var g = 50;
+	var b = 50;
+	
+	var mid = ( p.mid_value !== undefined ? p.mid_value : 50 );
+	var max = mid * 2;
+	
+	var val = Number( d.y );				
+	if( val < mid ){
+		r += 150;
+		g += 150 * ( val ) / mid;
+	}
+	else{
+		r += 150 * ( max - val ) / mid;
+		g += 150;
+	}
+	return 'rgb(' + [ r, g, b ].map( x => parseInt( x ) ).join(', ') + ')';
+};
+
 MIA.graph.get_graph_canvas = function( p ){
 	var id = p.id || '#graph';
 
@@ -23,6 +43,8 @@ MIA.graph.get_graph_canvas = function( p ){
 };
 
 MIA.graph.draw_line_graph = function( p ){
+	var self = this;
+
 	var svg = this.get_graph_canvas( p );
 
 	var x = d3.scaleLinear().range([ 0, svg.width  ]);
@@ -72,19 +94,7 @@ MIA.graph.draw_line_graph = function( p ){
 			.attr("cy", function (d) { return y( d.y ); } )
 			.attr("r", 3)
 			.style("fill", function(d){
-				var r = 50;
-				var g = 50;
-				var b = 50;
-				var val = Number( d.y );
-				if( val < 50 ){
-					r += 150;
-					g += 150 * ( val ) / 50;
-				}
-				else{
-					r += 150 * ( 100 - val ) / 50;
-					g += 150;
-				}
-				return 'rgb(' + [ r, g, b ].map( x => parseInt( x ) ).join(', ') + ')';
+				return self.get_dot_color( d, p );
 			})
 			.on( "mouseover", function(d){
 				tooltip.html(
@@ -118,6 +128,8 @@ MIA.graph.draw_line_graph = function( p ){
 };
 
 MIA.graph.draw_scatter_plot = function( p ){
+	var self = this;
+
 	var svg = this.get_graph_canvas( p );
 	
 	var x = d3.scaleLinear().range([ 0, svg.width  ]);
@@ -157,19 +169,7 @@ MIA.graph.draw_scatter_plot = function( p ){
 			.attr("cy", function (d) { return y( d.y ); } )
 			.attr("r", 3)
 			.style("fill", function(d){
-				var r = 50;
-				var g = 50;
-				var b = 50;
-				var val = Number( d.y );
-				if( val < 50 ){
-					r += 150;
-					g += 150 * ( val ) / 50;
-				}
-				else{
-					r += 150 * ( 100 - val ) / 50;
-					g += 150;
-				}
-				return 'rgb(' + [ r, g, b ].map( x => parseInt( x ) ).join(', ') + ')';
+				return self.get_dot_color( d, p );
 			})
 			.on( "mouseover", function(d){
 				tooltip.html(

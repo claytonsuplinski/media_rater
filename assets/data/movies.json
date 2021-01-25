@@ -1054,6 +1054,40 @@
 		}
 	},
 	{
+		"name"    : "Cinderella [Live Action]",
+		"year"    : "2015",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5.5,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Close Encounters of the Third Kind",
+		"year"    : "1977",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 4,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Cloverfield",
 		"year"    : "2008",
 		"critic"  : 7,
@@ -1700,6 +1734,23 @@
 		}
 	},
 	{
+		"name"    : "Fun and Fancy Free",
+		"year"    : "1947",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8,
+			"nostalgia"  : 3.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Funny People",
 		"year"    : "2009",
 		"critic"  : 6.3,
@@ -2227,6 +2278,23 @@
 		}
 	},
 	{
+		"name"    : "Idiocracy",
+		"year"    : "2006",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Inception",
 		"year"    : "2010",
 		"critic"  : 8.8,
@@ -2618,6 +2686,23 @@
 		}
 	},
 	{
+		"name"    : "Looper",
+		"year"    : "2012",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Love Actually",
 		"year"    : "2003",
 		"critic"  : 7.6,
@@ -2733,6 +2818,23 @@
 			"characters" : 5,
 			"genre"      : 6.5,
 			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Melody Time",
+		"year"    : "1948",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 2,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 5.5,
+			"references" : 3,
 			"bias"       : 5
 		}
 	},
@@ -3111,6 +3213,23 @@
 		}
 	},
 	{
+		"name"    : "Old School",
+		"year"    : "2003",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Oliver and Company",
 		"year"    : "1988",
 		"critic"  : 6.7,
@@ -3273,7 +3392,7 @@
 			"nostalgia"  : 5.5,
 			"plot"       : 6,
 			"music"      : 6,
-			"rewatch"    : 3,
+			"rewatch"    : 4,
 			"characters" : 7,
 			"genre"      : 5,
 			"references" : 8,
@@ -3822,6 +3941,23 @@
 			"genre"      : 5.5,
 			"references" : 4.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Scott Pilgrim vs. the World",
+		"year"    : "2010",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 6
 		}
 	},
 	{
@@ -4790,7 +4926,7 @@
 			"characters" : 5,
 			"genre"      : 4.5,
 			"references" : 2,
-			"bias"       : 3.5
+			"bias"       : 4
 		}
 	},
 	{

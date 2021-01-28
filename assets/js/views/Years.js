@@ -56,6 +56,8 @@ MIA.content.views.years.get_content = function( self, p ){
 	return '<svg id="graph"></svg>' + 
 		MIA.content.get_display_individual_category_html( this, self ) +
 		'<div class="years-table-container">' +
-			MIA.content.views.table.get_table_content( self, [ 'Year', 'Score', 'Delta' ], table_data, { score_max : max_y_value } ) +
+			MIA.content.views.table.get_table_content(
+				self, [ 'Year', 'Score', 'Delta' ], table_data, { score_max : ( this.display_individual_category ? max_y_value : undefined ) }
+			) +
 		'</div>';
 };

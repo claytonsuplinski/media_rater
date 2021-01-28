@@ -1411,6 +1411,23 @@
 		}
 	},
 	{
+		"name"    : "Envy",
+		"year"    : "2004",
+		"critic"  : 4.8,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 4,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 3.5,
+			"rewatch"    : 4,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 1.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Epic Movie",
 		"year"    : "2007",
 		"critic"  : 2.4,

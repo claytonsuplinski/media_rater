@@ -221,6 +221,23 @@
 		}
 	},
 	{
+		"name"    : "All the President's Men",
+		"year"    : "1976",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "American Beauty",
 		"year"    : "1999",
 		"critic"  : 8.3,
@@ -303,6 +320,23 @@
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 10
+		}
+	},
+	{
+		"name"    : "Anchorman 2",
+		"year"    : "2013",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6,
+			"nostalgia"  : 6,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -1071,6 +1105,23 @@
 		}
 	},
 	{
+		"name"    : "Citizen Kane",
+		"year"    : "1941",
+		"critic"  : 8.3,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 2.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 3.5,
+			"references" : 2.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Close Encounters of the Third Kind",
 		"year"    : "1977",
 		"critic"  : 7.6,
@@ -1266,7 +1317,7 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 9,
 			"plot"       : 9,
-			"music"      : 6,
+			"music"      : 5.5,
 			"rewatch"    : 9,
 			"characters" : 9,
 			"genre"      : 9.5,
@@ -1402,7 +1453,7 @@
 			"visuals"    : 6,
 			"nostalgia"  : 8,
 			"plot"       : 8,
-			"music"      : 8,
+			"music"      : 7.5,
 			"rewatch"    : 10,
 			"characters" : 9,
 			"genre"      : 10,
@@ -1921,6 +1972,40 @@
 		}
 	},
 	{
+		"name"    : "Groundhog Day",
+		"year"    : "1993",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 6,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Grown Ups",
+		"year"    : "2010",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 5.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4.5,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "Guardians of the Galaxy",
 		"year"    : "2014",
 		"critic"  : 8,
@@ -2011,7 +2096,7 @@
 		"critic"  : 7.9,
 		"ratings" : {
 			"humor"      : 5,
-			"visuals"    : 9.5,
+			"visuals"    : 9,
 			"nostalgia"  : 10,
 			"plot"       : 9,
 			"music"      : 10,
@@ -2045,7 +2130,7 @@
 		"critic"  : 7.5,
 		"ratings" : {
 			"humor"      : 5.5,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
@@ -2096,7 +2181,7 @@
 		"critic"  : 8.1,
 		"ratings" : {
 			"humor"      : 3.5,
-			"visuals"    : 10,
+			"visuals"    : 9.5,
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
@@ -2397,6 +2482,23 @@
 		}
 	},
 	{
+		"name"    : "Iron Man 3",
+		"year"    : "2013",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 6.5,
+			"music"      : 8,
+			"rewatch"    : 5,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 7,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "It's a Wonderful Life",
 		"year"    : "1946",
 		"critic"  : 8.6,
@@ -2427,6 +2529,23 @@
 			"characters" : 4.5,
 			"genre"      : 7.5,
 			"references" : 10,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Jimmy Neutron: Boy Genius",
+		"year"    : "2001",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 8,
+			"nostalgia"  : 5.5,
+			"plot"       : 5,
+			"music"      : 6.5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 4,
 			"bias"       : 5.5
 		}
 	},
@@ -2788,6 +2907,23 @@
 		}
 	},
 	{
+		"name"    : "Man of Steel",
+		"year"    : "2013",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Manos: The Hands of Fate",
 		"year"    : "1966",
 		"critic"  : 1.9,
@@ -2802,6 +2938,40 @@
 			"genre"      : 1,
 			"references" : 0,
 			"bias"       : 0
+		}
+	},
+	{
+		"name"    : "March of the Penguins",
+		"year"    : "2005",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 2.5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Mary Poppins",
+		"year"    : "1964",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 1.5,
+			"nostalgia"  : 3,
+			"plot"       : 2.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 4,
+			"bias"       : 4
 		}
 	},
 	{
@@ -2870,6 +3040,23 @@
 			"genre"      : 6,
 			"references" : 3,
 			"bias"       : 2.5
+		}
+	},
+	{
+		"name"    : "Men in Black",
+		"year"    : "1997",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3587,6 +3774,23 @@
 		}
 	},
 	{
+		"name"    : "Prometheus",
+		"year"    : "2012",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 2.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Pulp Fiction",
 		"year"    : "1994",
 		"critic"  : 8.9,
@@ -3737,6 +3941,23 @@
 			"genre"      : 6.5,
 			"references" : 3.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Robin Hood",
+		"year"    : "1973",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -4012,6 +4233,23 @@
 		}
 	},
 	{
+		"name"    : "Semi-Pro",
+		"year"    : "2008",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Se7en",
 		"year"    : "1995",
 		"critic"  : 8.6,
@@ -4177,7 +4415,7 @@
 			"rewatch"    : 3.5,
 			"characters" : 6,
 			"genre"      : 6,
-			"references" : 8.5,
+			"references" : 8,
 			"bias"       : 6
 		}
 	},
@@ -4998,6 +5236,23 @@
 		}
 	},
 	{
+		"name"    : "The Dark Knight",
+		"year"    : "2008",
+		"critic"  : 9,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 8.5,
+			"music"      : 5,
+			"rewatch"    : 6,
+			"characters" : 6,
+			"genre"      : 8.5,
+			"references" : 5.5,
+			"bias"       : 6.5
+		}
+	},
+	{
 		"name"    : "The Day After Tomorrow",
 		"year"    : "2004",
 		"critic"  : 6.4,
@@ -5032,6 +5287,23 @@
 		}
 	},
 	{
+		"name"    : "The Emperor's New Groove",
+		"year"    : "2000",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The English Patient",
 		"year"    : "1996",
 		"critic"  : 7.4,
@@ -5054,7 +5326,7 @@
 		"critic"  : 6.2,
 		"ratings" : {
 			"humor"      : 9.5,
-			"visuals"    : 6,
+			"visuals"    : 5.5,
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
@@ -5266,7 +5538,7 @@
 			"characters" : 4,
 			"genre"      : 7,
 			"references" : 1.5,
-			"bias"       : 6
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -5504,6 +5776,23 @@
 			"characters" : 4.5,
 			"genre"      : 2.5,
 			"references" : 7,
+			"bias"       : 1
+		}
+	},
+	{
+		"name"    : "The Lord of the Rings: The Two Towers",
+		"year"    : "2002",
+		"critic"  : 8.7,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 5,
+			"nostalgia"  : 1.5,
+			"plot"       : 1.5,
+			"music"      : 4.5,
+			"rewatch"    : 0.5,
+			"characters" : 3.5,
+			"genre"      : 2,
+			"references" : 3.5,
 			"bias"       : 1
 		}
 	},
@@ -5777,6 +6066,23 @@
 			"genre"      : 2.5,
 			"references" : 3,
 			"bias"       : 3
+		}
+	},
+	{
+		"name"    : "The Rugrats Movie",
+		"year"    : "1998",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 5.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 7.5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -6231,7 +6537,7 @@
 			"nostalgia"  : 7,
 			"plot"       : 6,
 			"music"      : 5,
-			"rewatch"    : 6.5,
+			"rewatch"    : 6,
 			"characters" : 5.5,
 			"genre"      : 9,
 			"references" : 3,
@@ -6659,8 +6965,25 @@
 			"rewatch"    : 7,
 			"characters" : 6,
 			"genre"      : 7.5,
-			"references" : 5,
+			"references" : 6,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Zoolander 2",
+		"year"    : "2016",
+		"critic"  : 4.7,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 5,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{

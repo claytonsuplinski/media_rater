@@ -845,7 +845,7 @@
 			"rewatch"    : 5,
 			"characters" : 6.5,
 			"genre"      : 8,
-			"references" : 8,
+			"references" : 7,
 			"bias"       : 5.5
 		}
 	},
@@ -862,7 +862,7 @@
 			"rewatch"    : 5,
 			"characters" : 6.5,
 			"genre"      : 8,
-			"references" : 8,
+			"references" : 7,
 			"bias"       : 5.5
 		}
 	},
@@ -879,7 +879,7 @@
 			"rewatch"    : 5,
 			"characters" : 7,
 			"genre"      : 8,
-			"references" : 8,
+			"references" : 7,
 			"bias"       : 6
 		}
 	},
@@ -1220,6 +1220,23 @@
 			"characters" : 6,
 			"genre"      : 6,
 			"references" : 1.5,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Daddy Day Care",
+		"year"    : "2003",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 4,
+			"nostalgia"  : 5.5,
+			"plot"       : 6,
+			"music"      : 6,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3.5,
 			"bias"       : 5.5
 		}
 	},
@@ -2380,6 +2397,23 @@
 		}
 	},
 	{
+		"name"    : "Ice Age",
+		"year"    : "2002",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8,
+			"nostalgia"  : 4.5,
+			"plot"       : 5.5,
+			"music"      : 7.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Idiocracy",
 		"year"    : "2006",
 		"critic"  : 6.6,
@@ -2890,6 +2924,23 @@
 		}
 	},
 	{
+		"name"    : "Madagascar",
+		"year"    : "2005",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Major League",
 		"year"    : "1989",
 		"critic"  : 7.2,
@@ -3179,6 +3230,23 @@
 		}
 	},
 	{
+		"name"    : "Mr. & Mrs. Smith",
+		"year"    : "2005",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 3.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Mulan",
 		"year"    : "1998",
 		"critic"  : 7.6,
@@ -3329,6 +3397,23 @@
 			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "No Country for Old Men",
+		"year"    : "2007",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 2.5,
+			"characters" : 5.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4301,6 +4386,23 @@
 		}
 	},
 	{
+		"name"    : "Shrek",
+		"year"    : "2001",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 7.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Silver Linings Playbook",
 		"year"    : "2012",
 		"critic"  : 7.7,
@@ -4811,23 +4913,6 @@
 		}
 	},
 	{
-		"name"    : "Superbad",
-		"year"    : "2007",
-		"critic"  : 7.6,
-		"ratings" : {
-			"humor"      : 7,
-			"visuals"    : 7,
-			"nostalgia"  : 4,
-			"plot"       : 7,
-			"music"      : 7,
-			"rewatch"    : 6,
-			"characters" : 7,
-			"genre"      : 6,
-			"references" : 8,
-			"bias"       : 5
-		}
-	},
-	{
 		"name"    : "Super Troopers",
 		"year"    : "2001",
 		"critic"  : 7.1,
@@ -4858,6 +4943,40 @@
 			"characters" : 6.5,
 			"genre"      : 7,
 			"references" : 7,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Superbad",
+		"year"    : "2007",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 7,
+			"music"      : 7,
+			"rewatch"    : 6,
+			"characters" : 7,
+			"genre"      : 6,
+			"references" : 8,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Superhero Movie",
+		"year"    : "2008",
+		"critic"  : 4.5,
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3.5,
 			"bias"       : 5.5
 		}
 	},
@@ -5049,6 +5168,23 @@
 		}
 	},
 	{
+		"name"    : "The Avengers",
+		"year"    : "2012",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 7.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 5,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 7,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "The Bee Movie",
 		"year"    : "2007",
 		"critic"  : 6.1,
@@ -5216,6 +5352,23 @@
 			"genre"      : 6,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe",
+		"year"    : "2005",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -6052,6 +6205,23 @@
 		}
 	},
 	{
+		"name"    : "The Road to El Dorado",
+		"year"    : "2000",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 2,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Rocky Horror Picture Show",
 		"year"    : "1975",
 		"critic"  : 7.4,
@@ -6541,7 +6711,7 @@
 			"characters" : 5.5,
 			"genre"      : 9,
 			"references" : 3,
-			"bias"       : 7.5
+			"bias"       : 7
 		}
 	},
 	{

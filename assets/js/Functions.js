@@ -45,6 +45,10 @@ MIA.functions.get_diff_color = function( diff ){
 	return 'rgb(' + [r,g,b].join(', ') + ')';
 };
 
+MIA.functions.get_view_key = function(str){
+	return str.toLowerCase().split(' ').join('_');
+};
+
 MIA.functions.capitalize = function(str){
 	return str.replace(/\w\S*/g, function(txt){return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();});
 };

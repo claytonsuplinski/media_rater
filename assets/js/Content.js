@@ -48,6 +48,8 @@ MIA.content.load = function(){
 			MIA.pages.curr_page = 1;
 			MIA.pages.num_pages = Math.ceil( MIA.content.data.length / MIA.content.num_per_page );
 			
+			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );
+			
 			MIA.content.draw();
 		}
 	});
@@ -60,7 +62,7 @@ MIA.content.show_all = function(){
 
 MIA.content.select_view = function( view ){
 	this.view = view;
-	this.view_key = view.toLowerCase().split(' ').join('_');
+	this.view_key = MIA.functions.get_view_key( view );
 	this.curr_view = this.views[ this.view_key ];
 };
 

@@ -378,9 +378,9 @@
 		"year"    : "2009",
 		"critic"  : 8.4,
 		"ratings" : {
-			"humor"      : 7.5,
+			"humor"      : 8.5,
 			"visuals"    : 9.5,
-			"nostalgia"  : 4,
+			"nostalgia"  : 6.5,
 			"plot"       : 9,
 			"music"      : 7.5,
 			"rewatch"    : 9,
@@ -694,6 +694,23 @@
 			"genre"      : 9,
 			"references" : 9,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "WandaVision",
+		"year"    : "2021",
+		"critic"  : 8.2,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 10,
+			"nostalgia"  : 5.5,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 7,
+			"genre"      : 7,
+			"references" : 7.5,
+			"bias"       : 6
 		}
 	},
 	{

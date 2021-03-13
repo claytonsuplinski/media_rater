@@ -176,6 +176,22 @@
 		}
 	},
 	{
+		"name"    : "Kingdom Hearts Re:Chain of Memories",
+		"year"    : "2008",
+		"ratings" : {
+			"visuals"     : 8.5,
+			"characters"  : 6.5,
+			"plot"        : 6.5,
+			"content"     : 7.5,
+			"mechanics"   : 4,
+			"reliability" : 6.5,
+			"replay"      : 4.5,
+			"soundtrack"  : 9,
+			"nostalgia"   : 7,
+			"bias"        : 6
+		}
+	},
+	{
 		"name"    : "Kingdom Hearts II",
 		"year"    : "2006",
 		"ratings" : {

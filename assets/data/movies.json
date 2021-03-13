@@ -476,6 +476,23 @@
 		}
 	},
 	{
+		"name"    : "Avengers: Age of Ultron",
+		"year"    : "2015",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 9.5,
+			"nostalgia"  : 5.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 6,
+			"characters" : 6.5,
+			"genre"      : 8,
+			"references" : 6.5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Avengers: Endgame",
 		"year"    : "2019",
 		"critic"  : 8.4,
@@ -1088,6 +1105,23 @@
 		}
 	},
 	{
+		"name"    : "Cinderella",
+		"year"    : "1950",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 7,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 7,
+			"genre"      : 7,
+			"references" : 6,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Cinderella [Live Action]",
 		"year"    : "2015",
 		"critic"  : 6.9,
@@ -1425,6 +1459,23 @@
 			"genre"      : 5.5,
 			"references" : 5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Easy A",
+		"year"    : "2010",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2312,6 +2363,23 @@
 		}
 	},
 	{
+		"name"    : "Holes",
+		"year"    : "2003",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 5,
+			"plot"       : 8,
+			"music"      : 4,
+			"rewatch"    : 5.5,
+			"characters" : 7.5,
+			"genre"      : 7.5,
+			"references" : 4,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Holy Motors",
 		"year"    : "2012",
 		"critic"  : 7.1,
@@ -2394,6 +2462,23 @@
 			"genre"      : 4.5,
 			"references" : 4,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "I, Robot",
+		"year"    : "2004",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5.5,
+			"nostalgia"  : 5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -3723,6 +3808,23 @@
 		}
 	},
 	{
+		"name"    : "Planet of the Apes",
+		"year"    : "1968",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 7,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Pocahontas",
 		"year"    : "1995",
 		"critic"  : 6.7,
@@ -4026,6 +4128,23 @@
 			"genre"      : 6.5,
 			"references" : 3.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Rise of the Planet of the Apes",
+		"year"    : "2011",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 10,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 6,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -4913,6 +5032,23 @@
 		}
 	},
 	{
+		"name"    : "Suicide Squad",
+		"year"    : "2016",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Super Troopers",
 		"year"    : "2001",
 		"critic"  : 7.1,
@@ -5029,6 +5165,23 @@
 			"genre"      : 6.5,
 			"references" : 4,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Taken",
+		"year"    : "2008",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 8.5,
+			"references" : 4,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -5559,6 +5712,23 @@
 		}
 	},
 	{
+		"name"    : "The Great Gatsby",
+		"year"    : "2013",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 8.5,
+			"nostalgia"  : 5,
+			"plot"       : 7.5,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Great Mouse Detective",
 		"year"    : "1986",
 		"critic"  : 7.2,
@@ -6015,6 +6185,23 @@
 			"genre"      : 6,
 			"references" : 1.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Mortal Instruments: City of Bones",
+		"year"    : "2013",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -6501,7 +6688,7 @@
 			"humor"      : 5.5,
 			"visuals"    : 8,
 			"nostalgia"  : 3,
-			"plot"       : 7.5,
+			"plot"       : 7,
 			"music"      : 5.5,
 			"rewatch"    : 5.5,
 			"characters" : 3,

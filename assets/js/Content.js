@@ -1,4 +1,4 @@
-MIA.content = { num_per_page : 60, views : {} };
+MIA.content = { views : {} };
 
 MIA.content.load = function(){
 	this.select_view( 'Grid' );
@@ -6,8 +6,9 @@ MIA.content.load = function(){
 	this.versus_indices = { left : 0, right : 1 };
 
 	MIA.pages = new Pages({
-		container : '#pages',
-		on_change : function(){ MIA.content.draw(); }
+		container        : '#pages',
+		entries_per_page : 60,
+		on_change        : function(){ MIA.content.draw(); }
 	});
 
 	$.ajax({
@@ -48,7 +49,7 @@ MIA.content.load = function(){
 				item.index = idx;
 			});
 			
-			MIA.pages.num_pages = Math.ceil( MIA.content.data.length / MIA.content.num_per_page );
+			MIA.pages.num_pages = MIA.pages.calculate_num_pages( MIA.content.data );
 			
 			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );
 			

@@ -1,10 +1,19 @@
 function Pages( p ){
-	this.curr_page = p.curr_page || 1;
-	this.num_pages = p.num_pages || 1;
+	this.curr_page        = p.curr_page        || 1;
+	this.num_pages        = p.num_pages        || 1;
+	this.entries_per_page = p.entries_per_page || 1;
 
 	this.container = p.container;
 	this.on_change = p.on_change;
-}
+};
+
+Pages.prototype.calculate_num_pages = function( entries ){
+	return Math.ceil( entries.length / this.entries_per_page );
+};
+
+Pages.prototype.get_curr_entries = function( entries ){
+	return entries.slice( ( this.curr_page - 1 ) * this.entries_per_page, this.curr_page * this.entries_per_page );
+};
 
 Pages.prototype.next_page = function( offset ){
 	this.set_page( this.curr_page + offset );

@@ -5,7 +5,7 @@ MIA.content.views.grid.get_content = function( self, p ){
 	
 	var data = self.data.slice();
 	
-	if( !self.is_showing_all ) data = data.slice( ( MIA.pages.curr_page - 1 ) * self.num_per_page, MIA.pages.curr_page * self.num_per_page );
+	if( !self.is_showing_all ) data = MIA.pages.get_curr_entries( data );
 	
 	return data.map(function(item, idx){
 		var rank_class = MIA.functions.get_rank_class( item.rank );

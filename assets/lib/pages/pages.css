@@ -1,9 +1,8 @@
-.pages-interface{
+.pages-container{
 	white-space:nowrap;
-	margin:15px auto 20px;
 }
 
-.pages-interface .page-button{
+.pages-container .pages-page-button{
 	display:inline-block;
 	width:30px;
 	height:22px;
@@ -14,28 +13,28 @@
 	cursor:pointer;
 }
 
-.pages-interface .page-button:hover{
+.pages-container .pages-page-button:hover{
 	background:#606060;
 }
 
-.pages-interface .page-button.active{
+.pages-container .pages-page-button.active{
 	background:#173955;
 }
 
-.pages-interface .page-button.arrow,
-.pages-interface .page-button.ellipsis{
+.pages-container .pages-page-button.arrow,
+.pages-container .pages-page-button.ellipsis{
 	padding-top:2px;
 }
 
-.pages-interface .page-button.arrow{
+.pages-container .pages-page-button.arrow{
 	background:#0b0b0b;
 }
 
-.pages-interface .page-button.arrow:hover{
+.pages-container .pages-page-button.arrow:hover{
 	background:#222;
 }
 
-.pages-interface .page-button.ellipsis{
+.pages-container .pages-page-button.ellipsis{
 	background:none;
 	border:0;
 	cursor:auto;

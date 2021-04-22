@@ -33,7 +33,7 @@ MIA.content.views.grid.get_content = function( self, p ){
 			'</div>'+
 		'</div>';
 	}).join('') +
-	'<div class="pages-interface"></div>';
+	'<div id="pages"></div>';
 };
 
 MIA.content.views.grid.post_draw = function( self, p ){	

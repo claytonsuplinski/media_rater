@@ -4,8 +4,11 @@ MIA.content.load = function(){
 	this.select_view( 'Grid' );
 	
 	this.versus_indices = { left : 0, right : 1 };
-	
-	MIA.pages.on_change = function(){ MIA.content.draw(); };
+
+	MIA.pages = new Pages({
+		container : '#pages',
+		on_change : function(){ MIA.content.draw(); }
+	});
 
 	$.ajax({
 		url: './assets/data/'+MIA.content.name+'.json',
@@ -45,7 +48,6 @@ MIA.content.load = function(){
 				item.index = idx;
 			});
 			
-			MIA.pages.curr_page = 1;
 			MIA.pages.num_pages = Math.ceil( MIA.content.data.length / MIA.content.num_per_page );
 			
 			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );

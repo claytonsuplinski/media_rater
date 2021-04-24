@@ -374,6 +374,23 @@
 		}
 	},
 	{
+		"name"    : "Apocalypse Now",
+		"year"    : "1979",
+		"critic"  : 8.4,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Aquaman",
 		"year"    : "2018",
 		"critic"  : 7,
@@ -2122,6 +2139,23 @@
 			"genre"      : 7,
 			"references" : 8,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Godzilla",
+		"year"    : "2014",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 9.5,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{

@@ -5,7 +5,7 @@ MIA.content.load = function(){
 	
 	this.versus_indices = { left : 0, right : 1 };
 
-	MIA.pages = new Pages({
+	MIA.pages = new JL.pages({
 		container        : '#pages',
 		entries_per_page : 60,
 		on_change        : function(){ MIA.content.draw(); }

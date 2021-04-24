@@ -1,4 +1,6 @@
-function Pages( p ){
+try{ JL = JL; } catch(e){ JL = {}; }
+
+JL.pages = function( p ){
 	this.curr_page        = p.curr_page        || 1;
 	this.num_pages        = p.num_pages        || 1;
 	this.entries_per_page = p.entries_per_page || 1;
@@ -7,26 +9,26 @@ function Pages( p ){
 	this.on_change = p.on_change;
 };
 
-Pages.prototype.calculate_num_pages = function( entries ){
+JL.pages.prototype.calculate_num_pages = function( entries ){
 	return Math.ceil( entries.length / this.entries_per_page );
 };
 
-Pages.prototype.get_curr_entries = function( entries ){
+JL.pages.prototype.get_curr_entries = function( entries ){
 	return entries.slice( ( this.curr_page - 1 ) * this.entries_per_page, this.curr_page * this.entries_per_page );
 };
 
-Pages.prototype.next_page = function( offset ){
+JL.pages.prototype.next_page = function( offset ){
 	this.set_page( this.curr_page + offset );
 };
 
-Pages.prototype.set_page = function( val ){
+JL.pages.prototype.set_page = function( val ){
 	this.curr_page = val;
 	this.curr_page = Math.max( 1, Math.min( this.curr_page, this.num_pages ) );
 
 	if( this.on_change ) this.on_change();
 };
 
-Pages.prototype.get_button_html = function( val ){
+JL.pages.prototype.get_button_html = function( val ){
 	var self = this;
 
 	if( val == 'ellipsis' ) return '<div class="pages-page-button ellipsis"><i class="fa fa-ellipsis-h"></i></div>';
@@ -36,7 +38,7 @@ Pages.prototype.get_button_html = function( val ){
 	return '<div id="' + id + '" class="pages-page-button number ' + ( this.curr_page == val ? 'active' : '' ) + '">' + val + '</div>';
 };
 
-Pages.prototype.draw = function(){
+JL.pages.prototype.draw = function(){
 	var self = this;
 
 	var content = '';

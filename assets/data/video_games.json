@@ -208,6 +208,22 @@
 		}
 	},
 	{
+		"name"    : "Kingdom Hearts Birth By Sleep",
+		"year"    : "2010",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 7.5,
+			"plot"        : 6.5,
+			"content"     : 9,
+			"mechanics"   : 8.5,
+			"reliability" : 8.5,
+			"replay"      : 6.5,
+			"soundtrack"  : 9,
+			"nostalgia"   : 6.5,
+			"bias"        : 6.5
+		}
+	},
+	{
 		"name"    : "Kingdom Hearts III",
 		"year"    : "2019",
 		"ratings" : {

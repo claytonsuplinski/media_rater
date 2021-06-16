@@ -408,6 +408,23 @@
 		}
 	},
 	{
+		"name"    : "Apollo 13",
+		"year"    : "1995",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 7,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 9,
+			"references" : 4,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Aquaman",
 		"year"    : "2018",
 		"critic"  : 7,
@@ -439,6 +456,23 @@
 			"genre"      : 8.5,
 			"references" : 4.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Armageddon",
+		"year"    : "1998",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 7,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -2159,6 +2193,23 @@
 		}
 	},
 	{
+		"name"    : "Fun with Dick & Jane",
+		"year"    : "2005",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Funny People",
 		"year"    : "2009",
 		"critic"  : 6.3,
@@ -2172,6 +2223,23 @@
 			"characters" : 4.5,
 			"genre"      : 4.5,
 			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Get Hard",
+		"year"    : "2015",
+		"critic"  : 6,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3,
 			"bias"       : 5
 		}
 	},
@@ -2241,6 +2309,40 @@
 			"genre"      : 7,
 			"references" : 4,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Goldeneye",
+		"year"    : "1995",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Goldfinger",
+		"year"    : "1964",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 4.5,
+			"references" : 5,
+			"bias"       : 4
 		}
 	},
 	{
@@ -2423,7 +2525,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 7.5,
+			"rewatch"    : 8,
 			"characters" : 9.5,
 			"genre"      : 9.7,
 			"references" : 10,
@@ -2440,7 +2542,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 7.5,
+			"rewatch"    : 8,
 			"characters" : 9.5,
 			"genre"      : 9.8,
 			"references" : 10,
@@ -2457,7 +2559,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 9,
 			"music"      : 10,
-			"rewatch"    : 7.5,
+			"rewatch"    : 8,
 			"characters" : 9,
 			"genre"      : 9.5,
 			"references" : 9,
@@ -2474,7 +2576,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
-			"rewatch"    : 9,
+			"rewatch"    : 9.5,
 			"characters" : 10,
 			"genre"      : 9.9,
 			"references" : 9.5,
@@ -2491,7 +2593,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 9,
+			"rewatch"    : 9.5,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 9.5,
@@ -2547,6 +2649,23 @@
 			"genre"      : 9.6,
 			"references" : 9.5,
 			"bias"       : 9.5
+		}
+	},
+	{
+		"name"    : "Hellboy",
+		"year"    : "2004",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2830,7 +2949,7 @@
 			"visuals"    : 7.5,
 			"nostalgia"  : 8.5,
 			"plot"       : 10,
-			"music"      : 8,
+			"music"      : 6.5,
 			"rewatch"    : 8.5,
 			"characters" : 6.5,
 			"genre"      : 9.5,
@@ -3060,6 +3179,23 @@
 		}
 	},
 	{
+		"name"    : "Jurassic Park III",
+		"year"    : "2001",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Kazaam",
 		"year"    : "1996",
 		"critic"  : 3,
@@ -3125,6 +3261,23 @@
 			"genre"      : 6,
 			"references" : 4,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Kill Bill: Vol. 1",
+		"year"    : "2003",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 3.5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -3295,6 +3448,23 @@
 			"genre"      : 4.5,
 			"references" : 2.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Lost in Translation",
+		"year"    : "2003",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3553,6 +3723,23 @@
 		}
 	},
 	{
+		"name"    : "Minority Report",
+		"year"    : "2002",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 7.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Miracle",
 		"year"    : "2004",
 		"critic"  : 7.5,
@@ -3616,6 +3803,23 @@
 			"rewatch"    : 3,
 			"characters" : 5,
 			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Mission: Impossible III",
+		"year"    : "2006",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
 			"references" : 3.5,
 			"bias"       : 5
 		}
@@ -4556,6 +4760,23 @@
 		}
 	},
 	{
+		"name"    : "Raya and the Last Dragon",
+		"year"    : "2021",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 8,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Ready Player One",
 		"year"    : "2018",
 		"critic"  : 7.5,
@@ -4833,11 +5054,11 @@
 		"critic"  : 5.5,
 		"ratings" : {
 			"humor"      : 10,
-			"visuals"    : 8,
+			"visuals"    : 8.5,
 			"nostalgia"  : 8.5,
 			"plot"       : 5.5,
 			"music"      : 7,
-			"rewatch"    : 10,
+			"rewatch"    : 9.5,
 			"characters" : 7,
 			"genre"      : 9.5,
 			"references" : 10,
@@ -5521,7 +5742,7 @@
 			"characters" : 8,
 			"genre"      : 8.5,
 			"references" : 7.5,
-			"bias"       : 8
+			"bias"       : 7
 		}
 	},
 	{
@@ -5990,7 +6211,7 @@
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 10,
-			"nostalgia"  : 6,
+			"nostalgia"  : 7,
 			"plot"       : 7.5,
 			"music"      : 5,
 			"rewatch"    : 6,
@@ -6783,6 +7004,23 @@
 		}
 	},
 	{
+		"name"    : "The Lost World: Jurassic Park",
+		"year"    : "1997",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 5,
+			"plot"       : 6.5,
+			"music"      : 7.5,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 8.5,
+			"references" : 7.5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "The Many Adventures of Winnie the Pooh",
 		"year"    : "1977",
 		"critic"  : 7.6,
@@ -7514,6 +7752,23 @@
 		}
 	},
 	{
+		"name"    : "Tommy Boy",
+		"year"    : "1995",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 3,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Total Recall",
 		"year"    : "1990",
 		"critic"  : 7.5,
@@ -7588,7 +7843,7 @@
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 6.5,
-			"nostalgia"  : 7,
+			"nostalgia"  : 6.5,
 			"plot"       : 6,
 			"music"      : 5,
 			"rewatch"    : 6,
@@ -8225,6 +8480,23 @@
 			"genre"      : 4.5,
 			"references" : 4,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "500 Days of Summer",
+		"year"    : "2009",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	}
 ]

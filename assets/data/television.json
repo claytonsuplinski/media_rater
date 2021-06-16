@@ -646,6 +646,23 @@
 		}
 	},
 	{
+		"name"    : "The Falcon and the Winter Soldier",
+		"year"    : "2021",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 2,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 1.5,
+			"characters" : 2,
+			"genre"      : 4,
+			"references" : 4,
+			"bias"       : 3
+		}
+	},
+	{
 		"name"    : "The Mandalorian",
 		"year"    : "2019",
 		"critic"  : 8.7,

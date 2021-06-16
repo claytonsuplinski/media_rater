@@ -1,0 +1,467 @@
+[
+	{
+		"name"    : "Albus Dumbledore",
+		"ratings" : {
+			"humor"            : 3,
+			"relatability"     : 7,
+			"intrigue"         : 8,
+			"personality"      : 10,
+			"events"           : 6.5,
+			"mentality"        : 10,
+			"emotional impact" : 6,
+			"references"       : 8.5,
+			"nostalgia"        : 9,
+			"bias"             : 9
+		}
+	},
+	{
+		"name"    : "Alice",
+		"ratings" : {
+			"humor"            : 4.5,
+			"relatability"     : 6,
+			"intrigue"         : 7.5,
+			"personality"      : 8.5,
+			"events"           : 7.5,
+			"mentality"        : 7,
+			"emotional impact" : 5.5,
+			"references"       : 5.5,
+			"nostalgia"        : 6.5,
+			"bias"             : 6.5
+		}
+	},
+	{
+		"name"    : "Anakin Skywalker",
+		"ratings" : {
+			"humor"            : 2.5,
+			"relatability"     : 7.5,
+			"intrigue"         : 8.5,
+			"personality"      : 5,
+			"events"           : 10,
+			"mentality"        : 5.5,
+			"emotional impact" : 7.5,
+			"references"       : 10,
+			"nostalgia"        : 8.5,
+			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Chewbacca",
+		"ratings" : {
+			"humor"            : 0.5,
+			"relatability"     : 0,
+			"intrigue"         : 1,
+			"personality"      : 1.5,
+			"events"           : 1,
+			"mentality"        : 2,
+			"emotional impact" : 0.5,
+			"references"       : 4,
+			"nostalgia"        : 3.5,
+			"bias"             : 1
+		}
+	},
+	{
+		"name"    : "Cosmo Kramer",
+		"ratings" : {
+			"humor"            : 10,
+			"relatability"     : 2,
+			"intrigue"         : 8.5,
+			"personality"      : 9.5,
+			"events"           : 8.5,
+			"mentality"        : 4.5,
+			"emotional impact" : 3,
+			"references"       : 10,
+			"nostalgia"        : 9,
+			"bias"             : 9
+		}
+	},
+	{
+		"name"    : "Count Dooku",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 9,
+			"intrigue"         : 10,
+			"personality"      : 9.5,
+			"events"           : 5,
+			"mentality"        : 9,
+			"emotional impact" : 7.5,
+			"references"       : 8.5,
+			"nostalgia"        : 10,
+			"bias"             : 10
+		}
+	},
+	{
+		"name"    : "Dark Helmet",
+		"ratings" : {
+			"humor"            : 9.5,
+			"relatability"     : 6,
+			"intrigue"         : 7,
+			"personality"      : 8.5,
+			"events"           : 6,
+			"mentality"        : 6,
+			"emotional impact" : 3,
+			"references"       : 9,
+			"nostalgia"        : 9.5,
+			"bias"             : 9.5
+		}
+	},
+	{
+		"name"    : "Donald Duck",
+		"ratings" : {
+			"humor"            : 5,
+			"relatability"     : 5.5,
+			"intrigue"         : 4,
+			"personality"      : 8,
+			"events"           : 8,
+			"mentality"        : 4,
+			"emotional impact" : 3,
+			"references"       : 9,
+			"nostalgia"        : 9,
+			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "George Costanza",
+		"ratings" : {
+			"humor"            : 10,
+			"relatability"     : 5.5,
+			"intrigue"         : 5,
+			"personality"      : 9,
+			"events"           : 9.5,
+			"mentality"        : 4.5,
+			"emotional impact" : 3.5,
+			"references"       : 10,
+			"nostalgia"        : 9,
+			"bias"             : 9.5
+		}
+	},
+	{
+		"name"    : "Han Solo",
+		"ratings" : {
+			"humor"            : 3,
+			"relatability"     : 2.5,
+			"intrigue"         : 6.5,
+			"personality"      : 4.5,
+			"events"           : 4,
+			"mentality"        : 3.5,
+			"emotional impact" : 3,
+			"references"       : 5.5,
+			"nostalgia"        : 4.5,
+			"bias"             : 5
+		}
+	},
+	{
+		"name"    : "Harry Potter",
+		"ratings" : {
+			"humor"            : 3,
+			"relatability"     : 8.5,
+			"intrigue"         : 9,
+			"personality"      : 6,
+			"events"           : 10,
+			"mentality"        : 6,
+			"emotional impact" : 8,
+			"references"       : 10,
+			"nostalgia"        : 9.5,
+			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Hercules",
+		"ratings" : {
+			"humor"            : 2.5,
+			"relatability"     : 5.5,
+			"intrigue"         : 7,
+			"personality"      : 5.5,
+			"events"           : 6,
+			"mentality"        : 6,
+			"emotional impact" : 5,
+			"references"       : 4,
+			"nostalgia"        : 5.5,
+			"bias"             : 5.5
+		}
+	},
+	{
+		"name"    : "Hermione Granger",
+		"ratings" : {
+			"humor"            : 3,
+			"relatability"     : 7,
+			"intrigue"         : 8,
+			"personality"      : 7.5,
+			"events"           : 7.5,
+			"mentality"        : 9.5,
+			"emotional impact" : 5.5,
+			"references"       : 7,
+			"nostalgia"        : 8.5,
+			"bias"             : 7.5
+		}
+	},
+	{
+		"name"    : "Jerry Seinfeld",
+		"ratings" : {
+			"humor"            : 9.5,
+			"relatability"     : 6.5,
+			"intrigue"         : 6,
+			"personality"      : 6.5,
+			"events"           : 9,
+			"mentality"        : 5.5,
+			"emotional impact" : 3.5,
+			"references"       : 10,
+			"nostalgia"        : 9,
+			"bias"             : 9
+		}
+	},
+	{
+		"name"    : "Leia Skywalker",
+		"ratings" : {
+			"humor"            : 3,
+			"relatability"     : 3.5,
+			"intrigue"         : 5.5,
+			"personality"      : 4.5,
+			"events"           : 3,
+			"mentality"        : 5.5,
+			"emotional impact" : 3.5,
+			"references"       : 5.5,
+			"nostalgia"        : 4.5,
+			"bias"             : 5
+		}
+	},
+	{
+		"name"    : "Lord Voldemort",
+		"ratings" : {
+			"humor"            : 0.5,
+			"relatability"     : 6.5,
+			"intrigue"         : 9.5,
+			"personality"      : 6,
+			"events"           : 7,
+			"mentality"        : 8.5,
+			"emotional impact" : 9.5,
+			"references"       : 9,
+			"nostalgia"        : 9,
+			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Luke Skywalker",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 4.5,
+			"intrigue"         : 5,
+			"personality"      : 4,
+			"events"           : 4,
+			"mentality"        : 5,
+			"emotional impact" : 2,
+			"references"       : 5,
+			"nostalgia"        : 4.5,
+			"bias"             : 4
+		}
+	},
+	{
+		"name"    : "Mace Windu",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 6,
+			"intrigue"         : 9,
+			"personality"      : 8.5,
+			"events"           : 6.5,
+			"mentality"        : 6.5,
+			"emotional impact" : 7,
+			"references"       : 7.5,
+			"nostalgia"        : 10,
+			"bias"             : 9.5
+		}
+	},
+	{
+		"name"    : "Mickey Mouse",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 3.5,
+			"intrigue"         : 2,
+			"personality"      : 5,
+			"events"           : 3.5,
+			"mentality"        : 6,
+			"emotional impact" : 1,
+			"references"       : 9.5,
+			"nostalgia"        : 8.5,
+			"bias"             : 5.5
+		}
+	},
+	{
+		"name"    : "Ned Bigby",
+		"ratings" : {
+			"humor"            : 7.5,
+			"relatability"     : 9.5,
+			"intrigue"         : 2,
+			"personality"      : 7.5,
+			"events"           : 2.5,
+			"mentality"        : 5,
+			"emotional impact" : 3,
+			"references"       : 3,
+			"nostalgia"        : 9.5,
+			"bias"             : 9
+		}
+	},
+	{
+		"name"    : "Obi-Wan Kenobi",
+		"ratings" : {
+			"humor"            : 5,
+			"relatability"     : 6.5,
+			"intrigue"         : 8,
+			"personality"      : 9,
+			"events"           : 8,
+			"mentality"        : 7,
+			"emotional impact" : 7.5,
+			"references"       : 9.5,
+			"nostalgia"        : 8.5,
+			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Padme Amidala",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 6.5,
+			"intrigue"         : 8,
+			"personality"      : 9,
+			"events"           : 4.5,
+			"mentality"        : 7.5,
+			"emotional impact" : 7.5,
+			"references"       : 6,
+			"nostalgia"        : 10,
+			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Peter Pan",
+		"ratings" : {
+			"humor"            : 4,
+			"relatability"     : 4,
+			"intrigue"         : 6,
+			"personality"      : 6.5,
+			"events"           : 6,
+			"mentality"        : 6.5,
+			"emotional impact" : 7,
+			"references"       : 8,
+			"nostalgia"        : 9,
+			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Rachel Green",
+		"ratings" : {
+			"humor"            : 6,
+			"relatability"     : 6,
+			"intrigue"         : 7,
+			"personality"      : 5,
+			"events"           : 5.5,
+			"mentality"        : 5.5,
+			"emotional impact" : 4.5,
+			"references"       : 5,
+			"nostalgia"        : 7,
+			"bias"             : 6
+		}
+	},
+	{
+		"name"    : "Ron Burgundy",
+		"ratings" : {
+			"humor"            : 8.5,
+			"relatability"     : 4.5,
+			"intrigue"         : 7.5,
+			"personality"      : 7,
+			"events"           : 4.5,
+			"mentality"        : 4,
+			"emotional impact" : 4.5,
+			"references"       : 9.5,
+			"nostalgia"        : 8.5,
+			"bias"             : 7.5
+		}
+	},
+	{
+		"name"    : "Ron Weasley",
+		"ratings" : {
+			"humor"            : 4.5,
+			"relatability"     : 7,
+			"intrigue"         : 6,
+			"personality"      : 7,
+			"events"           : 7.5,
+			"mentality"        : 5,
+			"emotional impact" : 4.5,
+			"references"       : 6.5,
+			"nostalgia"        : 8.5,
+			"bias"             : 7
+		}
+	},
+	{
+		"name"    : "Severus Snape",
+		"ratings" : {
+			"humor"            : 5,
+			"relatability"     : 7,
+			"intrigue"         : 10,
+			"personality"      : 8.5,
+			"events"           : 6,
+			"mentality"        : 8,
+			"emotional impact" : 8.5,
+			"references"       : 8,
+			"nostalgia"        : 9,
+			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Sora",
+		"ratings" : {
+			"humor"            : 3.5,
+			"relatability"     : 9,
+			"intrigue"         : 9,
+			"personality"      : 9,
+			"events"           : 10,
+			"mentality"        : 8,
+			"emotional impact" : 8,
+			"references"       : 7.5,
+			"nostalgia"        : 10,
+			"bias"             : 10
+		}
+	},
+	{
+		"name"    : "Spongebob Squarepants",
+		"ratings" : {
+			"humor"            : 9,
+			"relatability"     : 5,
+			"intrigue"         : 5.5,
+			"personality"      : 7,
+			"events"           : 8.5,
+			"mentality"        : 5,
+			"emotional impact" : 2.5,
+			"references"       : 10,
+			"nostalgia"        : 9.5,
+			"bias"             : 9.5
+		}
+	},
+	{
+		"name"    : "Squidward Tentacles",
+		"ratings" : {
+			"humor"            : 9.5,
+			"relatability"     : 6,
+			"intrigue"         : 7,
+			"personality"      : 8.5,
+			"events"           : 7.5,
+			"mentality"        : 4,
+			"emotional impact" : 3.5,
+			"references"       : 9,
+			"nostalgia"        : 9.5,
+			"bias"             : 10
+		}
+	},
+	{
+		"name"    : "Sterling Archer",
+		"ratings" : {
+			"humor"            : 9,
+			"relatability"     : 4.5,
+			"intrigue"         : 5.5,
+			"personality"      : 8,
+			"events"           : 6.5,
+			"mentality"        : 4.5,
+			"emotional impact" : 4,
+			"references"       : 4.5,
+			"nostalgia"        : 6,
+			"bias"             : 7.5
+		}
+	}
+]

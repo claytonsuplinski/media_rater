@@ -48,8 +48,10 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 	return '<table class="ranking-table">' + 
 		'<tr>' + 
 			headers.map(function( h, i ){
-				return '<th class="' + ( sorted_idx == i ? 'sorted' : '' ) + ' no-highlight" onclick="MIA.content.set_table_sort(\'' + h + '\');">' + 
-					MIA.functions.capitalize( h ) + 
+				var label = MIA.functions.capitalize( h );
+				return '<th class="' + ( sorted_idx == i ? 'sorted' : '' ) + ' no-highlight ' + MIA.functions.get_view_key( h ) + '" ' + 
+						'onclick="MIA.content.set_table_sort(\'' + h + '\');" title="' + label + '">' + 
+					label + 
 				'</th>';
 			}).join('') + 
 		'</tr>' +
@@ -71,7 +73,7 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 					}
 					if( header == 'Total' ){
 						var color = MIA.content.views.table.get_table_cell_color( item.total_rating );
-						return '<td class="total" style="background:' + color + ';">' + Number( item.total_rating ).toFixed( 1 ) + '</td>';
+						return '<td class="total" style="background:' + color + ';">' + Number( item.total_rating ).toFixed( item.total_rating >= 100 ? 0 : 1 ) + '</td>';
 					}
 					if( header == 'Score' ){
 						var color = MIA.content.views.table.get_table_cell_color( item.score, { min : p.score_min, max : p.score_max } );

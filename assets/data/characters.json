@@ -120,6 +120,21 @@
 		}
 	},
 	{
+		"name"    : "Draco Malfoy",
+		"ratings" : {
+			"humor"            : 5.5,
+			"relatability"     : 4,
+			"intrigue"         : 8.5,
+			"personality"      : 8,
+			"events"           : 6,
+			"mentality"        : 6.5,
+			"emotional impact" : 9,
+			"references"       : 7.5,
+			"nostalgia"        : 8.5,
+			"bias"             : 8.5
+		}
+	},
+	{
 		"name"    : "George Costanza",
 		"ratings" : {
 			"humor"            : 10,
@@ -132,6 +147,21 @@
 			"references"       : 10,
 			"nostalgia"        : 9,
 			"bias"             : 9.5
+		}
+	},
+	{
+		"name"    : "Goofy",
+		"ratings" : {
+			"humor"            : 4,
+			"relatability"     : 5,
+			"intrigue"         : 3.5,
+			"personality"      : 7,
+			"events"           : 7.5,
+			"mentality"        : 4.5,
+			"emotional impact" : 6.5,
+			"references"       : 8,
+			"nostalgia"        : 9,
+			"bias"             : 7.5
 		}
 	},
 	{
@@ -192,6 +222,21 @@
 			"references"       : 7,
 			"nostalgia"        : 8.5,
 			"bias"             : 7.5
+		}
+	},
+	{
+		"name"    : "Jar Jar Binks",
+		"ratings" : {
+			"humor"            : 1,
+			"relatability"     : 1.5,
+			"intrigue"         : 0.5,
+			"personality"      : 1.5,
+			"events"           : 2,
+			"mentality"        : 0,
+			"emotional impact" : 2,
+			"references"       : 5.5,
+			"nostalgia"        : 5.5,
+			"bias"             : 2.5
 		}
 	},
 	{
@@ -357,6 +402,21 @@
 			"references"       : 5,
 			"nostalgia"        : 7,
 			"bias"             : 6
+		}
+	},
+	{
+		"name"    : "Riku",
+		"ratings" : {
+			"humor"            : 1.5,
+			"relatability"     : 8,
+			"intrigue"         : 8.5,
+			"personality"      : 8.5,
+			"events"           : 8,
+			"mentality"        : 8.5,
+			"emotional impact" : 8,
+			"references"       : 4,
+			"nostalgia"        : 9.5,
+			"bias"             : 8.5
 		}
 	},
 	{

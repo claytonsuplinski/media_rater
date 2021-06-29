@@ -143,7 +143,7 @@ MIA.content.draw = function( p ){
 		'</div>' +
 		this.curr_view.get_content( this, p )
 	);
-	$("#content").focus();
+	setTimeout(function(){ $("#content").focus(); }, 1);  // Need the timeout here, otherwise it won't run synchronously.
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);
 	
 	Object.keys( this.graphs ).forEach(function( graph ){

@@ -59,4 +59,8 @@
 	#view-selector{
 		margin-top:0px;
 	}
+
+	#content .ranking-table{
+		table-layout:auto;
+	}
 }

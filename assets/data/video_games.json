@@ -224,6 +224,22 @@
 		}
 	},
 	{
+		"name"    : "Kingdom Hearts 3D: Dream Drop Distance",
+		"year"    : "2012",
+		"ratings" : {
+			"visuals"     : 7.5,
+			"characters"  : 5.5,
+			"plot"        : 5.5,
+			"content"     : 9.5,
+			"mechanics"   : 5,
+			"reliability" : 7.5,
+			"replay"      : 6.5,
+			"soundtrack"  : 8.5,
+			"nostalgia"   : 7,
+			"bias"        : 6.5
+		}
+	},
+	{
 		"name"    : "Kingdom Hearts III",
 		"year"    : "2019",
 		"ratings" : {

@@ -765,6 +765,23 @@
 		}
 	},
 	{
+		"name"    : "Ben-Hur",
+		"year"    : "1959",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 3.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 3,
+			"music"      : 4.5,
+			"rewatch"    : 2,
+			"characters" : 4.5,
+			"genre"      : 4,
+			"references" : 4,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Black Panther",
 		"year"    : "2018",
 		"critic"  : 7.3,
@@ -1683,6 +1700,23 @@
 		}
 	},
 	{
+		"name"    : "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+		"year"    : "1964",
+		"critic"  : 8.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3,
+			"nostalgia"  : 2.5,
+			"plot"       : 2,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 1.5,
+			"genre"      : 2.5,
+			"references" : 2.5,
+			"bias"       : 3
+		}
+	},
+	{
 		"name"    : "Dracula",
 		"year"    : "1992",
 		"critic"  : 7.4,
@@ -2363,6 +2397,23 @@
 		}
 	},
 	{
+		"name"    : "Goodfellas",
+		"year"    : "1990",
+		"critic"  : 8.7,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 3,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Gran Torino",
 		"year"    : "2008",
 		"critic"  : 8.1,
@@ -2924,6 +2975,23 @@
 		}
 	},
 	{
+		"name"    : "Impractical Jokers: The Movie",
+		"year"    : "2020",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 8.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 2,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Inception",
 		"year"    : "2010",
 		"critic"  : 8.8,
@@ -2958,6 +3026,23 @@
 		}
 	},
 	{
+		"name"    : "Indiana Jones and the Last Crusade",
+		"year"    : "1989",
+		"critic"  : 8.2,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 4,
+			"nostalgia"  : 5,
+			"plot"       : 5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Indiana Jones and the Temple of Doom",
 		"year"    : "1984",
 		"critic"  : 7.5,
@@ -2970,7 +3055,7 @@
 			"rewatch"    : 3.5,
 			"characters" : 4.5,
 			"genre"      : 6,
-			"references" : 6.5,
+			"references" : 6,
 			"bias"       : 5
 		}
 	},
@@ -3366,6 +3451,23 @@
 		}
 	},
 	{
+		"name"    : "Leatherheads",
+		"year"    : "2008",
+		"critic"  : 6.0,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Legally Blonde",
 		"year"    : "2001",
 		"critic"  : 6.3,
@@ -3482,6 +3584,23 @@
 			"genre"      : 1,
 			"references" : 2.5,
 			"bias"       : 1.5
+		}
+	},
+	{
+		"name"    : "Luca",
+		"year"    : "2021",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3719,6 +3838,23 @@
 			"characters" : 4.5,
 			"genre"      : 5.5,
 			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Mighty Joe Young",
+		"year"    : "1998",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 2.5,
 			"bias"       : 5
 		}
 	},
@@ -4981,6 +5117,23 @@
 		}
 	},
 	{
+		"name"    : "RV",
+		"year"    : "2006",
+		"critic"  : 5.5,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 6,
+			"nostalgia"  : 5,
+			"plot"       : 5.5,
+			"music"      : 3,
+			"rewatch"    : 4.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Sausage Party",
 		"year"    : "2016",
 		"critic"  : 6.1,
@@ -5012,6 +5165,23 @@
 			"genre"      : 5,
 			"references" : 5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Scarface",
+		"year"    : "1983",
+		"critic"  : 8.3,
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2,
+			"plot"       : 3.5,
+			"music"      : 4,
+			"rewatch"    : 2.5,
+			"characters" : 3,
+			"genre"      : 4.5,
+			"references" : 5,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -7035,6 +7205,23 @@
 			"genre"      : 6.5,
 			"references" : 5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Mask",
+		"year"    : "1994",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{

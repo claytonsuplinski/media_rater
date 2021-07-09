@@ -1,5 +1,11 @@
 MIA.content.views.table = {};
 
+MIA.content.views.table.on_search = function(){ this.update_content(); };
+
+MIA.content.views.table.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+};
+
 MIA.content.views.table.get_table_cell_color = function( value, p ){
 	var p = p || {};
 	
@@ -88,8 +94,9 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 
 MIA.content.views.table.get_content = function( self, p ){
 	var p = p || {};
+	this.params = $.extend( {}, p );
 	
-	var data = self.data.slice();
+	var data = MIA.content.search_filter( self.data.slice() );
 	
 	var headers = [ 'Rank', 'Name' ];
 	if( data[ 0 ].year ) headers.push( 'Year' );

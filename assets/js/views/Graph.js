@@ -1,9 +1,17 @@
 MIA.content.views.graph = {};
 
+MIA.content.views.graph.on_search = function(){ this.update_content(); };
+
+MIA.content.views.graph.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+	MIA.content.post_draw_graphs();
+};
+
 MIA.content.views.graph.get_content = function( self, p ){
 	var p = p || {};
+	this.params = $.extend( {}, p );
 	
-	var data = self.data.slice();
+	var data = MIA.content.search_filter( self.data.slice() );
 	
 	var get_data_value = function( d ){ return d.total_rating; };
 	var max_y_value, mid_value;

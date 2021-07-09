@@ -6605,6 +6605,23 @@
 		}
 	},
 	{
+		"name"    : "The Curious Case of Benjamin Button",
+		"year"    : "2008",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 2.5,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "The Da Vinci Code",
 		"year"    : "2006",
 		"critic"  : 6.6,

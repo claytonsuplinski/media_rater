@@ -1,9 +1,19 @@
 MIA.content.views.years = {};
 
+MIA.content.views.years.on_search = function(){ this.update_content(); };
+
+MIA.content.views.years.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+	MIA.content.post_draw_graphs();
+};
+
 MIA.content.views.years.get_content = function( self, p ){
 	var p = p || {};
+	this.params = $.extend( {}, p );
+
+	var data = MIA.content.search_filter( self.data.slice() );
 	
-	var num_rating_categories = Object.keys( self.data[ 0 ].ratings ).length;
+	var num_rating_categories = Object.keys( data[ 0 ].ratings ).length;
 	
 	var years_obj = {};
 	
@@ -17,12 +27,12 @@ MIA.content.views.years.get_content = function( self, p ){
 	if( !this.display_individual_category ){
 		var rating_midpoint = num_rating_categories * p.max_stars_per_category / 2;
 		
-		self.data.forEach(function( entry ){ format_years_obj_entry( entry, entry.total_rating ); }, this);
+		data.forEach(function( entry ){ format_years_obj_entry( entry, entry.total_rating ); }, this);
 	}
 	else{
 		var rating_midpoint = p.max_stars_per_category / 2;
 		
-		self.data.sort( (a,b) => ( b.ratings[ this.display_individual_category ] - a.ratings[ this.display_individual_category ] ) ).forEach(function( entry ){
+		data.sort( (a,b) => ( b.ratings[ this.display_individual_category ] - a.ratings[ this.display_individual_category ] ) ).forEach(function( entry ){
 			format_years_obj_entry( entry, entry.ratings[ this.display_individual_category ] );
 		}, this);
 	}

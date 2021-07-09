@@ -58,6 +58,24 @@ MIA.content.load = function(){
 	});
 };
 
+MIA.content.get_search_val = function(){
+	return $( '#search-bar' ).val();
+};
+
+MIA.content.search_filter = function( data ){
+	var search_val = this.get_search_val();
+	if( search_val ){
+		search_val = search_val.toLowerCase();
+		data = data.filter(function( x ){
+			if( x.tags ){
+				if( x.tags.find( t => t.toLowerCase().includes( search_val ) ) ) return true;
+			}
+			return x.name.toLowerCase().includes( search_val ) || x.year == search_val;
+		});
+	}
+	return data;
+};
+
 MIA.content.show_all = function(){
 	this.is_showing_all = true;
 	this.draw({ preserve_scroll : true });
@@ -110,6 +128,12 @@ MIA.content.set_histogram_bin_size = function( bin_size ){
 	this.draw();
 };
 
+MIA.content.post_draw_graphs = function(){
+	Object.keys( this.graphs ).forEach(function( graph ){
+		MIA.graph[ 'draw_' + graph ]( this.graphs[ graph ] );
+	}, this);
+};
+
 MIA.content.draw = function( p ){
 	var self = this;
 
@@ -152,9 +176,7 @@ MIA.content.draw = function( p ){
 	setTimeout(function(){ $("#content").focus(); }, 1);  // Need the timeout here, otherwise it won't run synchronously.
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);
 	
-	Object.keys( this.graphs ).forEach(function( graph ){
-		MIA.graph[ 'draw_' + graph ]( this.graphs[ graph ] );
-	}, this);
+	this.post_draw_graphs();
 	
 	if( this.curr_view.post_draw ) this.curr_view.post_draw( this, p );
 	

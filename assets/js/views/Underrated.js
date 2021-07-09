@@ -1,9 +1,16 @@
 MIA.content.views.underrated = {};
 
+MIA.content.views.underrated.on_search = function(){ this.update_content(); };
+
+MIA.content.views.underrated.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+};
+
 MIA.content.views.underrated.get_content = function( self, p ){
 	var p = p || {};
+	this.params = $.extend( {}, p );
 	
-	var data = self.data.slice();
+	var data = MIA.content.search_filter( self.data.slice() );
 	
 	var headers = [ 'Rank', 'Name', 'Year', 'My Score', 'Critic Score', 'My Adjusted', 'Critic Adjusted', 'Underrated Score' ]
 	

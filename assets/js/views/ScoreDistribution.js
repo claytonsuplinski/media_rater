@@ -3,15 +3,25 @@ MIA.content.views.score_distribution = {
 	bin_sizes : [ 0.5, 1, 2, 5, 10, 20, 50 ],
 };
 
+MIA.content.views.score_distribution.on_search = function(){ this.update_content(); };
+
+MIA.content.views.score_distribution.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+	MIA.content.post_draw_graphs();
+};
+
 MIA.content.views.score_distribution.set_bin_size = function( val ){
 	this.bin_size = val;
 	this.self.draw();
 };
 
 MIA.content.views.score_distribution.get_content = function( self, p ){
-	this.self = self;
-	
 	var p = p || {};
+	this.params = $.extend( {}, p );
+
+	var data = MIA.content.search_filter( self.data.slice() );
+	
+	this.self = self;
 	
 	var get_data_value = function( d ){ return d.total_rating; };
 	var x_max = 100;
@@ -22,7 +32,7 @@ MIA.content.views.score_distribution.get_content = function( self, p ){
 	
 	self.graphs.histogram = {
 		bins : x_max / this.bin_size,
-		data : self.data.map(function( d ){ return { name : d.name, val : Number( get_data_value( d ) ) }; } ),
+		data : data.map(function( d ){ return { name : d.name, val : Number( get_data_value( d ) ) }; } ),
 		x_max
 	};
 	

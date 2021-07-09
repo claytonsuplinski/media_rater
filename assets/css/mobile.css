@@ -58,6 +58,7 @@
 	
 	#view-selector{
 		margin-top:0px;
+		display:block;
 	}
 
 	#content .ranking-table{

@@ -1,9 +1,37 @@
 MIA.content.views.grid = {};
 
+MIA.content.views.grid.on_search = function(){
+	this.update_content();
+};
+
+MIA.content.views.grid.update_content = function( self, p ){
+	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
+	this.post_draw( self || MIA.content, p || this.params );
+};
+
+MIA.content.views.grid.get_search_val = function(){
+	return $( '#search-bar' ).val();
+};
+
 MIA.content.views.grid.get_content = function( self, p ){
 	var p = p || {};
+	this.params = $.extend( {}, p );
 	
 	var data = self.data.slice();
+
+	// TODO : Get value from search bar (if !value, then don't filter)
+	var search_val = this.get_search_val();
+	if( search_val ){
+		search_val = search_val.toLowerCase();
+		data = data.filter(function( x ){
+			if( x.tags ){
+				if( x.tags.find( t => t.toLowerCase().includes( search_val ) ) ) return true;
+			}
+			return x.name.toLowerCase().includes( search_val ) || x.year == search_val;
+		});
+	}
+
+	MIA.pages.num_pages = MIA.pages.calculate_num_pages( data );
 	
 	if( !self.is_showing_all ) data = MIA.pages.get_curr_entries( data );
 	

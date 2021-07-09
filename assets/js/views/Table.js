@@ -45,7 +45,7 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 			break;
 	}
 	
-	return '<table class="ranking-table">' + 
+	return '<table class="ranking-table fixed-table">' + 
 		'<tr>' + 
 			headers.map(function( h, i ){
 				var label = MIA.functions.capitalize( h );
@@ -94,8 +94,6 @@ MIA.content.views.table.get_content = function( self, p ){
 	var headers = [ 'Rank', 'Name' ];
 	if( data[ 0 ].year ) headers.push( 'Year' );
 	headers = headers.concat( Object.keys( data[ 0 ].ratings ), [ 'Total' ] );
-	
-	console.log( data );
 	
 	return this.get_table_content( self, headers, data );
 };

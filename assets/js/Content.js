@@ -49,7 +49,7 @@ MIA.content.load = function(){
 				item.index = idx;
 			});
 			
-			MIA.pages.num_pages = MIA.pages.calculate_num_pages( MIA.content.data );
+			// MIA.pages.num_pages = MIA.pages.calculate_num_pages( MIA.content.data );
 			
 			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );
 			
@@ -141,7 +141,13 @@ MIA.content.draw = function( p ){
 				}, this).join('') +
 			'</select>' +
 		'</div>' +
-		this.curr_view.get_content( this, p )
+		( !this.curr_view.on_search ? '' : 
+			'<input id="search-bar" onkeyup="MIA.content.curr_view.on_search();" placeholder="&#xf002;  Search" ' + 
+				'value="' + ( $( '#search-bar' ).val() || '' ) + '"></input>'
+		) +
+		'<div id="view-content">' +
+			this.curr_view.get_content( this, p ) +
+		'</div>'
 	);
 	setTimeout(function(){ $("#content").focus(); }, 1);  // Need the timeout here, otherwise it won't run synchronously.
 	if( !p.preserve_scroll ) $("#content").scrollTop(0);

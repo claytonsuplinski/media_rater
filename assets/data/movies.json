@@ -377,6 +377,7 @@
 		"name"    : "Ant-Man",
 		"year"    : "2015",
 		"critic"  : 7.3,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 8,
@@ -581,6 +582,7 @@
 		"name"    : "Avengers: Age of Ultron",
 		"year"    : "2015",
 		"critic"  : 7.3,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 9.5,
@@ -598,6 +600,7 @@
 		"name"    : "Avengers: Endgame",
 		"year"    : "2019",
 		"critic"  : 8.4,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 9.5,
@@ -615,6 +618,7 @@
 		"name"    : "Avengers: Infinity War",
 		"year"    : "2018",
 		"critic"  : 8.4,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 9,
@@ -785,6 +789,7 @@
 		"name"    : "Black Panther",
 		"year"    : "2018",
 		"critic"  : 7.3,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -1006,6 +1011,7 @@
 		"name"    : "Captain America: The First Avenger",
 		"year"    : "2011",
 		"critic"  : 6.9,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 7.5,
@@ -1023,6 +1029,7 @@
 		"name"    : "Captain America: The Winter Soldier",
 		"year"    : "2014",
 		"critic"  : 7.7,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -1040,6 +1047,7 @@
 		"name"    : "Captain America: Civil War",
 		"year"    : "2016",
 		"critic"  : 7.8,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 6.5,
@@ -1057,6 +1065,7 @@
 		"name"    : "Captain Marvel",
 		"year"    : "2019",
 		"critic"  : 6.9,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 8,
@@ -1108,6 +1117,7 @@
 		"name"    : "Casino Royale",
 		"year"    : "2006",
 		"critic"  : 8,
+		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 8.5,
@@ -1530,6 +1540,23 @@
 		}
 	},
 	{
+		"name"    : "Dances with Wolves",
+		"year"    : "1990",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 1.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 3,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Dead Poets Society",
 		"year"    : "1989",
 		"critic"  : 8.1,
@@ -1686,6 +1713,7 @@
 		"name"    : "Dr. No",
 		"year"    : "1962",
 		"critic"  : 7.2,
+		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 2,
@@ -2091,6 +2119,23 @@
 		}
 	},
 	{
+		"name"    : "Footloose",
+		"year"    : "1984",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Forgetting Sarah Marshall",
 		"year"    : "2008",
 		"critic"  : 7.1,
@@ -2349,6 +2394,7 @@
 		"name"    : "Goldeneye",
 		"year"    : "1995",
 		"critic"  : 7.2,
+		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 4.5,
@@ -2366,6 +2412,7 @@
 		"name"    : "Goldfinger",
 		"year"    : "1964",
 		"critic"  : 7.7,
+		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 4,
@@ -3080,6 +3127,7 @@
 		"name"    : "Iron Man",
 		"year"    : "2008",
 		"critic"  : 7.9,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 8.5,
@@ -3097,6 +3145,7 @@
 		"name"    : "Iron Man 2",
 		"year"    : "2010",
 		"critic"  : 7,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 8,
@@ -3114,6 +3163,7 @@
 		"name"    : "Iron Man 3",
 		"year"    : "2013",
 		"critic"  : 7.1,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 7.5,
@@ -3692,6 +3742,7 @@
 		"name"    : "Man of Steel",
 		"year"    : "2013",
 		"critic"  : 7,
+		"tags"    : [ "Superman" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -3913,6 +3964,7 @@
 		"name"    : "Mission: Impossible",
 		"year"    : "1996",
 		"critic"  : 7.1,
+		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 2,
 			"visuals"    : 4,
@@ -3930,6 +3982,7 @@
 		"name"    : "Mission: Impossible II",
 		"year"    : "2000",
 		"critic"  : 6.1,
+		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 5,
@@ -3947,6 +4000,7 @@
 		"name"    : "Mission: Impossible III",
 		"year"    : "2006",
 		"critic"  : 6.9,
+		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 6.5,
@@ -3964,6 +4018,7 @@
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"critic"  : 7.7,
+		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 7.5,
@@ -4179,6 +4234,23 @@
 			"genre"      : 6.5,
 			"references" : 6,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "National Lampoon's European Vacation",
+		"year"    : "1985",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 5.5,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4400,6 +4472,23 @@
 			"genre"      : 3.5,
 			"references" : 2,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "One Flew Over the Cuckoo's Nest",
+		"year"    : "1975",
+		"critic"  : 8.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4831,6 +4920,7 @@
 		"name"    : "Quantum of Solace",
 		"year"    : "2008",
 		"critic"  : 6.6,
+		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 6.5,
@@ -4848,6 +4938,7 @@
 		"name"    : "Raiders of the Lost Ark",
 		"year"    : "1981",
 		"critic"  : 8.4,
+		"tags"    : [ "Indiana Jones" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 3,
@@ -5732,6 +5823,7 @@
 		"name"    : "Spider-Man: Homecoming",
 		"year"    : "2017",
 		"critic"  : 7.4,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 8,
@@ -5749,6 +5841,7 @@
 		"name"    : "Spider-Man: Far from Home",
 		"year"    : "2019",
 		"critic"  : 7.5,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7.5,
 			"visuals"    : 9,
@@ -6293,6 +6386,7 @@
 		"name"    : "The Avengers",
 		"year"    : "2012",
 		"critic"  : 8,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 6,
 			"visuals"    : 7.5,
@@ -6531,6 +6625,7 @@
 		"name"    : "The Dark Knight",
 		"year"    : "2008",
 		"critic"  : 9,
+		"tags"    : [ "Batman" ],
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 8.5,
@@ -6548,6 +6643,7 @@
 		"name"    : "The Dark Knight Rises",
 		"year"    : "2012",
 		"critic"  : 8.4,
+		"tags"    : [ "Batman" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 7.5,
@@ -7050,6 +7146,23 @@
 			"rewatch"    : 3.5,
 			"characters" : 5,
 			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The King and I",
+		"year"    : "1999",
+		"critic"  : 4.5,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
 			"references" : 3.5,
 			"bias"       : 5
 		}
@@ -7874,6 +7987,7 @@
 		"name"    : "Thor",
 		"year"    : "2011",
 		"critic"  : 7,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 5.5,
@@ -7891,6 +8005,7 @@
 		"name"    : "Thor: Ragnarok",
 		"year"    : "2017",
 		"critic"  : 7.9,
+		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5.5,
 			"visuals"    : 8.5,
@@ -7953,6 +8068,23 @@
 			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Top Gun",
+		"year"    : "1986",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{

@@ -1,0 +1,139 @@
+{
+	"actor" : [
+		{
+			"value"    : "Alan Rickman",
+			"includes" : [ "Harry Potter", "Hitchhiker's Guide to the Galaxy", "Sweeney Todd" ],
+			"exact"    : [ "Die Hard", "Love Actually" ]
+		},
+		{
+			"value"    : "Brad Pitt",
+			"includes" : [ "Benjamin Button", "Ocean's Eleven" ],
+			"exact"    : [ "Fight Club", "Moneyball", "Mr. & Mrs. Smith", "Se7en", "World War Z", "12 Years a Slave" ]
+		},
+		{
+			"value"    : "Daniel Radcliffe",
+			"includes" : [ "Harry Potter" ],
+			"exact"    : [ "Victor Frankenstein" ]
+		},
+		{
+			"value"    : "Jim Carrey",
+			"includes" : [ "Ace Ventura", "Bruce Almighty", "Dumb and Dumber", "How the Grinch Stole Christmas", "Series of Unfortunate Events" ],
+			"exact"    : [ "Eternal Sunshine of the Spotless Mind", "Fun with Dick & Jane", "The Mask", "The Truman Show", "Yes Man" ]
+		},
+		{
+			"value"    : "Johnny Depp",
+			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
+			"exact"    : [ "A Nightmare on Elm Street", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+		},
+		{
+			"value"    : "Natalie Portman",
+			"includes" : [ "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "V for Vendetta" ],
+			"exact"    : [ "Annihilation", "Black Swan", "Thor", "Thor: The Dark World" ]
+		},
+		{
+			"value"    : "Nicolas Cage",
+			"includes" : [ "Ghost Rider", "National Treasure" ],
+			"exact"    : [ "Kick-Ass", "The Wicker Man" ]
+		},
+		{
+			"value"    : "Samuel Jackson",
+			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Incredibles" ],
+			"exact"    : [ "Django Unchained", "Goodfellas", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
+		},
+		{
+			"value"    : "Scarlett Johansson",
+			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
+			"exact"    : [ "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+		},
+		{
+			"value"    : "Tom Hanks",
+			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
+			"exact"    : [ "Apollo 13", "Big", "Cast Away", "Saving Private Ryan", "The Green Mile" ]
+		},
+		{
+			"value"    : "Vince Vaughn",
+			"includes" : [ "Anchorman", "Wedding Crashers" ],
+			"exact"    : [ "Dodgeball", "Four Christmases", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
+		},
+		{
+			"value"    : "Will Ferrell",
+			"includes" : [ "Anchorman", "Austin Powers: International", "Austin Powers: The Spy", "Blades of Glory", "Daddy's Home", "Kicking & Screaming",  "Talladega Nights", "The Lego Movie", "The Other Guys", "Zoolander" ],
+			"exact"    : [ "Elf", "Get Hard", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
+		},
+		{
+			"value"    : "Will Smith",
+			"includes" : [ "Aladdin [Live Action]", "Men in Black", "Suicide Squad" ],
+			"exact"    : [ "Hitch", "I am Legend", "I, Robot", "Independence Day" ]
+		}
+	],
+	"director" : [
+		{
+			"value"    : "George Lucas",
+			"includes" : [ "Indiana Jones", "Raiders of the Lost Ark", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:" ]
+		},
+		{
+			"value"    : "Mel Brooks",
+			"exact"    : [ "Blazing Saddles", "Spaceballs" ]
+		},
+		{
+			"value"    : "Steven Spielberg",
+			"includes" : [ "Close Encounters of the Third Kind", "E.T.", "The Lost World: Jurassic Park", "Indiana Jones", "Raiders of the Lost Ark", "Saving Private Ryan" ],
+			"exact"    : [ "A.I. Artificial Intelligence", "Jaws", "Jurassic Park", "Lincoln", "Minority Report", "Ready Player One", "Schindler's List", "War Horse", "War of the Worlds" ]
+		},
+		{
+			"value"    : "Quentin Tarantino",
+			"includes" : [ "Kill Bill", "Pulp Fiction" ],
+			"exact"    : [ "Django Unchained", "The Hateful Eight" ]
+		}
+	],
+	"series" : [
+		{
+			"value"    : "Batman",
+			"includes" : [ "The Dark Knight" ]
+		},
+		{
+			"value"    : "Indiana Jones",
+			"includes" : [ "Indiana Jones", "Raiders of the Lost Ark" ]
+		},
+		{
+			"value"    : "James Bond",
+			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "Quantum of Solace" ]
+		},
+		{
+			"value"    : "MCU",
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Iron Man", "Spider-Man: ", "The Avengers", "Thor" ]
+		},
+		{
+			"value"    : "Mission Impossible",
+			"includes" : [ "Mission: Impossible" ]
+		},
+		{
+			"value"    : "Superman",
+			"includes" : [ "Man of Steel" ]
+		}
+	],
+	"studio" : [
+		{
+			"value"    : "Disney",
+			"includes" : [
+				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast",
+				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
+				"Fantasia", "Fox and the Hound", "Freaky Friday", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
+				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
+				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundered and One Dalmatians",
+				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
+				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
+				"Sleeping Beauty", "Song of the South", "Star Wars Episode IX:", "Sword in the Stone", 
+				"The Black Cauldron", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
+				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
+				"Twitches", "Wendy Wu:", "Winnie the Pooh"
+			],
+			"exact"    : [ "Bolt", "Cinderella", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Tarzan" ]
+		},
+		{
+			"value"    : "Pixar",
+			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
+			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "Up" ]
+		}
+	]
+}

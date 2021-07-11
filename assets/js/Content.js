@@ -47,19 +47,54 @@ MIA.content.load = function(){
 				}
 				item.rank  = rank;
 				item.index = idx;
+				item.properties = {};
 			});
 			
 			// MIA.pages.num_pages = MIA.pages.calculate_num_pages( MIA.content.data );
 			
 			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );
 			
-			MIA.content.draw();
+			MIA.content.load_properties(function(){ MIA.content.draw(); });
 		}
 	});
 };
 
+MIA.content.load_properties = function( callback ){
+	if( this.has_properties ){
+		var self = this;
+		$.ajax({
+			url: './assets/data/properties/' + MIA.content.name + '.json',
+			dataType: 'json',
+			success: function(data){
+				MIA.content.data.forEach(function( item ){
+					Object.keys( data ).forEach(function( property_name ){
+						var property = data[ property_name ];
+						property.forEach(function( group ){
+							var add_property = (
+								( group.includes && group.includes.find( entry => item.name.includes( entry ) ) ) ||
+								( group.exact    && group.exact.find(    entry => item.name == entry          ) ) 
+							);
+							if( add_property ){
+								if( !item.properties[ property_name ] ) item.properties[ property_name ] = [];
+								item.properties[ property_name ].push( group.value.toLowerCase() );
+							}
+						});
+					});
+				});
+
+				if( callback ) callback();
+			}
+		});
+	}
+	else if( callback ) callback();
+};
+
 MIA.content.get_search_val = function(){
 	return $( '#search-bar' ).val();
+};
+
+MIA.content.has_properties = function(){
+	return MIA.config.pages_with_properties.find( x => x.toLowerCase() == MIA.content.name );
 };
 
 MIA.content.search_filter = function( data ){
@@ -67,8 +102,8 @@ MIA.content.search_filter = function( data ){
 	if( search_val ){
 		search_val = search_val.toLowerCase();
 		data = data.filter(function( x ){
-			if( x.tags ){
-				if( x.tags.find( t => t.toLowerCase().includes( search_val ) ) ) return true;
+			if( x.properties ){
+				if( Object.keys( x.properties ).find( prop => x.properties[ prop ].find( v => v.includes( search_val ) ) ) ) return true;
 			}
 			return x.name.toLowerCase().includes( search_val ) || x.year == search_val;
 		});

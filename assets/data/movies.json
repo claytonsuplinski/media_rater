@@ -1,5 +1,22 @@
 [
 	{
+		"name"    : "A Bug's Life",
+		"year"    : "1998",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 4,
+			"rewatch"    : 4.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "A Christmas Story",
 		"year"    : "1983",
 		"critic"  : 7.9,
@@ -377,7 +394,6 @@
 		"name"    : "Ant-Man",
 		"year"    : "2015",
 		"critic"  : 7.3,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 8,
@@ -582,7 +598,6 @@
 		"name"    : "Avengers: Age of Ultron",
 		"year"    : "2015",
 		"critic"  : 7.3,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 9.5,
@@ -600,7 +615,6 @@
 		"name"    : "Avengers: Endgame",
 		"year"    : "2019",
 		"critic"  : 8.4,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 9.5,
@@ -618,7 +632,6 @@
 		"name"    : "Avengers: Infinity War",
 		"year"    : "2018",
 		"critic"  : 8.4,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 9,
@@ -789,7 +802,6 @@
 		"name"    : "Black Panther",
 		"year"    : "2018",
 		"critic"  : 7.3,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -1011,7 +1023,6 @@
 		"name"    : "Captain America: The First Avenger",
 		"year"    : "2011",
 		"critic"  : 6.9,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 7.5,
@@ -1029,7 +1040,6 @@
 		"name"    : "Captain America: The Winter Soldier",
 		"year"    : "2014",
 		"critic"  : 7.7,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -1047,7 +1057,6 @@
 		"name"    : "Captain America: Civil War",
 		"year"    : "2016",
 		"critic"  : 7.8,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 6.5,
@@ -1065,7 +1074,6 @@
 		"name"    : "Captain Marvel",
 		"year"    : "2019",
 		"critic"  : 6.9,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 8,
@@ -1117,7 +1125,6 @@
 		"name"    : "Casino Royale",
 		"year"    : "2006",
 		"critic"  : 8,
-		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 8.5,
@@ -1713,7 +1720,6 @@
 		"name"    : "Dr. No",
 		"year"    : "1962",
 		"critic"  : 7.2,
-		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 2,
@@ -2394,7 +2400,6 @@
 		"name"    : "Goldeneye",
 		"year"    : "1995",
 		"critic"  : 7.2,
-		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 4.5,
@@ -2412,7 +2417,6 @@
 		"name"    : "Goldfinger",
 		"year"    : "1964",
 		"critic"  : 7.7,
-		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 4,
@@ -3127,7 +3131,6 @@
 		"name"    : "Iron Man",
 		"year"    : "2008",
 		"critic"  : 7.9,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 8.5,
@@ -3145,7 +3148,6 @@
 		"name"    : "Iron Man 2",
 		"year"    : "2010",
 		"critic"  : 7,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 8,
@@ -3163,7 +3165,6 @@
 		"name"    : "Iron Man 3",
 		"year"    : "2013",
 		"critic"  : 7.1,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 7.5,
@@ -3742,7 +3743,6 @@
 		"name"    : "Man of Steel",
 		"year"    : "2013",
 		"critic"  : 7,
-		"tags"    : [ "Superman" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 7.5,
@@ -3964,7 +3964,6 @@
 		"name"    : "Mission: Impossible",
 		"year"    : "1996",
 		"critic"  : 7.1,
-		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 2,
 			"visuals"    : 4,
@@ -3982,7 +3981,6 @@
 		"name"    : "Mission: Impossible II",
 		"year"    : "2000",
 		"critic"  : 6.1,
-		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 5,
@@ -4000,7 +3998,6 @@
 		"name"    : "Mission: Impossible III",
 		"year"    : "2006",
 		"critic"  : 6.9,
-		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 3.5,
 			"visuals"    : 6.5,
@@ -4018,7 +4015,6 @@
 		"name"    : "Mission: Impossible - Fallout",
 		"year"    : "2018",
 		"critic"  : 7.7,
-		"tags"    : [ "Mission Impossible" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 7.5,
@@ -4050,7 +4046,7 @@
 		}
 	},
 	{
-		"name"    : "Monsters Inc.",
+		"name"    : "Monsters, Inc.",
 		"year"    : "2001",
 		"critic"  : 8,
 		"ratings" : {
@@ -4920,7 +4916,6 @@
 		"name"    : "Quantum of Solace",
 		"year"    : "2008",
 		"critic"  : 6.6,
-		"tags"    : [ "James Bond" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 6.5,
@@ -4938,7 +4933,6 @@
 		"name"    : "Raiders of the Lost Ark",
 		"year"    : "1981",
 		"critic"  : 8.4,
-		"tags"    : [ "Indiana Jones" ],
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 3,
@@ -5823,7 +5817,6 @@
 		"name"    : "Spider-Man: Homecoming",
 		"year"    : "2017",
 		"critic"  : 7.4,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7,
 			"visuals"    : 8,
@@ -5841,7 +5834,6 @@
 		"name"    : "Spider-Man: Far from Home",
 		"year"    : "2019",
 		"critic"  : 7.5,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 7.5,
 			"visuals"    : 9,
@@ -6386,7 +6378,6 @@
 		"name"    : "The Avengers",
 		"year"    : "2012",
 		"critic"  : 8,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 6,
 			"visuals"    : 7.5,
@@ -6642,7 +6633,6 @@
 		"name"    : "The Dark Knight",
 		"year"    : "2008",
 		"critic"  : 9,
-		"tags"    : [ "Batman" ],
 		"ratings" : {
 			"humor"      : 2.5,
 			"visuals"    : 8.5,
@@ -6660,7 +6650,6 @@
 		"name"    : "The Dark Knight Rises",
 		"year"    : "2012",
 		"critic"  : 8.4,
-		"tags"    : [ "Batman" ],
 		"ratings" : {
 			"humor"      : 3,
 			"visuals"    : 7.5,
@@ -8004,7 +7993,6 @@
 		"name"    : "Thor",
 		"year"    : "2011",
 		"critic"  : 7,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5,
 			"visuals"    : 5.5,
@@ -8022,7 +8010,6 @@
 		"name"    : "Thor: Ragnarok",
 		"year"    : "2017",
 		"critic"  : 7.9,
-		"tags"    : [ "MCU" ],
 		"ratings" : {
 			"humor"      : 5.5,
 			"visuals"    : 8.5,
@@ -8360,7 +8347,7 @@
 		}
 	},
 	{
-		"name"    : "Wall-e",
+		"name"    : "WALL-E",
 		"year"    : "2008",
 		"critic"  : 8.4,
 		"ratings" : {

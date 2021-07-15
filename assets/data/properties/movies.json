@@ -1,9 +1,24 @@
 {
 	"actor" : [
 		{
+			"value"    : "Adam Sandler",
+			"includes" : [ "Grown Ups", "Happy Gilmore" ],
+			"exact"    : [ "Click", "Funny People", "The Waterboy", "50 First Dates" ]
+		},
+		{
 			"value"    : "Alan Rickman",
 			"includes" : [ "Harry Potter", "Hitchhiker's Guide to the Galaxy", "Sweeney Todd" ],
 			"exact"    : [ "Die Hard", "Love Actually" ]
+		},
+		{
+			"value"    : "Ben Stiller",
+			"includes" : [ "Madagascar", "Night at the Museum", "Zoolander" ],
+			"exact"    : [ "Anchorman", "Dodgeball", "Envy", "Meet the Parents", "Starsky & Hutch", "Tropic Thunder" ]
+		},
+		{
+			"value"    : "Bill Murray",
+			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
+			"exact"    : [ "Groundhog Day", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -16,14 +31,47 @@
 			"exact"    : [ "Victor Frankenstein" ]
 		},
 		{
+			"value"    : "Emma Watson",
+			"includes" : [ "Harry Potter" ],
+			"exact"    : [ "Beauty and the Beast [Live Action]", "This is the End" ]
+		},
+		{
+			"value"    : "George Clooney",
+			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven" ]
+		},
+		{
+			"value"    : "Jack Black",
+			"includes" : [ "Jumanji: ", "Kung Fu Panda" ],
+			"exact"    : [ "Anchorman", "Envy", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "Tropic Thunder" ]
+		},
+		{
+			"value"    : "James Franco",
+			"includes" : [ "Pineapple Express" ],
+			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Interview", "This is the End" ]
+		},
+		{
+			"value"    : "Jeff Goldblum",
+			"includes" : [ "Independence Day" ],
+			"exact"    : [ "Annie Hall", "Jurassic Park", "The Lost World: Jurassic Park", "Thor: Ragnarok" ]
+		},
+		{
 			"value"    : "Jim Carrey",
 			"includes" : [ "Ace Ventura", "Bruce Almighty", "Dumb and Dumber", "How the Grinch Stole Christmas", "Series of Unfortunate Events" ],
-			"exact"    : [ "Eternal Sunshine of the Spotless Mind", "Fun with Dick & Jane", "The Mask", "The Truman Show", "Yes Man" ]
+			"exact"    : [ "Eternal Sunshine of the Spotless Mind", "Fun with Dick & Jane", "Kick-Ass 2", "The Mask", "The Truman Show", "Yes Man" ]
 		},
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
 			"exact"    : [ "A Nightmare on Elm Street", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+		},
+		{
+			"value"    : "Leonardo DiCaprio",
+			"exact"    : [ "Django Unchained", "Inception", "The Departed", "The Great Gatsby", "The Revenant", "The Wolf of Wall Street", "Titanic" ]
+		},
+		{
+			"value"    : "Liam Neeson",
+			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
+			"exact"    : [ "Batman Begins", "Love Actually", "Schindler's List", "Taken", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Natalie Portman",
@@ -36,14 +84,29 @@
 			"exact"    : [ "Kick-Ass", "The Wicker Man" ]
 		},
 		{
+			"value"    : "Robert Downey Jr",
+			"includes" : [ "Avengers: ", "Iron Man", "The Avengers" ],
+			"exact"    : [ "Captain America: Civil War", "Spider-Man: Homecoming", "Tropic Thunder" ]
+		},
+		{
 			"value"    : "Samuel Jackson",
-			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Incredibles" ],
-			"exact"    : [ "Django Unchained", "Goodfellas", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
+			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Kingsman: The Secret", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Incredibles" ],
+			"exact"    : [ "Coming to America", "Django Unchained", "Goodfellas", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
 		},
 		{
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
 			"exact"    : [ "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+		},
+		{
+			"value"    : "The Rock Dwayne Johnson",
+			"includes" : [ "Jumanji: " ],
+			"exact"    : [ "Central Intelligence", "Moana", "The Other Guys" ]
+		},
+		{
+			"value"    : "Tom Cruise",
+			"includes" : [ "Mission: Impossible", "Top Gun" ],
+			"exact"    : [ "American Made", "Minority Report", "Tropic Thunder", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Tom Hanks",
@@ -86,6 +149,23 @@
 			"exact"    : [ "Django Unchained", "The Hateful Eight" ]
 		}
 	],
+	"holiday" : [
+		{
+			"value"    : "Christmas",
+			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Polar Express", "Santa Claus", "The Nutcracker", "Very Merry Pooh Year" ],
+			"exact"    : [ "Bad Santa", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Miracle on 34th Street", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "Unaccompanied Minors" ]
+		},
+		{
+			"value"    : "Halloween",
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Rocky Horror", "Scary Movie", "Sweeney Todd", "Van Helsing", "Vampire", "Zombieland" ],
+			"exact"    : [ "Clue", "Carrie", "Casper", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Twitches" ]
+		},
+		{
+			"value"    : "Thanksgiving",
+			"includes" : [ "Paul Blart", "Pocahontas" ],
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Free Birds", "Funny People", "Peter Pan", "Planes, Trains & Automobiles", "Rise of the Guardians", "Spider-Man", "The Blind Side" ]
+		}
+	],
 	"series" : [
 		{
 			"value"    : "Batman",
@@ -101,7 +181,7 @@
 		},
 		{
 			"value"    : "MCU",
-			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Iron Man", "Spider-Man: ", "The Avengers", "Thor" ]
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Spider-Man: ", "The Avengers", "Thor" ]
 		},
 		{
 			"value"    : "Mission Impossible",

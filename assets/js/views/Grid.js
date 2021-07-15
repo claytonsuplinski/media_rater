@@ -14,6 +14,7 @@ MIA.content.views.grid.get_content = function( self, p ){
 	var data = MIA.content.search_filter( self.data.slice() );
 
 	MIA.pages.num_pages = MIA.pages.calculate_num_pages( data );
+	if( MIA.pages.curr_page > MIA.pages.num_pages ) MIA.pages.curr_page = 1;
 	
 	if( !self.is_showing_all ) data = MIA.pages.get_curr_entries( data );
 	
@@ -27,7 +28,7 @@ MIA.content.views.grid.get_content = function( self, p ){
 			'<div class="rating">#' + item.rank + '</div>'+
 			'<div class="stars">' + item.total_rating + ' <i class="fa fa-star '+rank_class+'"></i></div>'+
 			'<div class="name">' + item.name + (item.year ? ' (' + item.year + ')' : '') + '</div>'+
-			'<div id="full-rating-'+idx+'" class="full-rating">'+
+			'<div id="full-rating-'+idx+'" class="full-rating" onclick="$(\'.full-rating\').hide();event.stopPropagation();">'+
 				'<table>'+
 					Object.keys(item.ratings).map(function(rating_name){
 						var rating = item.ratings[rating_name];

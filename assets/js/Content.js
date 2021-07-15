@@ -60,7 +60,7 @@ MIA.content.load = function(){
 };
 
 MIA.content.load_properties = function( callback ){
-	if( this.has_properties ){
+	if( this.has_properties() ){
 		var self = this;
 		$.ajax({
 			url: './assets/data/properties/' + MIA.content.name + '.json',

@@ -1,0 +1,184 @@
+[
+	{
+		"name"    : "Brewers vs Reds",
+		"year"    : "2006",
+		"ratings" : {
+			"matchup"         : 6,
+			"outcome"         : 10,
+			"excitement"      : 5,
+			"atmosphere"      : 6,
+			"significance"    : 4,
+			"memorable plays" : 3.5,
+			"nostalgia"       : 5.5,
+			"bias"            : 5.5
+		}
+	},
+	{
+		"name"    : "Bucks vs Heat",
+		"year"    : "2021",
+		"ratings" : {
+			"matchup"         : 8.5,
+			"outcome"         : 10,
+			"excitement"      : 10,
+			"atmosphere"      : 8,
+			"significance"    : 7,
+			"memorable plays" : 9,
+			"nostalgia"       : 9.5,
+			"bias"            : 8.5
+		}
+	},
+	{
+		"name"    : "Bucks vs Suns",
+		"year"    : "2021",
+		"ratings" : {
+			"matchup"         : 9,
+			"outcome"         : 10,
+			"excitement"      : 8.5,
+			"atmosphere"      : 8.5,
+			"significance"    : 9.5,
+			"memorable plays" : 6,
+			"nostalgia"       : 9.5,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Cardinals vs Brewers",
+		"year"    : "2010",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 5,
+			"excitement"      : 6.5,
+			"atmosphere"      : 5,
+			"significance"    : 4,
+			"memorable plays" : 5.5,
+			"nostalgia"       : 6,
+			"bias"            : 7
+		}
+	},
+	{
+		"name"    : "Giants vs Packers",
+		"year"    : "2008",
+		"ratings" : {
+			"matchup"         : 9.5,
+			"outcome"         : 0,
+			"excitement"      : 10,
+			"atmosphere"      : 10,
+			"significance"    : 9,
+			"memorable plays" : 8,
+			"nostalgia"       : 8.5,
+			"bias"            : 9.5
+		}
+	},
+	{
+		"name"    : "Jazz vs Bulls",
+		"year"    : "2019",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 10,
+			"excitement"      : 7.5,
+			"atmosphere"      : 9,
+			"significance"    : 5,
+			"memorable plays" : 10,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Packers vs Bears",
+		"year"    : "2018",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 10,
+			"excitement"      : 9.5,
+			"atmosphere"      : 9,
+			"significance"    : 5,
+			"memorable plays" : 8.5,
+			"nostalgia"       : 7.5,
+			"bias"            : 8
+		}
+	},
+	{
+		"name"    : "Packers vs Cowboys",
+		"year"    : "2015",
+		"ratings" : {
+			"matchup"         : 9.5,
+			"outcome"         : 10,
+			"excitement"      : 9,
+			"atmosphere"      : 9,
+			"significance"    : 8,
+			"memorable plays" : 8.5,
+			"nostalgia"       : 7.5,
+			"bias"            : 7.5
+		}
+	},
+	{
+		"name"    : "Packers vs Patriots",
+		"year"    : "2014",
+		"ratings" : {
+			"matchup"         : 9.5,
+			"outcome"         : 10,
+			"excitement"      : 8.5,
+			"atmosphere"      : 8.5,
+			"significance"    : 6,
+			"memorable plays" : 7,
+			"nostalgia"       : 7.5,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Packers vs Seahawks",
+		"year"    : "2008",
+		"ratings" : {
+			"matchup"         : 9,
+			"outcome"         : 10,
+			"excitement"      : 8,
+			"atmosphere"      : 10,
+			"significance"    : 8,
+			"memorable plays" : 7.5,
+			"nostalgia"       : 9.5,
+			"bias"            : 9
+		}
+	},
+	{
+		"name"    : "Steelers vs Packers",
+		"year"    : "2005",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 10,
+			"excitement"      : 8.5,
+			"atmosphere"      : 9,
+			"significance"    : 6,
+			"memorable plays" : 10,
+			"nostalgia"       : 10,
+			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Steelers vs Packers II",
+		"year"    : "2013",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 5,
+			"excitement"      : 9.5,
+			"atmosphere"      : 9.5,
+			"significance"    : 5,
+			"memorable plays" : 8,
+			"nostalgia"       : 8.5,
+			"bias"            : 9.5
+		}
+	},
+	{
+		"name"    : "Wisconsin vs LSU",
+		"year"    : "2016",
+		"ratings" : {
+			"matchup"         : 9,
+			"outcome"         : 10,
+			"excitement"      : 10,
+			"atmosphere"      : 9.5,
+			"significance"    : 5.5,
+			"memorable plays" : 8,
+			"nostalgia"       : 9,
+			"bias"            : 8.5
+		}
+	}
+]

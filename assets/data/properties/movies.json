@@ -57,7 +57,7 @@
 		{
 			"value"    : "Jim Carrey",
 			"includes" : [ "Ace Ventura", "Bruce Almighty", "Dumb and Dumber", "How the Grinch Stole Christmas", "Series of Unfortunate Events" ],
-			"exact"    : [ "Eternal Sunshine of the Spotless Mind", "Fun with Dick & Jane", "Kick-Ass 2", "The Mask", "The Truman Show", "Yes Man" ]
+			"exact"    : [ "Anchorman 2", "Eternal Sunshine of the Spotless Mind", "Fun with Dick & Jane", "Kick-Ass 2", "The Mask", "The Truman Show", "Yes Man" ]
 		},
 		{
 			"value"    : "Johnny Depp",
@@ -71,7 +71,7 @@
 		{
 			"value"    : "Liam Neeson",
 			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
-			"exact"    : [ "Batman Begins", "Love Actually", "Schindler's List", "Taken", "The Lego Movie" ]
+			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Schindler's List", "Taken", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Natalie Portman",
@@ -126,7 +126,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black", "Suicide Squad" ],
-			"exact"    : [ "Hitch", "I am Legend", "I, Robot", "Independence Day" ]
+			"exact"    : [ "Anchorman 2", "Hitch", "I am Legend", "I, Robot", "Independence Day" ]
 		}
 	],
 	"director" : [
@@ -163,7 +163,7 @@
 		{
 			"value"    : "Thanksgiving",
 			"includes" : [ "Paul Blart", "Pocahontas" ],
-			"exact"    : [ "Chicken Run", "Dances with Wolves", "Free Birds", "Funny People", "Peter Pan", "Planes, Trains & Automobiles", "Rise of the Guardians", "Spider-Man", "The Blind Side" ]
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side" ]
 		}
 	],
 	"series" : [
@@ -177,7 +177,7 @@
 		},
 		{
 			"value"    : "James Bond",
-			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "Quantum of Solace" ]
+			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "On Her Majesty's Secret Service", "Quantum of Solace" ]
 		},
 		{
 			"value"    : "MCU",

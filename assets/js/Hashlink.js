@@ -33,7 +33,7 @@ MIA.hashlink.start = function(){
 	var menu_index = MIA.config.menu_options.indexOf(MIA.hashlink.value);
 	if(menu_index == -1) menu_index = 0;
 	
-	MIA.menu.select( MIA.config.menu_options[menu_index] );
+	MIA.content.select( MIA.config.menu_options[menu_index] );
 };
 
 window.onhashchange = MIA.hashlink.start;

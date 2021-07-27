@@ -135,6 +135,21 @@
 		}
 	},
 	{
+		"name"    : "Drake Parker",
+		"ratings" : {
+			"humor"            : 7,
+			"relatability"     : 6,
+			"intrigue"         : 3.5,
+			"personality"      : 7.5,
+			"events"           : 3.5,
+			"mentality"        : 4,
+			"emotional impact" : 3,
+			"references"       : 4,
+			"nostalgia"        : 9,
+			"bias"             : 8.5
+		}
+	},
+	{
 		"name"    : "George Costanza",
 		"ratings" : {
 			"humor"            : 10,
@@ -255,6 +270,21 @@
 		}
 	},
 	{
+		"name"    : "Josh Nichols",
+		"ratings" : {
+			"humor"            : 6.5,
+			"relatability"     : 7,
+			"intrigue"         : 3,
+			"personality"      : 7,
+			"events"           : 4,
+			"mentality"        : 5,
+			"emotional impact" : 3,
+			"references"       : 4,
+			"nostalgia"        : 9,
+			"bias"             : 8
+		}
+	},
+	{
 		"name"    : "Leia Skywalker",
 		"ratings" : {
 			"humor"            : 3,
@@ -315,6 +345,21 @@
 		}
 	},
 	{
+		"name"    : "Megan Parker",
+		"ratings" : {
+			"humor"            : 7.5,
+			"relatability"     : 6,
+			"intrigue"         : 7,
+			"personality"      : 8.5,
+			"events"           : 2,
+			"mentality"        : 8.5,
+			"emotional impact" : 1,
+			"references"       : 1.5,
+			"nostalgia"        : 7.5,
+			"bias"             : 7.5
+		}
+	},
+	{
 		"name"    : "Mickey Mouse",
 		"ratings" : {
 			"humor"            : 2,
@@ -371,7 +416,7 @@
 			"emotional impact" : 7.5,
 			"references"       : 6,
 			"nostalgia"        : 10,
-			"bias"             : 8.5
+			"bias"             : 9
 		}
 	},
 	{

@@ -1,5 +1,11 @@
 MIA.content = { views : {} };
 
+MIA.content.select = function( option ){
+	this.selected = option;
+	this.name = option.toLowerCase().split(' ').join('_');
+	this.load();
+};
+
 MIA.content.load = function(){
 	this.select_view( 'Grid' );
 	
@@ -51,8 +57,6 @@ MIA.content.load = function(){
 			});
 			
 			// MIA.pages.num_pages = MIA.pages.calculate_num_pages( MIA.content.data );
-			
-			MIA.menu.set_num_entries( MIA.content.name, MIA.content.data.length );
 			
 			MIA.content.load_properties(function(){ MIA.content.draw(); });
 		}
@@ -174,36 +178,20 @@ MIA.content.draw = function( p ){
 
 	var p = p || {};
 
-	p.max_stars_per_category = 10;
-	if( MIA.menu.selected == 'Months' ) p.max_stars_per_category = 12
+	p.max_stars_per_category = MIA.config.max_stars[ this.selected ] || 10;
 	
 	var data = this.data.slice();
 	
-	var views = [ 'Grid', 'Table' ];
-	if( this.data.length > 1                          ) views.push( 'Versus'     );
-	if( this.data[ 0 ].critic                         ) views.push( 'Underrated' );
-	if( this.data[ 0 ].year   || this.name == 'years' ) views.push( 'Graph'      );
-	if( this.data[ 0 ].year                           ) views.push( 'Years'      );
-	views.push( 'Score Distribution' );
+	this.view_names = [ 'Grid', 'Table' ];
+	if( this.data.length > 1                          ) this.view_names.push( 'Versus'     );
+	if( this.data[ 0 ].critic                         ) this.view_names.push( 'Underrated' );
+	if( this.data[ 0 ].year   || this.name == 'years' ) this.view_names.push( 'Graph'      );
+	if( this.data[ 0 ].year                           ) this.view_names.push( 'Years'      );
+	this.view_names.push( 'Score Distribution' );
 	
 	this.graphs = {};
 
 	$("#content").html(
-		'<div id="mobile-header" class="hidden-md hidden-lg">'+
-			'<div id="menu-toggle"><i class="fa fa-bars" onclick="MIA.menu.show();"></i></div>'+
-			'<div id="mobile-header-label">' + MIA.menu.selected + '</div>'+
-		'</div>' + 
-		'<div id="view-selector">' + 
-			'<select onchange="MIA.content.set_view( this.value );">' + 
-				views.map(function( view ){
-					return '<option value="' + view + '" ' + ( view == this.view ? 'selected' : '' ) + '>' + view + ' View</option>';
-				}, this).join('') +
-			'</select>' +
-		'</div>' +
-		( !this.curr_view.on_search ? '' : 
-			'<input id="search-bar" onkeyup="MIA.content.curr_view.on_search();" placeholder="&#xf002;  Search" ' + 
-				'value="' + ( $( '#search-bar' ).val() || '' ) + '"></input>'
-		) +
 		'<div id="view-content">' +
 			this.curr_view.get_content( this, p ) +
 		'</div>'
@@ -219,4 +207,47 @@ MIA.content.draw = function( p ){
 	   $(".full-rating").hide();
 	   e.stopPropagation();
 	});
+
+	MIA.navbar = new JL.navbar({
+		title          : '<div class="logo"><img src="./assets/img/logo.png"/></div> Media Rater',
+		dropdown       : 'click',
+		not_responsive : true,
+		options        : [
+			{
+				options    : MIA.config.menu_options.map(function( option ){
+					return {
+						name     : option,
+						selected : ( option == self.selected )
+					};
+				}),
+				attributes : {
+					id       : 'pages-dropdown',
+					onchange : 'MIA.hashlink.update( this.value );',
+				}
+			},
+			{
+				options    : MIA.content.view_names.map(function( option ){
+					return {
+						name     : option + ' View',
+						value    : option,
+						selected : ( option == self.view )
+					};
+				}),
+				attributes : {
+					id       : 'views-dropdown',
+					onchange : 'MIA.content.set_view( this.value );',
+				}
+			},
+			{
+				search     : true,
+				attributes : {
+					id          : 'search-bar',
+					onkeyup     : 'MIA.content.curr_view.on_search();',
+					placeholder : '&#xf002;  Search',
+					value       : $( '#search-bar' ).val() || '',
+				}
+			},
+		]
+	});
+	$( "#navbar" ).append( '<span class="count">' + MIA.content.data.length + '</span>' );
 };

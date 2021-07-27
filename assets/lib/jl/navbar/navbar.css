@@ -1,0 +1,96 @@
+#navbar{
+	position    : fixed;
+	top         : 0;
+	left        : 0;
+	width       : 100%;
+	background  : #000;
+	z-index     : 555;
+	white-space : nowrap;
+}
+
+#navbar #navbar-title{
+	display    : inline-block;
+	width      : 150px;
+	background : #387aa9;
+	color      : #fff;
+	font-size  : 16px;
+	text-align : center;
+	padding    : 5px;
+	margin     : 5px;
+}
+
+#navbar .navbar-option{
+	display        : inline-block;
+	position       : relative;
+	width          : 70px;
+	background     : #555;
+	color          : #eee;
+	text-align     : center;
+	padding        : 13px 5px 12px;
+	margin         : 0 5px;
+	font-size      : 12px;
+	vertical-align : bottom;
+	cursor         : pointer;
+}
+
+#navbar .navbar-children{
+	display    : none;
+	position   : absolute;
+	top        : 100%;
+	left       : 0;
+	width      : 100%;
+	background : #444;
+	text-align : left;
+	cursor     : auto;
+}
+
+#navbar .dropdown-hover:hover .navbar-children{
+	display : block;
+}
+
+#navbar .navbar-child{
+	background : #777;
+	padding    : 5px;
+	margin     : 5px 0;
+	cursor     : pointer;
+}
+
+#navbar .navbar-mobile-select{
+	display        : none;
+	width          : 100px;
+	background     : #555;
+	color          : #eee;
+	padding        : 5px;
+	margin         : 0 5px;
+	font-size      : 12px;
+}
+
+#navbar .navbar-mobile-select:focus{
+	outline:none;
+}
+
+#navbar-backdrop{
+	display     : none;
+	position    : fixed;
+	top         : 0;
+	left        : 0;
+	width       : 100%;
+	height      : 100%;
+	background  : rgba(0,0,0,0.5);
+	z-index     : 554;
+}
+
+#navbar-backdrop.visible{
+	display : block;
+}
+
+@media only screen and (max-width : 700px){
+	#navbar .navbar-option{
+		display:none;
+	}
+
+	#navbar .navbar-option.not-responsive,
+	#navbar .navbar-mobile-select{
+		display:inline-block;
+	}
+}

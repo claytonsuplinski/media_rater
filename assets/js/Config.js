@@ -6,4 +6,8 @@ MIA.config.menu_options = [ "Movies", "Television", "Video Games", "Characters",
 
 MIA.config.pages_with_properties = [ "Movies" ];
 
+MIA.config.max_stars = {
+	Months : 12,
+};
+
 MIA.config.document_title = 'Media Rater';

@@ -7752,6 +7752,23 @@
 		}
 	},
 	{
+		"name"    : "The Princess and the Frog",
+		"year"    : "2009",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 6	,
+			"references" : 3.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Princess Bride",
 		"year"    : "1987",
 		"critic"  : 8.1,

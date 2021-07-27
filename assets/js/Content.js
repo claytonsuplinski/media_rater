@@ -112,6 +112,8 @@ MIA.content.search_filter = function( data ){
 			return x.name.toLowerCase().includes( search_val ) || x.year == search_val;
 		});
 	}
+	this.search_count = data.length;
+	$( "#search-count" ).html( this.search_count );
 	return data;
 };
 
@@ -249,5 +251,8 @@ MIA.content.draw = function( p ){
 			},
 		]
 	});
-	$( "#navbar" ).append( '<span class="count">' + MIA.content.data.length + '</span>' );
+	$( "#navbar" ).append(
+		'<span id="total-count"  class="count">' + this.data.length  + '</span>' +
+		'<span id="search-count" class="count">' + this.search_count + '</span>'
+	);
 };

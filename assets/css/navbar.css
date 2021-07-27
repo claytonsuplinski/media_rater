@@ -9,7 +9,6 @@
 	background:#00325d;
 	color:#eee;
 	top :  4px;
-	left:295px;
 	padding:0 8px;
 	font-size:12px;
 	border:1px solid rgba(255, 255, 255, 0.25);
@@ -18,8 +17,16 @@
 	pointer-events:none;
 }
 
+#navbar #total-count.count{
+	left:295px;
+}
+
+#navbar #search-count.count{
+	left:695px;
+}
+
 #navbar #navbar-title{
-	background:#383838;
+	background:#242424;
 	color:#ffffa6;
 	width:138px;
 	font-size:18px;
@@ -27,6 +34,7 @@
 	text-align:right;
 	border:1px solid rgba(82, 148, 204, 0.5);
 	font-family:'Lobster Two';
+	text-shadow:0px 0px 9px #ffffa6;
 }
 
 #navbar #navbar-title .logo{
@@ -36,7 +44,7 @@
 	background:linear-gradient(#6cbcff, #102d45);
 	border-radius:100%;
 	border:2px solid #a73a47;
-	box-shadow:1px 1px 1px -1px red;
+	box-shadow:1px 1px 1px -1px red, 0 0 4px 0px #bee1fe;
 	text-align:center;
 	float:left;
 	margin-top:1px;

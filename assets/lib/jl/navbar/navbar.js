@@ -42,6 +42,10 @@ JL.navbar.prototype.option_html = function( option ){
 		tag     = 'input';
 		onclick = false;
 	}
+	else if( option.info ){
+		classes += ' info';
+		onclick = false;
+	}
 
 	var html_attrs = '';
 	if( option.attributes ) html_attrs = Object.keys( option.attributes ).map(function( x ){ return x + '="' + option.attributes[ x ] + '"'; }).join(' ');
@@ -59,6 +63,9 @@ JL.navbar.prototype.option_html = function( option ){
 					o.name +
 				'</option>';
 			}).join('')
+		) +
+		( !option.info ? '' :
+			option.info.label + '<div class="info-value">' + option.info.value + '</div>'
 		) +
 	'</' + tag + '>';
 
@@ -183,6 +190,12 @@ new JL.navbar({
 			attributes : {
 				id       : 'select-dropdown',
 				onchange : 'do_something( this.value );',
+			}
+		},
+		{
+			info : {
+				label : 'Name',
+				value : 123
 			}
 		},
 		{

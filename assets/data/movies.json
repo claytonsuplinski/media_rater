@@ -7293,6 +7293,23 @@
 		}
 	},
 	{
+		"name"    : "The Incredibles",
+		"year"    : "2004",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 8.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7.5,
+			"references" : 4,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Internship",
 		"year"    : "2013",
 		"critic"  : 6.3,
@@ -7337,6 +7354,23 @@
 			"plot"       : 5,
 			"music"      : 4,
 			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Karate Kid",
+		"year"    : "1984",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
 			"characters" : 5,
 			"genre"      : 6,
 			"references" : 3.5,

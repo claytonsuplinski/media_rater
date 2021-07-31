@@ -66,7 +66,7 @@
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
-			"exact"    : [ "Django Unchained", "Inception", "The Departed", "The Great Gatsby", "The Revenant", "The Wolf of Wall Street", "Titanic" ]
+			"exact"    : [ "Catch Me If You Can", "Django Unchained", "Inception", "The Departed", "The Great Gatsby", "The Revenant", "The Wolf of Wall Street", "Titanic" ]
 		},
 		{
 			"value"    : "Liam Neeson",
@@ -111,7 +111,7 @@
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Big", "Cast Away", "Saving Private Ryan", "The Green Mile" ]
+			"exact"    : [ "Apollo 13", "Big", "Cast Away", "Catch Me If You Can", "Saving Private Ryan", "The Green Mile" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -141,7 +141,7 @@
 		{
 			"value"    : "Steven Spielberg",
 			"includes" : [ "Close Encounters of the Third Kind", "E.T.", "The Lost World: Jurassic Park", "Indiana Jones", "Raiders of the Lost Ark", "Saving Private Ryan" ],
-			"exact"    : [ "A.I. Artificial Intelligence", "Jaws", "Jurassic Park", "Lincoln", "Minority Report", "Ready Player One", "Schindler's List", "War Horse", "War of the Worlds" ]
+			"exact"    : [ "A.I. Artificial Intelligence", "Catch Me If You Can", "Jaws", "Jurassic Park", "Lincoln", "Minority Report", "Ready Player One", "Schindler's List", "War Horse", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Quentin Tarantino",
@@ -196,7 +196,7 @@
 		{
 			"value"    : "Disney",
 			"includes" : [
-				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast",
+				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
 				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
 				"Fantasia", "Fox and the Hound", "Freaky Friday", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",

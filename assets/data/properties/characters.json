@@ -1,0 +1,42 @@
+{
+	"series" : [
+		{
+			"value"    : "Friends",
+			"includes" : [ " Buffay", " Geller", " Tribbiani" ],
+			"exact"    : [ "Chandler Bing", "Rachel Green" ]
+		},
+		{
+			"value"    : "Harry Potter",
+			"includes" : [ " Dumbledore", " Malfoy", " Potter", " Snape", "Voldemort", " Weasley" ],
+			"exact"    : [ "Hermione Granger" ]
+		},
+		{
+			"value"    : "Kingdom Hearts",
+			"includes" : [ "Donald Duck", "Mickey Mouse" ],
+			"exact"    : [
+				"Alice", "Ansem", "Aqua", "Goofy", "Hercules", "Kairi", "Peter Pan", "Queen of Hearts",
+				"Sora", "Riku", "Terra", "Ventus", "Xemnas", "Xehanort"
+			]
+		},
+		{
+			"value"    : "Seinfeld",
+			"includes" : [ " Benes", " Costanza", " Seinfeld" ],
+			"exact"    : [ "Cosmo Kramer", "Newman" ]
+		},
+		{
+			"value"    : "Spaceballs",
+			"includes" : [ "Lone Star", "Princess Vespa" ],
+			"exact"    : [ "Barf", "Dark Helmet" ]
+		},
+		{
+			"value"    : "Spongebob Squarepants",
+			"includes" : [ "Spongebob", "Squarepants", "Squidward" ],
+			"exact"    : [ "Eugene Krabs", "Patrick Star", "Sheldon Plankton", "Sandy Cheeks" ]
+		},
+		{
+			"value"    : "Star Wars",
+			"includes" : [ " Amidala", "Darth ", " Dooku", " Fett", "Jar Jar", " Kenobi", " Palpatine", " Skywalker" ],
+			"exact"    : [ "Chewbacca", "Han Solo", "Mace Windu", "Yoda" ]
+		}
+	]
+}

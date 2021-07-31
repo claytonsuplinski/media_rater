@@ -45,6 +45,21 @@
 		}
 	},
 	{
+		"name"    : "Chandler Bing",
+		"ratings" : {
+			"humor"            : 7,
+			"relatability"     : 6.5,
+			"intrigue"         : 5.5,
+			"personality"      : 6,
+			"events"           : 4.5,
+			"mentality"        : 5.5,
+			"emotional impact" : 3.5,
+			"references"       : 6,
+			"nostalgia"        : 7,
+			"bias"             : 6.5
+		}
+	},
+	{
 		"name"    : "Chewbacca",
 		"ratings" : {
 			"humor"            : 0.5,
@@ -147,6 +162,21 @@
 			"references"       : 4,
 			"nostalgia"        : 9,
 			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Elaine Benes",
+		"ratings" : {
+			"humor"            : 7.5,
+			"relatability"     : 5.5,
+			"intrigue"         : 6,
+			"personality"      : 7,
+			"events"           : 7.5,
+			"mentality"        : 6,
+			"emotional impact" : 3.5,
+			"references"       : 8,
+			"nostalgia"        : 9,
+			"bias"             : 7.5
 		}
 	},
 	{
@@ -264,9 +294,24 @@
 			"events"           : 9,
 			"mentality"        : 5.5,
 			"emotional impact" : 3.5,
-			"references"       : 10,
+			"references"       : 9,
 			"nostalgia"        : 9,
-			"bias"             : 9
+			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Joey Tribbiani",
+		"ratings" : {
+			"humor"            : 7.5,
+			"relatability"     : 5,
+			"intrigue"         : 5.5,
+			"personality"      : 7,
+			"events"           : 4,
+			"mentality"        : 3.5,
+			"emotional impact" : 2.5,
+			"references"       : 7,
+			"nostalgia"        : 7,
+			"bias"             : 7
 		}
 	},
 	{
@@ -285,6 +330,21 @@
 		}
 	},
 	{
+		"name"    : "Kairi",
+		"ratings" : {
+			"humor"            : 2,
+			"relatability"     : 3,
+			"intrigue"         : 8.5,
+			"personality"      : 7,
+			"events"           : 1.5,
+			"mentality"        : 7,
+			"emotional impact" : 8,
+			"references"       : 5.5,
+			"nostalgia"        : 9.5,
+			"bias"             : 8.5
+		}
+	},
+	{
 		"name"    : "Leia Skywalker",
 		"ratings" : {
 			"humor"            : 3,
@@ -300,12 +360,27 @@
 		}
 	},
 	{
+		"name"    : "Lone Starr",
+		"ratings" : {
+			"humor"            : 8.5,
+			"relatability"     : 7.5,
+			"intrigue"         : 8.5,
+			"personality"      : 7.5,
+			"events"           : 7.5,
+			"mentality"        : 6,
+			"emotional impact" : 5,
+			"references"       : 8,
+			"nostalgia"        : 9.5,
+			"bias"             : 8.5
+		}
+	},
+	{
 		"name"    : "Lord Voldemort",
 		"ratings" : {
 			"humor"            : 0.5,
 			"relatability"     : 6.5,
 			"intrigue"         : 9.5,
-			"personality"      : 6,
+			"personality"      : 6.5,
 			"events"           : 7,
 			"mentality"        : 8.5,
 			"emotional impact" : 9.5,
@@ -375,6 +450,21 @@
 		}
 	},
 	{
+		"name"    : "Monica Geller",
+		"ratings" : {
+			"humor"            : 5,
+			"relatability"     : 6.5,
+			"intrigue"         : 5.5,
+			"personality"      : 5,
+			"events"           : 4.5,
+			"mentality"        : 7.5,
+			"emotional impact" : 3,
+			"references"       : 5,
+			"nostalgia"        : 7,
+			"bias"             : 5.5
+		}
+	},
+	{
 		"name"    : "Ned Bigby",
 		"ratings" : {
 			"humor"            : 7.5,
@@ -387,6 +477,21 @@
 			"references"       : 3,
 			"nostalgia"        : 9.5,
 			"bias"             : 9
+		}
+	},
+	{
+		"name"    : "Newman",
+		"ratings" : {
+			"humor"            : 10,
+			"relatability"     : 2.5,
+			"intrigue"         : 9,
+			"personality"      : 10,
+			"events"           : 2,
+			"mentality"        : 5,
+			"emotional impact" : 2,
+			"references"       : 8.5,
+			"nostalgia"        : 8,
+			"bias"             : 8.5
 		}
 	},
 	{
@@ -432,6 +537,36 @@
 			"references"       : 8,
 			"nostalgia"        : 9,
 			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Phoebe Buffay",
+		"ratings" : {
+			"humor"            : 6.5,
+			"relatability"     : 5,
+			"intrigue"         : 6.5,
+			"personality"      : 5.5,
+			"events"           : 4,
+			"mentality"        : 5,
+			"emotional impact" : 3.5,
+			"references"       : 3.5,
+			"nostalgia"        : 7,
+			"bias"             : 6
+		}
+	},
+	{
+		"name"    : "Queen of Hearts",
+		"ratings" : {
+			"humor"            : 5,
+			"relatability"     : 1,
+			"intrigue"         : 6.5,
+			"personality"      : 6.5,
+			"events"           : 2.5,
+			"mentality"        : 2.5,
+			"emotional impact" : 7,
+			"references"       : 4,
+			"nostalgia"        : 6.5,
+			"bias"             : 5.5
 		}
 	},
 	{
@@ -495,6 +630,21 @@
 		}
 	},
 	{
+		"name"    : "Ross Geller",
+		"ratings" : {
+			"humor"            : 6.5,
+			"relatability"     : 6,
+			"intrigue"         : 5,
+			"personality"      : 4,
+			"events"           : 6.5,
+			"mentality"        : 6,
+			"emotional impact" : 3,
+			"references"       : 8.5,
+			"nostalgia"        : 7,
+			"bias"             : 6
+		}
+	},
+	{
 		"name"    : "Severus Snape",
 		"ratings" : {
 			"humor"            : 5,
@@ -507,6 +657,21 @@
 			"references"       : 8,
 			"nostalgia"        : 9,
 			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Sheev Palpatine",
+		"ratings" : {
+			"humor"            : 3.5,
+			"relatability"     : 5.5,
+			"intrigue"         : 9,
+			"personality"      : 7,
+			"events"           : 6.5,
+			"mentality"        : 9.5,
+			"emotional impact" : 7,
+			"references"       : 7,
+			"nostalgia"        : 7.5,
+			"bias"             : 7
 		}
 	},
 	{

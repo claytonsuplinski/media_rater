@@ -19,6 +19,11 @@
 			]
 		},
 		{
+			"value"    : "Pokemon",
+			"includes" : [ " Ketchum", " [Team Rocket]" ],
+			"exact"    : [ "Brock", "Misty", "Meowth", "Pikachu" ]
+		},
+		{
 			"value"    : "Seinfeld",
 			"includes" : [ " Benes", " Costanza", " Seinfeld" ],
 			"exact"    : [ "Cosmo Kramer", "Newman" ]

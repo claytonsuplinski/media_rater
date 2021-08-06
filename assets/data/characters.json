@@ -45,6 +45,36 @@
 		}
 	},
 	{
+		"name"    : "Ash Ketchum",
+		"ratings" : {
+			"humor"            : 6,
+			"relatability"     : 5.5,
+			"intrigue"         : 7,
+			"personality"      : 7.5,
+			"events"           : 7,
+			"mentality"        : 8,
+			"emotional impact" : 6.5,
+			"references"       : 8,
+			"nostalgia"        : 8.5,
+			"bias"             : 8
+		}
+	},
+	{
+		"name"    : "Brock",
+		"ratings" : {
+			"humor"            : 6.5,
+			"relatability"     : 5.5,
+			"intrigue"         : 6.5,
+			"personality"      : 8,
+			"events"           : 3.5,
+			"mentality"        : 6,
+			"emotional impact" : 5.5,
+			"references"       : 8,
+			"nostalgia"        : 8.5,
+			"bias"             : 7
+		}
+	},
+	{
 		"name"    : "Chandler Bing",
 		"ratings" : {
 			"humor"            : 7,
@@ -270,6 +300,21 @@
 		}
 	},
 	{
+		"name"    : "James [Team Rocket]",
+		"ratings" : {
+			"humor"            : 7,
+			"relatability"     : 5,
+			"intrigue"         : 6.5,
+			"personality"      : 7.5,
+			"events"           : 4.5,
+			"mentality"        : 4.5,
+			"emotional impact" : 4,
+			"references"       : 7.5,
+			"nostalgia"        : 8,
+			"bias"             : 6.5
+		}
+	},
+	{
 		"name"    : "Jar Jar Binks",
 		"ratings" : {
 			"humor"            : 1,
@@ -297,6 +342,21 @@
 			"references"       : 9,
 			"nostalgia"        : 9,
 			"bias"             : 8.5
+		}
+	},
+	{
+		"name"    : "Jessie [Team Rocket]",
+		"ratings" : {
+			"humor"            : 6.5,
+			"relatability"     : 4.5,
+			"intrigue"         : 6.5,
+			"personality"      : 8.5,
+			"events"           : 4.5,
+			"mentality"        : 5.5,
+			"emotional impact" : 3.5,
+			"references"       : 7.5,
+			"nostalgia"        : 8,
+			"bias"             : 7
 		}
 	},
 	{
@@ -447,6 +507,21 @@
 			"references"       : 9.5,
 			"nostalgia"        : 8.5,
 			"bias"             : 5.5
+		}
+	},
+	{
+		"name"    : "Misty",
+		"ratings" : {
+			"humor"            : 5.5,
+			"relatability"     : 5.5,
+			"intrigue"         : 6.5,
+			"personality"      : 7,
+			"events"           : 3.5,
+			"mentality"        : 5.5,
+			"emotional impact" : 4.5,
+			"references"       : 8,
+			"nostalgia"        : 8.5,
+			"bias"             : 6
 		}
 	},
 	{

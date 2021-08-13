@@ -8,7 +8,7 @@
 		{
 			"value"    : "Alan Rickman",
 			"includes" : [ "Harry Potter", "Hitchhiker's Guide to the Galaxy", "Sweeney Todd" ],
-			"exact"    : [ "Die Hard", "Love Actually" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Die Hard", "Love Actually" ]
 		},
 		{
 			"value"    : "Ben Stiller",
@@ -62,7 +62,7 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -203,7 +203,7 @@
 				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundered and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
-				"Sleeping Beauty", "Song of the South", "Star Wars Episode IX:", "Sword in the Stone", 
+				"Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
 				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh"

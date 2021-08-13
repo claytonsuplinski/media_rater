@@ -255,6 +255,23 @@
 		}
 	},
 	{
+		"name"    : "Alice in Wonderland [Live Action]",
+		"year"    : "2010",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Aliens",
 		"year"    : "1986",
 		"critic"  : 8.3,
@@ -1204,6 +1221,23 @@
 			"genre"      : 6.5,
 			"references" : 4,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Cars",
+		"year"    : "2006",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3468,6 +3502,23 @@
 		}
 	},
 	{
+		"name"    : "Kangaroo Jack",
+		"year"    : "2003",
+		"critic"  : 4.4,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4.5,
+			"plot"       : 6,
+			"music"      : 6.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Kazaam",
 		"year"    : "1996",
 		"critic"  : 3,
@@ -3669,6 +3720,23 @@
 			"genre"      : 6.5,
 			"references" : 6,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Lara Croft: Tomb Raider",
+		"year"    : "2001",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 2,
+			"characters" : 4,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4675,6 +4743,23 @@
 		}
 	},
 	{
+		"name"    : "Once Upon a Mattress",
+		"year"    : "2005",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "One Flew Over the Cuckoo's Nest",
 		"year"    : "1975",
 		"critic"  : 8.7,
@@ -4876,6 +4961,23 @@
 			"genre"      : 9.5,
 			"references" : 7.5,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "Pirates of the Caribbean: Dead Man's Chest",
+		"year"    : "2006",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 8,
+			"nostalgia"  : 6,
+			"plot"       : 5.5,
+			"music"      : 9,
+			"rewatch"    : 4.5,
+			"characters" : 6.5,
+			"genre"      : 7,
+			"references" : 5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -7256,6 +7358,23 @@
 			"genre"      : 4.5,
 			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Hangover",
+		"year"    : "2009",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 9.5,
+			"rewatch"    : 4,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{

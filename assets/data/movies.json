@@ -2040,6 +2040,23 @@
 		}
 	},
 	{
+		"name"    : "Enchanted",
+		"year"    : "2007",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 7,
+			"music"      : 5.5,
+			"rewatch"    : 5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Envy",
 		"year"    : "2004",
 		"critic"  : 4.8,
@@ -5454,6 +5471,23 @@
 			"genre"      : 4,
 			"references" : 6.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Rudy",
+		"year"    : "1993",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{

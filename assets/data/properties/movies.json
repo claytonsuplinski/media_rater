@@ -116,7 +116,7 @@
 		{
 			"value"    : "Vince Vaughn",
 			"includes" : [ "Anchorman", "Wedding Crashers" ],
-			"exact"    : [ "Dodgeball", "Four Christmases", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
+			"exact"    : [ "Dodgeball", "Four Christmases", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Rudy", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
 		},
 		{
 			"value"    : "Will Ferrell",
@@ -208,7 +208,7 @@
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
 				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Tarzan" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Tarzan" ]
 		},
 		{
 			"value"    : "Pixar",

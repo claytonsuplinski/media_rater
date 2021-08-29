@@ -111,7 +111,7 @@
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Big", "Cast Away", "Catch Me If You Can", "Saving Private Ryan", "The Green Mile" ]
+			"exact"    : [ "Apollo 13", "Big", "Cast Away", "Catch Me If You Can", "Saving Private Ryan", "The Green Mile", "The Simpsons Movie" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -197,18 +197,19 @@
 			"value"    : "Disney",
 			"includes" : [
 				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
-				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
+				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Cruella",
+				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
 				"Fantasia", "Fox and the Hound", "Freaky Friday", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundered and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
 				"Sleeping Beauty", "Song of the South", "Sword in the Stone", 
-				"The Black Cauldron", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
+				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
 				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Tarzan" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tarzan" ]
 		},
 		{
 			"value"    : "Pixar",

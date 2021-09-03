@@ -238,6 +238,23 @@
 		}
 	},
 	{
+		"name"    : "Aladdin and the King of Thieves",
+		"year"    : "1996",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6.5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Alice in Wonderland",
 		"year"    : "1951",
 		"critic"  : 7.4,
@@ -677,6 +694,23 @@
 			"genre"      : 8.5,
 			"references" : 6,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Babe",
+		"year"    : "1995",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 2.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5909,7 +5943,7 @@
 			"plot"       : 4,
 			"music"      : 5,
 			"rewatch"    : 4.5,
-			"characters" : 4,
+			"characters" : 4.5,
 			"genre"      : 5.5,
 			"references" : 3.5,
 			"bias"       : 5
@@ -8517,6 +8551,23 @@
 		}
 	},
 	{
+		"name"    : "The Suicide Squad",
+		"year"    : "2021",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "The Sword in the Stone",
 		"year"    : "1963",
 		"critic"  : 7.2,
@@ -9299,6 +9350,23 @@
 		}
 	},
 	{
+		"name"    : "Who Framed Roger Rabbit?",
+		"year"    : "1988",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Winnie the Pooh: A Very Merry Pooh Year",
 		"year"    : "2002",
 		"critic"  : 6.8,
@@ -9432,6 +9500,23 @@
 			"genre"      : 5,
 			"references" : 4.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Zootopia",
+		"year"    : "2016",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 7.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7.5,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{

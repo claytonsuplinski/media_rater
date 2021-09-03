@@ -3,8 +3,6 @@ MIA.content.views.score_distribution = {
 	bin_sizes : [ 0.5, 1, 2, 5, 10, 20, 50 ],
 };
 
-MIA.content.views.score_distribution.on_search = function(){ this.update_content(); };
-
 MIA.content.views.score_distribution.update_content = function( self, p ){
 	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
 	MIA.content.post_draw_graphs();

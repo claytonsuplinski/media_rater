@@ -40,6 +40,11 @@
 			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven" ]
 		},
 		{
+			"value"    : "Harrison Ford",
+			"includes" : [ "Blade Runner", "Indiana Jones", "Star Wars: Holiday Special", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:", "Star Wars Episode VII:", "Star Wars Episode IX:" ],
+			"exact"    : [ "Cowboys & Aliens", "Raiders of the Lost Ark" ]
+		},
+		{
 			"value"    : "Jack Black",
 			"includes" : [ "Jumanji: ", "Kung Fu Panda" ],
 			"exact"    : [ "Anchorman", "Envy", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "Tropic Thunder" ]
@@ -74,6 +79,10 @@
 			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Schindler's List", "Taken", "The Lego Movie" ]
 		},
 		{
+			"value"    : "Matthew McConnaughey",
+			"exact"    : [ "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
+		},
+		{
 			"value"    : "Natalie Portman",
 			"includes" : [ "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "V for Vendetta" ],
 			"exact"    : [ "Annihilation", "Black Swan", "Thor", "Thor: The Dark World" ]
@@ -84,9 +93,19 @@
 			"exact"    : [ "Kick-Ass", "The Wicker Man" ]
 		},
 		{
+			"value"    : "Owen Wilson",
+			"includes" : [ "Night at the Museum", "Zoolander" ],
+			"exact"    : [ "Armageddon", "Cars", "Free Birds", "Meet the Parents", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
+		},
+		{
 			"value"    : "Robert Downey Jr",
 			"includes" : [ "Avengers: ", "Iron Man", "The Avengers" ],
 			"exact"    : [ "Captain America: Civil War", "Spider-Man: Homecoming", "Tropic Thunder" ]
+		},
+		{
+			"value"    : "Robin Williams",
+			"includes" : [ "Mrs. Doubtfire", "Night at the Museum" ],
+			"exact"    : [ "Aladdin", "Aladdin and the King of Thieves", "Dead Poets Society", "Jumanji", "RV" ]
 		},
 		{
 			"value"    : "Samuel Jackson",
@@ -97,6 +116,11 @@
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
 			"exact"    : [ "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+		},
+		{
+			"value"    : "Shia LaBeouf",
+			"includes" : [ "Indiana Jones and the Kingdom of the Crystal Skull", "Transformers" ],
+			"exact"    : [ "Disturbia", "Holes", "The Even Stevens Movie", "The Greatest Game Ever Played" ]
 		},
 		{
 			"value"    : "The Rock Dwayne Johnson",
@@ -125,8 +149,8 @@
 		},
 		{
 			"value"    : "Will Smith",
-			"includes" : [ "Aladdin [Live Action]", "Men in Black", "Suicide Squad" ],
-			"exact"    : [ "Anchorman 2", "Hitch", "I am Legend", "I, Robot", "Independence Day" ]
+			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
+			"exact"    : [ "Anchorman 2", "Hitch", "I am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
 		}
 	],
 	"director" : [
@@ -147,6 +171,11 @@
 			"value"    : "Quentin Tarantino",
 			"includes" : [ "Kill Bill", "Pulp Fiction" ],
 			"exact"    : [ "Django Unchained", "The Hateful Eight" ]
+		},
+		{
+			"value"    : "Tim Burton",
+			"includes" : [ "Edward Scissorhands", "Sweeney Todd" ],
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Beetlejuice", "Corpse Bride", "Frankenweenie", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [
@@ -207,9 +236,9 @@
 				"Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
-				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh"
+				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tarzan" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan" ]
 		},
 		{
 			"value"    : "Pixar",

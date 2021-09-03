@@ -101,20 +101,37 @@ MIA.content.has_properties = function(){
 	return MIA.config.pages_with_properties.find( x => x.toLowerCase() == MIA.content.name );
 };
 
+MIA.content.matches_search_terms = function( terms, operation ){
+	return terms.map(function( term ){
+		if( [ '&&', '||' ].includes( term ) ) return term;
+		return operation.replace( /{search_val}/g, '"' + term + '"'		 );
+	}).join(' ');
+};
+
 MIA.content.search_filter = function( data ){
 	var search_val = this.get_search_val();
 	if( search_val ){
-		search_val = search_val.toLowerCase();
+		var search_terms = search_val.toLowerCase().split( / *(?:([&|]{2})) */g );
 		data = data.filter(function( x ){
-			if( x.properties ){
-				if( Object.keys( x.properties ).find( prop => x.properties[ prop ].find( v => v.includes( search_val ) ) ) ) return true;
-			}
-			return x.name.toLowerCase().includes( search_val ) || x.year == search_val;
-		});
+			var match_terms = [
+				'x.name.toLowerCase().includes({search_val})',
+				'x.year == {search_val} ',
+			];
+			if( x.properties ) match_terms.push( 'Object.keys( x.properties ).find( prop => x.properties[ prop ].find(function(v){ return v.includes({search_val}); }) )' );
+			return eval( this.matches_search_terms( search_terms, '( ' + match_terms.join(' || ') + ')' ) );
+		}, this);
 	}
 	this.search_count = data.length;
 	$( "#search-count" ).html( this.search_count );
 	return data;
+};
+
+MIA.content.on_search = function(){
+	var self = this;
+	clearTimeout( this.search_timeout );
+	this.search_timeout = setTimeout(function(){
+		self.curr_view.update_content();
+	}, 100 );
 };
 
 MIA.content.show_all = function(){
@@ -244,7 +261,7 @@ MIA.content.draw = function( p ){
 				search     : true,
 				attributes : {
 					id          : 'search-bar',
-					onkeyup     : 'MIA.content.curr_view.on_search();',
+					onkeyup     : 'MIA.content.on_search();',
 					placeholder : '&#xf002;  Search',
 					value       : $( '#search-bar' ).val() || '',
 				}

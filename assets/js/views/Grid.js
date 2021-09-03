@@ -1,7 +1,5 @@
 MIA.content.views.grid = {};
 
-MIA.content.views.grid.on_search = function(){ this.update_content(); };
-
 MIA.content.views.grid.update_content = function( self, p ){
 	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
 	this.post_draw( self || MIA.content, p || this.params );

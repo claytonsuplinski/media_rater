@@ -1,7 +1,5 @@
 MIA.content.views.years = {};
 
-MIA.content.views.years.on_search = function(){ this.update_content(); };
-
 MIA.content.views.years.update_content = function( self, p ){
 	$( '#view-content' ).html( this.get_content( self || MIA.content, p || this.params ) );
 	MIA.content.post_draw_graphs();

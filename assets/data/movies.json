@@ -5508,6 +5508,23 @@
 		}
 	},
 	{
+		"name"    : "Reminiscence",
+		"year"    : "2021",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 7,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Rise of the Guardians",
 		"year"    : "2012",
 		"critic"  : 7.3,

@@ -103,22 +103,38 @@ MIA.content.has_properties = function(){
 
 MIA.content.matches_search_terms = function( terms, operation ){
 	return terms.map(function( term ){
+		var match_string = operation.slice();
 		if( [ '&&', '||' ].includes( term ) ) return term;
-		return operation.replace( /{search_val}/g, '"' + term + '"'		 );
+		if( [ '>', '<', '==', '!=' ].find( x => term.startsWith( 'year ' + x ) ) ){
+			return term.replace( /year/g, 'x.year' );
+		}
+		if( term.startsWith( '!' ) && term.length > 1 ){
+			if( !match_string.startsWith( '!' ) ) match_string = '!' + match_string;
+			term = term.substring( 1 );
+		}
+		return match_string	.replace( /{search_val}/g, '"' + term + '"' );
 	}).join(' ');
 };
 
 MIA.content.search_filter = function( data ){
+	var self = this;
 	var search_val = this.get_search_val();
 	if( search_val ){
 		var search_terms = search_val.toLowerCase().split( / *(?:([&|]{2})) */g );
+
+		var match_strings = {};
+		var get_match_string = function( s, m ){ return self.matches_search_terms( s, '( ' + m.join(' || ') + ')' ); };
+
+		var match_terms = [ 'x.name.toLowerCase().includes({search_val})', 'x.year == {search_val} ' ];
+		match_strings.default    = get_match_string( search_terms, match_terms );
+
+		match_terms.push( 'Object.keys( x.properties ).find( prop => x.properties[ prop ].find(function(v){ return v.includes({search_val}); }) )' );
+		match_strings.properties = get_match_string( search_terms, match_terms );
+
 		data = data.filter(function( x ){
-			var match_terms = [
-				'x.name.toLowerCase().includes({search_val})',
-				'x.year == {search_val} ',
-			];
-			if( x.properties ) match_terms.push( 'Object.keys( x.properties ).find( prop => x.properties[ prop ].find(function(v){ return v.includes({search_val}); }) )' );
-			return eval( this.matches_search_terms( search_terms, '( ' + match_terms.join(' || ') + ')' ) );
+			var match_string = match_strings.default;
+			if( x.properties ) match_string = match_strings.properties;
+			return eval( match_string );
 		}, this);
 	}
 	this.search_count = data.length;
@@ -261,6 +277,8 @@ MIA.content.draw = function( p ){
 				search     : true,
 				attributes : {
 					id          : 'search-bar',
+					onblur      : 'MIA.keyboard.enable();',
+					onfocus     : 'MIA.keyboard.disable([ \'/\', \'ESCAPE\' ]);',
 					onkeyup     : 'MIA.content.on_search();',
 					placeholder : '&#xf002;  Search',
 					value       : $( '#search-bar' ).val() || '',

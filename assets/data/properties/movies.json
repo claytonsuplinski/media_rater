@@ -98,6 +98,11 @@
 			"exact"    : [ "Armageddon", "Cars", "Free Birds", "Meet the Parents", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
 		},
 		{
+			"value"    : "Ralph Fiennes",
+			"includes" : [ "Goblet of Fire", "Order of the Phoenix", "the Deathly Hallows" ],
+			"exact"    : [ "Schindler's List", "The English Patient" ]
+		},
+		{
 			"value"    : "Robert Downey Jr",
 			"includes" : [ "Avengers: ", "Iron Man", "The Avengers" ],
 			"exact"    : [ "Captain America: Civil War", "Spider-Man: Homecoming", "Tropic Thunder" ]
@@ -230,7 +235,7 @@
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
 				"Fantasia", "Fox and the Hound", "Freaky Friday", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
-				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundered and One Dalmatians",
+				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
 				"Sleeping Beauty", "Song of the South", "Sword in the Stone", 

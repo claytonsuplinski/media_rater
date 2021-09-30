@@ -130,7 +130,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Central Intelligence", "Moana", "The Other Guys" ]
+			"exact"    : [ "Central Intelligence", "Moana", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -192,7 +192,7 @@
 		{
 			"value"    : "Halloween",
 			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Rocky Horror", "Scary Movie", "Sweeney Todd", "Van Helsing", "Vampire", "Zombieland" ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Twitches" ]
+			"exact"    : [ "Clue", "Carrie", "Casper", "Disturbia", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
@@ -233,17 +233,16 @@
 				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
 				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
-				"Fantasia", "Fox and the Hound", "Freaky Friday", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
+				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
-				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
-				"Sleeping Beauty", "Song of the South", "Sword in the Stone", 
+				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
-				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms", "The Pacifier",
-				"The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
+				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
+				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "You Wish!" ]
 		},
 		{
 			"value"    : "Pixar",

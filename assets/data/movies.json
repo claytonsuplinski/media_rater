@@ -391,6 +391,23 @@
 		}
 	},
 	{
+		"name"    : "American Psycho",
+		"year"    : "2000",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Anchorman",
 		"year"    : "2004",
 		"critic"  : 7.2,
@@ -1853,6 +1870,23 @@
 		}
 	},
 	{
+		"name"    : "Disturbia",
+		"year"    : "2007",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 2.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Django Unchained",
 		"year"    : "2012",
 		"critic"  : 8.4,
@@ -2516,6 +2550,23 @@
 		}
 	},
 	{
+		"name"    : "Frozen II",
+		"year"    : "2019",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Fun and Fancy Free",
 		"year"    : "1947",
 		"critic"  : 6.6,
@@ -3051,7 +3102,7 @@
 			"visuals"    : 4,
 			"nostalgia"  : 0,
 			"plot"       : 2,
-			"music"      : 3,
+			"music"      : 4,
 			"rewatch"    : 0.5,
 			"characters" : 1,
 			"genre"      : 1,
@@ -3544,12 +3595,29 @@
 			"visuals"    : 7,
 			"nostalgia"  : 5,
 			"plot"       : 4,
-			"music"      : 6,
-			"rewatch"    : 4,
+			"music"      : 5.5,
+			"rewatch"    : 5.5,
 			"characters" : 6,
 			"genre"      : 9,
 			"references" : 3.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "John Wick: Chapter 2",
+		"year"    : "2017",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 5.5,
+			"characters" : 6.5,
+			"genre"      : 8.5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3560,7 +3628,7 @@
 			"humor"      : 2,
 			"visuals"    : 5.5,
 			"nostalgia"  : 2,
-			"plot"       : 2.5,
+			"plot"       : 5,
 			"music"      : 5.5,
 			"rewatch"    : 2,
 			"characters" : 4,
@@ -4250,6 +4318,23 @@
 		}
 	},
 	{
+		"name"    : "Midnight in the Garden of Good and Evil",
+		"year"    : "1997",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Mighty Joe Young",
 		"year"    : "1998",
 		"critic"  : 5.7,
@@ -4417,6 +4502,23 @@
 			"genre"      : 6,
 			"references" : 4,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Moneyball",
+		"year"    : "2011",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -6018,6 +6120,23 @@
 		}
 	},
 	{
+		"name"    : "Shazam!",
+		"year"    : "2019",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5,
+			"characters" : 5.5,
+			"genre"      : 7.5,
+			"references" : 4,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "She's The Man",
 		"year"    : "2006",
 		"critic"  : 6.3,
@@ -7497,6 +7616,23 @@
 		}
 	},
 	{
+		"name"    : "The Good, the Bad and the Ugly",
+		"year"    : "1966",
+		"critic"  : 8.8,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 2.5,
+			"nostalgia"  : 0.5,
+			"plot"       : 1,
+			"music"      : 5.5,
+			"rewatch"    : 0.5,
+			"characters" : 2,
+			"genre"      : 1,
+			"references" : 2,
+			"bias"       : 0.5
+		}
+	},
+	{
 		"name"    : "The Goonies",
 		"year"    : "1985",
 		"critic"  : 7.8,
@@ -7939,6 +8075,40 @@
 		}
 	},
 	{
+		"name"    : "The Lion King 1 1/2",
+		"year"    : "2004",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 9,
+			"nostalgia"  : 6,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 4,
+			"characters" : 7,
+			"genre"      : 6,
+			"references" : 5.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Lion King 2: Simba's Pride",
+		"year"    : "1998",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8.5,
+			"nostalgia"  : 5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Little Mermaid",
 		"year"    : "1989",
 		"critic"  : 7.6,
@@ -8310,6 +8480,23 @@
 			"genre"      : 7.5,
 			"references" : 7,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "The Princess Diaries",
+		"year"    : "2001",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -8908,6 +9095,23 @@
 		}
 	},
 	{
+		"name"    : "Toy Story 2",
+		"year"    : "1999",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Transcendence",
 		"year"    : "2014",
 		"critic"  : 6.3,
@@ -9126,6 +9330,23 @@
 			"genre"      : 5,
 			"references" : 3.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Walking Tall",
+		"year"    : "2004",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 2.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -9449,6 +9670,23 @@
 			"genre"      : 5,
 			"references" : 3.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "You Wish!",
+		"year"    : "2003",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 5.5,
+			"references" : 2.5,
+			"bias"       : 5
 		}
 	},
 	{

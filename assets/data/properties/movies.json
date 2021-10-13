@@ -120,7 +120,7 @@
 		{
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
-			"exact"    : [ "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -155,7 +155,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
-			"exact"    : [ "Anchorman 2", "Hitch", "I am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
+			"exact"    : [ "Anchorman 2", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
 		}
 	],
 	"director" : [
@@ -191,8 +191,8 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Rocky Horror", "Scary Movie", "Sweeney Todd", "Van Helsing", "Vampire", "Zombieland" ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Disturbia", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Rocky Horror", "Scary Movie", "Sweeney Todd", "The Human Centipede", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Clue", "Carrie", "Casper", "Disturbia", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
@@ -215,7 +215,8 @@
 		},
 		{
 			"value"    : "MCU",
-			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Spider-Man: ", "The Avengers", "Thor" ]
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Spider-Man: ", "The Avengers", "Thor: " ],
+			"exact"    : [ "Black Widow", "Thor" ]
 		},
 		{
 			"value"    : "Mission Impossible",
@@ -242,7 +243,7 @@
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
 				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "You Wish!" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "Tower of Terror", "You Wish!" ]
 		},
 		{
 			"value"    : "Pixar",

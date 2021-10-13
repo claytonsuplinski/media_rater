@@ -90,6 +90,21 @@
 		}
 	},
 	{
+		"name"    : "Ben Roethlisberger",
+		"ratings" : {
+			"important plays" : 10,
+			"skill"           : 9.5,
+			"teams"           : 10,
+			"interaction"     : 10,
+			"personality"     : 9.5,
+			"selflessness"    : 9,
+			"integrity"       : 8,
+			"reliability"     : 10,
+			"nostalgia"       : 10,
+			"bias"            : 9
+		}
+	},
+	{
 		"name"    : "Bill Romanowski",
 		"ratings" : {
 			"important plays" : 0.5,
@@ -132,21 +147,6 @@
 			"reliability"     : 7,
 			"nostalgia"       : 10,
 			"bias"            : 3.5
-		}
-	},
-	{
-		"name"    : "Ben Roethlisberger",
-		"ratings" : {
-			"important plays" : 10,
-			"skill"           : 9.5,
-			"teams"           : 10,
-			"interaction"     : 5,
-			"personality"     : 4,
-			"selflessness"    : 7,
-			"integrity"       : 2.5,
-			"reliability"     : 8.5,
-			"nostalgia"       : 7.5,
-			"bias"            : 9
 		}
 	},
 	{
@@ -290,7 +290,7 @@
 			"important plays" : 10,
 			"skill"           : 9.5,
 			"teams"           : 10,
-			"interaction"     : 5.5,
+			"interaction"     : 5,
 			"personality"     : 10,
 			"selflessness"    : 10,
 			"integrity"       : 8.5,
@@ -636,7 +636,7 @@
 			"skill"           : 10,
 			"teams"           : 10,
 			"interaction"     : 9,
-			"personality"     : 10,
+			"personality"     : 9,
 			"selflessness"    : 9,
 			"integrity"       : 10,
 			"reliability"     : 8,

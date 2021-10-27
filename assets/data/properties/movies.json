@@ -67,7 +67,7 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -191,8 +191,8 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Rocky Horror", "Scary Movie", "Sweeney Todd", "The Human Centipede", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Disturbia", "Ghost", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "Tower of Terror", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Ghost", "It", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
@@ -234,7 +234,7 @@
 				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
 				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
-				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "High School Musical", 
+				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "Halloweentown", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",

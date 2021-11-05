@@ -442,6 +442,23 @@
 		}
 	},
 	{
+		"name"    : "Annie Hall",
+		"year"    : "1977",
+		"critic"  : 8.0,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 3,
+			"nostalgia"  : 6,
+			"plot"       : 1,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Ant-Man",
 		"year"    : "2015",
 		"critic"  : 7.3,
@@ -1424,6 +1441,23 @@
 			"characters" : 6,
 			"genre"      : 7,
 			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Cheaper by the Dozen",
+		"year"    : "2003",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4,
 			"bias"       : 5
 		}
 	},
@@ -3001,7 +3035,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 8,
+			"rewatch"    : 9,
 			"characters" : 9.5,
 			"genre"      : 9.7,
 			"references" : 10,
@@ -3018,7 +3052,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 8,
+			"rewatch"    : 9.5,
 			"characters" : 9.5,
 			"genre"      : 9.8,
 			"references" : 10,
@@ -3035,7 +3069,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 9,
 			"music"      : 10,
-			"rewatch"    : 8,
+			"rewatch"    : 9,
 			"characters" : 9,
 			"genre"      : 9.5,
 			"references" : 9,
@@ -3047,12 +3081,12 @@
 		"year"    : "2005",
 		"critic"  : 7.7,
 		"ratings" : {
-			"humor"      : 5,
+			"humor"      : 5.5,
 			"visuals"    : 10,
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
-			"rewatch"    : 9.5,
+			"rewatch"    : 10,
 			"characters" : 10,
 			"genre"      : 9.9,
 			"references" : 9.5,
@@ -3069,7 +3103,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 10,
 			"music"      : 10,
-			"rewatch"    : 9.5,
+			"rewatch"    : 10,
 			"characters" : 10,
 			"genre"      : 10,
 			"references" : 9.5,
@@ -3081,12 +3115,12 @@
 		"year"    : "2009",
 		"critic"  : 7.6,
 		"ratings" : {
-			"humor"      : 4.5,
+			"humor"      : 4,
 			"visuals"    : 10,
 			"nostalgia"  : 9,
 			"plot"       : 9,
 			"music"      : 10,
-			"rewatch"    : 7,
+			"rewatch"    : 8,
 			"characters" : 9.5,
 			"genre"      : 9.4,
 			"references" : 9,
@@ -3103,7 +3137,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 8,
 			"music"      : 10,
-			"rewatch"    : 7,
+			"rewatch"    : 8,
 			"characters" : 9,
 			"genre"      : 9.4,
 			"references" : 8.5,
@@ -3120,7 +3154,7 @@
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
-			"rewatch"    : 8.5,
+			"rewatch"    : 9,
 			"characters" : 9,
 			"genre"      : 9.6,
 			"references" : 9.5,
@@ -3516,6 +3550,23 @@
 			"genre"      : 6,
 			"references" : 5.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Inside Out",
+		"year"    : "2015",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4
 		}
 	},
 	{

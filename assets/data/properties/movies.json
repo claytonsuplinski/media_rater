@@ -18,7 +18,7 @@
 		{
 			"value"    : "Bill Murray",
 			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
-			"exact"    : [ "Groundhog Day", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
+			"exact"    : [ "Groundhog Day", "Isle of Dogs", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -57,7 +57,7 @@
 		{
 			"value"    : "Jeff Goldblum",
 			"includes" : [ "Independence Day" ],
-			"exact"    : [ "Annie Hall", "Jurassic Park", "The Lost World: Jurassic Park", "Thor: Ragnarok" ]
+			"exact"    : [ "Annie Hall", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "Thor: Ragnarok" ]
 		},
 		{
 			"value"    : "Jim Carrey",
@@ -120,7 +120,7 @@
 		{
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
-			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Isle of Dogs", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -130,7 +130,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Central Intelligence", "Moana", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Central Intelligence", "Jungle Cruise", "Moana", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -179,11 +179,16 @@
 		},
 		{
 			"value"    : "Tim Burton",
-			"includes" : [ "Edward Scissorhands", "Sweeney Todd" ],
+			"includes" : [ "Edward Scissorhands", "Sweeney Todd", "The Nightmare Before Christmas" ],
 			"exact"    : [ "Alice in Wonderland [Live Action]", "Beetlejuice", "Corpse Bride", "Frankenweenie", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [
+		{
+			"value"    : "Easter",
+			"includes" : [ "Ben-Hur", "Rise of the Guardians", "Willy Wonka", "Zootopia" ],
+			"exact"    : [ "Bruce Almighty", "The Ten Commandments", "Watership Down", "Who Framed Roger Rabbit?" ]
+		},
 		{
 			"value"    : "Christmas",
 			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Polar Express", "Santa Claus", "The Nutcracker", "Very Merry Pooh Year" ],
@@ -197,7 +202,7 @@
 		{
 			"value"    : "Thanksgiving",
 			"includes" : [ "Paul Blart", "Pocahontas" ],
-			"exact"    : [ "Chicken Run", "Dances with Wolves", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side" ]
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side" ]
 		}
 	],
 	"series" : [
@@ -215,7 +220,7 @@
 		},
 		{
 			"value"    : "MCU",
-			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Spider-Man: ", "The Avengers", "Thor: " ],
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Shang-Chi and the", "Spider-Man: ", "The Avengers", "Thor: " ],
 			"exact"    : [ "Black Widow", "Thor" ]
 		},
 		{
@@ -232,18 +237,18 @@
 			"value"    : "Disney",
 			"includes" : [
 				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
-				"Chicken Little", "Cinderella II", "Computer Wore Tennis Shoes", "Cruella",
+				"Chicken Little", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
 				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "Halloweentown", "High School Musical", 
 				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
-				"Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
+				"Maleficent", "Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
-				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
+				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "The Rocketeer", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
 			],
-			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "Tower of Terror", "You Wish!" ]
+			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Jungle Cruise", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "Tower of Terror", "You Wish!" ]
 		},
 		{
 			"value"    : "Pixar",

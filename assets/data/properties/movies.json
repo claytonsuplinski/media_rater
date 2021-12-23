@@ -52,7 +52,7 @@
 		{
 			"value"    : "James Franco",
 			"includes" : [ "Pineapple Express" ],
-			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Interview", "This is the End" ]
+			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
 		},
 		{
 			"value"    : "Jeff Goldblum",
@@ -180,7 +180,7 @@
 		{
 			"value"    : "Tim Burton",
 			"includes" : [ "Edward Scissorhands", "Sweeney Todd", "The Nightmare Before Christmas" ],
-			"exact"    : [ "Alice in Wonderland [Live Action]", "Beetlejuice", "Corpse Bride", "Frankenweenie", "Sleepy Hollow" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Corpse Bride", "Frankenweenie", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [
@@ -191,8 +191,8 @@
 		},
 		{
 			"value"    : "Christmas",
-			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Polar Express", "Santa Claus", "The Nutcracker", "Very Merry Pooh Year" ],
-			"exact"    : [ "Bad Santa", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Miracle on 34th Street", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "Unaccompanied Minors" ]
+			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
+			"exact"    : [ "Bad Santa", "Batman Returns", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Miracle on 34th Street", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Halloween",
@@ -236,7 +236,7 @@
 		{
 			"value"    : "Disney",
 			"includes" : [
-				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6",
+				"Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6", "Brother Bear",
 				"Chicken Little", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Even Stevens",
 				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "Halloweentown", "High School Musical", 

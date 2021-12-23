@@ -32,6 +32,9 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 		case 'Name':
 			data = data.sort( (a,b) => sorted_dir * ( a.name > b.name ? -1 : 1 ) );
 			break;
+		case 'Percent':
+			data = data.sort( (a,b) => sorted_dir * ( a.percent > b.percent ? -1 : 1 ) );
+			break;
 		case 'Rank':
 			data = data.sort( (a,b) => sorted_dir * ( a.rank > b.rank ? -1 : 1 ) );
 			break;
@@ -48,6 +51,8 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 			data = data.sort( (a,b) => sorted_dir * ( a.ratings[ self.table_sort ] > b.ratings[ self.table_sort ] ? -1 : 1 ) );
 			break;
 	}
+
+	if( p.totals ) data.push( p.totals );
 	
 	return '<table class="ranking-table fixed-table">' + 
 		'<tr>' + 
@@ -75,6 +80,7 @@ MIA.content.views.table.get_table_content = function( self, headers, data, p ){
 							item.delta.toFixed( 1 ) + 
 						'</td>';
 					}
+					if( header == 'Percent' ) return '<td class="' + td_classes + ' percent" >' + ( item.percent * 100 ).toFixed(1) + '%</td>';
 					if( header == 'Total' ){
 						var color = MIA.content.views.table.get_table_cell_color( item.total_rating );
 						return '<td class="total" style="background:' + color + ';">' + Number( item.total_rating ).toFixed( item.total_rating >= 100 ? 0 : 1 ) + '</td>';

@@ -53,19 +53,30 @@ MIA.content.views.years.get_content = function( self, p ){
 	
 	self.graphs.line_graph = { data : years, max_y_value, mid_value };
 	
+	var totals     = { year : 'Totals', score : 0, delta : 0, percent : 1 };
 	var table_data = years.map(function( year, idx ){
+		var delta = year.y - ( idx > 0 ? years[ idx - 1 ].y : 0 );
+
+		totals.score += year.y;
+		totals.delta += delta;
+		
 		return {
 			year  : year.x,
 			score : year.y,
-			delta : year.y - ( idx > 0 ? years[ idx - 1 ].y : 0 )
+			delta,
 		};
+	});
+
+	table_data.forEach(function( year ){
+		year.percent = year.score / totals.score;
 	});
 	
 	return '<svg id="graph"></svg>' + 
 		MIA.content.get_display_individual_category_html( this, self ) +
 		'<div class="years-table-container">' +
 			MIA.content.views.table.get_table_content(
-				self, [ 'Year', 'Score', 'Delta' ], table_data, { score_max : ( this.display_individual_category ? max_y_value : undefined ) }
+				self, [ 'Year', 'Score', 'Delta', 'Percent' ], table_data,
+				{ totals, score_max : ( this.display_individual_category ? max_y_value : undefined ) }
 			) +
 		'</div>';
 };

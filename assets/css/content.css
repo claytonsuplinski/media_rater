@@ -237,6 +237,7 @@
 }
 
 #content .ranking-table td.ranking,
+#content .ranking-table td.percent,
 #content .ranking-table td.total{
 	text-align:right;
 }

@@ -409,7 +409,7 @@
 		"ratings" : {
 			"sports"             : 6,
 			"music"              : 0,
-			"movies"             : 4,
+			"movies"             : 4.5,
 			"home entertainment" : 8.5,
 			"hobbies"            : 9,
 			"occupation"         : 10,
@@ -417,6 +417,21 @@
 			"relationships"      : 9,
 			"living environment" : 9,
 			"personal events"    : 4.5
+		}
+	},
+	{
+		"name"    : "2021",
+		"ratings" : {
+			"sports"             : 10,
+			"music"              : 0,
+			"movies"             : 5.5,
+			"home entertainment" : 8,
+			"hobbies"            : 9,
+			"occupation"         : 9.5,
+			"travel"             : 8.5,
+			"relationships"      : 9,
+			"living environment" : 9.5,
+			"personal events"    : 7.5
 		}
 	}
 ]

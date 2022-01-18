@@ -110,7 +110,7 @@
 		{
 			"value"    : "Robin Williams",
 			"includes" : [ "Mrs. Doubtfire", "Night at the Museum" ],
-			"exact"    : [ "Aladdin", "Aladdin and the King of Thieves", "Dead Poets Society", "Jumanji", "RV" ]
+			"exact"    : [ "Aladdin", "Aladdin and the King of Thieves", "Dead Poets Society", "Flubber", "Jumanji", "RV" ]
 		},
 		{
 			"value"    : "Samuel Jackson",
@@ -120,7 +120,7 @@
 		{
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
-			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Isle of Dogs", "Lost in Translation", "The Jungle Book [Live Action - 2016]" ]
+			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Isle of Dogs", "Lost in Translation", "The Jungle Book [Live Action - 2016]", "The Prestige" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -216,12 +216,12 @@
 		},
 		{
 			"value"    : "James Bond",
-			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "On Her Majesty's Secret Service", "Quantum of Solace" ]
+			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "On Her Majesty's Secret Service", "Quantum of Solace", "The Spy Who Loved Me" ]
 		},
 		{
 			"value"    : "MCU",
-			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Guardians of the Galaxy", "Iron Man", "Shang-Chi and the", "Spider-Man: ", "The Avengers", "Thor: " ],
-			"exact"    : [ "Black Widow", "Thor" ]
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Doctor Strange", "Guardians of the Galaxy", "Iron Man", "Shang-Chi and the", "Spider-Man: ", "The Avengers", "Thor: " ],
+			"exact"    : [ "Black Widow", "Eternals", "Thor" ]
 		},
 		{
 			"value"    : "Mission Impossible",
@@ -239,8 +239,9 @@
 				"A Christmas Carol", "Aladdin", "Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6", "Brother Bear",
 				"Chicken Little", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Encanto", "Even Stevens",
-				"Fantasia", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free", "Goofy Movie", "Halloweentown", "High School Musical", 
-				"Ichabod and Mr. Toad", "Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
+				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
+				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad",
+				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Maleficent", "Mary Poppins", "Melody Time", "Mighty Joe Young", "Moana", "Mulan", "Oliver and Company", "One Hundred and One Dalmatians",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 

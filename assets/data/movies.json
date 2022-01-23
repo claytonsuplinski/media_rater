@@ -3366,6 +3366,23 @@
 		}
 	},
 	{
+		"name"    : "Hancock",
+		"year"    : "2008",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Happy Gilmore",
 		"year"    : "1996",
 		"critic"  : 7,
@@ -9860,6 +9877,23 @@
 		}
 	},
 	{
+		"name"    : "The Walk",
+		"year"    : "2015",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Waterboy",
 		"year"    : "1998",
 		"critic"  : 6.2,
@@ -10775,6 +10809,23 @@
 			"genre"      : 5,
 			"references" : 4,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Wreck-It Ralph",
+		"year"    : "2012",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{

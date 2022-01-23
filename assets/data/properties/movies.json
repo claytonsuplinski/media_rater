@@ -155,7 +155,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
-			"exact"    : [ "Anchorman 2", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
+			"exact"    : [ "Anchorman 2", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
 		}
 	],
 	"director" : [
@@ -247,7 +247,8 @@
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
-				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "The Rocketeer", "Twitches", "Wendy Wu:", "Winnie the Pooh", "Zootopia"
+				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "The Rocketeer", "Twitches",
+				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [ "Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Jungle Cruise", "Miracle", "Now You See It...", "Robin Hood", "Safety", "Tangled", "Tarzan", "Tower of Terror", "You Wish!" ]
 		},

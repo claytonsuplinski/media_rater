@@ -306,6 +306,23 @@
 		}
 	},
 	{
+		"name"    : "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
+		"year"    : "2014",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Alice in Wonderland",
 		"year"    : "1951",
 		"critic"  : 7.4,
@@ -396,7 +413,7 @@
 		"critic"  : 8.5,
 		"ratings" : {
 			"humor"      : 0,
-			"visuals"    : 7.5,
+			"visuals"    : 6.5,
 			"nostalgia"  : 0,
 			"plot"       : 6,
 			"music"      : 4,
@@ -516,7 +533,7 @@
 		"ratings" : {
 			"humor"      : 4,
 			"visuals"    : 3,
-			"nostalgia"  : 6,
+			"nostalgia"  : 3,
 			"plot"       : 1,
 			"music"      : 4.5,
 			"rewatch"    : 3.5,
@@ -1326,6 +1343,23 @@
 		}
 	},
 	{
+		"name"    : "Bridge of Spies",
+		"year"    : "2015",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Brother Bear",
 		"year"    : "2003",
 		"critic"  : 6.8,
@@ -1700,6 +1734,23 @@
 		}
 	},
 	{
+		"name"    : "Christopher Robin",
+		"year"    : "2018",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 8.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Cinderella",
 		"year"    : "1950",
 		"critic"  : 7.3,
@@ -1952,6 +2003,23 @@
 			"genre"      : 6,
 			"references" : 1.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Crazy Rich Asians",
+		"year"    : "2018",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2482,6 +2550,23 @@
 		}
 	},
 	{
+		"name"    : "Elysium",
+		"year"    : "2013",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 1,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 2,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Encanto",
 		"year"    : "2021",
 		"critic"  : 7.3,
@@ -2788,6 +2873,23 @@
 		}
 	},
 	{
+		"name"    : "First Blood",
+		"year"    : "1982",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 3.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Flubber",
 		"year"    : "1997",
 		"critic"  : 5.3,
@@ -2921,6 +3023,23 @@
 			"genre"      : 5.5,
 			"references" : 4,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Free Guy",
+		"year"    : "2021",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 5.5,
+			"bias"       : 6
 		}
 	},
 	{
@@ -3287,14 +3406,14 @@
 		"ratings" : {
 			"humor"      : 5.5,
 			"visuals"    : 6.5,
-			"nostalgia"  : 5.5,
+			"nostalgia"  : 9,
 			"plot"       : 6.5,
 			"music"      : 5.5,
 			"rewatch"    : 6,
 			"characters" : 5,
 			"genre"      : 6.5,
-			"references" : 5,
-			"bias"       : 6
+			"references" : 6.5,
+			"bias"       : 7
 		}
 	},
 	{
@@ -4063,6 +4182,23 @@
 		}
 	},
 	{
+		"name"    : "It Happened One Night",
+		"year"    : "1934",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 3,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "It's a Wonderful Life",
 		"year"    : "1946",
 		"critic"  : 8.6,
@@ -4094,6 +4230,23 @@
 			"genre"      : 7.5,
 			"references" : 10,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Jerry Maguire",
+		"year"    : "1996",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4145,6 +4298,23 @@
 			"genre"      : 4,
 			"references" : 0.5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "John Carter",
+		"year"    : "2012",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4247,6 +4417,23 @@
 			"genre"      : 7.5,
 			"references" : 3.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Juno",
+		"year"    : "2007",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -4947,6 +5134,23 @@
 		}
 	},
 	{
+		"name"    : "Meet the Robinsons",
+		"year"    : "2007",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Melody Time",
 		"year"    : "1948",
 		"critic"  : 6.3,
@@ -5372,6 +5576,23 @@
 		}
 	},
 	{
+		"name"    : "My Neighbor Totoro",
+		"year"    : "1988",
+		"critic"  : 8.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Nacho Libre",
 		"year"    : "2006",
 		"critic"  : 5.8,
@@ -5505,6 +5726,40 @@
 			"genre"      : 5.5,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Neighbors",
+		"year"    : "2014",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 7.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Neighbors 2: Sorority Rising",
+		"year"    : "2016",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5661,6 +5916,23 @@
 		}
 	},
 	{
+		"name"    : "Olympus Has Fallen",
+		"year"    : "2013",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "On Her Majesty's Secret Service",
 		"year"    : "1969",
 		"critic"  : 6.7,
@@ -5797,6 +6069,23 @@
 		}
 	},
 	{
+		"name"    : "Paper Towns",
+		"year"    : "2015",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Paranormal Activity",
 		"year"    : "2007",
 		"critic"  : 6.3,
@@ -5811,6 +6100,23 @@
 			"genre"      : 6,
 			"references" : 5.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Patriots Day",
+		"year"    : "2016",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 7,
+			"nostalgia"  : 1.5,
+			"plot"       : 9,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 8.5,
+			"genre"      : 9,
+			"references" : 6,
+			"bias"       : 6.5
 		}
 	},
 	{
@@ -6315,7 +6621,7 @@
 			"visuals"    : 7,
 			"nostalgia"  : 0.5,
 			"plot"       : 5,
-			"music"      : 6,
+			"music"      : 5.5,
 			"rewatch"    : 1,
 			"characters" : 2,
 			"genre"      : 4,
@@ -7072,6 +7378,23 @@
 		}
 	},
 	{
+		"name"    : "Snow Dogs",
+		"year"    : "2002",
+		"critic"  : 5.2,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 3.5,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Snow White and the Seven Dwarfs",
 		"year"    : "1937",
 		"critic"  : 7.6,
@@ -7358,6 +7681,23 @@
 			"genre"      : 7,
 			"references" : 3,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Stand and Deliver",
+		"year"    : "1988",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 6.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -8551,6 +8891,23 @@
 		}
 	},
 	{
+		"name"    : "The Greatest Game Ever Played",
+		"year"    : "2005",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "The Greatest Showman",
 		"year"    : "2017",
 		"critic"  : 7.6,
@@ -9176,7 +9533,7 @@
 			"characters" : 4.5,
 			"genre"      : 6.5,
 			"references" : 3,
-			"bias"       : 6.5
+			"bias"       : 6
 		}
 	},
 	{
@@ -9193,6 +9550,23 @@
 			"characters" : 5,
 			"genre"      : 6,
 			"references" : 1.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Mighty Ducks",
+		"year"    : "1992",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5,
 			"bias"       : 5
 		}
 	},
@@ -9449,6 +9823,23 @@
 			"genre"      : 6.5,
 			"references" : 3.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Princess Diaries 2: Royal Engagement",
+		"year"    : "2004",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -9941,7 +10332,7 @@
 			"characters" : 7.5,
 			"genre"      : 6,
 			"references" : 10,
-			"bias"       : 4.5
+			"bias"       : 5
 		}
 	},
 	{
@@ -9976,6 +10367,23 @@
 			"genre"      : 6,
 			"references" : 6.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "There's Something About Mary",
+		"year"    : "1998",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 5,
+			"nostalgia"  : 4,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -10302,6 +10710,23 @@
 		}
 	},
 	{
+		"name"    : "TRON: Legacy",
+		"year"    : "2010",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Tropic Thunder",
 		"year"    : "2008",
 		"critic"  : 7,
@@ -10622,6 +11047,23 @@
 			"genre"      : 3.5,
 			"references" : 3.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "West Side Story",
+		"year"    : "2021",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 7,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{

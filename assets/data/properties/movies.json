@@ -51,7 +51,7 @@
 		},
 		{
 			"value"    : "James Franco",
-			"includes" : [ "Pineapple Express" ],
+			"includes" : [ "Oz the Great and Powerful", "Pineapple Express" ],
 			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
 		},
 		{
@@ -76,7 +76,7 @@
 		{
 			"value"    : "Liam Neeson",
 			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
-			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Schindler's List", "Taken", "The Lego Movie" ]
+			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Matthew McConnaughey",
@@ -155,7 +155,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
-			"exact"    : [ "Anchorman 2", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
+			"exact"    : [ "Anchorman 2", "Concussion", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
 		}
 	],
 	"director" : [
@@ -248,7 +248,7 @@
 				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Mulan",
-				"Oliver and Company", "One Hundred and One Dalmatians",
+				"Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Greatest Game Ever Played",
@@ -265,7 +265,7 @@
 		{
 			"value"    : "Pixar",
 			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
-			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "Up" ]
+			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "Turning Red", "Up" ]
 		}
 	]
 }

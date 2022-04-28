@@ -120,7 +120,7 @@
 		{
 			"value"    : "Scarlett Johansson",
 			"includes" : [ "Avengers: ", "Captain America: The Winter", "Captain America: Civil", "The Avengers" ],
-			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Isle of Dogs", "Lost in Translation", "The Jungle Book [Live Action - 2016]", "The Prestige" ]
+			"exact"    : [ "Black Widow", "Her", "Iron Man 2", "Isle of Dogs", "Lost in Translation", "Lucy", "The Jungle Book [Live Action - 2016]", "The Prestige" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -135,7 +135,7 @@
 		{
 			"value"    : "Tom Cruise",
 			"includes" : [ "Jerry Maguire", "Mission: Impossible", "Top Gun" ],
-			"exact"    : [ "American Made", "Minority Report", "Tropic Thunder", "War of the Worlds" ]
+			"exact"    : [ "American Made", "Edge of Tomorrow", "Minority Report", "Tropic Thunder", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Tom Hanks",
@@ -155,7 +155,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
-			"exact"    : [ "Anchorman 2", "Concussion", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
+			"exact"    : [ "Anchorman 2", "Bad Boys", "Concussion", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
 		}
 	],
 	"director" : [

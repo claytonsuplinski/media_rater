@@ -901,6 +901,23 @@
 		}
 	},
 	{
+		"name"    : "Bad Boys",
+		"year"    : "1995",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 3,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Bad Santa",
 		"year"    : "2003",
 		"critic"  : 7,
@@ -2244,6 +2261,23 @@
 		}
 	},
 	{
+		"name"    : "Deepwater Horizon",
+		"year"    : "2016",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 1,
+			"plot"       : 5.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Die Hard",
 		"year"    : "1988",
 		"critic"  : 8.2,
@@ -2547,6 +2581,23 @@
 			"genre"      : 8,
 			"references" : 2,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Edge of Tomorrow",
+		"year"    : "2014",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 9,
+			"nostalgia"  : 4.5,
+			"plot"       : 7,
+			"music"      : 4.5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 8,
+			"references" : 2.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -4505,6 +4556,23 @@
 		}
 	},
 	{
+		"name"    : "Jumanji: Welcome to the Jungle",
+		"year"    : "2017",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 6,
+			"nostalgia"  : 6,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 6.5,
+			"genre"      : 7.5,
+			"references" : 4,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "Jumanji: The Next Level",
 		"year"    : "2019",
 		"critic"  : 6.7,
@@ -5015,6 +5083,23 @@
 		}
 	},
 	{
+		"name"    : "Love, Classified",
+		"year"    : "2022",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 2.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Luca",
 		"year"    : "2021",
 		"critic"  : 7.6,
@@ -5028,6 +5113,23 @@
 			"characters" : 5.5,
 			"genre"      : 6,
 			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Lucy",
+		"year"    : "2014",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 2.5,
 			"bias"       : 5
 		}
 	},
@@ -5848,6 +5950,23 @@
 		}
 	},
 	{
+		"name"    : "National Treasure: Book of Secrets",
+		"year"    : "2007",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Neighbors",
 		"year"    : "2014",
 		"critic"  : 6.3,
@@ -6185,6 +6304,23 @@
 			"genre"      : 6.5,
 			"references" : 3.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Overboard",
+		"year"    : "1987",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 6,
+			"music"      : 3.5,
+			"rewatch"    : 4.5,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -6831,6 +6967,23 @@
 			"genre"      : 4.5,
 			"references" : 2.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Ride Along",
+		"year"    : "2014",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 6,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -8636,6 +8789,23 @@
 		}
 	},
 	{
+		"name"    : "The Bourne Identity",
+		"year"    : "2002",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Brave Little Toaster",
 		"year"    : "1987",
 		"critic"  : 7.3,
@@ -9942,6 +10112,23 @@
 			"genre"      : 6.5,
 			"references" : 5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Passion of the Christ",
+		"year"    : "2004",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 0,
+			"visuals"    : 1,
+			"nostalgia"  : 0,
+			"plot"       : 0.5,
+			"music"      : 2.5,
+			"rewatch"    : 0,
+			"characters" : 0.5,
+			"genre"      : 0.5,
+			"references" : 3.5,
+			"bias"       : 0
 		}
 	},
 	{

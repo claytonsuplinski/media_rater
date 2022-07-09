@@ -52,7 +52,7 @@
 		{
 			"value"    : "James Franco",
 			"includes" : [ "Oz the Great and Powerful", "Pineapple Express" ],
-			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
+			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
 		},
 		{
 			"value"    : "Jeff Goldblum",
@@ -67,11 +67,11 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
-			"exact"    : [ "Catch Me If You Can", "Django Unchained", "Inception", "The Departed", "The Great Gatsby", "The Revenant", "The Wolf of Wall Street", "Titanic" ]
+			"exact"    : [ "Catch Me If You Can", "Django Unchained", "Inception", "Romeo + Juliet", "The Departed", "The Great Gatsby", "The Revenant", "The Wolf of Wall Street", "Titanic" ]
 		},
 		{
 			"value"    : "Liam Neeson",
@@ -80,7 +80,7 @@
 		},
 		{
 			"value"    : "Matthew McConnaughey",
-			"exact"    : [ "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
+			"exact"    : [ "Dallas Buyers Club", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Natalie Portman",
@@ -89,8 +89,8 @@
 		},
 		{
 			"value"    : "Nicolas Cage",
-			"includes" : [ "Ghost Rider", "National Treasure" ],
-			"exact"    : [ "Kick-Ass", "The Wicker Man" ]
+			"includes" : [ "Ghost Rider", "National Treasure", "The Croods" ],
+			"exact"    : [ "Con Air", "Fast Times at Ridgemont High", "Kick-Ass", "The Unbearable Weight of Massive Talent", "The Wicker Man" ]
 		},
 		{
 			"value"    : "Owen Wilson",
@@ -135,7 +135,7 @@
 		{
 			"value"    : "Tom Cruise",
 			"includes" : [ "Jerry Maguire", "Mission: Impossible", "Top Gun" ],
-			"exact"    : [ "American Made", "Edge of Tomorrow", "Minority Report", "Tropic Thunder", "War of the Worlds" ]
+			"exact"    : [ "American Made", "Edge of Tomorrow", "Minority Report", "Oblivion", "Tropic Thunder", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Tom Hanks",
@@ -145,7 +145,7 @@
 		{
 			"value"    : "Vince Vaughn",
 			"includes" : [ "Anchorman", "Wedding Crashers" ],
-			"exact"    : [ "Dodgeball", "Four Christmases", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Rudy", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
+			"exact"    : [ "Delivery Man", "Dodgeball", "Four Christmases", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Rudy", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
 		},
 		{
 			"value"    : "Will Ferrell",
@@ -242,7 +242,7 @@
 			"includes" : [
 				"A Christmas Carol", "Aladdin", "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
 				"Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6", "Brother Bear",
-				"Chicken Little", "Christopher Robin", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
+				"Chicken Little", "Chip 'n Dale", "Christopher Robin", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Encanto", "Even Stevens",
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
 				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter",
@@ -259,13 +259,13 @@
 			],
 			"exact"    : [
 				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Jungle Cruise", "Miracle", "Now You See It...",
-				"Robin Hood", "Safety", "Snow Dogs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
+				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
 			]
 		},
 		{
 			"value"    : "Pixar",
 			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
-			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "Turning Red", "Up" ]
+			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
 		}
 	]
 }

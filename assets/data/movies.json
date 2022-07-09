@@ -238,6 +238,23 @@
 		}
 	},
 	{
+		"name"    : "Akeelah and the Bee",
+		"year"    : "2006",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Aladdin",
 		"year"    : "1992",
 		"critic"  : 8,
@@ -1751,6 +1768,23 @@
 		}
 	},
 	{
+		"name"    : "Chip 'n Dale: Rescue Rangers",
+		"year"    : "2022",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Christmas with the Kranks",
 		"year"    : "2004",
 		"critic"  : 5.4,
@@ -1938,6 +1972,23 @@
 		}
 	},
 	{
+		"name"    : "Clueless",
+		"year"    : "1995",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Coco",
 		"year"    : "2017",
 		"critic"  : 8.4,
@@ -1986,6 +2037,23 @@
 			"genre"      : 8.5,
 			"references" : 5,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Con Air",
+		"year"    : "1997",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -2159,6 +2227,23 @@
 		}
 	},
 	{
+		"name"    : "Dallas Buyers Club",
+		"year"    : "2013",
+		"critic"  : 7.9,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Dances with Wolves",
 		"year"    : "1990",
 		"critic"  : 8,
@@ -2278,6 +2363,23 @@
 		}
 	},
 	{
+		"name"    : "Delivery Man",
+		"year"    : "2013",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Die Hard",
 		"year"    : "1988",
 		"critic"  : 8.2,
@@ -2358,6 +2460,23 @@
 			"rewatch"    : 3.5,
 			"characters" : 4.5,
 			"genre"      : 5.5,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Doctor Strange in the Multiverse of Madness",
+		"year"    : "2022",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 9,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6,
 			"references" : 4,
 			"bias"       : 5
 		}
@@ -2887,6 +3006,23 @@
 			"genre"      : 6,
 			"references" : 7,
 			"bias"       : 6.5
+		}
+	},
+	{
+		"name"    : "Fantastic Beasts: The Secrets of Dumbledore",
+		"year"    : "2022",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 1.5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 4.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -3502,6 +3638,23 @@
 		}
 	},
 	{
+		"name"    : "Green Lantern",
+		"year"    : "2011",
+		"critic"  : 5.5,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Gremlins",
 		"year"    : "1984",
 		"critic"  : 7.3,
@@ -3567,6 +3720,23 @@
 			"genre"      : 4.5,
 			"references" : 3.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Hairspray",
+		"year"    : "2007",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 7,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4182,6 +4352,23 @@
 		}
 	},
 	{
+		"name"    : "Independence Day: Resurgence",
+		"year"    : "2016",
+		"critic"  : 5.2,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Indiana Jones and the Last Crusade",
 		"year"    : "1989",
 		"critic"  : 8.2,
@@ -4655,6 +4842,23 @@
 			"genre"      : 6.5,
 			"references" : 4.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Jurassic World",
+		"year"    : "2015",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 4.5,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 5,
+			"characters" : 4.5,
+			"genre"      : 7,
+			"references" : 5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -5457,6 +5661,23 @@
 		}
 	},
 	{
+		"name"    : "Mike and Dave Need Wedding Dates",
+		"year"    : "2016",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Minority Report",
 		"year"    : "2002",
 		"critic"  : 7.6,
@@ -6086,6 +6307,23 @@
 		}
 	},
 	{
+		"name"    : "Oblivion",
+		"year"    : "2013",
+		"critic"  : 7.0,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Ocean's Eleven",
 		"year"    : "2001",
 		"critic"  : 7.7,
@@ -6355,6 +6593,23 @@
 			"genre"      : 6,
 			"references" : 2,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Paddington",
+		"year"    : "2014",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -6987,6 +7242,23 @@
 		}
 	},
 	{
+		"name"    : "Rise",
+		"year"    : "2022",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 5,
+			"bias"       : 6
+		}
+	},
+	{
 		"name"    : "Rise of the Guardians",
 		"year"    : "2012",
 		"critic"  : 7.3,
@@ -7069,6 +7341,23 @@
 			"genre"      : 4,
 			"references" : 6.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Romeo + Juliet",
+		"year"    : "1996",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 4,
+			"nostalgia"  : 3,
+			"plot"       : 2.5,
+			"music"      : 4,
+			"rewatch"    : 1.5,
+			"characters" : 3,
+			"genre"      : 2.5,
+			"references" : 4,
+			"bias"       : 2.5
 		}
 	},
 	{
@@ -8602,6 +8891,23 @@
 		}
 	},
 	{
+		"name"    : "The Batman",
+		"year"    : "2022",
+		"critic"  : 8.0,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "The Bee Movie",
 		"year"    : "2007",
 		"critic"  : 6.1,
@@ -9112,6 +9418,23 @@
 		}
 	},
 	{
+		"name"    : "The Expendables",
+		"year"    : "2010",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "The Fast and the Furious",
 		"year"    : "2001",
 		"critic"  : 6.8,
@@ -9177,6 +9500,23 @@
 			"genre"      : 1,
 			"references" : 2,
 			"bias"       : 0.5
+		}
+	},
+	{
+		"name"    : "The Good Dinosaur",
+		"year"    : "2015",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -9262,6 +9602,23 @@
 			"genre"      : 4.5,
 			"references" : 3,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "The Green Hornet",
+		"year"    : "2011",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -9398,6 +9755,23 @@
 			"genre"      : 7,
 			"references" : 1.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The House",
+		"year"    : "2017",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4.5,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 2.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -10659,6 +11033,23 @@
 		}
 	},
 	{
+		"name"    : "The Unbearable Weight of Massive Talent",
+		"year"    : "2022",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 8,
+			"visuals"    : 6.5,
+			"nostalgia"  : 5,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 5.5,
+			"characters" : 9,
+			"genre"      : 8.5,
+			"references" : 5.5,
+			"bias"       : 7
+		}
+	},
+	{
 		"name"    : "The Walk",
 		"year"    : "2015",
 		"critic"  : 7.3,
@@ -11012,6 +11403,23 @@
 			"characters" : 6,
 			"genre"      : 6,
 			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Toy Story 4",
+		"year"    : "2019",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 8,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 3,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
 			"bias"       : 5
 		}
 	},

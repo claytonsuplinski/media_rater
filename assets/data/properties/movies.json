@@ -100,7 +100,7 @@
 		{
 			"value"    : "Ralph Fiennes",
 			"includes" : [ "Goblet of Fire", "Order of the Phoenix", "the Deathly Hallows" ],
-			"exact"    : [ "Schindler's List", "The English Patient" ]
+			"exact"    : [ "Holmes & Watson", "Schindler's List", "Skyfall", "The English Patient" ]
 		},
 		{
 			"value"    : "Robert Downey Jr",
@@ -114,7 +114,7 @@
 		},
 		{
 			"value"    : "Samuel Jackson",
-			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Kingsman: The Secret", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Incredibles" ],
+			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Kingsman: The Secret", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Hitman's Bodyguard", "The Incredibles" ],
 			"exact"    : [ "Coming to America", "Django Unchained", "Goodfellas", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
 		},
 		{
@@ -150,7 +150,7 @@
 		{
 			"value"    : "Will Ferrell",
 			"includes" : [ "Anchorman", "Austin Powers: International", "Austin Powers: The Spy", "Blades of Glory", "Daddy's Home", "Kicking & Screaming",  "Talladega Nights", "The Lego Movie", "The Other Guys", "Zoolander" ],
-			"exact"    : [ "Elf", "Get Hard", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
+			"exact"    : [ "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
 		},
 		{
 			"value"    : "Will Smith",
@@ -216,7 +216,7 @@
 		},
 		{
 			"value"    : "James Bond",
-			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "On Her Majesty's Secret Service", "Quantum of Solace", "The Spy Who Loved Me" ]
+			"includes" : [ "Casino Royale", "Dr. No", "Goldeneye", "Goldfinger", "On Her Majesty's Secret Service", "Quantum of Solace", "Skyfall", "The Spy Who Loved Me" ]
 		},
 		{
 			"value"    : "MCU",
@@ -245,10 +245,10 @@
 				"Chicken Little", "Chip 'n Dale", "Christopher Robin", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Encanto", "Even Stevens",
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
-				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter",
+				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter", "Kim Possible",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Mulan",
-				"Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
+				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Greatest Game Ever Played",
@@ -259,13 +259,13 @@
 			],
 			"exact"    : [
 				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Jungle Cruise", "Miracle", "Now You See It...",
-				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
+				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
 			]
 		},
 		{
 			"value"    : "Pixar",
 			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
-			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
+			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
 		}
 	]
 }

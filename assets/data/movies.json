@@ -765,6 +765,23 @@
 		}
 	},
 	{
+		"name"    : "Atomic Blonde",
+		"year"    : "2017",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Austin Powers in Goldmember",
 		"year"    : "2002",
 		"critic"  : 6.2,
@@ -1833,6 +1850,23 @@
 			"genre"      : 7,
 			"references" : 6,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Cinderella II: Dreams Come True",
+		"year"    : "2001",
+		"critic"  : 4.9,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7,
+			"nostalgia"  : 5,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3089,8 +3123,25 @@
 			"rewatch"    : 3.5,
 			"characters" : 5,
 			"genre"      : 6,
-			"references" : 4,
+			"references" : 6,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Fifty Shades of Grey",
+		"year"    : "2015",
+		"critic"  : 4.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 3,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 4,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -4080,6 +4131,23 @@
 		}
 	},
 	{
+		"name"    : "Holmes & Watson",
+		"year"    : "2018",
+		"critic"  : 3.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Holy Motors",
 		"year"    : "2012",
 		"critic"  : 7.1,
@@ -4145,6 +4213,23 @@
 			"genre"      : 4.5,
 			"references" : 3.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Horrible Bosses",
+		"year"    : "2011",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4
 		}
 	},
 	{
@@ -4981,6 +5066,23 @@
 		}
 	},
 	{
+		"name"    : "Kim Possible: So the Drama",
+		"year"    : "2005",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 5,
+			"plot"       : 5.5,
+			"music"      : 6,
+			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "Kindergarten Cop",
 		"year"    : "1990",
 		"critic"  : 6.2,
@@ -5182,6 +5284,23 @@
 			"genre"      : 5,
 			"references" : 6,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Lightyear",
+		"year"    : "2022",
+		"critic"  : 5.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 8.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -6388,6 +6507,23 @@
 			"characters" : 4,
 			"genre"      : 4.5,
 			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Old Yeller",
+		"year"    : "1957",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 3,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 4,
 			"bias"       : 4.5
 		}
 	},
@@ -7902,6 +8038,23 @@
 			"genre"      : 7,
 			"references" : 3,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Skyfall",
+		"year"    : "2012",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 6,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -9690,6 +9843,23 @@
 		}
 	},
 	{
+		"name"    : "The Help",
+		"year"    : "2011",
+		"critic"  : 8.1,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Hitchhiker's Guide to the Galaxy",
 		"year"    : "2005",
 		"critic"  : 6.8,
@@ -9704,6 +9874,23 @@
 			"genre"      : 3.5,
 			"references" : 4.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Hitman's Bodyguard",
+		"year"    : "2017",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -9942,6 +10129,23 @@
 			"genre"      : 9,
 			"references" : 8,
 			"bias"       : 8.5
+		}
+	},
+	{
+		"name"    : "The Jerk",
+		"year"    : "1979",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 5.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{

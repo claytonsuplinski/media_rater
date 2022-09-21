@@ -14,15 +14,29 @@
 		}
 	},
 	{
+		"name"    : "Brewers vs Twins",
+		"year"    : "2022",
+		"ratings" : {
+			"matchup"         : 5.5,
+			"outcome"         : 10,
+			"excitement"      : 9,
+			"atmosphere"      : 4,
+			"significance"    : 4,
+			"memorable plays" : 7,
+			"nostalgia"       : 6.5,
+			"bias"            : 7.5
+		}
+	},
+	{
 		"name"    : "Bucks vs Heat",
 		"year"    : "2021",
 		"ratings" : {
 			"matchup"         : 8.5,
 			"outcome"         : 10,
 			"excitement"      : 10,
-			"atmosphere"      : 8,
+			"atmosphere"      : 8.5,
 			"significance"    : 7,
-			"memorable plays" : 9,
+			"memorable plays" : 9.5,
 			"nostalgia"       : 9.5,
 			"bias"            : 8.5
 		}
@@ -34,7 +48,7 @@
 			"matchup"         : 9,
 			"outcome"         : 10,
 			"excitement"      : 8.5,
-			"atmosphere"      : 8.5,
+			"atmosphere"      : 9,
 			"significance"    : 9.5,
 			"memorable plays" : 6,
 			"nostalgia"       : 9.5,
@@ -53,6 +67,34 @@
 			"memorable plays" : 5.5,
 			"nostalgia"       : 6,
 			"bias"            : 7
+		}
+	},
+	{
+		"name"    : "Cardinals vs Cubs",
+		"year"    : "2022",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 10,
+			"excitement"      : 6.5,
+			"atmosphere"      : 8.5,
+			"significance"    : 4,
+			"memorable plays" : 6,
+			"nostalgia"       : 9,
+			"bias"            : 8.5
+		}
+	},
+	{
+		"name"    : "Cardinals vs Yankees",
+		"year"    : "2022",
+		"ratings" : {
+			"matchup"         : 10,
+			"outcome"         : 10,
+			"excitement"      : 7,
+			"atmosphere"      : 8,
+			"significance"    : 4,
+			"memorable plays" : 6,
+			"nostalgia"       : 9,
+			"bias"            : 8.5
 		}
 	},
 	{
@@ -78,9 +120,23 @@
 			"excitement"      : 7.5,
 			"atmosphere"      : 9,
 			"significance"    : 5,
-			"memorable plays" : 10,
+			"memorable plays" : 8.5,
 			"nostalgia"       : 10,
 			"bias"            : 10
+		}
+	},
+	{
+		"name"    : "Kings vs Suns",
+		"year"    : "2021",
+		"ratings" : {
+			"matchup"         : 4,
+			"outcome"         : 7.5,
+			"excitement"      : 9.5,
+			"atmosphere"      : 8.5,
+			"significance"    : 4.5,
+			"memorable plays" : 9.5,
+			"nostalgia"       : 9,
+			"bias"            : 8.5
 		}
 	},
 	{
@@ -92,9 +148,23 @@
 			"excitement"      : 9.5,
 			"atmosphere"      : 9,
 			"significance"    : 5,
-			"memorable plays" : 8.5,
+			"memorable plays" : 9.5,
 			"nostalgia"       : 7.5,
 			"bias"            : 8
+		}
+	},
+	{
+		"name"    : "Packers vs Cardinals",
+		"year"    : "2021",
+		"ratings" : {
+			"matchup"         : 9,
+			"outcome"         : 10,
+			"excitement"      : 10,
+			"atmosphere"      : 9.5,
+			"significance"    : 6,
+			"memorable plays" : 9,
+			"nostalgia"       : 9.5,
+			"bias"            : 9
 		}
 	},
 	{

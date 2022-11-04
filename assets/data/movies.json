@@ -850,6 +850,23 @@
 		}
 	},
 	{
+		"name"    : "Avalon High",
+		"year"    : "2010",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 2.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Avatar",
 		"year"    : "2009",
 		"critic"  : 7.8,
@@ -1000,6 +1017,23 @@
 			"genre"      : 5,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Bambi II",
+		"year"    : "2006",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 4,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -3298,6 +3332,23 @@
 		}
 	},
 	{
+		"name"    : "Frankenweenie",
+		"year"    : "2012",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 2.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Freaky",
 		"year"    : "2020",
 		"critic"  : 6.3,
@@ -3380,6 +3431,40 @@
 			"genre"      : 7,
 			"references" : 5.5,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Friday the 13th",
+		"year"    : "1980",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 4,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 2.5,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Friday the 13th [2009]",
+		"year"    : "2009",
+		"critic"  : 5.5,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 2,
+			"genre"      : 3,
+			"references" : 3.5,
+			"bias"       : 3.5
 		}
 	},
 	{
@@ -3549,6 +3634,40 @@
 			"characters" : 4.5,
 			"genre"      : 6,
 			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Ghostbusters [2016]",
+		"year"    : "2016",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 2.5,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Ghost Rider",
+		"year"    : "2007",
+		"critic"  : 5.2,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3,
 			"bias"       : 5
 		}
 	},
@@ -3859,6 +3978,40 @@
 		}
 	},
 	{
+		"name"    : "Halloweentown II: Kalabar's Revenge",
+		"year"    : "2001",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Halloweentown High",
+		"year"    : "2004",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 4,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Hancock",
 		"year"    : "2008",
 		"critic"  : 6.4,
@@ -4145,6 +4298,23 @@
 			"genre"      : 8,
 			"references" : 7,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Hocus Pocus 2",
+		"year"    : "2022",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4553,6 +4723,23 @@
 			"genre"      : 6,
 			"references" : 3.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Insidious",
+		"year"    : "2010",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 5.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -7174,6 +7361,23 @@
 		}
 	},
 	{
+		"name"    : "Practical Magic",
+		"year"    : "1998",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 2.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Predator",
 		"year"    : "1987",
 		"critic"  : 7.8,
@@ -7443,6 +7647,23 @@
 			"genre"      : 4.5,
 			"references" : 2.5,
 			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Return to Halloweentown",
+		"year"    : "2005",
+		"critic"  : 5.3,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -7919,6 +8140,23 @@
 			"genre"      : 6.5,
 			"references" : 5,
 			"bias"       : 6
+		}
+	},
+	{
+		"name"    : "Straight Outta Nowhere: Scooby Doo! Meets Courage the Cowardly Dog",
+		"year"    : "2021",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -8517,6 +8755,23 @@
 		}
 	},
 	{
+		"name"    : "St. Elmo's Fire",
+		"year"    : "1985",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 2.5,
+			"plot"       : 1,
+			"music"      : 4,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Stand and Deliver",
 		"year"    : "1988",
 		"critic"  : 7.3,
@@ -9027,6 +9282,23 @@
 		}
 	},
 	{
+		"name"    : "The Addams Family",
+		"year"    : "1991",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 4,
+			"nostalgia"  : 2.5,
+			"plot"       : 0.5,
+			"music"      : 4,
+			"rewatch"    : 1,
+			"characters" : 2.5,
+			"genre"      : 1.5,
+			"references" : 2.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "The Adventures of Ichabod and Mr. Toad",
 		"year"    : "1949",
 		"critic"  : 7,
@@ -9401,6 +9673,23 @@
 		}
 	},
 	{
+		"name"    : "The Cabin in the Woods",
+		"year"    : "2011",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3.5,
+			"plot"       : 8,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 4.5,
+			"genre"      : 7.5,
+			"references" : 3.5,
+			"bias"       : 5.5
+		}
+	},
+	{
 		"name"    : "The Campaign",
 		"year"    : "2012",
 		"critic"  : 6.1,
@@ -9449,6 +9738,23 @@
 			"genre"      : 7,
 			"references" : 2.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Conjuring",
+		"year"    : "2013",
+		"critic"  : 7.5,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 3.5,
+			"genre"      : 4.5,
+			"references" : 2.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -9891,6 +10197,23 @@
 			"genre"      : 4.5,
 			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Grey",
+		"year"    : "2011",
+		"critic"  : 6.8,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -10812,6 +11135,23 @@
 		}
 	},
 	{
+		"name"    : "The Perks of Being a Wallflower",
+		"year"    : "2012",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4.5,
+			"music"      : 6,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 4.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Polar Express",
 		"year"    : "2004",
 		"critic"  : 6.6,
@@ -11441,6 +11781,23 @@
 		}
 	},
 	{
+		"name"    : "The Witch",
+		"year"    : "2015",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 0.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "The Wizard of Oz",
 		"year"    : "1939",
 		"critic"  : 8,
@@ -11686,7 +12043,7 @@
 			"humor"      : 3.5,
 			"visuals"    : 6,
 			"nostalgia"  : 3,
-			"plot"       : 4.5,
+			"plot"       : 1,
 			"music"      : 4.5,
 			"rewatch"    : 3.5,
 			"characters" : 5,
@@ -11863,6 +12220,23 @@
 			"genre"      : 9,
 			"references" : 3,
 			"bias"       : 7
+		}
+	},
+	{
+		"name"    : "Trick 'r Treat",
+		"year"    : "2007",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -12491,6 +12865,23 @@
 			"characters" : 4,
 			"genre"      : 5.5,
 			"references" : 2.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "You've Got Mail",
+		"year"    : "1998",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3,
 			"bias"       : 5
 		}
 	},

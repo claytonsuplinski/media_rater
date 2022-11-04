@@ -33,7 +33,7 @@
 		{
 			"value"    : "Emma Watson",
 			"includes" : [ "Harry Potter" ],
-			"exact"    : [ "Beauty and the Beast [Live Action]", "This is the End" ]
+			"exact"    : [ "Beauty and the Beast [Live Action]", "The Perks of Being a Wallflower", "This is the End" ]
 		},
 		{
 			"value"    : "George Clooney",
@@ -76,7 +76,7 @@
 		{
 			"value"    : "Liam Neeson",
 			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
-			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "The Lego Movie" ]
+			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "The Grey", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Matthew McConnaughey",
@@ -140,7 +140,7 @@
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Cast Away", "Catch Me If You Can", "Pinocchio [Live Action]", "Saving Private Ryan", "The Green Mile", "The Simpsons Movie" ]
+			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Cast Away", "Catch Me If You Can", "Pinocchio [Live Action]", "Saving Private Ryan", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -196,13 +196,13 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Pet Sematary", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "Tower of Terror", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Insidious", "Pet Sematary", "Practical Magic", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
 			"includes" : [ "Paul Blart", "Pocahontas" ],
-			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side" ]
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side", "You've Got Mail" ]
 		}
 	],
 	"series" : [
@@ -241,7 +241,7 @@
 			"value"    : "Disney",
 			"includes" : [
 				"A Christmas Carol", "Aladdin", "Alexander and the Terrible, Horrible, No Good, Very Bad Day",
-				"Alice in Wonderland", "Aristocats", "Artemis Fowl", "Bambi", "Beauty and the Beast", "Big Hero 6", "Brother Bear",
+				"Alice in Wonderland", "Aristocats", "Artemis Fowl", "Avalon High", "Bambi", "Beauty and the Beast", "Big Hero 6", "Brother Bear",
 				"Chicken Little", "Chip 'n Dale", "Christopher Robin", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Encanto", "Even Stevens",
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
@@ -258,7 +258,7 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Jungle Cruise", "Miracle", "Now You See It...",
+				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Jungle Cruise", "Miracle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
 			]
 		},

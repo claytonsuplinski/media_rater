@@ -23,12 +23,12 @@
 		{
 			"value"    : "Brad Pitt",
 			"includes" : [ "Benjamin Button", "Ocean's Eleven" ],
-			"exact"    : [ "Fight Club", "Moneyball", "Mr. & Mrs. Smith", "Se7en", "World War Z", "12 Years a Slave" ]
+			"exact"    : [ "Fight Club", "Moneyball", "Mr. & Mrs. Smith", "Se7en", "The Lost City", "World War Z", "12 Years a Slave" ]
 		},
 		{
 			"value"    : "Daniel Radcliffe",
 			"includes" : [ "Harry Potter" ],
-			"exact"    : [ "Victor Frankenstein" ]
+			"exact"    : [ "The Lost City", "Victor Frankenstein" ]
 		},
 		{
 			"value"    : "Emma Watson",
@@ -37,7 +37,7 @@
 		},
 		{
 			"value"    : "George Clooney",
-			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven" ]
+			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven", "Ticket to Paradise" ]
 		},
 		{
 			"value"    : "Harrison Ford",
@@ -57,7 +57,7 @@
 		{
 			"value"    : "Jeff Goldblum",
 			"includes" : [ "Independence Day" ],
-			"exact"    : [ "Annie Hall", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "Thor: Ragnarok" ]
+			"exact"    : [ "Annie Hall", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok" ]
 		},
 		{
 			"value"    : "Jim Carrey",
@@ -186,23 +186,23 @@
 	"holiday" : [
 		{
 			"value"    : "Easter",
-			"includes" : [ "Ben-Hur", "Rise of the Guardians", "Willy Wonka", "Zootopia" ],
+			"includes" : [ "Ben-Hur", "Easter", "Rise of the Guardians", "Willy Wonka", "Zootopia" ],
 			"exact"    : [ "Bruce Almighty", "The Ten Commandments", "Watership Down", "Who Framed Roger Rabbit?" ]
 		},
 		{
 			"value"    : "Christmas",
-			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
-			"exact"    : [ "Bad Santa", "Batman Returns", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Miracle on 34th Street", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
+			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Miracle on 34th Street", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
+			"exact"    : [ "Bad Santa", "Batman Returns", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
 			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Insidious", "Pet Sematary", "Practical Magic", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
-			"includes" : [ "Paul Blart", "Pocahontas" ],
-			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Blind Side", "You've Got Mail" ]
+			"includes" : [ "Paul Blart", "Pocahontas", "Thanksgiving" ],
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Big Chill", "The Blind Side", "The House of Yes", "The Turkey Bowl", "Tower Heist", "You've Got Mail" ]
 		}
 	],
 	"series" : [
@@ -258,7 +258,7 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Jungle Cruise", "Miracle", "Now You See It...",
+				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
 			]
 		},

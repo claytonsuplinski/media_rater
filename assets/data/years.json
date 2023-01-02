@@ -433,5 +433,20 @@
 			"living environment" : 9.5,
 			"personal events"    : 7.5
 		}
+	},
+	{
+		"name"    : "2022",
+		"ratings" : {
+			"sports"             : 9,
+			"music"              : 0,
+			"movies"             : 7,
+			"home entertainment" : 8.5,
+			"hobbies"            : 9,
+			"occupation"         : 9.5,
+			"travel"             : 10,
+			"relationships"      : 8.5,
+			"living environment" : 9.5,
+			"personal events"    : 8.5
+		}
 	}
 ]

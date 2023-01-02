@@ -1054,6 +1054,23 @@
 		}
 	},
 	{
+		"name"    : "Barbie in the Nutcracker",
+		"year"    : "2001",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 4.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 4,
+			"music"      : 5,
+			"rewatch"    : 2,
+			"characters" : 4,
+			"genre"      : 3.5,
+			"references" : 3,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Batman Begins",
 		"year"    : "2005",
 		"critic"  : 8.2,
@@ -1237,6 +1254,23 @@
 			"characters" : 5.5,
 			"genre"      : 6,
 			"references" : 5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Black Adam",
+		"year"    : "2022",
+		"critic"  : 6.5,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 6.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3.5,
 			"bias"       : 5
 		}
 	},
@@ -4437,6 +4471,23 @@
 		}
 	},
 	{
+		"name"    : "Home Alone",
+		"year"    : "1990",
+		"critic"  : 7.7,
+		"ratings" : {
+			"humor"      : 7.5,
+			"visuals"    : 0,
+			"nostalgia"  : 5.5,
+			"plot"       : 5.5,
+			"music"      : 7.5,
+			"rewatch"    : 2.5,
+			"characters" : 7.5,
+			"genre"      : 7.5,
+			"references" : 5.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Home Alone 2: Lost in New York",
 		"year"    : "1992",
 		"critic"  : 6.8,
@@ -4444,9 +4495,9 @@
 			"humor"      : 8,
 			"visuals"    : 7.5,
 			"nostalgia"  : 8.5,
-			"plot"       : 6.5,
+			"plot"       : 7,
 			"music"      : 7.5,
-			"rewatch"    : 8,
+			"rewatch"    : 8.5,
 			"characters" : 7,
 			"genre"      : 8.5,
 			"references" : 5.5,
@@ -4543,14 +4594,14 @@
 		"year"    : "2000",
 		"critic"  : 6.2,
 		"ratings" : {
-			"humor"      : 6,
+			"humor"      : 8,
 			"visuals"    : 7.5,
-			"nostalgia"  : 5,
+			"nostalgia"  : 6,
 			"plot"       : 5,
 			"music"      : 5,
-			"rewatch"    : 5,
+			"rewatch"    : 6,
 			"characters" : 5,
-			"genre"      : 6.5,
+			"genre"      : 7,
 			"references" : 4.5,
 			"bias"       : 5.5
 		}
@@ -5505,6 +5556,23 @@
 			"genre"      : 5.5,
 			"references" : 3,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Last Night in Soho",
+		"year"    : "2021",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 7.5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 6,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5
 		}
 	},
 	{
@@ -6498,14 +6566,14 @@
 		"year"    : "1989",
 		"critic"  : 7.6,
 		"ratings" : {
-			"humor"      : 6,
+			"humor"      : 7.5,
 			"visuals"    : 6,
-			"nostalgia"  : 4.5,
+			"nostalgia"  : 5,
 			"plot"       : 4.5,
 			"music"      : 5,
-			"rewatch"    : 5,
+			"rewatch"    : 5.5,
 			"characters" : 6,
-			"genre"      : 6.5,
+			"genre"      : 7,
 			"references" : 6,
 			"bias"       : 5.5
 		}
@@ -8266,14 +8334,14 @@
 		"year"    : "1988",
 		"critic"  : 7,
 		"ratings" : {
-			"humor"      : 4,
+			"humor"      : 4.5,
 			"visuals"    : 5,
 			"nostalgia"  : 4,
-			"plot"       : 4,
+			"plot"       : 5,
 			"music"      : 5,
 			"rewatch"    : 4.5,
 			"characters" : 4.5,
-			"genre"      : 5.5,
+			"genre"      : 6,
 			"references" : 3.5,
 			"bias"       : 5
 		}
@@ -8386,7 +8454,7 @@
 		"critic"  : 6.3,
 		"ratings" : {
 			"humor"      : 7.5,
-			"visuals"    : 4,
+			"visuals"    : 0,
 			"nostalgia"  : 7,
 			"plot"       : 7,
 			"music"      : 9.5,
@@ -9372,7 +9440,7 @@
 		"critic"  : 3.4,
 		"ratings" : {
 			"humor"      : 2.5,
-			"visuals"    : 2,
+			"visuals"    : 0,
 			"nostalgia"  : 2.5,
 			"plot"       : 4,
 			"music"      : 4.5,
@@ -9568,6 +9636,23 @@
 			"genre"      : 4.5,
 			"references" : 3.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "The Best Man Holiday",
+		"year"    : "2013",
+		"critic"  : 6.6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 5.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -9823,6 +9908,23 @@
 			"genre"      : 6,
 			"references" : 5.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "The Christmas Chronicles",
+		"year"    : "2018",
+		"critic"  : 7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 4,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{

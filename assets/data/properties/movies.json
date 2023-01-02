@@ -130,7 +130,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Central Intelligence", "Jungle Cruise", "Moana", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Black Adam", "Central Intelligence", "Jungle Cruise", "Moana", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -192,7 +192,7 @@
 		{
 			"value"    : "Christmas",
 			"includes" : [ "Christmas", "Gremlins", "Grinch", "Home Alone", "Jingle All the Way", "Miracle on 34th Street", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
-			"exact"    : [ "Bad Santa", "Batman Returns", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
+			"exact"    : [ "Bad Santa", "Batman Returns", "Barbie in the Nutcracker", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Best Man Holiday", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Halloween",

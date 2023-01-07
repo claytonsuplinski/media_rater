@@ -2822,6 +2822,23 @@
 		}
 	},
 	{
+		"name"    : "Dune",
+		"year"    : "2021",
+		"critic"  : 8,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 7.5,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 4.5,
+			"rewatch"    : 2.5,
+			"characters" : 4.5,
+			"genre"      : 4,
+			"references" : 2,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Dutch",
 		"year"    : "1991",
 		"critic"  : 6.5,
@@ -11182,6 +11199,23 @@
 			"characters" : 5,
 			"genre"      : 6,
 			"references" : 1.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Menu",
+		"year"    : "2022",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3,
 			"bias"       : 5
 		}
 	},

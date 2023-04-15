@@ -33,7 +33,7 @@
 		{
 			"value"    : "Emma Watson",
 			"includes" : [ "Harry Potter" ],
-			"exact"    : [ "Beauty and the Beast [Live Action]", "The Perks of Being a Wallflower", "This is the End" ]
+			"exact"    : [ "Beauty and the Beast [Live Action]", "The Perks of Being a Wallflower", "The Circle", "This is the End" ]
 		},
 		{
 			"value"    : "George Clooney",
@@ -67,7 +67,7 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -115,7 +115,7 @@
 		{
 			"value"    : "Samuel Jackson",
 			"includes" : [ "Avengers: ", "Captain America: ", "Captain Marvel", "Kingsman: The Secret", "Spider-Man: ", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "The Hitman's Bodyguard", "The Incredibles" ],
-			"exact"    : [ "Coming to America", "Django Unchained", "Goodfellas", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
+			"exact"    : [ "Coming to America", "Django Unchained", "Goodfellas", "Incredibles 2", "Iron Man", "Iron Man 2", "Jurassic Park", "Kill Bill", "Pulp Fiction", "Snakes on a Plane", "The Hateful Eight", "The Other Guys", "Thor" ]
 		},
 		{
 			"value"    : "Scarlett Johansson",
@@ -135,12 +135,12 @@
 		{
 			"value"    : "Tom Cruise",
 			"includes" : [ "Jerry Maguire", "Mission: Impossible", "Top Gun" ],
-			"exact"    : [ "American Made", "Edge of Tomorrow", "Minority Report", "Oblivion", "Tropic Thunder", "War of the Worlds" ]
+			"exact"    : [ "American Made", "Edge of Tomorrow", "Jack Reacher", "Minority Report", "Oblivion", "Tropic Thunder", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Cast Away", "Catch Me If You Can", "Pinocchio [Live Action]", "Saving Private Ryan", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
+			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Captain Phillips", "Cast Away", "Catch Me If You Can", "Pinocchio [Live Action]", "Saving Private Ryan", "The Circle", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -155,7 +155,7 @@
 		{
 			"value"    : "Will Smith",
 			"includes" : [ "Aladdin [Live Action]", "Men in Black" ],
-			"exact"    : [ "Anchorman 2", "Bad Boys", "Concussion", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "Suicide Squad" ]
+			"exact"    : [ "Anchorman 2", "Bad Boys", "Concussion", "Hancock", "Hitch", "I Am Legend", "I, Robot", "Independence Day", "King Richard", "Suicide Squad" ]
 		}
 	],
 	"director" : [
@@ -175,7 +175,7 @@
 		{
 			"value"    : "Quentin Tarantino",
 			"includes" : [ "Kill Bill", "Pulp Fiction" ],
-			"exact"    : [ "Django Unchained", "The Hateful Eight" ]
+			"exact"    : [ "Django Unchained", "Sin City", "The Hateful Eight" ]
 		},
 		{
 			"value"    : "Tim Burton",
@@ -220,8 +220,8 @@
 		},
 		{
 			"value"    : "MCU",
-			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther", "Captain America", "Captain Marvel", "Doctor Strange", "Guardians of the Galaxy", "Iron Man", "Shang-Chi and the", "Spider-Man: ", "The Avengers", "Thor: " ],
-			"exact"    : [ "Black Widow", "Eternals", "Thor" ]
+			"includes" : [ "Ant-Man", "Avengers: ", "Black Panther: ", "Captain America", "Captain Marvel", "Doctor Strange", "Guardians of the Galaxy", "Iron Man", "Shang-Chi and the", "Spider-Man: ", "The Avengers", "Thor: " ],
+			"exact"    : [ "Black Panther", "Black Widow", "Eternals", "Thor" ]
 		},
 		{
 			"value"    : "Mission Impossible",
@@ -253,13 +253,14 @@
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Greatest Game Ever Played",
 				"The Hunchback of Notre Dame", "The Jungle Book",
-				"The Lion King", "The Little Mermaid", "The Mighty Ducks", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
+				"The Lion King", "The Little Mermaid", "The Luck of the Irish", "The Mighty Ducks", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
 				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "The Rescuers", "The Rocketeer", "TRON", "Twitches",
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
-				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Tangled", "Tarzan", "Tower of Terror", "You Wish!"
+				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
+				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World",
+				"Tangled", "Tarzan", "Tower of Terror", "You Wish!"
 			]
 		},
 		{

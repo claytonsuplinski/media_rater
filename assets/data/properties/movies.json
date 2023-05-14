@@ -3,7 +3,7 @@
 		{
 			"value"    : "Adam Sandler",
 			"includes" : [ "Grown Ups", "Happy Gilmore" ],
-			"exact"    : [ "Click", "Funny People", "Pixels", "The Waterboy", "The Wedding Singer", "50 First Dates" ]
+			"exact"    : [ "Anger Management", "Click", "Funny People", "Pixels", "The Waterboy", "The Wedding Singer", "50 First Dates" ]
 		},
 		{
 			"value"    : "Alan Rickman",
@@ -52,7 +52,7 @@
 		{
 			"value"    : "James Franco",
 			"includes" : [ "Oz the Great and Powerful", "Pineapple Express" ],
-			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
+			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "Spring Breakers", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
 		},
 		{
 			"value"    : "Jeff Goldblum",
@@ -135,7 +135,7 @@
 		{
 			"value"    : "Tom Cruise",
 			"includes" : [ "Jerry Maguire", "Mission: Impossible", "Top Gun" ],
-			"exact"    : [ "American Made", "Edge of Tomorrow", "Jack Reacher", "Minority Report", "Oblivion", "Tropic Thunder", "War of the Worlds" ]
+			"exact"    : [ "American Made", "Edge of Tomorrow", "Jack Reacher", "Minority Report", "Oblivion", "Risky Business", "Tropic Thunder", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Tom Hanks",

@@ -680,6 +680,23 @@
 		}
 	},
 	{
+		"name"    : "Ant-Man and the Wasp: Quantumania",
+		"year"    : "2023",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Apocalypse Now",
 		"year"    : "1979",
 		"critic"  : 8.4,
@@ -952,6 +969,23 @@
 		}
 	},
 	{
+		"name"    : "Avatar: The Way of Water",
+		"year"    : "2022",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 7,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Avengers: Age of Ultron",
 		"year"    : "2015",
 		"critic"  : 7.3,
@@ -1114,7 +1148,7 @@
 			"nostalgia"  : 3,
 			"plot"       : 6.5,
 			"music"      : 5.5,
-			"rewatch"    : 2.5,
+			"rewatch"    : 1,
 			"characters" : 6,
 			"genre"      : 7,
 			"references" : 3.5,
@@ -2938,6 +2972,23 @@
 			"genre"      : 5.5,
 			"references" : 5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Dumbo [Live Action]",
+		"year"    : "2019",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 8,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -11152,11 +11203,28 @@
 		}
 	},
 	{
+		"name"    : "The Hobbit",
+		"year"    : "1977",
+		"critic"  : 6.7,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 3.5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "The Hobbit: The Desolation of Smaug",
 		"year"    : "2013",
 		"critic"  : 7.8,
 		"ratings" : {
-			"humor"      : 0,
+			"humor"      : 1.5,
 			"visuals"    : 4,
 			"nostalgia"  : 0.5,
 			"plot"       : 2.5,
@@ -11164,7 +11232,7 @@
 			"rewatch"    : 0,
 			"characters" : 3,
 			"genre"      : 3.5,
-			"references" : 5,
+			"references" : 3.5,
 			"bias"       : 2
 		}
 	},
@@ -13333,11 +13401,11 @@
 		"critic"  : 5.3,
 		"ratings" : {
 			"humor"      : 6,
-			"visuals"    : 5.5,
+			"visuals"    : 3,
 			"nostalgia"  : 3,
 			"plot"       : 5.5,
 			"music"      : 5,
-			"rewatch"    : 3,
+			"rewatch"    : 1,
 			"characters" : 5.5,
 			"genre"      : 7,
 			"references" : 4,

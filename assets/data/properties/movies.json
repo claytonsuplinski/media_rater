@@ -18,7 +18,7 @@
 		{
 			"value"    : "Bill Murray",
 			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
-			"exact"    : [ "Groundhog Day", "Isle of Dogs", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
+			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -180,7 +180,7 @@
 		{
 			"value"    : "Tim Burton",
 			"includes" : [ "Edward Scissorhands", "Sweeney Todd", "The Nightmare Before Christmas" ],
-			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Corpse Bride", "Frankenweenie", "Sleepy Hollow" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Corpse Bride", "Dumbo [Live Action]", "Frankenweenie", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [

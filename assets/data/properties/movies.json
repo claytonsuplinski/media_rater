@@ -33,7 +33,7 @@
 		{
 			"value"    : "Emma Watson",
 			"includes" : [ "Harry Potter" ],
-			"exact"    : [ "Beauty and the Beast [Live Action]", "The Perks of Being a Wallflower", "The Circle", "This is the End" ]
+			"exact"    : [ "Beauty and the Beast [Live Action]", "Regression", "The Perks of Being a Wallflower", "The Circle", "This is the End" ]
 		},
 		{
 			"value"    : "George Clooney",
@@ -130,7 +130,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Black Adam", "Central Intelligence", "Jungle Cruise", "Moana", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Black Adam", "Central Intelligence", "Jungle Cruise", "Moana", "Rampage", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -247,7 +247,7 @@
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
 				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter", "Kim Possible", "Kronk's New Groove",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
-				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Mulan",
+				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
 				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
@@ -260,7 +260,7 @@
 			"exact"    : [
 				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World",
-				"Tangled", "Tarzan", "Tower of Terror", "You Wish!"
+				"Tangled", "Tarzan", "Tarzan II", "Tower of Terror", "Treasure Planet", "You Wish!"
 			]
 		},
 		{

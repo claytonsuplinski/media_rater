@@ -18,7 +18,7 @@
 		{
 			"value"    : "Bill Murray",
 			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
-			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
+			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Little Shop of Horrors", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -52,7 +52,7 @@
 		{
 			"value"    : "James Franco",
 			"includes" : [ "Oz the Great and Powerful", "Pineapple Express" ],
-			"exact"    : [ "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "Spring Breakers", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
+			"exact"    : [ "Knocked Up", "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "Spring Breakers", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End" ]
 		},
 		{
 			"value"    : "Jeff Goldblum",
@@ -150,7 +150,7 @@
 		{
 			"value"    : "Will Ferrell",
 			"includes" : [ "Anchorman", "Austin Powers: International", "Austin Powers: The Spy", "Blades of Glory", "Daddy's Home", "Kicking & Screaming",  "Talladega Nights", "The Lego Movie", "The Other Guys", "Zoolander" ],
-			"exact"    : [ "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
+			"exact"    : [ "Barbie", "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
 		},
 		{
 			"value"    : "Will Smith",
@@ -196,8 +196,8 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Insidious", "Pet Sematary", "Practical Magic", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "The Babadook", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Insidious", "Jennifer's Body", "Pet Sematary", "Practical Magic", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
@@ -265,7 +265,7 @@
 		},
 		{
 			"value"    : "Pixar",
-			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
+			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Monsters University", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
 			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
 		}
 	]

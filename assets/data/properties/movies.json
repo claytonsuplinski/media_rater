@@ -47,7 +47,7 @@
 		{
 			"value"    : "Jack Black",
 			"includes" : [ "Jumanji: ", "Kung Fu Panda" ],
-			"exact"    : [ "Anchorman", "Envy", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "Tropic Thunder" ]
+			"exact"    : [ "Anchorman", "Envy", "Goosebumps", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "James Franco",
@@ -57,7 +57,7 @@
 		{
 			"value"    : "Jeff Goldblum",
 			"includes" : [ "Independence Day" ],
-			"exact"    : [ "Annie Hall", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok" ]
+			"exact"    : [ "Annie Hall", "Invasion of the Body Snatchers", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok" ]
 		},
 		{
 			"value"    : "Jim Carrey",
@@ -67,7 +67,7 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Dark Shadows", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -95,7 +95,7 @@
 		{
 			"value"    : "Owen Wilson",
 			"includes" : [ "Night at the Museum", "Zoolander" ],
-			"exact"    : [ "Armageddon", "Cars", "Free Birds", "Meet the Parents", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
+			"exact"    : [ "Armageddon", "Cars", "Free Birds", "Haunted Mansion", "Meet the Parents", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
 		},
 		{
 			"value"    : "Ralph Fiennes",
@@ -196,8 +196,8 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Sweeney Todd", "The Addams Family", "The Babadook", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
-			"exact"    : [ "Clue", "Carrie", "Casper", "Corpse Bride", "Disturbia", "Freaky", "Ghost", "It", "Insidious", "Jennifer's Body", "Pet Sematary", "Practical Magic", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Goosebumps", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Night of the Living Dead", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Spooky Buddies", "Sweeney Todd", "The Addams Family", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Carrie", "Casper", "Clue", "Coraline", "Corpse Bride", "Dark Shadows", "Disturbia", "Freaky", "Ghost", "Haunted Mansion", "It", "Insidious", "Jennifer's Body", "Monsters University", "Pet Sematary", "Practical Magic", "Psycho", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",
@@ -250,7 +250,8 @@
 				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
 				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
-				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans", "Sleeping Beauty", "Song of the South", "Sword in the Stone", 
+				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
+				"Sleeping Beauty", "Song of the South", "Spooky Buddies", "Sword in the Stone", 
 				"The Black Cauldron", "The Country Bears", "The Great Mouse Detective", "The Greatest Game Ever Played",
 				"The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Luck of the Irish", "The Mighty Ducks", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
@@ -258,9 +259,9 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"Bolt", "Cinderella", "Enchanted", "Frozen", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
+				"Bolt", "Cinderella", "Enchanted", "Frozen", "Haunted Mansion", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World",
-				"Tangled", "Tarzan", "Tarzan II", "Tower of Terror", "Treasure Planet", "You Wish!"
+				"Tangled", "Tarzan", "Tarzan II", "The Haunted Mansion", "Tower of Terror", "Treasure Planet", "You Wish!"
 			]
 		},
 		{

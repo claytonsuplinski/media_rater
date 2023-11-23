@@ -140,7 +140,7 @@
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Captain Phillips", "Cast Away", "Catch Me If You Can", "Pinocchio [Live Action]", "Saving Private Ryan", "The Circle", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
+			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Captain Phillips", "Cast Away", "Catch Me If You Can", "Elvis", "Pinocchio [Live Action]", "Saving Private Ryan", "The Circle", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -165,7 +165,7 @@
 		},
 		{
 			"value"    : "Mel Brooks",
-			"exact"    : [ "Blazing Saddles", "Spaceballs" ]
+			"exact"    : [ "Blazing Saddles", "Spaceballs", "Young Frankenstein" ]
 		},
 		{
 			"value"    : "Steven Spielberg",
@@ -202,7 +202,7 @@
 		{
 			"value"    : "Thanksgiving",
 			"includes" : [ "Paul Blart", "Pocahontas", "Thanksgiving" ],
-			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Spider-Man", "The Big Chill", "The Blind Side", "The House of Yes", "The Turkey Bowl", "Tower Heist", "You've Got Mail" ]
+			"exact"    : [ "Chicken Run", "Dances with Wolves", "Dan in Real Life", "Dutch", "Free Birds", "Funny People", "Planes, Trains & Automobiles", "Rise of the Guardians", "Rocky", "Scent of a Woman", "Spider-Man", "The Big Chill", "The Blind Side", "The House of Yes", "The Turkey Bowl", "Tower Heist", "Turkey Hollow", "You've Got Mail" ]
 		}
 	],
 	"series" : [
@@ -267,7 +267,7 @@
 		{
 			"value"    : "Pixar",
 			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Monsters University", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
-			"exact"    : [ "Brave", "Cars", "Coco", "Inside Out", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
+			"exact"    : [ "Brave", "Cars", "Coco", "Elemental", "Inside Out", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
 		}
 	]
 }

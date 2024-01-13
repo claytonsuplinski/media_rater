@@ -448,5 +448,20 @@
 			"living environment" : 9.5,
 			"personal events"    : 8.5
 		}
+	},
+	{
+		"name"    : "2023",
+		"ratings" : {
+			"sports"             : 9,
+			"music"              : 0,
+			"movies"             : 4.5,
+			"home entertainment" : 8.5,
+			"hobbies"            : 9,
+			"occupation"         : 9,
+			"travel"             : 10,
+			"relationships"      : 9,
+			"living environment" : 9,
+			"personal events"    : 6
+		}
 	}
 ]

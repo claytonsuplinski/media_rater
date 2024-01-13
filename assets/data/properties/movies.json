@@ -3,7 +3,7 @@
 		{
 			"value"    : "Adam Sandler",
 			"includes" : [ "Grown Ups", "Happy Gilmore" ],
-			"exact"    : [ "Anger Management", "Click", "Funny People", "Pixels", "The Waterboy", "The Wedding Singer", "50 First Dates" ]
+			"exact"    : [ "Anger Management", "Click", "Funny People", "I Now Pronounce You Chuck & Larry", "Pixels", "The Waterboy", "The Wedding Singer", "50 First Dates" ]
 		},
 		{
 			"value"    : "Alan Rickman",
@@ -67,7 +67,7 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Corpse Bride", "Dark Shadows", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Charlie and the Chocolate Factory", "Corpse Bride", "Dark Shadows", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -76,7 +76,7 @@
 		{
 			"value"    : "Liam Neeson",
 			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
-			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "The Grey", "The Lego Movie" ]
+			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "Ted 2", "The Grey", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Matthew McConnaughey",
@@ -130,7 +130,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Jungle Cruise", "Moana", "Rampage", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Rampage", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -145,7 +145,7 @@
 		{
 			"value"    : "Vince Vaughn",
 			"includes" : [ "Anchorman", "Wedding Crashers" ],
-			"exact"    : [ "Delivery Man", "Dodgeball", "Four Christmases", "Freaky", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Rudy", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park" ]
+			"exact"    : [ "Delivery Man", "Dodgeball", "Four Christmases", "Freaky", "Fred Claus", "Mr. & Mrs. Smith", "Old School", "Rudy", "Starsky & Hutch", "The Internship", "The Lost World: Jurassic Park", "Unfinished Business" ]
 		},
 		{
 			"value"    : "Will Ferrell",
@@ -180,7 +180,7 @@
 		{
 			"value"    : "Tim Burton",
 			"includes" : [ "Edward Scissorhands", "Sweeney Todd", "The Nightmare Before Christmas" ],
-			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Corpse Bride", "Dumbo [Live Action]", "Frankenweenie", "Sleepy Hollow" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Charlie and the Chocolate Factory", "Corpse Bride", "Dumbo [Live Action]", "Frankenweenie", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [
@@ -260,8 +260,8 @@
 			],
 			"exact"    : [
 				"Bolt", "Cinderella", "Enchanted", "Frozen", "Haunted Mansion", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
-				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World",
-				"Tangled", "Tarzan", "Tarzan II", "The Haunted Mansion", "Tower of Terror", "Treasure Planet", "You Wish!"
+				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
+				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "Tower of Terror", "Treasure Planet", "You Wish!"
 			]
 		},
 		{

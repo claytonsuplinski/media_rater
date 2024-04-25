@@ -70,6 +70,7 @@ MIA.content.load_properties = function( callback ){
 			url: './assets/data/properties/' + MIA.content.name + '.json',
 			dataType: 'json',
 			success: function(data){
+				MIA.content.properties = data;
 				MIA.content.data.forEach(function( item ){
 					Object.keys( data ).forEach(function( property_name ){
 						var property = data[ property_name ];
@@ -221,6 +222,7 @@ MIA.content.draw = function( p ){
 	if( this.data.length > 1                          ) this.view_names.push( 'Versus'     );
 	if( this.data[ 0 ].critic                         ) this.view_names.push( 'Underrated' );
 	if( this.data[ 0 ].year   || this.name == 'years' ) this.view_names.push( 'Graph'      );
+	if( [ 'Movies' ].includes( this.selected )        ) this.view_names.push( 'Actors'     );
 	if( this.data[ 0 ].year                           ) this.view_names.push( 'Years'      );
 	this.view_names.push( 'Score Distribution' );
 	

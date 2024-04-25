@@ -259,6 +259,11 @@
 #content .ranking-table th.teams      { width: 52px; }
 #content .ranking-table th.total      { width: 44px; }
 
+#content .ranking-table th.movies  { width: 60px; }
+#content .ranking-table th.entries{ width: 60px; }
+#content .ranking-table th.average{ width: 60px; }
+#content .ranking-table th.points  { width: 60px; }
+
 #content .ranking-table th.sorted{ background:#28435d; }
 #content .ranking-table td.sorted{ background:#305f8d !important; }
 

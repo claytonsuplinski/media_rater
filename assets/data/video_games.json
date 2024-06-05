@@ -39,9 +39,9 @@
 			"characters"  : 4.5,
 			"plot"        : 5,
 			"content"     : 9,
-			"mechanics"   : 9.5,
+			"mechanics"   : 3.5,
 			"reliability" : 3.5,
-			"replay"      : 9,
+			"replay"      : 5.5,
 			"soundtrack"  : 5.5,
 			"nostalgia"   : 6.5,
 			"bias"        : 7
@@ -584,10 +584,10 @@
 			"plot"        : 2.5,
 			"content"     : 6,
 			"mechanics"   : 4.5,
-			"reliability" : 4,
-			"replay"      : 9,
+			"reliability" : 2,
+			"replay"      : 4.5,
 			"soundtrack"  : 5,
-			"nostalgia"   : 4,
+			"nostalgia"   : 3.5,
 			"bias"        : 5.5
 		}
 	},
@@ -628,14 +628,14 @@
 		"year"    : "2011",
 		"ratings" : {
 			"visuals"     : 8.5,
-			"characters"  : 1,
-			"plot"        : 2.5,
+			"characters"  : 4,
+			"plot"        : 3.5,
 			"content"     : 10,
 			"mechanics"   : 7,
 			"reliability" : 5.5,
 			"replay"      : 7,
-			"soundtrack"  : 4,
-			"nostalgia"   : 3.5,
+			"soundtrack"  : 5,
+			"nostalgia"   : 5,
 			"bias"        : 5
 		}
 	},

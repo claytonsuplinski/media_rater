@@ -8,7 +8,7 @@
 		{
 			"value"    : "Alan Rickman",
 			"includes" : [ "Harry Potter", "Hitchhiker's Guide to the Galaxy", "Sweeney Todd" ],
-			"exact"    : [ "Alice in Wonderland [Live Action]", "Die Hard", "Love Actually" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Bottle Shock", "Die Hard", "Love Actually" ]
 		},
 		{
 			"value"    : "Arnold Schwarzenegger",
@@ -28,7 +28,7 @@
 		{
 			"value"    : "Bill Pullman",
 			"includes" : [  ],
-			"exact"    : [ "Casper", "Independence Day", "Independence Day: Resurgence", "Scary Movie 4", "Sleepless in Seattle", "Spaceballs", "While You Were Sleeping" ]
+			"exact"    : [ "Bottle Shock", "Casper", "Independence Day", "Independence Day: Resurgence", "Scary Movie 4", "Sleepless in Seattle", "Spaceballs", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -173,7 +173,7 @@
 		{
 			"value"    : "Seth Rogen",
 			"includes" : [ "Kung Fu Panda" ],
-			"exact"    : [ "Anchorman", "Chip 'n Dale: Rescue Rangers", "Donnie Darko", "Funny People", "Knocked Up", "Neighbors", "Neighbors 2: Sorority Rising", "Pineapple Express", "Sausage Party", "Step Brothers", "Steve Jobs", "Superbad", "The Green Hornet", "The Interview", "The Night Before", "The Lion King [Live Action]", "The 40 Year Old Virgin", "This is the End", "22 Jump Street" ]
+			"exact"    : [ "Anchorman", "Chip 'n Dale: Rescue Rangers", "Donnie Darko", "Fanboys", "Funny People", "Knocked Up", "Neighbors", "Neighbors 2: Sorority Rising", "Pineapple Express", "Sausage Party", "Step Brothers", "Steve Jobs", "Superbad", "The Green Hornet", "The Interview", "The Night Before", "The Lion King [Live Action]", "The 40 Year Old Virgin", "This is the End", "22 Jump Street" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -266,7 +266,8 @@
 	"series" : [
 		{
 			"value"    : "Batman",
-			"includes" : [ "The Dark Knight" ]
+			"includes" : [ "The Dark Knight" ],
+			"exact"    : [ "Justice League" ]
 		},
 		{
 			"value"    : "Indiana Jones",
@@ -291,7 +292,8 @@
 		},
 		{
 			"value"    : "Superman",
-			"includes" : [ "Man of Steel" ]
+			"includes" : [ "Man of Steel" ],
+			"exact"    : [ "Justice League" ]
 		}
 	],
 	"studio" : [
@@ -317,8 +319,8 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"A Christmas Carol", 
-				"Bolt", "Cinderella", "Enchanted", "Frozen", "Haunted Mansion", "Hercules", "Hocus Pocus 2", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
+				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
+				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
 				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]

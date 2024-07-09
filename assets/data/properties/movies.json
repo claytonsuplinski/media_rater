@@ -67,7 +67,7 @@
 		{
 			"value"    : "Harrison Ford",
 			"includes" : [ "Blade Runner", "Indiana Jones", "Star Wars: Holiday Special", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:", "Star Wars Episode VII:", "Star Wars Episode IX:" ],
-			"exact"    : [ "Cowboys & Aliens", "Raiders of the Lost Ark" ]
+			"exact"    : [ "Clear and Present Danger", "Cowboys & Aliens", "Raiders of the Lost Ark" ]
 		},
 		{
 			"value"    : "Hayden Christensen",
@@ -145,7 +145,7 @@
 		{
 			"value"    : "Robert Downey Jr",
 			"includes" : [ "Avengers: ", "Iron Man", "The Avengers" ],
-			"exact"    : [ "Captain America: Civil War", "Spider-Man: Homecoming", "Tropic Thunder" ]
+			"exact"    : [ "Captain America: Civil War", "Oppenheimer", "Spider-Man: Homecoming", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Robin Williams",
@@ -305,7 +305,7 @@
 				"Chicken Little", "Chip 'n Dale", "Christopher Robin", "Cinderella II", "College Road Trip", "Computer Wore Tennis Shoes", "Cruella",
 				"DuckTales", "Dumbo", "Eddie's Million Dollar Cook-Off", "Encanto", "Even Stevens",
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
-				"Goofy Movie", "Halloweentown", "High School Musical", "Ichabod and Mr. Toad", "John Carter", "Kim Possible", "Kronk's New Groove",
+				"Goofy Movie", "Halloweentown", "High School Musical", "Homeward Bound", "Ichabod and Mr. Toad", "John Carter", "Kim Possible", "Kronk's New Groove",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
 				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
 				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
@@ -322,7 +322,7 @@
 				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
-				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
+				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "The Three Caballeros", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]
 		},
 		{

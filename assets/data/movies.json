@@ -816,6 +816,23 @@
 		}
 	},
 	{
+		"name"    : "Aquaman and the Lost Kingdom",
+		"year"    : "2023",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Are We There Yet?",
 		"year"    : "2005",
 		"critic"  : 4.7,
@@ -1802,6 +1819,23 @@
 		}
 	},
 	{
+		"name"    : "Bridge to Terabithia",
+		"year"    : "2007",
+		"critic"  : 7.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Brother Bear",
 		"year"    : "2003",
 		"critic"  : 6.8,
@@ -2394,6 +2428,23 @@
 			"genre"      : 3.5,
 			"references" : 2.5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Clear and Present Danger",
+		"year"    : "1994",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3.5,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4539,6 +4590,23 @@
 		}
 	},
 	{
+		"name"    : "Godzilla [1998]",
+		"year"    : "1998",
+		"critic"  : 5.4,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Godzilla vs. Kong",
 		"year"    : "2021",
 		"critic"  : 6.4,
@@ -5389,6 +5457,23 @@
 		}
 	},
 	{
+		"name"    : "Homeward Bound: The Incredible Journey",
+		"year"    : "1993",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Honey, I Shrunk the Kids",
 		"year"    : "1989",
 		"critic"  : 6.4,
@@ -5470,6 +5555,23 @@
 			"characters" : 4,
 			"genre"      : 4.5,
 			"references" : 4,
+			"bias"       : 4.5
+		}
+	},
+	{
+		"name"    : "Hot Tub Time Machine",
+		"year"    : "2010",
+		"critic"  : 6.4,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 4.5,
+			"references" : 3.5,
 			"bias"       : 4.5
 		}
 	},
@@ -6678,6 +6780,23 @@
 			"genre"      : 6.5,
 			"references" : 6,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Lady and the Tramp II: Scamp's Adventure",
+		"year"    : "2001",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -8449,6 +8568,23 @@
 		}
 	},
 	{
+		"name"    : "Oppenheimer",
+		"year"    : "2023",
+		"critic"  : 8.3,
+		"ratings" : {
+			"humor"      : 2,
+			"visuals"    : 7,
+			"nostalgia"  : 2.5,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 2.5,
+			"characters" : 4,
+			"genre"      : 4,
+			"references" : 3,
+			"bias"       : 4
+		}
+	},
+	{
 		"name"    : "Orphan",
 		"year"    : "2009",
 		"critic"  : 7.0,
@@ -8599,6 +8735,23 @@
 			"genre"      : 6.5,
 			"references" : 4.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Paul Blart: Mall Cop 2",
+		"year"    : "2015",
+		"critic"  : 4.4,
+		"ratings" : {
+			"humor"      : 2.5,
+			"visuals"    : 5,
+			"nostalgia"  : 3,
+			"plot"       : 3.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 3.5,
+			"genre"      : 4.5,
+			"references" : 3,
+			"bias"       : 4
 		}
 	},
 	{
@@ -9190,7 +9343,7 @@
 			"plot"       : 6.5,
 			"music"      : 5,
 			"rewatch"    : 3,
-			"characters" : 3.5,
+			"characters" : 4,
 			"genre"      : 5,
 			"references" : 6.5,
 			"bias"       : 4
@@ -9343,6 +9496,23 @@
 			"plot"       : 6,
 			"music"      : 6,
 			"rewatch"    : 4,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Ride Along 2",
+		"year"    : "2016",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 7,
+			"visuals"    : 7,
+			"nostalgia"  : 3.5,
+			"plot"       : 6,
+			"music"      : 5,
+			"rewatch"    : 3.5,
 			"characters" : 5.5,
 			"genre"      : 7,
 			"references" : 3,
@@ -11016,6 +11186,23 @@
 		}
 	},
 	{
+		"name"    : "Superman IV: The Quest for Peace",
+		"year"    : "1987",
+		"critic"  : 3.7,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 3.5,
+			"nostalgia"  : 3,
+			"plot"       : 4,
+			"music"      : 6,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 4.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Surviving Christmas",
 		"year"    : "2004",
 		"critic"  : 5.4,
@@ -11809,7 +11996,7 @@
 			"music"      : 5,
 			"rewatch"    : 4,
 			"characters" : 4.5,
-			"genre"      : 6.5,
+			"genre"      : 5.5,
 			"references" : 5.5,
 			"bias"       : 5
 		}
@@ -11826,7 +12013,7 @@
 			"music"      : 5,
 			"rewatch"    : 3,
 			"characters" : 4,
-			"genre"      : 6.5,
+			"genre"      : 5,
 			"references" : 3.5,
 			"bias"       : 4.5
 		}
@@ -12538,11 +12725,11 @@
 			"nostalgia"  : 5,
 			"plot"       : 6,
 			"music"      : 6,
-			"rewatch"    : 4,
+			"rewatch"    : 3.5,
 			"characters" : 4,
 			"genre"      : 7,
 			"references" : 1.5,
-			"bias"       : 5.5
+			"bias"       : 5
 		}
 	},
 	{
@@ -12778,6 +12965,23 @@
 			"music"      : 5,
 			"rewatch"    : 3.5,
 			"characters" : 4.5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The Jungle Book",
+		"year"    : "1967",
+		"critic"  : 7.6,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 9,
+			"nostalgia"  : 4,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
 			"genre"      : 6.5,
 			"references" : 4,
 			"bias"       : 5
@@ -14090,6 +14294,23 @@
 			"genre"      : 4.5,
 			"references" : 3.5,
 			"bias"       : 3
+		}
+	},
+	{
+		"name"    : "The Three Caballeros",
+		"year"    : "1944",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 2,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 4.5,
+			"references" : 3.5,
+			"bias"       : 4.5
 		}
 	},
 	{

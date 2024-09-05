@@ -140,6 +140,7 @@
 	bottom:-40px;
 }
 
+#random-filter,
 #content .detailed-select select,
 #content .item .versus-select select{
 	background:#333;
@@ -308,4 +309,23 @@
 
 #pages{
 	margin:15px auto 20px;
+}
+
+#random-filter{
+	margin-top:10px;
+	width:280px;
+}
+
+#random-refresh{
+	display:inline-block;
+	background:#333;
+	color:#fff;
+	border:1px solid #666;
+	padding:5px 10px;
+	border-left:0;
+	cursor:pointer;
+}
+
+#random-refresh:hover{
+	background:#1a627e;
 }

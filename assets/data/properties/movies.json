@@ -2,8 +2,8 @@
 	"actor" : [
 		{
 			"value"    : "Adam Sandler",
-			"includes" : [ "Grown Ups", "Happy Gilmore" ],
-			"exact"    : [ "Anger Management", "Click", "Funny People", "I Now Pronounce You Chuck & Larry", "Pixels", "The Waterboy", "The Wedding Singer", "Zookeeper", "50 First Dates" ]
+			"includes" : [ "Happy Gilmore" ],
+			"exact"    : [ "Anger Management", "Click", "Funny People", "Grown Ups", "Grown Ups 2", "I Now Pronounce You Chuck & Larry", "Pixels", "The Waterboy", "The Wedding Singer", "Zookeeper", "50 First Dates" ]
 		},
 		{
 			"value"    : "Alan Rickman",
@@ -62,7 +62,7 @@
 		},
 		{
 			"value"    : "George Clooney",
-			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven", "Ticket to Paradise" ]
+			"exact"    : [ "Gravity", "Leatherheads", "Ocean's Eleven", "Ticket to Paradise", "Tomorrowland" ]
 		},
 		{
 			"value"    : "Harrison Ford",
@@ -307,7 +307,7 @@
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
 				"Goofy Movie", "Halloweentown", "High School Musical", "Homeward Bound", "Ichabod and Mr. Toad", "John Carter", "Kim Possible", "Kronk's New Groove",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
-				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
+				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mickey, Donald, Goofy", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
 				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
@@ -322,7 +322,7 @@
 				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
-				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "The Three Caballeros", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
+				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]
 		},
 		{

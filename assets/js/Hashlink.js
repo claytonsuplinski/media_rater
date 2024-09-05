@@ -1,40 +1,18 @@
-MIA.hashlink = { value : '' };
+MIA.hashlink = new JL.hashlinks({
+	page : {},
+	view : {},
+});
 
-MIA.hashlink.check_url = function(){
-	this.value = decodeURI( location.hash.substring(1) );
+MIA.hashlink.on_start = function(){
+	var page = this.params.page.value;
+
+	document.title = MIA.config.document_title + ( page ? ' - ' + page : '' );
+
+	var menu_index = MIA.config.menu_options.indexOf( page );
+	if( menu_index == -1 ) menu_index = 0;
+
+	MIA.content.select( MIA.config.menu_options[ menu_index ] );
 };
 
-MIA.hashlink.write = function(){
-	var output = encodeURI( this.value );
-
-	if(output == ""){
-		history.pushState("", document.title, window.location.pathname);
-	}
-	else{
-		location.hash = output;
-	}
-};
-
-MIA.hashlink.update = function(value){
-	this.check_url();
-	this.value = value;
-	this.write();
-};
-
-MIA.hashlink.clear = function(){
-	window.location.href = '';
-};
-
-MIA.hashlink.start = function(){
-	MIA.hashlink.check_url();
-
-	document.title = MIA.config.document_title + (MIA.hashlink.value ? ' - ' + MIA.hashlink.value : '');
-
-	var menu_index = MIA.config.menu_options.indexOf(MIA.hashlink.value);
-	if(menu_index == -1) menu_index = 0;
-	
-	MIA.content.select( MIA.config.menu_options[menu_index] );
-};
-
-window.onhashchange = MIA.hashlink.start;
-window.onload       = MIA.hashlink.start;
+window.onhashchange = function(){ MIA.hashlink.start(); };
+window.onload       = function(){ MIA.hashlink.start(); };

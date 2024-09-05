@@ -7,7 +7,10 @@ MIA.content.select = function( option ){
 };
 
 MIA.content.load = function(){
-	this.select_view( 'Grid' );
+	this.search_count = 0;
+	this.table_sort = 'Total';
+	this.table_sort_reversed = false;
+	this.select_view( MIA.hashlink.params.view.value || 'Grid' );
 	
 	this.versus_indices = { left : 0, right : 1 };
 
@@ -102,13 +105,24 @@ MIA.content.has_properties = function(){
 	return MIA.config.pages_with_properties.find( x => x.toLowerCase() == MIA.content.name );
 };
 
+MIA.content._search_terms = [
+	{ key : 'year'  , variable : 'x.year'         },
+	{ key : 'total' , variable : 'x.total_rating' },
+	{ key : 'critic', variable : 'x.critic'       },
+];
+
 MIA.content.matches_search_terms = function( terms, operation ){
+	var self = this;
 	return terms.map(function( term ){
 		var match_string = operation.slice();
 		if( [ '&&', '||' ].includes( term ) ) return term;
-		if( [ '>', '<', '==', '!=' ].find( x => term.startsWith( 'year ' + x ) ) ){
-			return term.replace( /year/g, 'x.year' );
+
+		for( var t of self._search_terms ){
+			if( [ '>', '<', '==', '!=' ].find( x => term.startsWith( t.key + ' ' + x ) ) ){
+				return term.replace( new RegExp( t.key, 'g' ), t.variable );
+			}
 		}
+		
 		if( term.startsWith( '!' ) && term.length > 1 ){
 			if( !match_string.startsWith( '!' ) ) match_string = '!' + match_string;
 			term = term.substring( 1 );
@@ -117,9 +131,9 @@ MIA.content.matches_search_terms = function( terms, operation ){
 	}).join(' ');
 };
 
-MIA.content.search_filter = function( data ){
+MIA.content.search_filter = function( data, search_val ){
 	var self = this;
-	var search_val = this.get_search_val();
+	var search_val = search_val || this.get_search_val();
 	if( search_val ){
 		var search_terms = search_val.toLowerCase().split( / *(?:([&|]{2})) */g );
 
@@ -162,12 +176,12 @@ MIA.content.select_view = function( view ){
 	this.curr_view = this.views[ this.view_key ];
 };
 
-MIA.content.set_view = function( view ){
-	this.select_view( view );
-	this.table_sort = 'Total';
-	this.table_sort_reversed = false;
-	this.draw();
-};
+// MIA.content.set_view = function( view ){
+// 	this.select_view( view );
+// 	this.table_sort = 'Total';
+// 	this.table_sort_reversed = false;
+// 	this.draw();
+// };
 
 MIA.content.set_table_sort = function( column ){
 	this.table_sort_reversed = ( this.table_sort == column ? !this.table_sort_reversed : false );
@@ -225,6 +239,7 @@ MIA.content.draw = function( p ){
 	if( [ 'Movies' ].includes( this.selected )        ) this.view_names.push( 'Actors'     );
 	if( this.data[ 0 ].year                           ) this.view_names.push( 'Years'      );
 	this.view_names.push( 'Score Distribution' );
+	if( [ 'Movies' ].includes( this.selected )        ) this.view_names.push( 'Random'     );
 	
 	this.graphs = {};
 
@@ -245,51 +260,58 @@ MIA.content.draw = function( p ){
 	   e.stopPropagation();
 	});
 
+	var navbar_options = [
+		{
+			options    : MIA.config.menu_options.map(function( option ){
+				return {
+					name     : option,
+					selected : ( option == self.selected )
+				};
+			}),
+			attributes : {
+				id       : 'pages-dropdown',
+				onchange : 'window.location.href = MIA.hashlink.get_url({ include : { page : this.value }, clear : true });',
+			}
+		},
+		{
+			options    : MIA.content.view_names.map(function( option ){
+				return {
+					name     : option + ' View',
+					value    : option,
+					selected : ( option == self.view )
+				};
+			}),
+			attributes : {
+				id       : 'views-dropdown',
+				onchange : 'window.location.href = MIA.hashlink.get_url({ include : { view : this.value } });',
+			}
+		},
+	];
+	if( this.search_count ){
+		navbar_options.push({
+			search     : true,
+			attributes : {
+				id          : 'search-bar',
+				onblur      : 'MIA.keyboard.enable();',
+				onfocus     : 'MIA.keyboard.disable([ \'/\', \'ESCAPE\' ]);',
+				onkeyup     : 'MIA.content.on_search();',
+				placeholder : '&#xf002;  Search',
+				value       : $( '#search-bar' ).val() || '',
+			}
+		});
+	}
+
 	MIA.navbar = new JL.navbar({
 		title          : '<div class="logo"><img src="./assets/img/logo.png"/></div> Media Rater',
+		title_url      : 'index.html',
 		dropdown       : 'click',
 		not_responsive : true,
-		options        : [
-			{
-				options    : MIA.config.menu_options.map(function( option ){
-					return {
-						name     : option,
-						selected : ( option == self.selected )
-					};
-				}),
-				attributes : {
-					id       : 'pages-dropdown',
-					onchange : 'MIA.hashlink.update( this.value );',
-				}
-			},
-			{
-				options    : MIA.content.view_names.map(function( option ){
-					return {
-						name     : option + ' View',
-						value    : option,
-						selected : ( option == self.view )
-					};
-				}),
-				attributes : {
-					id       : 'views-dropdown',
-					onchange : 'MIA.content.set_view( this.value );',
-				}
-			},
-			{
-				search     : true,
-				attributes : {
-					id          : 'search-bar',
-					onblur      : 'MIA.keyboard.enable();',
-					onfocus     : 'MIA.keyboard.disable([ \'/\', \'ESCAPE\' ]);',
-					onkeyup     : 'MIA.content.on_search();',
-					placeholder : '&#xf002;  Search',
-					value       : $( '#search-bar' ).val() || '',
-				}
-			},
-		]
+		options        : navbar_options,
 	});
-	$( "#navbar" ).append(
-		'<span id="total-count"  class="count">' + this.data.length  + '</span>' +
-		'<span id="search-count" class="count">' + this.search_count + '</span>'
-	);
+	if( this.search_count ){
+		$( "#navbar" ).append(
+			'<span id="total-count"  class="count">' + this.data.length  + '</span>' +
+			'<span id="search-count" class="count">' + this.search_count + '</span>'
+		);
+	}
 };

@@ -23,7 +23,7 @@
 		{
 			"value"    : "Bill Murray",
 			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
-			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Little Shop of Horrors", "Lost in Translation", "Scrooged", "Space Jam", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
+			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Little Shop of Horrors", "Lost in Translation", "Scrooged", "Space Jam", "The Dead Don't Die", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Bill Pullman",
@@ -77,7 +77,7 @@
 		{
 			"value"    : "Jack Black",
 			"includes" : [ "Jumanji: ", "Kung Fu Panda" ],
-			"exact"    : [ "Anchorman", "Envy", "Goosebumps", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "Tropic Thunder" ]
+			"exact"    : [ "Anchorman", "Envy", "Goosebumps", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "The Super Mario Bros. Movie", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "James Franco",
@@ -254,8 +254,8 @@
 		},
 		{
 			"value"    : "Halloween",
-			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Goosebumps", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Night of the Living Dead", "Nightmare Before Christmas", "Nightmare on Elm Street", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Spooky Buddies", "Sweeney Todd", "The Addams Family", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Zombieland", "28 Days Later..." ],
-			"exact"    : [ "Carrie", "Casper", "Clue", "Coraline", "Corpse Bride", "Dark Shadows", "Disturbia", "Five Nights at Freddy's", "Freaky", "Ghost", "Haunted Mansion", "It", "Insidious", "Jennifer's Body", "Monsters University", "Pet Sematary", "Practical Magic", "Psycho", "Renfield", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
+			"includes" : [ "Amityville Horror", "Blair Witch", "Beetlejuice", "Child's Play", "Children of the Corn", "Dracula", "E.T.", "Frankenstein", "Frankenweenie", "Friday the 13th", "Fright Night", "Goosebumps", "Ghostbusters", "Halloween", "Hellboy", "Hocus Pocus", "Ichabod and Mr. Toad", "Monsters, Inc.", "Night of the Living Dead", "Nightmare Before Christmas", "Nightmare on Elm Street", "Nosferatu", "Paranormal Activity", "Poltergeist", "Pride and Prejudice and Zombies", "Rocky Horror", "Scary Movie", "Shaun of the Dead", "Spooky Buddies", "Sweeney Todd", "The Addams Family", "The Conjuring", "Trick 'r Treat", "Van Helsing", "Vampire", "Werewolf", "Witch Hunters", "Zombieland", "28 Days Later..." ],
+			"exact"    : [ "Carrie", "Casper", "Clue", "Coraline", "Corpse Bride", "Dark Shadows", "Disturbia", "Five Nights at Freddy's", "Freaky", "Ghost", "Haunted Mansion", "It", "Insidious", "Jennifer's Body", "Killer Klowns from Outer Space", "Monsters University", "Pet Sematary", "Practical Magic", "Psycho", "Renfield", "Scream", "Sleepy Hollow", "The Black Cauldron", "The Cabin in the Woods", "The Dead Don't Die", "The Haunted Mansion", "The Omen", "The Shining", "The Sixth Sense", "The Texas Chain Saw Massacre", "The Witch", "Tower of Terror", "Twitches" ]
 		},
 		{
 			"value"    : "Thanksgiving",

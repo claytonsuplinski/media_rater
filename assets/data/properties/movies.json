@@ -87,7 +87,7 @@
 		{
 			"value"    : "Jeff Goldblum",
 			"includes" : [ "Independence Day" ],
-			"exact"    : [ "Annie Hall", "Invasion of the Body Snatchers", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok" ]
+			"exact"    : [ "Annie Hall", "Invasion of the Body Snatchers", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok", "Wicked" ]
 		},
 		{
 			"value"    : "Jim Carrey",
@@ -328,7 +328,7 @@
 		{
 			"value"    : "Pixar",
 			"includes" : [ "A Bug's Life", "Finding Nemo", "Monsters, Inc.", "Monsters University", "Ratatouille", "The Incredibles", "Toy Story", "WALL-E" ],
-			"exact"    : [ "Brave", "Cars", "Cars 2", "Coco", "Elemental", "Incredibles 2", "Inside Out", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
+			"exact"    : [ "Brave", "Cars", "Cars 2", "Coco", "Elemental", "Incredibles 2", "Inside Out", "Inside Out 2", "Lightyear", "Luca", "Onward", "Soul", "The Good Dinosaur", "Turning Red", "Up" ]
 		}
 	]
 }

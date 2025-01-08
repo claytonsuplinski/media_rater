@@ -33,7 +33,7 @@
 		{
 			"value"    : "Brad Pitt",
 			"includes" : [ "Benjamin Button", "Ocean's Eleven" ],
-			"exact"    : [ "Fight Club", "Moneyball", "Mr. & Mrs. Smith", "Se7en", "The Lost City", "World War Z", "12 Years a Slave" ]
+			"exact"    : [ "Fight Club", "Inglourious Basterds", "Moneyball", "Mr. & Mrs. Smith", "Se7en", "The Lost City", "World War Z", "12 Years a Slave" ]
 		},
 		{
 			"value"    : "Channing Tatum",
@@ -67,7 +67,7 @@
 		{
 			"value"    : "Harrison Ford",
 			"includes" : [ "Blade Runner", "Indiana Jones", "Star Wars: Holiday Special", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:", "Star Wars Episode VII:", "Star Wars Episode IX:" ],
-			"exact"    : [ "Clear and Present Danger", "Cowboys & Aliens", "Raiders of the Lost Ark" ]
+			"exact"    : [ "Anchorman 2", "Clear and Present Danger", "Cowboys & Aliens", "Raiders of the Lost Ark" ]
 		},
 		{
 			"value"    : "Hayden Christensen",
@@ -115,7 +115,7 @@
 		},
 		{
 			"value"    : "Matthew McConnaughey",
-			"exact"    : [ "Dallas Buyers Club", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
+			"exact"    : [ "Dallas Buyers Club", "Ghosts of Girlfriends Past", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Morgan Freeman",
@@ -188,7 +188,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Rampage", "San Andreas", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Rampage", "Red One", "San Andreas", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -198,7 +198,7 @@
 		{
 			"value"    : "Tom Hanks",
 			"includes" : [ "Forrest Gump", "The Da Vinci Code", "The Polar Express", "Toy Story" ],
-			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Captain Phillips", "Cast Away", "Catch Me If You Can", "Elvis", "Pinocchio [Live Action]", "Saving Private Ryan", "Sleepless in Seattle", "The Circle", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
+			"exact"    : [ "Apollo 13", "Bridge of Spies", "Big", "Captain Phillips", "Cast Away", "Catch Me If You Can", "Elvis", "Pinocchio [Live Action]", "Saving Private Ryan", "Sleepless in Seattle", "Sully", "The Circle", "The Green Mile", "The Simpsons Movie", "You've Got Mail" ]
 		},
 		{
 			"value"    : "Vince Vaughn",
@@ -233,7 +233,7 @@
 		{
 			"value"    : "Quentin Tarantino",
 			"includes" : [ "Kill Bill", "Pulp Fiction" ],
-			"exact"    : [ "Django Unchained", "Sin City", "The Hateful Eight" ]
+			"exact"    : [ "Django Unchained", "Inglourious Basterds", "Sin City", "The Hateful Eight" ]
 		},
 		{
 			"value"    : "Tim Burton",
@@ -250,7 +250,7 @@
 		{
 			"value"    : "Christmas",
 			"includes" : [ "Christmas", "Gremlins", "Grinch", "Jingle All the Way", "Miracle on 34th Street", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
-			"exact"    : [ "Bad Santa", "Batman Returns", "Barbie in the Nutcracker", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "Home Alone", "Home Alone 2: Lost in New York", "Home Sweet Home Alone", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Best Man Holiday", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
+			"exact"    : [ "Bad Santa", "Batman Returns", "Barbie in the Nutcracker", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "Home Alone", "Home Alone 2: Lost in New York", "Home Sweet Home Alone", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Red One", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Best Man Holiday", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Halloween",

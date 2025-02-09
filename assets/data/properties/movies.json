@@ -48,7 +48,7 @@
 		{
 			"value"    : "Danny DeVito",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Austin Powers in Goldmember", "Batman Returns", "Deck the Halls", "Haunted Mansion", "Hercules", "Space Jam" ]
+			"exact"    : [ "Austin Powers in Goldmember", "Batman Returns", "Deck the Halls", "Haunted Mansion", "Hercules", "Matilda", "Space Jam" ]
 		},
 		{
 			"value"    : "Emma Watson",
@@ -130,7 +130,7 @@
 		{
 			"value"    : "Nicolas Cage",
 			"includes" : [ "Ghost Rider", "National Treasure", "The Croods" ],
-			"exact"    : [ "Con Air", "Dream Scenario", "Fast Times at Ridgemont High", "Kick-Ass", "Renfield", "The Unbearable Weight of Massive Talent", "The Wicker Man" ]
+			"exact"    : [ "Con Air", "Dream Scenario", "Face/Off", "Fast Times at Ridgemont High", "Kick-Ass", "Renfield", "The Unbearable Weight of Massive Talent", "The Wicker Man" ]
 		},
 		{
 			"value"    : "Owen Wilson",
@@ -208,7 +208,7 @@
 		{
 			"value"    : "Will Ferrell",
 			"includes" : [ "Anchorman", "Austin Powers: International", "Austin Powers: The Spy", "Blades of Glory", "Daddy's Home", "Kicking & Screaming",  "Talladega Nights", "The Lego Movie", "The Other Guys", "Zoolander" ],
-			"exact"    : [ "Barbie", "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "The Campaign", "The House", "The Internship", "Wedding Crashers" ]
+			"exact"    : [ "Barbie", "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "Stranger Than Fiction", "The Campaign", "The House", "The Internship", "Wedding Crashers", "You're Cordially Invited" ]
 		},
 		{
 			"value"    : "Will Smith",

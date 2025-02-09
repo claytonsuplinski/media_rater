@@ -1,0 +1,122 @@
+[
+	{
+		"name"    : "Allegiant Stadium",
+		"ratings" : {
+			"aesthetics"  : 9,
+			"amenities"   : 10,
+			"atmosphere"  : 8,
+			"character"   : 7,
+			"concessions" : 2,
+			"location"    : 6,
+			"upkeep"      : 10
+		}
+	},
+	{
+		"name"    : "Heinz Field",
+		"ratings" : {
+			"aesthetics"  : 7,
+			"amenities"   : 6,
+			"atmosphere"  : 10,
+			"character"   : 8,
+			"concessions" : 3,
+			"location"    : 8,
+			"upkeep"      : 7
+		}
+	},
+	{
+		"name"    : "Lambeau Field",
+		"ratings" : {
+			"aesthetics"  : 6,
+			"amenities"   : 7,
+			"atmosphere"  : 10,
+			"character"   : 9,
+			"concessions" : 3,
+			"location"    : 8,
+			"upkeep"      : 10
+		}
+	},
+	{
+		"name"    : "Lincoln Financial Field",
+		"ratings" : {
+			"aesthetics"  : 6,
+			"amenities"   : 6,
+			"atmosphere"  : 9,
+			"character"   : 8,
+			"concessions" : 2,
+			"location"    : 5,
+			"upkeep"      : 5
+		}
+	},
+	{
+		"name"    : "Lucas Oil Stadium",
+		"ratings" : {
+			"aesthetics"  : 8,
+			"amenities"   : 8,
+			"atmosphere"  : 7,
+			"character"   : 6,
+			"concessions" : 2,
+			"location"    : 4,
+			"upkeep"      : 8
+		}
+	},
+	{
+		"name"    : "Mercedes-Benz Stadium",
+		"ratings" : {
+			"aesthetics"  : 9,
+			"amenities"   : 10,
+			"atmosphere"  : 8,
+			"character"   : 6,
+			"concessions" : 10,
+			"location"    : 8,
+			"upkeep"      : 10
+		}
+	},
+	{
+		"name"    : "M&T Bank Stadium",
+		"ratings" : {
+			"aesthetics"  : 4,
+			"amenities"   : 5,
+			"atmosphere"  : 5,
+			"character"   : 4,
+			"concessions" : 2,
+			"location"    : 4,
+			"upkeep"      : 5
+		}
+	},
+	{
+		"name"    : "SoFi Stadium",
+		"ratings" : {
+			"aesthetics"  : 10,
+			"amenities"   : 10,
+			"atmosphere"  : 9,
+			"character"   : 10,
+			"concessions" : 2,
+			"location"    : 3,
+			"upkeep"      : 10
+		}
+	},
+	{
+		"name"    : "State Farm Stadium",
+		"ratings" : {
+			"aesthetics"  : 6,
+			"amenities"   : 8,
+			"atmosphere"  : 8,
+			"character"   : 5,
+			"concessions" : 2,
+			"location"    : 7,
+			"upkeep"      : 9
+		}
+	},
+	{
+		"name"    : "U.S. Bank Stadium",
+		"ratings" : {
+			"aesthetics"  : 9,
+			"amenities"   : 7,
+			"atmosphere"  : 8,
+			"character"   : 8,
+			"concessions" : 3,
+			"location"    : 6,
+			"upkeep"      : 9
+		}
+	}
+]

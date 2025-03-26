@@ -82,7 +82,7 @@
 		{
 			"value"    : "James Franco",
 			"includes" : [ "Oz the Great and Powerful", "Pineapple Express" ],
-			"exact"    : [ "Knocked Up", "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "Spring Breakers", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End", "True Story" ]
+			"exact"    : [ "Knocked Up", "Rise of the Planet of the Apes", "Sausage Party", "Spider-Man", "Spider-Man 2", "Spider-Man 3", "Spring Breakers", "The Green Hornet", "The Interview", "The Night Before", "The Wicker Man", "This is the End", "True Story", "Why Him?" ]
 		},
 		{
 			"value"    : "Jeff Goldblum",
@@ -163,7 +163,7 @@
 		},
 		{
 			"value"    : "Sandra Bullock",
-			"exact"    : [ "Gravity", "Practical Magic", "The Blind Side", "The Lost City", "While You Were Sleeping" ]
+			"exact"    : [ "Gravity", "Practical Magic", "Speed", "The Blind Side", "The Lost City", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Scarlett Johansson",

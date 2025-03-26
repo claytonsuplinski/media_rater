@@ -72,13 +72,13 @@
 		"year"    : "2004",
 		"critic"  : 7.7,
 		"ratings" : {
-			"humor"      : 10,
+			"humor"      : 8,
 			"visuals"    : 9.5,
 			"nostalgia"  : 10,
 			"plot"       : 8.5,
 			"music"      : 9.5,
-			"rewatch"    : 9.5,
-			"characters" : 10,
+			"rewatch"    : 9,
+			"characters" : 9.5,
 			"genre"      : 10,
 			"references" : 8.5,
 			"bias"       : 9.5
@@ -180,7 +180,7 @@
 			"plot"       : 9,
 			"music"      : 10,
 			"rewatch"    : 9.5,
-			"characters" : 10,
+			"characters" : 9.5,
 			"genre"      : 10,
 			"references" : 10,
 			"bias"       : 9
@@ -248,8 +248,8 @@
 			"plot"       : 9,
 			"music"      : 6.5,
 			"rewatch"    : 7.5,
-			"characters" : 10,
-			"genre"      : 9.5,
+			"characters" : 9.5,
+			"genre"      : 9,
 			"references" : 7,
 			"bias"       : 8
 		}
@@ -402,7 +402,7 @@
 			"music"      : 7.5,
 			"rewatch"    : 9,
 			"characters" : 9.5,
-			"genre"      : 10,
+			"genre"      : 9.5,
 			"references" : 8.5,
 			"bias"       : 9
 		}
@@ -451,11 +451,11 @@
 			"nostalgia"  : 10,
 			"plot"       : 9.5,
 			"music"      : 10,
-			"rewatch"    : 8,
+			"rewatch"    : 9,
 			"characters" : 10,
 			"genre"      : 8.5,
 			"references" : 9.5,
-			"bias"       : 8.5
+			"bias"       : 9.5
 		}
 	},
 	{
@@ -638,7 +638,7 @@
 			"nostalgia"  : 9.5,
 			"plot"       : 8.5,
 			"music"      : 8.5,
-			"rewatch"    : 7.5,
+			"rewatch"    : 7,
 			"characters" : 9,
 			"genre"      : 9,
 			"references" : 8.5,
@@ -706,7 +706,7 @@
 			"nostalgia"  : 8,
 			"plot"       : 1.5,
 			"music"      : 7.5,
-			"rewatch"    : 9,
+			"rewatch"    : 7,
 			"characters" : 9,
 			"genre"      : 9,
 			"references" : 9,

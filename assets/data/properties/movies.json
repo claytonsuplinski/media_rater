@@ -111,11 +111,11 @@
 		{
 			"value"    : "Liam Neeson",
 			"includes" : [ "Chronicles of Narnia", "Star Wars Episode I:" ],
-			"exact"    : [ "Anchorman 2", "Batman Begins", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "Ted 2", "The Grey", "The Lego Movie" ]
+			"exact"    : [ "Anchorman 2", "Batman Begins", "Battleship", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "Ted 2", "The Grey", "The Lego Movie" ]
 		},
 		{
 			"value"    : "Matthew McConnaughey",
-			"exact"    : [ "Dallas Buyers Club", "Ghosts of Girlfriends Past", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
+			"exact"    : [ "Dallas Buyers Club", "Ghosts of Girlfriends Past", "How to Lose a Guy in 10 Days", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Morgan Freeman",
@@ -173,7 +173,7 @@
 		{
 			"value"    : "Seth Rogen",
 			"includes" : [ "Kung Fu Panda" ],
-			"exact"    : [ "Anchorman", "Chip 'n Dale: Rescue Rangers", "Donnie Darko", "Fanboys", "Funny People", "Knocked Up", "Neighbors", "Neighbors 2: Sorority Rising", "Pineapple Express", "Sausage Party", "Step Brothers", "Steve Jobs", "Superbad", "The Green Hornet", "The Interview", "The Night Before", "The Lion King [Live Action]", "The 40 Year Old Virgin", "This is the End", "22 Jump Street" ]
+			"exact"    : [ "Anchorman", "Chip 'n Dale: Rescue Rangers", "Donnie Darko", "Fanboys", "Funny People", "Knocked Up", "Mufasa: The Lion King", "Neighbors", "Neighbors 2: Sorority Rising", "Pineapple Express", "Sausage Party", "Step Brothers", "Steve Jobs", "Superbad", "The Green Hornet", "The Interview", "The Night Before", "The Lion King [Live Action]", "The 40 Year Old Virgin", "This is the End", "22 Jump Street" ]
 		},
 		{
 			"value"    : "Shia LaBeouf",
@@ -188,7 +188,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Rampage", "Red One", "San Andreas", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Moana 2", "Rampage", "Red One", "San Andreas", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -219,7 +219,8 @@
 	"director" : [
 		{
 			"value"    : "George Lucas",
-			"includes" : [ "Indiana Jones", "Raiders of the Lost Ark", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:" ]
+			"includes" : [ "Indiana Jones", "Raiders of the Lost Ark", "Star Wars Episode I:", "Star Wars Episode II:", "Star Wars Episode III:", "Star Wars Episode IV:", "Star Wars Episode V:", "Star Wars Episode VI:" ],
+			"exact"    : [ "Willow" ]
 		},
 		{
 			"value"    : "Mel Brooks",

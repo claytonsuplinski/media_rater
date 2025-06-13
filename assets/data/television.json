@@ -74,14 +74,14 @@
 		"ratings" : {
 			"humor"      : 8,
 			"visuals"    : 9.5,
-			"nostalgia"  : 10,
+			"nostalgia"  : 9.5,
 			"plot"       : 8.5,
 			"music"      : 9.5,
-			"rewatch"    : 9,
+			"rewatch"    : 8.5,
 			"characters" : 9.5,
-			"genre"      : 10,
+			"genre"      : 9,
 			"references" : 8.5,
-			"bias"       : 9.5
+			"bias"       : 8.5
 		}
 	},
 	{
@@ -634,8 +634,8 @@
 		"critic"  : 7.2,
 		"ratings" : {
 			"humor"      : 8.5,
-			"visuals"    : 10,
-			"nostalgia"  : 9.5,
+			"visuals"    : 9.5,
+			"nostalgia"  : 9,
 			"plot"       : 8.5,
 			"music"      : 8.5,
 			"rewatch"    : 7,

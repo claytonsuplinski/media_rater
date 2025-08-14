@@ -130,6 +130,8 @@ MIA.graph.draw_line_graph = function( p ){
 MIA.graph.draw_scatter_plot = function( p ){
 	var self = this;
 
+	console.log( 'draw scatter plot : ', p );
+
 	var svg = this.get_graph_canvas( p );
 	
 	var x = d3.scaleLinear().range([ 0, svg.width  ]);

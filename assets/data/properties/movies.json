@@ -3,7 +3,7 @@
 		{
 			"value"    : "Adam Sandler",
 			"includes" : [ "Happy Gilmore" ],
-			"exact"    : [ "Anger Management", "Click", "Funny People", "Grown Ups", "Grown Ups 2", "I Now Pronounce You Chuck & Larry", "Pixels", "The Waterboy", "The Wedding Singer", "Zookeeper", "50 First Dates" ]
+			"exact"    : [ "Anger Management", "Click", "Funny People", "Grown Ups", "Grown Ups 2", "I Now Pronounce You Chuck & Larry", "Pixels", "The Longest Yard", "The Waterboy", "The Wedding Singer", "Zookeeper", "50 First Dates" ]
 		},
 		{
 			"value"    : "Alan Rickman",
@@ -18,7 +18,7 @@
 		{
 			"value"    : "Ben Stiller",
 			"includes" : [ "Madagascar", "Night at the Museum", "Zoolander" ],
-			"exact"    : [ "Anchorman", "Dodgeball", "Envy", "Meet the Parents", "Starsky & Hutch", "There's Something About Mary", "Tropic Thunder" ]
+			"exact"    : [ "Anchorman", "Dodgeball", "Envy", "Meet the Parents", "Meet the Fockers", "Starsky & Hutch", "There's Something About Mary", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Bill Murray",
@@ -120,7 +120,7 @@
 		{
 			"value"    : "Morgan Freeman",
 			"includes" : [ "Now You See Me" ],
-			"exact"    : [ "Batman Begins", "Bruce Almighty", "Deep Impact", "Evan Almighty", "Lucy", "March of the Penguins", "Oblivion", "Olympus Has Fallen", "Se7en", "Ted 2", "The Dark Knight", "The Dark Knight Rises", "The Lego Movie", "The Nutcracker and the Four Realms", "The Shawshank Redemption", "Transcendence", "War of the Worlds" ]
+			"exact"    : [ "Batman Begins", "Bruce Almighty", "Deep Impact", "Evan Almighty", "Glory", "Lucy", "March of the Penguins", "Oblivion", "Olympus Has Fallen", "Se7en", "Ted 2", "The Dark Knight", "The Dark Knight Rises", "The Lego Movie", "The Nutcracker and the Four Realms", "The Shawshank Redemption", "Transcendence", "War of the Worlds" ]
 		},
 		{
 			"value"    : "Natalie Portman",
@@ -135,7 +135,7 @@
 		{
 			"value"    : "Owen Wilson",
 			"includes" : [ "Night at the Museum", "Zoolander" ],
-			"exact"    : [ "Armageddon", "Cars", "Cars 2", "Free Birds", "Haunted Mansion", "Meet the Parents", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
+			"exact"    : [ "Armageddon", "Cars", "Cars 2", "Free Birds", "Haunted Mansion", "Meet the Parents", "Meet the Fockers", "No Escape", "Starsky & Hutch", "The Internship", "Wedding Crashers" ]
 		},
 		{
 			"value"    : "Ralph Fiennes",
@@ -322,7 +322,7 @@
 			"exact"    : [
 				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
-				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
+				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
 				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]
 		},

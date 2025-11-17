@@ -28,7 +28,7 @@
 		{
 			"value"    : "Bill Pullman",
 			"includes" : [  ],
-			"exact"    : [ "Bottle Shock", "Casper", "Independence Day", "Independence Day: Resurgence", "Scary Movie 4", "Sleepless in Seattle", "Spaceballs", "While You Were Sleeping" ]
+			"exact"    : [ "Bottle Shock", "Casper", "Independence Day", "Independence Day: Resurgence", "Lake Placid", "Scary Movie 4", "Sleepless in Seattle", "Spaceballs", "While You Were Sleeping" ]
 		},
 		{
 			"value"    : "Brad Pitt",
@@ -188,7 +188,7 @@
 		{
 			"value"    : "The Rock Dwayne Johnson",
 			"includes" : [ "Jumanji: " ],
-			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Moana 2", "Rampage", "Red One", "San Andreas", "The Other Guys", "Walking Tall" ]
+			"exact"    : [ "Baywatch", "Black Adam", "Central Intelligence", "Get Smart", "Jungle Cruise", "Moana", "Moana 2", "Rampage", "Red One", "San Andreas", "The Game Plan", "The Other Guys", "Walking Tall" ]
 		},
 		{
 			"value"    : "Tom Cruise",
@@ -308,7 +308,7 @@
 				"Fantasia", "Flubber", "Fox and the Hound", "Freaky Friday", "Frozen II", "Fun and Fancy Free",
 				"Goofy Movie", "Halloweentown", "High School Musical", "Homeward Bound", "Ichabod and Mr. Toad", "John Carter", "Kim Possible", "Kronk's New Groove",
 				"Lady and the Tramp", "Lilo & Stitch", "Lizzie McGuire",
-				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mickey, Donald, Goofy", "Mighty Joe Young", "Moana", "Motocrossed", "Mulan",
+				"Maleficent", "Mary Poppins", "Meet the Robinsons", "Melody Time", "Mickey, Donald, Goofy", "Mighty Joe Young", "Moana", "Mom's Got a Date with a Vampire", "Motocrossed", "Mulan",
 				"Old Yeller", "Oliver and Company", "One Hundred and One Dalmatians", "Oz the Great and Powerful",
 				"Parent Trap", "Pirates of the Caribbean", "Peter Pan", "Pinocchio", "Pocahontas",
 				"Ralph Breaks the Internet", "Raya and the Last Dragon", "Reluctant Dragon", "Remember the Titans",
@@ -323,7 +323,7 @@
 				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
-				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
+				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Game Plan", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]
 		},
 		{

@@ -12,6 +12,30 @@
 		}
 	},
 	{
+		"name"    : "AT&T Stadium",
+		"ratings" : {
+			"aesthetics"  : 8,
+			"amenities"   : 7,
+			"atmosphere"  : 8,
+			"character"   : 6,
+			"concessions" : 2,
+			"location"    : 6,
+			"upkeep"      : 7
+		}
+	},
+	{
+		"name"    : "Gillette Stadium",
+		"ratings" : {
+			"aesthetics"  : 6,
+			"amenities"   : 6,
+			"atmosphere"  : 8,
+			"character"   : 7,
+			"concessions" : 2,
+			"location"    : 1,
+			"upkeep"      : 8
+		}
+	},
+	{
 		"name"    : "Heinz Field",
 		"ratings" : {
 			"aesthetics"  : 7,

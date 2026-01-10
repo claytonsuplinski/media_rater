@@ -478,5 +478,20 @@
 			"living environment" : 7,
 			"personal events"    : 10
 		}
+	},
+	{
+		"name"    : "2025",
+		"ratings" : {
+			"sports"             : 8.5,
+			"music"              : 0,
+			"movies"             : 5,
+			"home entertainment" : 7,
+			"hobbies"            : 8,
+			"occupation"         : 9,
+			"travel"             : 10,
+			"relationships"      : 9,
+			"living environment" : 8,
+			"personal events"    : 6.5
+		}
 	}
 ]

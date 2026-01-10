@@ -18,7 +18,7 @@
 		{
 			"value"    : "Ben Stiller",
 			"includes" : [ "Madagascar", "Night at the Museum", "Zoolander" ],
-			"exact"    : [ "Anchorman", "Dodgeball", "Envy", "Meet the Parents", "Meet the Fockers", "Starsky & Hutch", "There's Something About Mary", "Tropic Thunder" ]
+			"exact"    : [ "Anchorman", "Dear Santa", "Dodgeball", "Envy", "Meet the Parents", "Meet the Fockers", "Starsky & Hutch", "There's Something About Mary", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Bill Murray",
@@ -77,7 +77,7 @@
 		{
 			"value"    : "Jack Black",
 			"includes" : [ "Jumanji: ", "Kung Fu Panda" ],
-			"exact"    : [ "Anchorman", "Envy", "Goosebumps", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "The Super Mario Bros. Movie", "Tropic Thunder" ]
+			"exact"    : [ "Anchorman", "Dear Santa", "Envy", "Goosebumps", "Ice Age", "King Kong", "Nacho Libre", "School of Rock", "The Holiday", "The Super Mario Bros. Movie", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "James Franco",
@@ -87,7 +87,7 @@
 		{
 			"value"    : "Jeff Goldblum",
 			"includes" : [ "Independence Day" ],
-			"exact"    : [ "Annie Hall", "Invasion of the Body Snatchers", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok", "Wicked" ]
+			"exact"    : [ "Annie Hall", "Invasion of the Body Snatchers", "Isle of Dogs", "Jurassic Park", "The Lost World: Jurassic Park", "The Big Chill", "Thor: Ragnarok", "Wicked", "Wicked: For Good" ]
 		},
 		{
 			"value"    : "Jim Carrey",
@@ -208,7 +208,7 @@
 		{
 			"value"    : "Will Ferrell",
 			"includes" : [ "Anchorman", "Austin Powers: International", "Austin Powers: The Spy", "Blades of Glory", "Daddy's Home", "Kicking & Screaming",  "Talladega Nights", "The Lego Movie", "The Other Guys", "Zoolander" ],
-			"exact"    : [ "Barbie", "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "Stranger Than Fiction", "The Campaign", "The House", "The Internship", "Wedding Crashers", "You're Cordially Invited" ]
+			"exact"    : [ "A Very Jonas Christmas Movie", "Barbie", "Elf", "Get Hard", "Holmes & Watson", "Old School", "Semi-Pro", "Starsky & Hutch", "Step Brothers", "Stranger Than Fiction", "The Campaign", "The House", "The Internship", "Wedding Crashers", "You're Cordially Invited" ]
 		},
 		{
 			"value"    : "Will Smith",
@@ -239,7 +239,7 @@
 		{
 			"value"    : "Tim Burton",
 			"includes" : [ "Edward Scissorhands", "Sweeney Todd", "The Nightmare Before Christmas" ],
-			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Charlie and the Chocolate Factory", "Corpse Bride", "Dumbo [Live Action]", "Frankenweenie", "Sleepy Hollow" ]
+			"exact"    : [ "Alice in Wonderland [Live Action]", "Batman Returns", "Beetlejuice", "Charlie and the Chocolate Factory", "Corpse Bride", "Dumbo [Live Action]", "Frankenweenie", "Planet of the Apes [2001]", "Sleepy Hollow" ]
 		}
 	],
 	"holiday" : [
@@ -251,7 +251,7 @@
 		{
 			"value"    : "Christmas",
 			"includes" : [ "Christmas", "Gremlins", "Grinch", "Jingle All the Way", "Miracle on 34th Street", "Polar Express", "Rudolph the Red-Nosed Reindeer", "Santa Claus", "The Bishop's Wife", "The Nutcracker", "Very Merry Pooh Year" ],
-			"exact"    : [ "Bad Santa", "Batman Returns", "Barbie in the Nutcracker", "Daddy's Home 2", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "Home Alone", "Home Alone 2: Lost in New York", "Home Sweet Home Alone", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Red One", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Best Man Holiday", "The Holiday", "The Night Before", "Unaccompanied Minors", "While You Were Sleeping" ]
+			"exact"    : [ "Bad Santa", "Batman Returns", "Barbie in the Nutcracker", "Candy Cane Lane", "Daddy's Home 2", "Dear Santa", "Die Hard", "Deck the Halls", "Elf", "Fred Claus", "Home Alone", "Home Alone 2: Lost in New York", "Home Alone 4", "Home Alone: The Holiday Heist", "Home Sweet Home Alone", "It's a Wonderful Life", "Krampus", "Love Actually", "Noelle", "Red One", "Rise of the Guardians", "Scrooged", "Star Wars Holiday Special", "The Best Man Holiday", "The Family Stone", "The Holiday", "The Night Before", "Unaccompanied Minors" ]
 		},
 		{
 			"value"    : "Halloween",
@@ -320,7 +320,7 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"A Christmas Carol", "Bolt", "Cinderella", "Enchanted", "Frozen",
+				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Enchanted", "Frozen",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
 				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Game Plan", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"

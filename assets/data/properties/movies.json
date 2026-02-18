@@ -53,7 +53,7 @@
 		{
 			"value"    : "Emma Watson",
 			"includes" : [ "Harry Potter" ],
-			"exact"    : [ "Beauty and the Beast [Live Action]", "Regression", "The Bling Ring", "The Circle", "The Perks of Being a Wallflower", "This is the End" ]
+			"exact"    : [ "Beauty and the Beast [Live Action]", "Noah", "Regression", "The Bling Ring", "The Circle", "The Perks of Being a Wallflower", "This is the End" ]
 		},
 		{
 			"value"    : "Ewan McGregor",
@@ -114,6 +114,11 @@
 			"exact"    : [ "Anchorman 2", "Batman Begins", "Battleship", "Love Actually", "Non-Stop", "Schindler's List", "Taken", "Ted 2", "The Grey", "The Lego Movie" ]
 		},
 		{
+			"value"    : "Mark Wahlberg",
+			"includes" : [ "Daddy's Home" ],
+			"exact"    : [ "Deepwater Horizon", "Invincible", "Patriots Day", "Planet of the Apes [2001]", "Ted", "Ted 2", "The Departed", "The Lovely Bones", "The Other Guys" ]
+		},
+		{
 			"value"    : "Matthew McConnaughey",
 			"exact"    : [ "Dallas Buyers Club", "Ghosts of Girlfriends Past", "How to Lose a Guy in 10 Days", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
 		},
@@ -130,7 +135,7 @@
 		{
 			"value"    : "Nicolas Cage",
 			"includes" : [ "Ghost Rider", "National Treasure", "The Croods" ],
-			"exact"    : [ "Con Air", "Dream Scenario", "Face/Off", "Fast Times at Ridgemont High", "Kick-Ass", "Renfield", "The Unbearable Weight of Massive Talent", "The Wicker Man" ]
+			"exact"    : [ "Con Air", "Dream Scenario", "Face/Off", "Fast Times at Ridgemont High", "Kick-Ass", "Renfield", "The Unbearable Weight of Massive Talent", "The Wicker Man", "World Trade Center" ]
 		},
 		{
 			"value"    : "Owen Wilson",
@@ -320,7 +325,7 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Enchanted", "Frozen",
+				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Dinosaur", "Enchanted", "Frozen", "Go Figure",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
 				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
 				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Game Plan", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"

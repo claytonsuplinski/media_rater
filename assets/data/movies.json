@@ -1615,6 +1615,23 @@
 		}
 	},
 	{
+		"name"    : "Benny & Joon",
+		"year"    : "1993",
+		"critic"  : 7.1,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5.5,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Big",
 		"year"    : "1988",
 		"critic"  : 7.3,
@@ -2079,15 +2096,15 @@
 		"critic"  : 7.3,
 		"ratings" : {
 			"humor"      : 6.5,
-			"visuals"    : 2,
+			"visuals"    : 2.5,
 			"nostalgia"  : 4,
 			"plot"       : 4.5,
-			"music"      : 7,
-			"rewatch"    : 6,
+			"music"      : 5.5,
+			"rewatch"    : 5,
 			"characters" : 5.5,
-			"genre"      : 6.5,
+			"genre"      : 7,
 			"references" : 7,
-			"bias"       : 7
+			"bias"       : 6
 		}
 	},
 	{
@@ -2428,6 +2445,23 @@
 			"genre"      : 4.5,
 			"references" : 3.5,
 			"bias"       : 4
+		}
+	},
+	{
+		"name"    : "Charlie's Angels",
+		"year"    : "2000",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 6.5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
@@ -4237,16 +4271,16 @@
 		"year"    : "1996",
 		"critic"  : 8.1,
 		"ratings" : {
-			"humor"      : 2,
-			"visuals"    : 8,
-			"nostalgia"  : 2.5,
+			"humor"      : 2.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
 			"plot"       : 7.5,
 			"music"      : 4,
-			"rewatch"    : 4.5,
+			"rewatch"    : 3.5,
 			"characters" : 6.5,
-			"genre"      : 8,
+			"genre"      : 7,
 			"references" : 3.5,
-			"bias"       : 4.5
+			"bias"       : 5
 		}
 	},
 	{
@@ -4604,6 +4638,23 @@
 			"genre"      : 6,
 			"references" : 3.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Freakier Friday",
+		"year"    : "2025",
+		"critic"  : 6.3,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 5.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 4,
+			"genre"      : 5.5,
+			"references" : 3.5,
+			"bias"       : 4.5
 		}
 	},
 	{
@@ -6557,6 +6608,23 @@
 			"rewatch"    : 3.5,
 			"characters" : 5,
 			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Instant Family",
+		"year"    : "2018",
+		"critic"  : 7.3,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
 			"references" : 3,
 			"bias"       : 5
 		}
@@ -9894,6 +9962,23 @@
 		}
 	},
 	{
+		"name"    : "Piglet's Big Movie",
+		"year"    : "2003",
+		"critic"  : 6.1,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 4,
+			"music"      : 3,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Pineapple Express",
 		"year"    : "2008",
 		"critic"  : 6.9,
@@ -12393,6 +12478,23 @@
 		}
 	},
 	{
+		"name"    : "Strange Wilderness",
+		"year"    : "2008",
+		"critic"  : 5.2,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 2.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 4.5,
+			"rewatch"    : 2,
+			"characters" : 1,
+			"genre"      : 3.5,
+			"references" : 5,
+			"bias"       : 3.5
+		}
+	},
+	{
 		"name"    : "Strange World",
 		"year"    : "2022",
 		"critic"  : 5.6,
@@ -13454,13 +13556,13 @@
 			"humor"      : 4.5,
 			"visuals"    : 4.5,
 			"nostalgia"  : 3,
-			"plot"       : 3.5,
-			"music"      : 3.5,
-			"rewatch"    : 3,
-			"characters" : 3.5,
+			"plot"       : 4.5,
+			"music"      : 4,
+			"rewatch"    : 3.5,
+			"characters" : 4,
 			"genre"      : 4,
 			"references" : 3,
-			"bias"       : 4
+			"bias"       : 5
 		}
 	},
 	{
@@ -14235,7 +14337,7 @@
 		"ratings" : {
 			"humor"      : 7.5,
 			"visuals"    : 4.5,
-			"nostalgia"  : 5,
+			"nostalgia"  : 4,
 			"plot"       : 6,
 			"music"      : 6,
 			"rewatch"    : 3.5,
@@ -14260,6 +14362,23 @@
 			"genre"      : 6,
 			"references" : 2.5,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "The House Bunny",
+		"year"    : "2008",
+		"critic"  : 5.6,
+		"ratings" : {
+			"humor"      : 6.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 4,
+			"plot"       : 5.5,
+			"music"      : 7,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -17329,13 +17448,13 @@
 		"ratings" : {
 			"humor"      : 6.5,
 			"visuals"    : 6,
-			"nostalgia"  : 6.5,
+			"nostalgia"  : 4,
 			"plot"       : 6,
-			"music"      : 10,
+			"music"      : 9,
 			"rewatch"    : 3.5,
 			"characters" : 6,
 			"genre"      : 7,
-			"references" : 5,
+			"references" : 4,
 			"bias"       : 6
 		}
 	},

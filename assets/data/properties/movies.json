@@ -23,7 +23,7 @@
 		{
 			"value"    : "Bill Murray",
 			"includes" : [ "Caddyshack", "Ghostbusters", "Zombieland" ],
-			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Groundhog Day", "Isle of Dogs", "Little Shop of Horrors", "Lost in Translation", "Scrooged", "Space Jam", "The Dead Don't Die", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
+			"exact"    : [ "Ant-Man and the Wasp: Quantumania", "Charlie's Angels", "Groundhog Day", "Isle of Dogs", "Little Shop of Horrors", "Lost in Translation", "Scrooged", "Space Jam", "The Dead Don't Die", "The Jungle Book [Live Action - 2016]", "What About Bob?" ]
 		},
 		{
 			"value"    : "Bill Pullman",
@@ -97,12 +97,12 @@
 		{
 			"value"    : "Johnny Depp",
 			"includes" : [ "Edward Scissorhands", "Pirates of the Caribbean", "Sleepy Hollow", "Sweeney Todd" ],
-			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Charlie and the Chocolate Factory", "Corpse Bride", "Dark Shadows", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
+			"exact"    : [ "A Nightmare on Elm Street", "Alice in Wonderland [Live Action]", "Benny & Joon", "Charlie and the Chocolate Factory", "Corpse Bride", "Dark Shadows", "Fantastic Beasts and Where to Find Them", "Fantastic Beasts: The Crimes of Grindelwald", "Transcendence", "Tusk" ]
 		},
 		{
 			"value"    : "Jonah Hill",
 			"includes" : [ "How to Train Your Dragon", "The Lego Movie" ],
-			"exact"    : [ "Click", "Django Unchained", "Evan Almighty", "Forgetting Sarah Marshall", "Funny People", "Knocked Up", "Moneyball", "Sausage Party", "Superbad", "The Wolf of Wall Street", "The 40 Year Old Virgin", "This is the End", "True Story", "21 Jump Street", "22 Jump Street" ]
+			"exact"    : [ "Click", "Django Unchained", "Evan Almighty", "Forgetting Sarah Marshall", "Funny People", "Knocked Up", "Moneyball", "Sausage Party", "Strange Wilderness", "Superbad", "The Wolf of Wall Street", "The 40 Year Old Virgin", "This is the End", "True Story", "21 Jump Street", "22 Jump Street" ]
 		},
 		{
 			"value"    : "Leonardo DiCaprio",
@@ -116,7 +116,7 @@
 		{
 			"value"    : "Mark Wahlberg",
 			"includes" : [ "Daddy's Home" ],
-			"exact"    : [ "Deepwater Horizon", "Invincible", "Patriots Day", "Planet of the Apes [2001]", "Ted", "Ted 2", "The Departed", "The Lovely Bones", "The Other Guys" ]
+			"exact"    : [ "Deepwater Horizon", "Instant Family", "Invincible", "Patriots Day", "Planet of the Apes [2001]", "Ted", "Ted 2", "The Departed", "The Lovely Bones", "The Other Guys" ]
 		},
 		{
 			"value"    : "Matthew McConnaughey",
@@ -325,9 +325,15 @@
 				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
 			],
 			"exact"    : [
-				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Dinosaur", "Enchanted", "Frozen", "Go Figure",
-				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range", "Incredibles 2", "Jungle Cruise", "Miracle", "Noelle", "Now You See It...",
-				"Rise", "Robin Hood", "Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
+				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Dinosaur", "Enchanted", "Freakier Friday", "Frozen", "Go Figure",
+				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range",
+				"Incredibles 2",
+				"Jungle Cruise",
+				"Miracle",
+				"Noelle", "Now You See It...",
+				"Piglet's Big Movie",
+				"Rise", "Robin Hood",
+				"Safety", "Snow Dogs", "Snow White [Live Action]", "Snow White and the Seven Dwarfs", "Strange World", "Swiss Family Robinson",
 				"Tangled", "Tarzan", "Tarzan II", "The Black Hole", "The Game Plan", "The Haunted Mansion", "The Thirteenth Year", "The Three Caballeros", "Tomorrowland", "Tower of Terror", "Treasure Planet", "Wish", "You Wish!"
 			]
 		},

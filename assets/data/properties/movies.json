@@ -120,7 +120,7 @@
 		},
 		{
 			"value"    : "Matthew McConnaughey",
-			"exact"    : [ "Dallas Buyers Club", "Ghosts of Girlfriends Past", "How to Lose a Guy in 10 Days", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
+			"exact"    : [ "Angels in the Outfield", "Dallas Buyers Club", "Ghosts of Girlfriends Past", "How to Lose a Guy in 10 Days", "Interstellar", "The Wolf of Wall Street", "Tropic Thunder" ]
 		},
 		{
 			"value"    : "Morgan Freeman",
@@ -322,10 +322,12 @@
 				"The Hunchback of Notre Dame", "The Jungle Book",
 				"The Lion King", "The Little Mermaid", "The Luck of the Irish", "The Mighty Ducks", "The Nightmare Before Christmas", "The Nutcracker and the Four Realms",
 				"The Pacifier", "The Princess Diaries", "The Princess and the Frog", "The Rescuers", "The Rocketeer", "TRON", "Twitches",
-				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia"
+				"Wendy Wu:", "Winnie the Pooh", "Wreck-It Ralph", "Zootopia",
+				"101 Dalmatians"
 			],
 			"exact"    : [
-				"A Christmas Carol", "A Very Jonas Christmas Movie", "Bolt", "Cinderella", "Dinosaur", "Enchanted", "Freakier Friday", "Frozen", "Go Figure",
+				"A Christmas Carol", "A Very Jonas Christmas Movie", "Angels in the Outfield",
+				"Bolt", "Cinderella", "Dinosaur", "Enchanted", "Freakier Friday", "Frozen", "Go Figure",
 				"Haunted Mansion", "Hercules", "Hocus Pocus 2", "Home on the Range",
 				"Incredibles 2",
 				"Jungle Cruise",

@@ -765,6 +765,23 @@
 		}
 	},
 	{
+		"name"    : "Angels in the Outfield",
+		"year"    : "1994",
+		"critic"  : 6.2,
+		"ratings" : {
+			"humor"      : 4.5,
+			"visuals"    : 4.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 6.5,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "Anger Management",
 		"year"    : "2003",
 		"critic"  : 6.2,
@@ -2785,6 +2802,23 @@
 			"genre"      : 4,
 			"references" : 3.5,
 			"bias"       : 3.5
+		}
+	},
+	{
+		"name"    : "Cloudy with a Chance of Meatballs",
+		"year"    : "2009",
+		"critic"  : 6.9,
+		"ratings" : {
+			"humor"      : 5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 7,
+			"references" : 3.5,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -6863,7 +6897,7 @@
 			"rewatch"    : 3.5,
 			"characters" : 5.5,
 			"genre"      : 6,
-			"references" : 4,
+			"references" : 5,
 			"bias"       : 5
 		}
 	},
@@ -9911,6 +9945,40 @@
 		}
 	},
 	{
+		"name"    : "Percy Jackson & The Lightning Thief",
+		"year"    : "2010",
+		"critic"  : 5.9,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 9.5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Percy Jackson: Sea of Monsters",
+		"year"    : "2013",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 3,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3,
+			"plot"       : 4.5,
+			"music"      : 5,
+			"rewatch"    : 3,
+			"characters" : 4.5,
+			"genre"      : 5,
+			"references" : 3,
+			"bias"       : 4.5
+		}
+	},
+	{
 		"name"    : "Pet Sematary",
 		"year"    : "1989",
 		"critic"  : 6.6,
@@ -10384,6 +10452,23 @@
 			"genre"      : 6,
 			"references" : 3,
 			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "Project Hail Mary",
+		"year"    : "2026",
+		"critic"  : 8.5,
+		"ratings" : {
+			"humor"      : 6,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5.5,
+			"genre"      : 7,
+			"references" : 3,
+			"bias"       : 5.5
 		}
 	},
 	{
@@ -11498,13 +11583,13 @@
 		"ratings" : {
 			"humor"      : 7.5,
 			"visuals"    : 0,
-			"nostalgia"  : 7,
+			"nostalgia"  : 4,
 			"plot"       : 7,
-			"music"      : 9.5,
+			"music"      : 8.5,
 			"rewatch"    : 0,
 			"characters" : 6.5,
 			"genre"      : 7,
-			"references" : 6.5,
+			"references" : 4,
 			"bias"       : 0
 		}
 	},
@@ -15674,6 +15759,23 @@
 		}
 	},
 	{
+		"name"    : "The Sandlot",
+		"year"    : "1993",
+		"critic"  : 7.8,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 6.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 4.5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
 		"name"    : "The Santa Clause",
 		"year"    : "1994",
 		"critic"  : 6.5,
@@ -17983,6 +18085,40 @@
 			"genre"      : 7.5,
 			"references" : 3.5,
 			"bias"       : 5.5
+		}
+	},
+	{
+		"name"    : "Zootopia 2",
+		"year"    : "2025",
+		"critic"  : 7.4,
+		"ratings" : {
+			"humor"      : 3.5,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5.5,
+			"music"      : 4.5,
+			"rewatch"    : 3,
+			"characters" : 5,
+			"genre"      : 6,
+			"references" : 3.5,
+			"bias"       : 5
+		}
+	},
+	{
+		"name"    : "101 Dalmatians 2: Patch's London Adventure",
+		"year"    : "2002",
+		"critic"  : 5.7,
+		"ratings" : {
+			"humor"      : 4,
+			"visuals"    : 7.5,
+			"nostalgia"  : 3.5,
+			"plot"       : 5,
+			"music"      : 5,
+			"rewatch"    : 3.5,
+			"characters" : 5,
+			"genre"      : 6.5,
+			"references" : 4,
+			"bias"       : 5
 		}
 	},
 	{
